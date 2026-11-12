@@ -1,5 +1,5 @@
 # Channel Strategy: Live State
-_Last updated: 2026-11-12 by Claude (competitor-format test plan)_
+_Last updated: 2026-11-12 by Claude (Higgsfield learnings applied, thumbnails moved to Google Flow)_
 
 ## Current phase
 **Phase 0: Setup**
@@ -40,7 +40,10 @@ Get the pipeline working end to end and publish the first test Short.
   - Applies to all: cliffhanger-cut loop ending (Ricks + our volcano replay data, H8); YOU/other labels at frame 0 (POV Simple Finance thumbnails, H9).
 - [ ] Still open from Der Framer: H9 relatable-cringe batch (3 rendered, uploaded private 11-09) awaiting publish + stats.
 
+- [ ] **Higgsfield skills review (2026-11-12):** research/short-form/2026-11-12-higgsfield-skills-review.md. 22 proposals incl. a deep dive into Higgsfield's own faceless-video/thumbnail workflows (through-line object, ≤8-word hook, reorder/turn tests, line hygiene, long-form documentary skeleton, ≤1.5-2 s picture changes via micro-variation edits, Grady delivery consistency, mix levels, 16 thumbnail frameworks; earlier: causal-link test, premise contract, 4-field outline beats, generated music via elevenlabs_music_v2_5, loudnorm in assemble.py, virality_predictor calibration, 3-promise packaging, 10-min long-form math). APPLIED 2026-11-12 (Joe: 'apply the learning'): retention craft = playbook §13 + script-writer/lf agents; Grady consistency, pace gate, SFX rule, loudnorm in assemble.py (tested -13.9 LUFS); 16 thumbnail frameworks. As tests: H13 fast picture changes, H14 generated music, H15 virality predictor, L-len10. Next: test Google Flow (thumbnails, then maybe scene images).
+
 ## Decisions made
+- 2026-11-12: Thumbnails (Shorts covers + long-form) move to Google Flow, free (Joe tested it). Claude writes Flow prompts and checks results; 0 Higgsfield credits on thumbnails. Skills updated: thumbnail-maker, publisher, lf-packaging, long-form stage 3.
 - 2026-10-26: Channel/character name "Mr. Yellow Scarf". Style: simple paint-style cartoon (Lore Explained-like but original), yellow scarf ties to the Yellow brand.
 - 2026-10-26: Images through Higgsfield MCP on the Plus plan (~0.25 credits/image). Move to the pay-per-use API only if needed.
 - 2026-10-27: Start with Shorts, then long-form for winners.

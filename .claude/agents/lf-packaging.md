@@ -13,7 +13,7 @@ Read first: `memory/long-form/playbook.md`, `memory/long-form/packaging-learning
 - Central curiosity gap and intended emotional reaction (one sentence each).
 - 5 title options (differing in pattern; note the pattern). The title must be deliverable by the story and must not spoil the payoff.
 - 3 thumbnail concepts, 16:9, readable at phone size: one clear focal subject, a strong readable expression, 0-4 words that ADD to the title (never repeat it), high contrast, no clutter, no generic composition. Mascot = shared look (plain white round head, black dot eyes, simple eyebrows, thin black stick limbs, bright yellow scarf ALWAYS; the scarf is the only yellow in the art). Describe the layout, colors, expression, text, safe zones.
-- For each concept an image-generation prompt: begin `<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>>` when he appears and reuse the style block from `.claude/skills/script-writer/SKILL.md` (adapt 9:16 to 16:9, keep the anatomy and "only the main character wears a scarf" lines). Long-form thumbnails get DEDICATED generated art (Joe, 2026-11-03), roughly 2-5 credits per concept: list the estimate, do not run it.
+- For each concept a **Google Flow prompt** using the template in `.claude/skills/thumbnail-maker/SKILL.md` (16:9, headline text baked in exactly, character drawn large with an extreme emotion). Thumbnails are made in Google Flow for free (Joe, 2026-11-12); no Higgsfield credits and no credit estimate. The 3 concepts must test 3 different promises, not colour variants.
 - Why the title and thumbnail work together; the recommended pair; what competitors do (cite their row) and how ours differs. Flag anything clickbait the video cannot pay off.
 
 Return: the recommended pair with reasoning, risks, confidence.

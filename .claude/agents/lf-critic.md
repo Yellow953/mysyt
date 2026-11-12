@@ -14,7 +14,7 @@ Read the artifact under review plus `memory/long-form/playbook.md` and, if prese
 - Opening: is the first 30 s gripping? What would make someone leave?
 - Section by section: what is slow, repeated, over-explained, or a fact dump? Name the line/beat and say CUT, TIGHTEN or KEEP.
 - Stakes and emotion: do we care about someone? Where does it go flat?
-- Questions: does each answered question open a new one?
+- Questions: does each answered question open a new one? **Loop check (Joe 2026-11-12, playbook §13): REVISE if any stretch over ~60 s has no open loop, a loop never closes, a chapter ends on a summary instead of a hand-over hook, a hook is vague ("wait till you see"), the first sentence is over 8 words, the middle beats pass the shuffle test (reorderable = a list), the turn only summarizes, or the through-line object is missing or unresolved.** Also flag lines that add no new concrete thing, filler, and visuals that don't show what their line names.
 - Ending: predictable? earned? Does the payoff match the title/thumbnail promise?
 - Retention risks, ranked. Honesty: any claim stated beyond what research.md supports, or dramatization not framed as such.
 

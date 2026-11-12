@@ -20,6 +20,10 @@ videos/**/*.webp
 videos/**/*.wav
 videos/**/*.mp3
 videos/**/*.m4a
+research/**/*.png
+research/**/*.jpg
+research/**/*.jpeg
+research/**/*.webp
 remotion/public/
 remotion/out/
 

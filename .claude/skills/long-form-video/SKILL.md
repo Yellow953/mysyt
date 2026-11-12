@@ -47,7 +47,7 @@ Every idea and project carries a `pillar` (1 POV, 2 origins, 3 what-if, 4 unbeli
 Record every approval in state.json with date and what was approved, and update `stage`, `gate_status` and `next_action` after every step. Rejected ideas are stored with Joe's reason.
 
 ## Hard rules (inherited from CLAUDE.md)
-Ask before: >20 credits in a run (a ~5 min video is roughly 20-30 credits), any thumbnail art spend (~2-5 credits/concept), uploads, publishing, comment replies, deleting files. No fake engagement. Facts real, jokes may exaggerate. Monetization-safe. Never print secrets. Browser is read-only unless Joe OKs a click.
+Ask before: >20 credits in a run (a ~5 min video is roughly 20-30 credits), uploads, publishing, comment replies, deleting files. No fake engagement. Facts real, jokes may exaggerate. Monetization-safe. Never print secrets. Browser is read-only unless Joe OKs a click.
 
 ## End of every long-form session
 Update state.json (stage, approvals, next_action, date), `research-log.md` if research ran. Add only evidence-backed, typed entries to long-form memory files (no one-video rules). List Joe's corrections this session and update the relevant long-form agent/reference/playbook so defaults match; tell him in one line which rules changed. Do NOT touch shared Shorts files; list proposals instead.

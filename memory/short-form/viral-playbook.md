@@ -75,3 +75,18 @@ End with something people want to answer or argue about only when it fits; pin i
 
 ## 12. Learning
 Separate what the data shows, what we infer, and what we test next. One video proves nothing; look for patterns across videos and say what else differed (topic, title, length, time). Change one thing per batch so results can be compared.
+
+## 13. Retention craft: shape, loops, lines (Joe adopted 2026-11-12)
+Source: Higgsfield's faceless-video manuals + skills review (research/short-form/2026-11-12-higgsfield-skills-review.md). Applies to Shorts AND long-form. These are craft rules, not channel data; performance-review tests them like everything else.
+- **The failure mode is a list.** Facts are material; shape is the product.
+- **Hook:** the first sentence is ≤ 8 words, the most surprising concrete thing stated flat (understatement makes a big number bigger). No windup clause, no greeting. A question hook is fine if the answer waits for the payoff.
+- **Early stakes:** one beat that answers "why should I care" (a misconception, or it touches the viewer).
+- **Through-line object:** one physical object or process that appears in every beat and gets steadily worse/bigger (a fuse burning down, a debt pile growing until it blocks the door, a map filling with dots). The payoff resolves it. If the ending can't pay it off, pick another object.
+- **Causal links:** every beat leads to the next with "because / therefore / but / unless". If a link only works as "and another fact", connect it, move it or cut it.
+- **Reorder test:** if the middle beats could be shuffled without loss, it's a list. Each beat must be bigger, weirder or more specific than the last.
+- **Turn test:** the twist must change what the viewer believed two beats ago. A summary is not a turn.
+- **Kicker:** the last line echoes the hook's image or number with a new meaning; it doesn't repeat it.
+- **Open loops:** the main question stays open until the payoff. Open the next small question BEFORE closing the current one, so there's never a moment when everything is answered. Loops must be specific (a prediction, a mystery object, a countdown, "the strangest part is how it ended"), never vague ("wait till you see this"). Max 2-3 open at once, every one paid off better than expected (no fake cliffhangers). **Shorts:** main question at frame 0 + one re-hook at ~20-25 s (where most people swipe) + the answer, then the loop cut. **Long-form:** a re-hook at least every 45-60 s; every chapter ends on a hand-over hook ("that plan was about to cost him everything").
+- **Line hygiene:** every line adds ONE new concrete thing (number, place, object, comparison). No filler ("basically", "you know", "so yeah", "let's talk about"), one modifier per thing, no content word repeated within ~6 words, no 5+ word phrase used twice. Too short? Add a fact, never an adjective. Too long? Cut modifiers first, facts last. No chains of rhetorical questions that never get answered.
+- **Show what the line names:** if the line says spices, spices are on screen. A picture that could fit any line gets redrawn.
+- **What-if premise contract:** "We change X, keep Y fixed, follow Z, answer Q." One stipulated impossible event, then consistent consequences: no extra miracles. Settle ambiguous premises first (size vs mass, sudden vs gradual, temporary vs permanent); often that choice IS the story.

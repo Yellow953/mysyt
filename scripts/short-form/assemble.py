@@ -157,6 +157,7 @@ def main(vdir, max_frames=None):
             plate.alpha_composite(lg, (pad, pad))
             badges[sid] = plate
 
+    LOUDNORM = "loudnorm=I=-14:TP=-1.5:LRA=11"
     out = vdir / "output" / f"{spec['slug']}.mp4"
     out.parent.mkdir(exist_ok=True)
     track = pick_music(spec, spec["slug"])
@@ -168,10 +169,13 @@ def main(vdir, max_frames=None):
                 "-filter_complex",
                 f"[2:a]volume=0.22,afade=t=in:d=0.6,afade=t=out:st={max(total - 1.8, 0):.2f}:d=1.8[m];"
                 "[m][1:a]sidechaincompress=threshold=0.04:ratio=10:attack=20:release=300[mc];"
-                "[1:a][mc]amix=inputs=2:duration=first:normalize=0[a]",
+                "[1:a][mc]amix=inputs=2:duration=first:normalize=0[a0];"
+                f"[a0]{LOUDNORM}[a]",
                 "-map", "0:v", "-map", "[a]"]
     else:
-        cmd += ["-map", "0:v", "-map", "1:a"]
+        # 2026-11-12: level the final mix to YouTube loudness (Remotion mixes already did this)
+        cmd += ["-filter_complex", f"[1:a]{LOUDNORM}[a]", "-map", "0:v", "-map", "[a]"]
+    cmd += ["-ar", "48000"]
     cmd += ["-t", f"{total:.3f}", "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(out)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)

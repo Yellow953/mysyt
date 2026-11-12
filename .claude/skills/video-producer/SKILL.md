@@ -73,3 +73,10 @@ Voice is **Grady** (text2speech_v2, variant elevenlabs, preset voice_id `e2a2d2e
 
 ## Notes 2026-11-08 (cut-out batch)
 - Cut-out Shorts: mix animation with >= 1 whole illustrated image (hook/reveal), strong frame-0 hook with punch, designed thumbnail from that image. Render `--concurrency=1 --gl=angle` (concurrency 3 tiles frames); frame-scan before reporting. Brief template: videos/short-form/2026-11-08-cutout-batch-brief.md.
+
+## Notes 2026-11-12 (Joe adopted the Higgsfield-review learnings)
+- **Grady consistency:** in performance.json keep the per-phrase emotion tag ([dry], [curious]...) but put the SAME short delivery line first on every clip of a video (e.g. `[wry conversational storyteller, dry timbre, lively pace, starts speaking immediately]`). The repeated line keeps his tone the same across clips; "starts speaking immediately" removes the lead-in silence. Numbers and dates as WORDS in the clip text. Count each performed bracket ([sighs], [scoffs], [dry laugh]) as ~1 s.
+- **Pace gate:** after build_voice, any phrase faster than ~2.9 words/s (words ÷ clip speech time) is rushed: shorten the text and re-record that clip; never speed-change audio.
+- **Mix:** `assemble.py` now applies `loudnorm` (−14 LUFS, true peak −1.5) to the final mix for every Short; tested 2026-11-12 (−13.9 LUFS out). After render, check that the music never sits above the voice (listen to the loudest music passage on phone speakers).
+- **SFX rule:** each effect must mark something that visibly happens (contact, impact, a reveal, a counter tick); a physical event gets a physical sound; no whoosh on every cut; place it on the visible action, not on the word.
+- **Frame check:** spot-check frames at 25/50/75% of the video: the picture on screen must show what is being said at that moment.

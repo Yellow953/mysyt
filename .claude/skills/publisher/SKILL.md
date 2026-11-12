@@ -41,8 +41,8 @@ Update the video's row in `memory/short-form/video-log.csv`: `status=published`,
 Every finished video ships with a thumbnail. Make it before presenting the upload pack: `.venv/bin/python scripts/short-form/thumbnail.py <best scene image> "LINE 1" "LINE 2" --out videos/short-form/<slug>/output/thumbnail.png` (Shorts 1080x1920; long-form `--size 1280x720`, 2-3 variants). Pick the concept from the reviewed script (contrast character, one emotion, 2-3 words that add to the title, bottom-right clear), look at it, and show it to Joe next to the video and the title/description/pinned comment.
 
 
-### Update (Joe, 2026-10-27): no new credits for thumbnails
-Build the thumbnail from an EXISTING scene image (`images/scene_XX.png`): crop/zoom to the focal figure, or combine two scene images with Pillow, then add the text with `scripts/short-form/thumbnail.py`. Do not call Higgsfield for a thumbnail. If no scene image works as a cover, say so and propose which scene prompt to change before the next video's images are generated.
+### Update (Joe, 2026-11-12): thumbnails are made in Google Flow (free)
+Follow `.claude/skills/thumbnail-maker/SKILL.md`: Claude writes the Flow prompts, Joe generates them in Google Flow, and Claude checks the results. Never spend Higgsfield credits on a thumbnail. Cropping a scene image with `scripts/short-form/thumbnail.py` is only the fallback. (Replaces the 2026-10-27 "reuse scene images only" rule.)
 
 
 ## Updated 2026-10-28 (Joe)
