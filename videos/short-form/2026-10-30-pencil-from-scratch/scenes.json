@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-30-pencil-from-scratch",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "text": "You have a forest and a mine. Build one pencil.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing between a dense green cedar forest on one side holding a small axe and a rocky hillside mine entrance on the other side holding a pickaxe, looking confident and lazy. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Easy. It's wood and a stick of lead.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding a single yellow wooden pencil up lazily between two fingers with a smug easy-peasy grin. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 3,
+   "text": "There is no lead. It's graphite and clay.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> COVER: staring wide-eyed and shocked at a cut-open pencil in his hand whose gray core is clearly visible, a small pile of gray graphite chunks and a lump of clay at his feet, plain background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "cover": true
+  },
+  {
+   "id": 4,
+   "text": "A famous 1958 essay traced one pencil around the world. Graphite from Ceylon. Clay from Mississippi.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing in the middle of a simple hand-drawn world map with a dotted line from a small tropical island mine to a central pencil factory and another dotted line from a clay pit in the American South, tiny cargo ships on the dotted lines, he points at the map. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "overlay_text": "1958",
+   "moves": [
+    "zoom_in",
+    "pan_right"
+   ]
+  },
+  {
+   "id": 5,
+   "text": "Cedar from California and Oregon. You brought a pickaxe to a tree problem.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing among enormous tall cedar trees on a foggy Pacific coast with tiny stick-figure lumberjacks and a log truck, looking up in awe. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 6,
+   "text": "The metal band is brass. That's two more mines. You have one.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> pushing a cart of orange copper ore beside another cart of gray zinc ore at two separate small mine entrances, both carts leading to a shiny brass tube, he looks tired. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_left"
+  },
+  {
+   "id": 7,
+   "text": "Six coats of lacquer. Castor beans are involved. Of course.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> carefully painting a long row of pencils with a tiny brush, castor bean pods in a basket beside him, yellow paint on his hands, tired patient face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right"
+  },
+  {
+   "id": 8,
+   "text": "The essay's point: not one person on Earth knows how to make a pencil.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing at the center of a huge network of thousands of tiny stick figures far away, each holding one small piece (a log, a rock, a tube, a bottle of lacquer) connected by thin lines to a single pencil in his hands, amazed face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out"
+  },
+  {
+   "id": 9,
+   "text": "You, with your forest and your mine? Good luck.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting alone at a plain workbench with an axe, a pickaxe, one crooked wooden stick and a lump of gray rock, scratching his head with a deadpan look. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 10,
+   "text": "Could you make one?",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> scratching his head with a big curious face and a thought bubble above him showing one yellow pencil, plain background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  }
+ ]
+}

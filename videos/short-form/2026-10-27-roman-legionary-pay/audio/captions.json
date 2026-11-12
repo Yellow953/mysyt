@@ -1,0 +1,693 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.746,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 0.0,
+    "end": 0.459
+   },
+   {
+    "text": "JOIN",
+    "start": 0.459,
+    "end": 1.011
+   },
+   {
+    "text": "ROME'S",
+    "start": 1.011,
+    "end": 1.746
+   }
+  ]
+ },
+ {
+  "start": 1.746,
+  "end": 2.446,
+  "words": [
+   {
+    "text": "ARMY.",
+    "start": 1.746,
+    "end": 2.389
+   }
+  ]
+ },
+ {
+  "start": 2.739,
+  "end": 3.623,
+  "words": [
+   {
+    "text": "TWO",
+    "start": 2.739,
+    "end": 3.055
+   },
+   {
+    "text": "HUNDRED",
+    "start": 3.055,
+    "end": 3.623
+   }
+  ]
+ },
+ {
+  "start": 3.623,
+  "end": 4.948,
+  "words": [
+   {
+    "text": "TWENTY-FIVE",
+    "start": 3.623,
+    "end": 4.443
+   },
+   {
+    "text": "SILVER",
+    "start": 4.443,
+    "end": 4.948
+   }
+  ]
+ },
+ {
+  "start": 4.948,
+  "end": 6.021,
+  "words": [
+   {
+    "text": "COINS",
+    "start": 4.948,
+    "end": 5.39
+   },
+   {
+    "text": "A",
+    "start": 5.39,
+    "end": 5.579
+   },
+   {
+    "text": "YEAR.",
+    "start": 5.579,
+    "end": 6.021
+   }
+  ]
+ },
+ {
+  "start": 6.421,
+  "end": 7.184,
+  "words": [
+   {
+    "text": "PAYDAY.",
+    "start": 6.421,
+    "end": 7.184
+   }
+  ]
+ },
+ {
+  "start": 7.184,
+  "end": 8.71,
+  "words": [
+   {
+    "text": "IN",
+    "start": 7.184,
+    "end": 7.523
+   },
+   {
+    "text": "ONE",
+    "start": 7.523,
+    "end": 7.947
+   },
+   {
+    "text": "RECORD,",
+    "start": 7.947,
+    "end": 8.71
+   }
+  ]
+ },
+ {
+  "start": 8.71,
+  "end": 10.321,
+  "words": [
+   {
+    "text": "FOOD",
+    "start": 8.71,
+    "end": 9.219
+   },
+   {
+    "text": "ALONE",
+    "start": 9.219,
+    "end": 9.813
+   },
+   {
+    "text": "TOOK",
+    "start": 9.813,
+    "end": 10.321
+   }
+  ]
+ },
+ {
+  "start": 10.321,
+  "end": 11.254,
+  "words": [
+   {
+    "text": "A",
+    "start": 10.321,
+    "end": 10.576
+   },
+   {
+    "text": "THIRD.",
+    "start": 10.576,
+    "end": 11.254
+   }
+  ]
+ },
+ {
+  "start": 11.804,
+  "end": 12.42,
+  "words": [
+   {
+    "text": "BOOTS.",
+    "start": 11.804,
+    "end": 12.42
+   }
+  ]
+ },
+ {
+  "start": 12.42,
+  "end": 13.035,
+  "words": [
+   {
+    "text": "TUNIC.",
+    "start": 12.42,
+    "end": 13.035
+   }
+  ]
+ },
+ {
+  "start": 13.035,
+  "end": 13.497,
+  "words": [
+   {
+    "text": "HAY,",
+    "start": 13.035,
+    "end": 13.497
+   }
+  ]
+ },
+ {
+  "start": 13.497,
+  "end": 14.806,
+  "words": [
+   {
+    "text": "MAYBE",
+    "start": 13.497,
+    "end": 14.036
+   },
+   {
+    "text": "FOR",
+    "start": 14.036,
+    "end": 14.421
+   },
+   {
+    "text": "THE",
+    "start": 14.421,
+    "end": 14.806
+   }
+  ]
+ },
+ {
+  "start": 14.806,
+  "end": 16.037,
+  "words": [
+   {
+    "text": "SQUAD'S",
+    "start": 14.806,
+    "end": 15.498
+   },
+   {
+    "text": "MULE.",
+    "start": 15.498,
+    "end": 16.037
+   }
+  ]
+ },
+ {
+  "start": 16.437,
+  "end": 17.999,
+  "words": [
+   {
+    "text": "A",
+    "start": 16.437,
+    "end": 16.697
+   },
+   {
+    "text": "SHARED",
+    "start": 16.697,
+    "end": 17.392
+   },
+   {
+    "text": "MULE.",
+    "start": 17.392,
+    "end": 17.999
+   }
+  ]
+ },
+ {
+  "start": 17.999,
+  "end": 19.822,
+  "words": [
+   {
+    "text": "AN",
+    "start": 17.999,
+    "end": 18.346
+   },
+   {
+    "text": "UNSHARED",
+    "start": 18.346,
+    "end": 19.214
+   },
+   {
+    "text": "BILL.",
+    "start": 19.214,
+    "end": 19.822
+   }
+  ]
+ },
+ {
+  "start": 20.322,
+  "end": 21.647,
+  "words": [
+   {
+    "text": "SOLDIERS",
+    "start": 20.322,
+    "end": 20.874
+   },
+   {
+    "text": "GRIPED",
+    "start": 20.874,
+    "end": 21.315
+   },
+   {
+    "text": "THEY",
+    "start": 21.315,
+    "end": 21.647
+   }
+  ]
+ },
+ {
+  "start": 21.647,
+  "end": 22.585,
+  "words": [
+   {
+    "text": "EVEN",
+    "start": 21.647,
+    "end": 21.978
+   },
+   {
+    "text": "PAID",
+    "start": 21.978,
+    "end": 22.309
+   },
+   {
+    "text": "FOR",
+    "start": 22.309,
+    "end": 22.585
+   }
+  ]
+ },
+ {
+  "start": 22.585,
+  "end": 23.285,
+  "words": [
+   {
+    "text": "THE",
+    "start": 22.585,
+    "end": 22.861
+   },
+   {
+    "text": "TENT.",
+    "start": 22.861,
+    "end": 23.247
+   }
+  ]
+ },
+ {
+  "start": 23.747,
+  "end": 24.423,
+  "words": [
+   {
+    "text": "HONESTLY,",
+    "start": 23.747,
+    "end": 24.423
+   }
+  ]
+ },
+ {
+  "start": 24.423,
+  "end": 25.529,
+  "words": [
+   {
+    "text": "I'D",
+    "start": 24.423,
+    "end": 24.73
+   },
+   {
+    "text": "JUST",
+    "start": 24.73,
+    "end": 25.099
+   },
+   {
+    "text": "SLEEP",
+    "start": 25.099,
+    "end": 25.529
+   }
+  ]
+ },
+ {
+  "start": 25.529,
+  "end": 26.229,
+  "words": [
+   {
+    "text": "OUTSIDE.",
+    "start": 25.529,
+    "end": 26.143
+   }
+  ]
+ },
+ {
+  "start": 26.693,
+  "end": 28.253,
+  "words": [
+   {
+    "text": "DOMITIAN",
+    "start": 26.693,
+    "end": 27.317
+   },
+   {
+    "text": "LATER",
+    "start": 27.317,
+    "end": 27.754
+   },
+   {
+    "text": "RAISED",
+    "start": 27.754,
+    "end": 28.253
+   }
+  ]
+ },
+ {
+  "start": 28.253,
+  "end": 29.189,
+  "words": [
+   {
+    "text": "IT",
+    "start": 28.253,
+    "end": 28.503
+   },
+   {
+    "text": "TO",
+    "start": 28.503,
+    "end": 28.752
+   },
+   {
+    "text": "THREE",
+    "start": 28.752,
+    "end": 29.189
+   }
+  ]
+ },
+ {
+  "start": 29.189,
+  "end": 29.889,
+  "words": [
+   {
+    "text": "HUNDRED.",
+    "start": 29.189,
+    "end": 29.813
+   }
+  ]
+ },
+ {
+  "start": 30.163,
+  "end": 31.013,
+  "words": [
+   {
+    "text": "STILL",
+    "start": 30.163,
+    "end": 30.56
+   },
+   {
+    "text": "BROKE.",
+    "start": 30.56,
+    "end": 31.013
+   }
+  ]
+ },
+ {
+  "start": 31.713,
+  "end": 33.637,
+  "words": [
+   {
+    "text": "SERVE",
+    "start": 31.713,
+    "end": 32.386
+   },
+   {
+    "text": "TWENTY-FIVE",
+    "start": 32.386,
+    "end": 33.637
+   }
+  ]
+ },
+ {
+  "start": 33.637,
+  "end": 34.406,
+  "words": [
+   {
+    "text": "YEARS.",
+    "start": 33.637,
+    "end": 34.406
+   }
+  ]
+ },
+ {
+  "start": 34.406,
+  "end": 35.656,
+  "words": [
+   {
+    "text": "DON'T",
+    "start": 34.406,
+    "end": 35.079
+   },
+   {
+    "text": "DIE.",
+    "start": 35.079,
+    "end": 35.656
+   }
+  ]
+ },
+ {
+  "start": 35.656,
+  "end": 37.099,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 35.656,
+    "end": 36.233
+   },
+   {
+    "text": "RETIRE.",
+    "start": 36.233,
+    "end": 37.099
+   }
+  ]
+ },
+ {
+  "start": 37.599,
+  "end": 38.754,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 37.599,
+    "end": 37.984
+   },
+   {
+    "text": "PAYMENT.",
+    "start": 37.984,
+    "end": 38.754
+   }
+  ]
+ },
+ {
+  "start": 38.754,
+  "end": 40.678,
+  "words": [
+   {
+    "text": "THREE",
+    "start": 38.754,
+    "end": 39.293
+   },
+   {
+    "text": "THOUSAND",
+    "start": 39.293,
+    "end": 40.062
+   },
+   {
+    "text": "COINS,",
+    "start": 40.062,
+    "end": 40.678
+   }
+  ]
+ },
+ {
+  "start": 40.678,
+  "end": 41.833,
+  "words": [
+   {
+    "text": "OR",
+    "start": 40.678,
+    "end": 40.986
+   },
+   {
+    "text": "FARMLAND.",
+    "start": 40.986,
+    "end": 41.833
+   }
+  ]
+ },
+ {
+  "start": 42.283,
+  "end": 43.739,
+  "words": [
+   {
+    "text": "ABOUT",
+    "start": 42.283,
+    "end": 42.708
+   },
+   {
+    "text": "THIRTEEN",
+    "start": 42.708,
+    "end": 43.314
+   },
+   {
+    "text": "YEARS",
+    "start": 43.314,
+    "end": 43.739
+   }
+  ]
+ },
+ {
+  "start": 43.739,
+  "end": 44.952,
+  "words": [
+   {
+    "text": "OF",
+    "start": 43.739,
+    "end": 43.981
+   },
+   {
+    "text": "STARTING",
+    "start": 43.981,
+    "end": 44.588
+   },
+   {
+    "text": "PAY.",
+    "start": 44.588,
+    "end": 44.952
+   }
+  ]
+ },
+ {
+  "start": 45.552,
+  "end": 46.596,
+  "words": [
+   {
+    "text": "CONGRATULATIONS.",
+    "start": 45.552,
+    "end": 46.596
+   }
+  ]
+ },
+ {
+  "start": 46.596,
+  "end": 47.525,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 46.596,
+    "end": 46.886
+   },
+   {
+    "text": "BUY",
+    "start": 46.886,
+    "end": 47.177
+   },
+   {
+    "text": "YOUR",
+    "start": 47.177,
+    "end": 47.525
+   }
+  ]
+ },
+ {
+  "start": 47.525,
+  "end": 48.225,
+  "words": [
+   {
+    "text": "OWN",
+    "start": 47.525,
+    "end": 47.815
+   },
+   {
+    "text": "MULE.",
+    "start": 47.815,
+    "end": 48.221
+   }
+  ]
+ },
+ {
+  "start": 48.771,
+  "end": 50.095,
+  "words": [
+   {
+    "text": "WOULD",
+    "start": 48.771,
+    "end": 49.286
+   },
+   {
+    "text": "YOU",
+    "start": 49.286,
+    "end": 49.653
+   },
+   {
+    "text": "SIGN",
+    "start": 49.653,
+    "end": 50.095
+   }
+  ]
+ },
+ {
+  "start": 50.095,
+  "end": 50.462,
+  "words": [
+   {
+    "text": "UP?",
+    "start": 50.095,
+    "end": 50.462
+   }
+  ]
+ },
+ {
+  "start": 50.462,
+  "end": 51.492,
+  "words": [
+   {
+    "text": "YES",
+    "start": 50.462,
+    "end": 50.83
+   },
+   {
+    "text": "OR",
+    "start": 50.83,
+    "end": 51.124
+   },
+   {
+    "text": "NO?",
+    "start": 51.124,
+    "end": 51.492
+   }
+  ]
+ }
+]

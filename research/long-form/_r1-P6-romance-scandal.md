@@ -1,0 +1,280 @@
+# Round 1, Pillar 6 (romance / sexuality / scandal / human behavior): raw candidates, unscored
+Hunter: lf-story-hunter, 2026-11-03. Web research only (no browser). The facts below are hunter-level checks; lf-fact-checker must verify them before any script. NV = not verified here.
+Policy applied: character-and-attraction-policy.md (tiers 0-2, adults only, non-explicit, no invented intimate detail, allegations labelled).
+
+Rejected during the hunt:
+- Edward VIII and Wallis, the Profumo affair, Cleopatra/Antony: saturated.
+- Madame de Pompadour: the Parc-aux-Cerfs material raises a minors risk.
+- Great Stork Derby: already in _hunt-H3.
+- Jamestown "tobacco brides" (1619-22), kept on the bench. It's a strong marriage-as-business hook: men paid 120-150 lb of tobacco per bride's passage, and the women chose their husbands. But it has no single protagonist. Some named women were about 15-16 (e.g. Jane Dier, per Wikipedia), which is a policy hazard. And Weird History already has a ~210K video on the bride ships. Sources: https://en.wikipedia.org/wiki/Tobacco_brides, https://www.history.com/articles/jamestown-colony-women-brides-program
+
+---
+
+## 1. The Prince Who Married to Pay His Debts (George IV and Caroline of Brunswick)
+- **Pillar:** 6, with a strong pillar-5 overlap ("marriage as a business deal").
+- **Working titles:** "He Married a Stranger to Pay Off His Debts. It Went Worse Than You Think" / "The King Who Put His Own Wife on Trial"
+- **Premise (one sentence):** A prince drowning in debt agrees to marry a cousin he has never met, because Parliament will raise his allowance. 25 years later he puts her on trial in front of the whole country, and the country takes her side.
+- **Opening hook image:** 19 July 1821, coronation day. A queen in full finery walks from door to door of Westminster Abbey, and each door is shut in her face while the crowd watches.
+- **Central conflict and escalation:**
+  - 1794-95: George is heavily in debt. Marrying an eligible princess means Parliament raises his income.
+  - At their first meeting (5 April 1795) he reportedly asks for brandy. She tells Malmesbury he is "very fat and nothing like as handsome as his portrait".
+  - He is drunk at the wedding (8 April 1795).
+  - One daughter (Charlotte, b. Jan 1796), then they separate.
+  - 1806: the secret "Delicate Investigation" into her conduct finds "no foundation", but she still loses access to her daughter.
+  - She leaves for Italy in 1814 and hires Bartolomeo Pergami, who becomes her closest companion.
+  - George pays for a spy operation, the "Milan commission", to collect evidence of adultery.
+  - 1820: he becomes king and she comes home to riots in her support.
+  - The government brings in a Bill of Pains and Penalties: in effect, a public trial of the Queen in the House of Lords.
+- **Twist:**
+  - The man accusing her of an illicit relationship had himself secretly "married" Maria Fitzherbert in 1785. That marriage was invalid under the Royal Marriages Act.
+  - The bill scraped through the Lords by only 9 votes on 10 November 1820, down from 28. The government dropped it rather than face the Commons. He won the vote and lost the war.
+- **Payoff:** He shuts her out of the coronation anyway. She falls ill that night and dies on 7 August 1821, three weeks later. Two people are killed in clashes at her funeral procession. The "worst deal in history" frame fits perfectly: a debt-for-marriage contract that cost everyone.
+- **Sources:**
+  - https://en.wikipedia.org/wiki/Caroline_of_Brunswick
+  - https://en.wikipedia.org/wiki/Pains_and_Penalties_Bill_1820
+  - https://brightonmuseums.org.uk/discovery/history-stories/george-iv-magna-carta-abuser/ (debts, the bill withdrawn, refused at the coronation)
+  - https://api.parliament.uk/historic-hansard/lords/1820/nov/10/preamble (Hansard, 10 Nov 1820)
+  - https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/collections1/queen-caroline/ (UK Parliament Living Heritage; URL seen as a webtest mirror, NV)
+  - https://regencyhistory.net/blog/george-iv-marriage-princess-caroline
+- **Established vs allegation:**
+  - ESTABLISHED: the debt motive, the first meeting, the wedding, the separation, the 1806 finding of "no foundation", the bill and its narrow passage and withdrawal, the coronation exclusion, her death date.
+  - ALLEGATION ONLY: that Caroline and Pergami were lovers ("widely assumed"; never legally proven). Rowdy behaviour abroad is witness testimony from paid Italian witnesses.
+- **Do NOT state as fact:**
+  - That she had an affair with Pergami.
+  - That the coronation snub killed her: she fell ill, and the cause is not established.
+  - The exact brandy line. Use "reportedly asked for brandy" (from Malmesbury's diary, NV wording).
+  - The exact 108-99 count: one source says so, Wikipedia gives only the 9-vote majority.
+- **Adult characters:**
+  - George, Prince of Wales (32 in 1795), the debtor groom and later the accuser.
+  - Caroline (26 in 1795), the bride, later the accused queen.
+  - Maria Fitzherbert (adult), the secret earlier "wife".
+  - Bartolomeo Pergami (adult), her companion.
+  - Lord Liverpool, the PM pushing the bill.
+  - Daughter Charlotte appears only as a child or plot point, never in any romantic beat.
+- **Suggested tier:** 1 (scandal faces, jealousy, a royal marriage gone wrong). Tier 2 only for a light, non-sexual innuendo gag about the Lords debating her "conduct".
+- **Saturation:** MODERATE. Existing videos include a 23-min "Queen Caroline: The Royal Wife Put on Trial by Her Own King", a "Toxic Royal Marriage of George IV and Caroline" and a 7-min "Queen Caroline Affair 1820". View counts couldn't be seen, and none looks like a big hit. There's also a 1996 BBC docudrama. Our angle ("married to pay his debts", told as a deal gone wrong) looks fresher than "toxic marriage".
+- **5-minute fit:** GOOD. Five beats: the debt deal, the disastrous first meeting, separation and the spy commission, the trial, the door. Cut the 1806 investigation to one line.
+- **Presenting it attractively without explicit content:**
+  - The attraction is comic and political, not sexual: the prince's portrait versus the real prince, the bride's face when she meets him, the brandy.
+  - The "trial" is a courtroom full of gossiping lords holding opera glasses.
+  - Caroline can be styled as glamorous (feathers, Italian gowns) with Pergami as a dashing courier, kept to glances and gossip bubbles and always labelled "rumoured".
+  - Thumbnail: the queen locked outside a giant door with a crown on the other side. That scene really is in the video, so there's no misleading packaging.
+  - Avoid any bedroom imagery: the evidence was hearsay and we don't invent it.
+
+---
+
+## 2. The Husband Who Waited for the Will (Parnell, Katharine O'Shea and the end of Home Rule)
+- **Pillar:** 6 ("one affair changed history"), with a pillar-5 money motive.
+- **Working titles:** "He Knew About the Affair for 10 Years. Then the Aunt Died" / "How One Divorce Killed Irish Independence for a Generation"
+- **Premise:** The most powerful man in Ireland is weeks from winning Home Rule. His lover's husband has quietly tolerated the affair for years while everyone waits for a rich aunt to die. When the will doesn't pay out, the husband files for divorce and a nation's cause collapses with it.
+- **Opening hook image:** A London divorce court, November 1890. The defendant's chair is empty because he doesn't even show up to defend himself, and in that empty chair a country's future is falling.
+- **Central conflict and escalation:**
+  - 1880: Charles Stewart Parnell, leader of the Irish Parliamentary Party, meets Katharine O'Shea, wife of Captain William O'Shea MP. By October they are in a relationship, and they go on to have children together.
+  - 1881: O'Shea challenges Parnell to a duel. It's dropped.
+  - The couple depend on Katharine's very rich great-aunt "Aunt Ben" (Anna Maria Wood). Neither spouse wants a divorce while she lives.
+  - 1886: Parnell (with Chamberlain) pushes O'Shea into a Galway seat. O'Shea then refuses to back the Home Rule Bill.
+  - Katharine acts as a go-between with Gladstone.
+  - Aunt Ben dies (1888/1889; sources differ). The will is contested and the fortune is tied up in court.
+  - O'Shea files for divorce (Dec 1889), naming Parnell. The case goes undefended, and the decree comes on 17 Nov 1890.
+- **Twist:**
+  - The "betrayed husband" had reportedly known for years. Katharine later said yes, he knew (via Harrison's 1931 book; disputed).
+  - The timing tracks the money: per History Ireland, he filed once it became clear Katharine would not inherit.
+  - Second twist: Gladstone, his Liberal ally, signals he can't keep the Home Rule alliance with Parnell as leader. The party splits in Committee Room 15 (Dec 1890).
+- **Payoff:** Parnell marries Katharine in June 1891 and dies less than four months later (Oct 1891, aged 45). Home Rule is lost for a generation. The press brands her "Kitty O'Shea". Ending line: one man's patience was worth exactly one inheritance.
+- **Sources:**
+  - https://en.wikipedia.org/wiki/Katharine_O%27Shea
+  - https://historyireland.com/?p=20641 (History Ireland, "Parnell and Katharine O'Shea")
+  - https://www.britannica.com/biography/William-Henry-OShea-and-Katharine-OShea (Britannica, via search snippet: petition Dec 24 1889, decree Nov 17 1890, the Galway arrangement; page returned 403 on fetch)
+  - https://www.historytoday.com/node/47887 (The Fall of Parnell, NV content)
+  - https://www.irishecho.com/2012/3/all-shades-were-unlucky-for-parnell
+- **Established vs allegation:**
+  - ESTABLISHED: the relationship and children, the 1881 duel challenge, the 1886 Galway seat, the divorce dates, the undefended case, the party split, the marriage and death.
+  - DISPUTED or allegation:
+    - That O'Shea knew all along. History Ireland says the couple "tried to deceive" him; Katharine's later account says he knew.
+    - That money was his motive. It's widely argued, but Britannica calls his reasons "speculation", and political motives (Chamberlain, Parnell's enemies) are also argued.
+    - The inheritance outcome: sources conflict on whether Katharine eventually got a share or it went to cousins.
+    - Aunt Ben's death year: 1888 or 1889.
+- **Do NOT state as fact:**
+  - "He divorced her for the money." Say "the timing is suspicious", "historians argue".
+  - That the affair alone killed Home Rule. It also needed Gladstone's stance, Catholic hierarchy opposition (NV) and the party split.
+  - Any bedroom detail, or invented dialogue between the lovers.
+- **Adult characters:**
+  - Parnell (34 in 1880), the leader.
+  - Katharine O'Shea (34 in 1880), lover, go-between and later wife.
+  - Captain William O'Shea (adult), the husband.
+  - Aunt Ben (elderly), the money.
+  - Gladstone (elderly), the ally who walks away.
+- **Suggested tier:** 1 (forbidden romance, love triangle, a husband looking the other way, scandal faces).
+- **Saturation:** LOW on YouTube as far as search could tell. No sizeable YouTube video was found, only films (1937 with Gable, 1991 TV) and podcasts. This is the least-covered strong candidate.
+- **5-minute fit:** GOOD, if it's kept to the triangle plus the will. Cut land-war background to two lines and explain Home Rule in one sentence with a visual (Ireland running its own house).
+- **Presenting it attractively without explicit content:**
+  - Love-triangle staging: three stickmen at a table, one smiling stiffly while counting coins.
+  - A secret-letters motif, and a rich aunt drawn as a giant purse with a heartbeat monitor, kept comic and not mocking death.
+  - Katharine styled as elegant and confident (Victorian gown, hat). She is a political actor, not just "the other woman".
+  - Thumbnail idea: a husband smiling at the camera while pointing behind his back at the lovers, with a will document in his hand. It's all in the story.
+  - Don't put "affair that destroyed Ireland" on the thumbnail. It overclaims.
+
+---
+
+## 3. Two Broke Sisters Who Married Their Way to the Top, and the Makeup That May Have Killed One (the Gunning sisters)
+- **Pillar:** 6 (dangerous beauty standards plus marriage-as-business).
+- **Working titles:** "She Was Too Beautiful to Walk Through London. Then Her Makeup Turned On Her" / "Two Penniless Sisters Hunted Dukes. One Won Twice"
+- **Premise:** Two penniless Irish sisters arrive in London in 1750 to marry rich. They become so famous that crowds mob them in the park. One marries a duke within hours using a curtain ring; the other wins an earl, then fights a losing war with her own face paint.
+- **Opening hook image:** A Sunday evening in Hyde Park, June 1759. A young countess is trapped by a crowd that only wants to stare at her.
+- **Central conflict and escalation:**
+  - The Gunning sisters, Maria and Elizabeth, grow up in genteel poverty in Ireland. Their father hides from creditors, and they reportedly once wore borrowed theatre costumes to a ball (popular account, possibly apocryphal).
+  - They're taken to London to hunt husbands. Crowds follow them everywhere, and Walpole and Selwyn write about the mania.
+  - 14 Feb 1752: the Duke of Hamilton proposes to Elizabeth at a party and wants to marry that night. There's no licence and no ring, so they marry at Mayfair Chapel with a ring from a bed-curtain (Walpole).
+  - Maria marries the Earl of Coventry. On their Paris honeymoon he scrubs the rouge off her face with a napkin in front of 16 dinner guests.
+  - He then has an affair with the courtesan Kitty Fisher, and Maria confronts her.
+  - Maria keeps using white lead (ceruse) to stay pale and flawless. Her skin worsens and she uses more.
+- **Twist:**
+  - Maria dies on 30 Sept 1760, aged 27 or 28. Popular history says her makeup killed her, a "victim of cosmetics", and 10,000 people reportedly turn out only to see her coffin (Walpole).
+  - But the cause is contested. Older publications suggested tuberculosis, and a McMaster lead-poisoning scientist was sceptical enough to recreate the recipes on pig skin.
+  - Meanwhile Elizabeth, widowed, remarries the future Duke of Argyll. She becomes the wife of two dukes and mother of three dukes (two Argyll, one Hamilton), and is made a baroness in her own right in 1776.
+- **Payoff:** Same start, same beauty, opposite endings. The "beauty economy" worked brilliantly for one sister and may have poisoned the other. We end on the open question honestly: did the mask kill her, or did we just love the story?
+- **Sources:**
+  - https://en.wikipedia.org/wiki/Maria_Coventry,_Countess_of_Coventry
+  - https://en.wikipedia.org/wiki/Elizabeth_Campbell,_1st_Baroness_Hamilton_of_Hameldon
+  - https://theconversation.com/could-lead-makeup-really-kill-you-a-scientist-recreated-centuries-old-skin-whitening-recipes-to-find-out-podcast-180818 (Prof. Fiona McNeill, McMaster; results not on that page, see her article "Dying for makeup", NV)
+  - https://www.irishexaminer.com/breakingnews/lifestyle/features/reflecting-on-beauty-maria-gunnings-sad-story-857470.html
+  - https://englishhistoryauthors.blogspot.com/2022/05/the-gunning-sisters-cost-of-celebrity.html (secondary; cites Walpole, Selwyn, Tillyard)
+  - DNB "Coventry, Maria" (June 1759 Hyde Park mobbing; "it was said" white lead injured her health): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Coventry,_Maria (URL form NV, seen via mirror)
+- **Established vs allegation:**
+  - ESTABLISHED: poverty-to-aristocracy, the crowds (Walpole, DNB), the bed-curtain-ring wedding (Walpole), the napkin scrubbing, the death date, the funeral crowd (Walpole), Elizabeth's two ducal marriages and her sons.
+  - DISPUTED: lead poisoning as the cause of death (no autopsy; TB also proposed; the Wikipedia line is tagged "citation needed").
+  - LEGEND-ish: the borrowed theatre costumes; the "King's Guard escort through Hyde Park" (one popular source only); her gaffe to George II about wanting to see a coronation ("reported").
+- **Do NOT state as fact:**
+  - "Her makeup killed her." Say "many believed", "possibly".
+  - The details of the Kitty Fisher dress exchange beyond what's sourced.
+  - Any intimate detail of either marriage.
+- **Adult characters:**
+  - Maria (about 18 on arrival in London; 19-20 at marriage, born Aug 1732, married 1752).
+  - Elizabeth (about 18-19 at marriage).
+  - The Duke of Hamilton, the Earl of Coventry, Kitty Fisher (adult courtesan, so keep her as a scandal face only), the Duke of Argyll, and Horace Walpole as narrator-gossip.
+  - **Age check:** both sisters arrived around 17-18 (Maria b. 1732, Elizabeth b. 1733). Romance and marriage beats must show clearly adult women. Start the story at the 1752 weddings (Maria ~19, Elizabeth ~18-19). Flag to Joe: borderline-young at the start, so draw both as adults and don't dwell on the "debutante" years.
+- **Suggested tier:** 1 (rivalry, a jealous husband, a courtesan rival, a celebrity crush). Tier 2 not needed.
+- **Saturation:** LOW-MODERATE. Lead makeup is a common topic in "deadly beauty" list videos, and Maria often appears as one entry in them. No dedicated YouTube video on the two-sister arc was found. The two-sisters/opposite-fates structure is the fresh angle.
+- **5-minute fit:** GOOD. Arrival, crowds, the two weddings (midnight ring and napkin scrub), the paint spiral, then the split ending.
+- **Presenting it attractively without explicit content:**
+  - Attraction is the subject: two stickwomen styled as 1750s celebrities (towering hair, silk, beauty spots), paparazzi-style crowds with opera glasses, a duke proposing on one knee holding a curtain ring.
+  - The "dangerous beauty" beat is shown with a mirror and a pot of white paint growing bigger each scene: no gore and no skin-damage close-ups.
+  - Thumbnail: a glamorous stickwoman holding a paint pot labelled "LEAD", with a skull reflected in her mirror. It's an honest frame since the video discusses the claim, but the title should hedge ("may have").
+  - Policy check: beauty and body-image topics are fine non-graphically.
+
+---
+
+## 4. The Man Who Sold Mouthwash by Scaring Single Women (Listerine, "halitosis" and "Often a bridesmaid")
+- **Pillar:** 6 (how companies learned to sell with attraction and romantic fear), with a pillar-5 overlap.
+- **Working titles:** "He Couldn't Sell Mouthwash, So He Sold Loneliness" / "The Ad That Made Bad Breath a Reason You're Single"
+- **Premise:** A company has a surgical antiseptic nobody needs to buy. Its heir digs up an obscure medical word, tells Americans that bad breath is why they are unloved, and turns a sleepy product into a fortune.
+- **Opening hook image:** A woman nearing 30 stands in a bridesmaid dress at yet another wedding, wondering why. The answer is printed in a 1925 magazine ad.
+- **Central conflict and escalation:**
+  - 1879: Joseph Lawrence's antiseptic is named after Lister. Per Freakonomics, it was later sold as a floor cleaner and a gonorrhoea cure (the "sold as" claims need primary checking).
+  - About 1921: Gerard Lambert, son of the company's founder, settles on "halitosis", a then-obscure term, as the centre of the advertising. The origin of the word choice is disputed: a chemist meeting, or an old medical journal.
+  - 1924/25: the "Often a bridesmaid but never a bride" ads tell the story of "Edna", unmarried because of her breath.
+  - Further fear ads follow ("your best friend won't tell you", attributed to Gordon Seagrove, NV).
+  - Sales climb dramatically.
+- **Twist:**
+  - The romance didn't sell the product. Fear of losing romance did.
+  - The ads also claimed Listerine fought colds and sore throats from 1921 until the mid-1970s. The FTC ruled that misleading (1976), and Warner-Lambert had to spend its next $10.2M of ads saying "Listerine will not help prevent colds or sore throats or lessen their severity."
+  - Scholar James Twitchell: "Listerine did not make mouthwash as much as it made halitosis."
+- **Payoff:** The modern phrase "always a bridesmaid, never a bride" was popularised by a mouthwash ad, and a whole style of "insecurity marketing" (sometimes called "halitosis appeal", NV) followed. The ending turns to the viewer: what are you being told is the reason you're single?
+- **Sources:**
+  - https://en.wikipedia.org/wiki/Listerine (Twitchell quote, revenue per Freakonomics, the FTC corrective ads)
+  - https://www.smithsonianmag.com/smart-news/marketing-campaign-invented-halitosis-180954082/ (Smithsonian; 403 on fetch, title confirms topic)
+  - https://www.todayifoundout.com/index.php/2012/11/listerine-popularized-the-phrase-always-a-bridesmaid-never-a-bride/ (the "often" wording, Edna)
+  - https://www.fohbc.org/wp-content/uploads/2014/06/BridesmaidListerine_MayJune2007.pdf (bottle-collector journal; 403)
+  - Britannica "Gerard Barnes Lambert": https://www.britannica.com/biography/Gerard-Barnes-Lambert (snippet: "making bad breath a social disgrace"; 403)
+- **Established vs allegation:**
+  - ESTABLISHED: Lambert's halitosis campaign in the 1920s, the bridesmaid/Edna ads, the FTC 1976 ruling and corrective ads, the Twitchell quote.
+  - DISPUTED figures: the revenue jump is "$115,000 to more than $8 million in seven years" (Freakonomics) versus "$4M by 1927" (other sources). Use "from about $100K to millions".
+  - Also disputed: ad year 1924 or 1925; the word-origin anecdote; copywriter credits.
+  - "Listerine invented bad breath" is a pop exaggeration: the word existed (coined 1874, NV).
+- **Do NOT state as fact:**
+  - That Lambert invented the word.
+  - That the floor-cleaner/gonorrhoea use was official (single popular source).
+  - That the exact $8M figure is settled.
+  - Any claim that mouthwash today doesn't work. That is not our story and is a legal risk.
+- **Adult characters:**
+  - Gerard Lambert (adult heir and marketer).
+  - "Edna", a fictional ad character, explicitly labelled as from the ad. She is around 30.
+  - A chemist and the ad-men.
+- **Suggested tier:** 1, with tier 2 possible as mild comic innuendo (a date leaning in for a kiss and recoiling; nothing more).
+- **Saturation:** MODERATE-HIGH. Adam Ruins Everything did "Listerine invented bad breath" (widely shared), and many marketing-channel videos and articles cover "invented a problem to sell the cure". The fresh angle has to be the romance-fear story (Edna, the bridesmaid) plus the FTC corrective-ad twist. Even so, this is the most saturated candidate.
+- **5-minute fit:** GOOD. Short product origin, the problem, the word, Edna, the boom, the FTC comeuppance.
+- **Presenting it attractively without explicit content:**
+  - Dating-scene comedy: stickman leaning in for a kiss and his date fainting, sad bridesmaid Edna with a growing bouquet collection, a 1920s ad-agency boardroom inventing "fear".
+  - Mr. Yellow Scarf as the hopeless bachelor reading the ad is natural.
+  - Thumbnail: a bride and groom recoiling with a "HALITOSIS?!" label. Honest to the content. Keep any kiss a peck or near-miss.
+
+---
+
+## 5. The Fake Spanish Dancer Who Cost a King His Crown (Lola Montez and Ludwig I of Bavaria)
+- **Pillar:** 6 ("how one royal affair changed history"), with a pillar-4 overlap (impostor).
+- **Working titles:** "She Wasn't Spanish, She Wasn't a Dancer, and She Still Took Down a King" / "The Woman Who Got a University Closed and a King Fired"
+- **Premise:** An Irish woman from Sligo reinvents herself as a "Spanish dancer", is exposed, reinvents herself again, and wins the heart of a 60-year-old king. Within two years he has made her a countess, fallen out with his ministers over her, closed his own university, and lost his throne.
+- **Opening hook image:** Munich, 9 February 1848. A king orders his own university shut because the students hate his girlfriend (LMU's own history page calls the closure "unique in the annals of higher education").
+- **Central conflict and escalation:**
+  - Eliza Gilbert (b. Sligo, 1821) elopes at 16 with a lieutenant and separates around 1842. (She's a minor at the elopement, so skip it or give it one line with no romance staging.)
+  - 1843: her London debut as "Lola Montez, the Spanish dancer" is wrecked when she's recognised as "Mrs. James".
+  - She tours Europe and is linked to Liszt and Dumas. A lover, Dujarrier, is killed in a duel.
+  - 1846: in Munich she captivates Ludwig I.
+  - 1847: Countess of Landsfeld, nobility, an annuity. The minister Abel is dismissed after objecting to her naturalisation.
+  - She pushes liberal and anti-Jesuit policy.
+  - Feb 1848: student clashes, the university is closed (immediately reversed), and she has to leave.
+- **Twist:**
+  - It ends in March 1848: Ludwig abdicates (19/20 March) in favour of his son, the year of revolutions.
+  - Both Ludwig and Lola maintained the relationship was platonic, a claim from the two parties themselves that historians treat cautiously. So the "affair that toppled a king" may barely have been an affair at all. Don't overclaim either way.
+- **Payoff:**
+  - Her later life: a bigamy action drives her out of England (1849-50).
+  - Gold-rush California (Grass Valley).
+  - The "Spider Dance" scandal in Australia.
+  - Ends as a lecturer and rescue worker for women, dying in Brooklyn in 1861 at about 39.
+  - Closing line: the fake Spaniard outlasted the real king's reign.
+- **Sources:**
+  - https://en.wikipedia.org/wiki/Lola_Montez
+  - https://www.lmu.de/en/about-lmu/lmu-at-a-glance/history/1848/index.html (Ludwig Maximilian University's own history)
+  - https://www.historyofroyalwomen.com/the-royal-women/royal-mistress-series-lola-montez-spanish-dancer/
+  - https://sites.ohio.edu/chastain/ip/montez.htm (Encyclopedia of 1848 Revolutions, Ohio University; "both maintained platonic")
+  - https://www.irishtimes.com/culture/stage/sligo-girl-reviled-by-bavaria-the-musical-1.1254050
+  - Scholarly biography: Bruce Seymour, *Lola Montez: A Life* (Yale UP, 1996). Not read.
+- **Established vs allegation:**
+  - ESTABLISHED: the false Spanish identity and its 1843 exposure, the countess title in 1847, Abel's dismissal, the university closure in Feb 1848, the March 1848 abdication, the later US and Australia career, her death in 1861.
+  - DISPUTED:
+    - How much Lola caused the abdication: the 1848 revolutions were the wider cause. Wikipedia: "seems likely" to have contributed.
+    - The nature of the relationship: platonic per both of them.
+    - Her birth year (she claimed 1818).
+    - Cause of death.
+  - LEGEND: the story that she cut open her bodice to prove her figure to the king. Wikipedia calls it a rumour. DO NOT use it.
+- **Do NOT state as fact:**
+  - That Lola alone toppled Ludwig.
+  - That they were lovers in a sexual sense.
+  - The bodice anecdote.
+  - The whip/Seekamp details beyond what's sourced.
+  - Any scene involving her elopement at 16.
+- **Adult characters:**
+  - Lola/Eliza (about 25-27 in Munich).
+  - Ludwig I (about 60).
+  - Karl von Abel, a minister.
+  - Students (adults, as a crowd).
+  - Liszt and Dumas (adults; cameo only).
+  - Crown Prince Maximilian (adult).
+- **Suggested tier:** 1-2. Tier 1 for the king-and-showgirl dynamic and power. Tier 2 for cheeky stage beats: the "Spider Dance" shown as comic flailing at an imaginary spider while the audience gasps, fully clothed.
+- **Saturation:** MODERATE (could not see view counts). Lola is a recurring topic in mistress/royal-scandal content, with articles, podcasts, an Irish musical and a 1955 film. The "fake Spaniard + university closed + platonic twist" structure is less common.
+- **5-minute fit:** GOOD if the US/Australia tail is cut to a 20-second epilogue.
+- **Presenting it attractively without explicit content:**
+  - She is a natural glamorous lead: black mantilla, fan, flamenco pose (a costume that's part of her con, so it's story-relevant).
+  - Ludwig as a besotted old king with a portrait gallery (he really had a "Gallery of Beauties"; it includes Lola's portrait, NV).
+  - Thumbnail: a crown sliding off a king's head while a "Spanish" dancer winks, captioned "NOT SPANISH". It's true and in the video.
+  - No bodice gag, no bedroom, no body emphasis.
+  - Packaging must not promise "the affair that toppled a king" as fact. "Cost a king his crown" is defensible if the video names the 1848 revolutions too. Consider "helped cost".
+
+---
+
+## Notes for the critic
+- The strongest cold-click premises look like #2 Parnell (lowest saturation, clean money twist) and #1 Caroline (the debt-marriage plus the coronation-door image).
+- #4 is the most saturated.
+- #3 needs an age-presentation decision from Joe.
+- #5 needs careful causal wording.
+- All five need lf-fact-checker on every number and quote before outlining.

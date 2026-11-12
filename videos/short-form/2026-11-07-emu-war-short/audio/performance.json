@@ -1,0 +1,50 @@
+[
+ {
+  "text": "In 1932, Australia went to war with emus.",
+  "tag": "tense",
+  "pause": 0.45,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Soldiers. Machine guns. Ten thousand bullets. ... And the farmers paid for the bullets.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "The gun jammed. A politician said the emus deserved medals. ... The army pulled out.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "By the headlines, Australia lost a war to birds.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "So the farmers took over. ... The government paid a bounty for every beak.",
+  "tag": "serious",
+  "pause": 0.45,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "One count says over fifty-seven thousand emus, in a single season.",
+  "tag": "incredulous",
+  "pause": 0.45,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "The army managed under a thousand, by its own count.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "The winning weapon wasn't a machine gun. ... It was a payment per beak.",
+  "tag": "dry",
+  "pause": 0.0,
+  "clip": "08.mp3"
+ }
+]

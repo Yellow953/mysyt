@@ -1,0 +1,2952 @@
+[
+ {
+  "word": "In",
+  "start": 0.0,
+  "end": 0.266
+ },
+ {
+  "word": "2025,",
+  "start": 0.266,
+  "end": 0.731
+ },
+ {
+  "word": "McDonald's",
+  "start": 0.731,
+  "end": 1.529
+ },
+ {
+  "word": "collected",
+  "start": 1.529,
+  "end": 2.26
+ },
+ {
+  "word": "over",
+  "start": 2.26,
+  "end": 2.659
+ },
+ {
+  "word": "ten",
+  "start": 2.659,
+  "end": 2.991
+ },
+ {
+  "word": "billion",
+  "start": 2.991,
+  "end": 3.59
+ },
+ {
+  "word": "dollars",
+  "start": 3.59,
+  "end": 4.188
+ },
+ {
+  "word": "in",
+  "start": 4.188,
+  "end": 4.454
+ },
+ {
+  "word": "rent.",
+  "start": 4.454,
+  "end": 4.919
+ },
+ {
+  "word": "From",
+  "start": 5.219,
+  "end": 5.578
+ },
+ {
+  "word": "restaurants",
+  "start": 5.578,
+  "end": 6.356
+ },
+ {
+  "word": "other",
+  "start": 6.356,
+  "end": 6.774
+ },
+ {
+  "word": "people",
+  "start": 6.774,
+  "end": 7.253
+ },
+ {
+  "word": "run.",
+  "start": 7.253,
+  "end": 7.612
+ },
+ {
+  "word": "At",
+  "start": 8.212,
+  "end": 8.412
+ },
+ {
+  "word": "a",
+  "start": 8.412,
+  "end": 8.562
+ },
+ {
+  "word": "regular",
+  "start": 8.562,
+  "end": 9.012
+ },
+ {
+  "word": "McDonald's",
+  "start": 9.012,
+  "end": 9.612
+ },
+ {
+  "word": "franchise,",
+  "start": 9.612,
+  "end": 10.212
+ },
+ {
+  "word": "the",
+  "start": 10.212,
+  "end": 10.462
+ },
+ {
+  "word": "owner",
+  "start": 10.462,
+  "end": 10.812
+ },
+ {
+  "word": "doesn't",
+  "start": 10.812,
+  "end": 11.262
+ },
+ {
+  "word": "own",
+  "start": 11.262,
+  "end": 11.512
+ },
+ {
+  "word": "the",
+  "start": 11.512,
+  "end": 11.762
+ },
+ {
+  "word": "ground.",
+  "start": 11.762,
+  "end": 12.212
+ },
+ {
+  "word": "The",
+  "start": 12.512,
+  "end": 12.903
+ },
+ {
+  "word": "owner",
+  "start": 12.903,
+  "end": 13.45
+ },
+ {
+  "word": "rents",
+  "start": 13.45,
+  "end": 13.997
+ },
+ {
+  "word": "it.",
+  "start": 13.997,
+  "end": 14.387
+ },
+ {
+  "word": "From",
+  "start": 14.387,
+  "end": 14.856
+ },
+ {
+  "word": "McDonald's.",
+  "start": 14.856,
+  "end": 15.872
+ },
+ {
+  "word": "That",
+  "start": 16.472,
+  "end": 16.836
+ },
+ {
+  "word": "idea",
+  "start": 16.836,
+  "end": 17.2
+ },
+ {
+  "word": "came",
+  "start": 17.2,
+  "end": 17.564
+ },
+ {
+  "word": "from",
+  "start": 17.564,
+  "end": 17.928
+ },
+ {
+  "word": "a",
+  "start": 17.928,
+  "end": 18.11
+ },
+ {
+  "word": "finance",
+  "start": 18.11,
+  "end": 18.656
+ },
+ {
+  "word": "man",
+  "start": 18.656,
+  "end": 18.959
+ },
+ {
+  "word": "named",
+  "start": 18.959,
+  "end": 19.384
+ },
+ {
+  "word": "Harry",
+  "start": 19.384,
+  "end": 19.809
+ },
+ {
+  "word": "Sonneborn,",
+  "start": 19.809,
+  "end": 20.537
+ },
+ {
+  "word": "who",
+  "start": 20.537,
+  "end": 20.84
+ },
+ {
+  "word": "asked",
+  "start": 20.84,
+  "end": 21.265
+ },
+ {
+  "word": "a",
+  "start": 21.265,
+  "end": 21.447
+ },
+ {
+  "word": "question",
+  "start": 21.447,
+  "end": 22.053
+ },
+ {
+  "word": "the",
+  "start": 22.053,
+  "end": 22.357
+ },
+ {
+  "word": "burger",
+  "start": 22.357,
+  "end": 22.842
+ },
+ {
+  "word": "business",
+  "start": 22.842,
+  "end": 23.449
+ },
+ {
+  "word": "wasn't",
+  "start": 23.449,
+  "end": 23.934
+ },
+ {
+  "word": "asking.",
+  "start": 23.934,
+  "end": 24.48
+ },
+ {
+  "word": "Not",
+  "start": 25.08,
+  "end": 25.404
+ },
+ {
+  "word": "'how",
+  "start": 25.404,
+  "end": 25.793
+ },
+ {
+  "word": "many",
+  "start": 25.793,
+  "end": 26.182
+ },
+ {
+  "word": "burgers",
+  "start": 26.182,
+  "end": 26.765
+ },
+ {
+  "word": "can",
+  "start": 26.765,
+  "end": 27.089
+ },
+ {
+  "word": "we",
+  "start": 27.089,
+  "end": 27.348
+ },
+ {
+  "word": "sell?'",
+  "start": 27.348,
+  "end": 27.867
+ },
+ {
+  "word": "But,",
+  "start": 28.167,
+  "end": 28.625
+ },
+ {
+  "word": "in",
+  "start": 28.625,
+  "end": 28.93
+ },
+ {
+  "word": "effect,",
+  "start": 28.93,
+  "end": 29.616
+ },
+ {
+  "word": "'who",
+  "start": 29.616,
+  "end": 30.074
+ },
+ {
+  "word": "owns",
+  "start": 30.074,
+  "end": 30.531
+ },
+ {
+  "word": "the",
+  "start": 30.531,
+  "end": 30.912
+ },
+ {
+  "word": "ground?'",
+  "start": 30.912,
+  "end": 31.675
+ },
+ {
+  "word": "Years",
+  "start": 32.275,
+  "end": 32.864
+ },
+ {
+  "word": "later,",
+  "start": 32.864,
+  "end": 33.537
+ },
+ {
+  "word": "he",
+  "start": 33.537,
+  "end": 33.874
+ },
+ {
+  "word": "quit.",
+  "start": 33.874,
+  "end": 34.463
+ },
+ {
+  "word": "And",
+  "start": 35.063,
+  "end": 35.414
+ },
+ {
+  "word": "almost",
+  "start": 35.414,
+  "end": 35.977
+ },
+ {
+  "word": "nobody",
+  "start": 35.977,
+  "end": 36.539
+ },
+ {
+  "word": "remembers",
+  "start": 36.539,
+  "end": 37.312
+ },
+ {
+  "word": "him.",
+  "start": 37.312,
+  "end": 37.734
+ },
+ {
+  "word": "To",
+  "start": 38.734,
+  "end": 38.988
+ },
+ {
+  "word": "see",
+  "start": 38.988,
+  "end": 39.306
+ },
+ {
+  "word": "why",
+  "start": 39.306,
+  "end": 39.624
+ },
+ {
+  "word": "it",
+  "start": 39.624,
+  "end": 39.878
+ },
+ {
+  "word": "mattered,",
+  "start": 39.878,
+  "end": 40.577
+ },
+ {
+  "word": "start",
+  "start": 40.577,
+  "end": 41.022
+ },
+ {
+  "word": "with",
+  "start": 41.022,
+  "end": 41.403
+ },
+ {
+  "word": "the",
+  "start": 41.403,
+  "end": 41.721
+ },
+ {
+  "word": "man",
+  "start": 41.721,
+  "end": 42.039
+ },
+ {
+  "word": "who",
+  "start": 42.039,
+  "end": 42.357
+ },
+ {
+  "word": "needed",
+  "start": 42.357,
+  "end": 42.865
+ },
+ {
+  "word": "it.",
+  "start": 42.865,
+  "end": 43.183
+ },
+ {
+  "word": "Ray",
+  "start": 43.783,
+  "end": 44.264
+ },
+ {
+  "word": "Kroc,",
+  "start": 44.264,
+  "end": 44.938
+ },
+ {
+  "word": "1954.",
+  "start": 44.938,
+  "end": 45.612
+ },
+ {
+  "word": "He",
+  "start": 45.762,
+  "end": 45.942
+ },
+ {
+  "word": "sold",
+  "start": 45.942,
+  "end": 46.213
+ },
+ {
+  "word": "franchises",
+  "start": 46.213,
+  "end": 46.753
+ },
+ {
+  "word": "for",
+  "start": 46.753,
+  "end": 46.979
+ },
+ {
+  "word": "the",
+  "start": 46.979,
+  "end": 47.204
+ },
+ {
+  "word": "McDonald",
+  "start": 47.204,
+  "end": 47.654
+ },
+ {
+  "word": "brothers.",
+  "start": 47.654,
+  "end": 48.15
+ },
+ {
+  "word": "A",
+  "start": 48.45,
+  "end": 48.611
+ },
+ {
+  "word": "franchise",
+  "start": 48.611,
+  "end": 49.201
+ },
+ {
+  "word": "is",
+  "start": 49.201,
+  "end": 49.415
+ },
+ {
+  "word": "the",
+  "start": 49.415,
+  "end": 49.684
+ },
+ {
+  "word": "right",
+  "start": 49.684,
+  "end": 50.059
+ },
+ {
+  "word": "to",
+  "start": 50.059,
+  "end": 50.274
+ },
+ {
+  "word": "open",
+  "start": 50.274,
+  "end": 50.595
+ },
+ {
+  "word": "a",
+  "start": 50.595,
+  "end": 50.756
+ },
+ {
+  "word": "McDonald's",
+  "start": 50.756,
+  "end": 51.4
+ },
+ {
+  "word": "under",
+  "start": 51.4,
+  "end": 51.775
+ },
+ {
+  "word": "its",
+  "start": 51.775,
+  "end": 52.044
+ },
+ {
+  "word": "name.",
+  "start": 52.044,
+  "end": 52.419
+ },
+ {
+  "word": "The",
+  "start": 52.719,
+  "end": 53.064
+ },
+ {
+  "word": "owner",
+  "start": 53.064,
+  "end": 53.547
+ },
+ {
+  "word": "pays",
+  "start": 53.547,
+  "end": 53.962
+ },
+ {
+  "word": "for",
+  "start": 53.962,
+  "end": 54.307
+ },
+ {
+  "word": "it.",
+  "start": 54.307,
+  "end": 54.652
+ },
+ {
+  "word": "By",
+  "start": 55.252,
+  "end": 55.55
+ },
+ {
+  "word": "most",
+  "start": 55.55,
+  "end": 55.997
+ },
+ {
+  "word": "accounts,",
+  "start": 55.997,
+  "end": 56.816
+ },
+ {
+  "word": "the",
+  "start": 56.816,
+  "end": 57.189
+ },
+ {
+  "word": "fee",
+  "start": 57.189,
+  "end": 57.561
+ },
+ {
+  "word": "was",
+  "start": 57.561,
+  "end": 57.934
+ },
+ {
+  "word": "about",
+  "start": 57.934,
+  "end": 58.455
+ },
+ {
+  "word": "1.9%",
+  "start": 58.455,
+  "end": 58.902
+ },
+ {
+  "word": "of",
+  "start": 58.902,
+  "end": 59.2
+ },
+ {
+  "word": "sales,",
+  "start": 59.2,
+  "end": 59.796
+ },
+ {
+  "word": "and",
+  "start": 60.096,
+  "end": 60.35
+ },
+ {
+  "word": "half",
+  "start": 60.35,
+  "end": 60.654
+ },
+ {
+  "word": "a",
+  "start": 60.654,
+  "end": 60.806
+ },
+ {
+  "word": "percent",
+  "start": 60.806,
+  "end": 61.262
+ },
+ {
+  "word": "of",
+  "start": 61.262,
+  "end": 61.465
+ },
+ {
+  "word": "sales",
+  "start": 61.465,
+  "end": 61.82
+ },
+ {
+  "word": "went",
+  "start": 61.82,
+  "end": 62.125
+ },
+ {
+  "word": "to",
+  "start": 62.125,
+  "end": 62.328
+ },
+ {
+  "word": "the",
+  "start": 62.328,
+  "end": 62.581
+ },
+ {
+  "word": "brothers.",
+  "start": 62.581,
+  "end": 63.139
+ },
+ {
+  "word": "By",
+  "start": 63.739,
+  "end": 63.951
+ },
+ {
+  "word": "most",
+  "start": 63.951,
+  "end": 64.269
+ },
+ {
+  "word": "accounts,",
+  "start": 64.269,
+  "end": 64.851
+ },
+ {
+  "word": "that",
+  "start": 64.851,
+  "end": 65.169
+ },
+ {
+  "word": "left",
+  "start": 65.169,
+  "end": 65.487
+ },
+ {
+  "word": "his",
+  "start": 65.487,
+  "end": 65.752
+ },
+ {
+  "word": "company",
+  "start": 65.752,
+  "end": 66.228
+ },
+ {
+  "word": "very",
+  "start": 66.228,
+  "end": 66.546
+ },
+ {
+  "word": "little.",
+  "start": 66.546,
+  "end": 67.023
+ },
+ {
+  "word": "You",
+  "start": 67.323,
+  "end": 67.568
+ },
+ {
+  "word": "sell",
+  "start": 67.568,
+  "end": 67.862
+ },
+ {
+  "word": "all",
+  "start": 67.862,
+  "end": 68.107
+ },
+ {
+  "word": "day,",
+  "start": 68.107,
+  "end": 68.4
+ },
+ {
+  "word": "you",
+  "start": 68.4,
+  "end": 68.645
+ },
+ {
+  "word": "get",
+  "start": 68.645,
+  "end": 68.89
+ },
+ {
+  "word": "a",
+  "start": 68.89,
+  "end": 69.037
+ },
+ {
+  "word": "tip.",
+  "start": 69.037,
+  "end": 69.331
+ },
+ {
+  "word": "Enter",
+  "start": 69.931,
+  "end": 70.426
+ },
+ {
+  "word": "Sonneborn,",
+  "start": 70.426,
+  "end": 71.276
+ },
+ {
+  "word": "who",
+  "start": 71.276,
+  "end": 71.629
+ },
+ {
+  "word": "joined",
+  "start": 71.629,
+  "end": 72.196
+ },
+ {
+  "word": "in",
+  "start": 72.196,
+  "end": 72.479
+ },
+ {
+  "word": "the",
+  "start": 72.479,
+  "end": 72.833
+ },
+ {
+  "word": "mid-1950s",
+  "start": 72.833,
+  "end": 73.611
+ },
+ {
+  "word": "and",
+  "start": 73.611,
+  "end": 73.965
+ },
+ {
+  "word": "became",
+  "start": 73.965,
+  "end": 74.531
+ },
+ {
+  "word": "president",
+  "start": 74.531,
+  "end": 75.31
+ },
+ {
+  "word": "in",
+  "start": 75.31,
+  "end": 75.593
+ },
+ {
+  "word": "1959.",
+  "start": 75.593,
+  "end": 76.088
+ },
+ {
+  "word": "The",
+  "start": 76.388,
+  "end": 76.64
+ },
+ {
+  "word": "company",
+  "start": 76.64,
+  "end": 77.093
+ },
+ {
+  "word": "needed",
+  "start": 77.093,
+  "end": 77.496
+ },
+ {
+  "word": "money",
+  "start": 77.496,
+  "end": 77.849
+ },
+ {
+  "word": "to",
+  "start": 77.849,
+  "end": 78.051
+ },
+ {
+  "word": "expand.",
+  "start": 78.051,
+  "end": 78.504
+ },
+ {
+  "word": "A",
+  "start": 78.804,
+  "end": 78.972
+ },
+ {
+  "word": "tip",
+  "start": 78.972,
+  "end": 79.251
+ },
+ {
+  "word": "wasn't",
+  "start": 79.251,
+  "end": 79.699
+ },
+ {
+  "word": "going",
+  "start": 79.699,
+  "end": 80.09
+ },
+ {
+  "word": "to",
+  "start": 80.09,
+  "end": 80.314
+ },
+ {
+  "word": "do",
+  "start": 80.314,
+  "end": 80.537
+ },
+ {
+  "word": "it.",
+  "start": 80.537,
+  "end": 80.817
+ },
+ {
+  "word": "I",
+  "start": 81.417,
+  "end": 81.542
+ },
+ {
+  "word": "couldn't",
+  "start": 81.542,
+  "end": 81.961
+ },
+ {
+  "word": "find",
+  "start": 81.961,
+  "end": 82.211
+ },
+ {
+  "word": "a",
+  "start": 82.211,
+  "end": 82.337
+ },
+ {
+  "word": "reliable",
+  "start": 82.337,
+  "end": 82.755
+ },
+ {
+  "word": "account",
+  "start": 82.755,
+  "end": 83.131
+ },
+ {
+  "word": "of",
+  "start": 83.131,
+  "end": 83.298
+ },
+ {
+  "word": "how",
+  "start": 83.298,
+  "end": 83.507
+ },
+ {
+  "word": "he",
+  "start": 83.507,
+  "end": 83.675
+ },
+ {
+  "word": "pitched",
+  "start": 83.675,
+  "end": 84.051
+ },
+ {
+  "word": "it.",
+  "start": 84.051,
+  "end": 84.26
+ },
+ {
+  "word": "The",
+  "start": 84.56,
+  "end": 84.86
+ },
+ {
+  "word": "idea",
+  "start": 84.86,
+  "end": 85.22
+ },
+ {
+  "word": "is",
+  "start": 85.22,
+  "end": 85.459
+ },
+ {
+  "word": "clear.",
+  "start": 85.459,
+  "end": 85.939
+ },
+ {
+  "word": "The",
+  "start": 86.539,
+  "end": 86.841
+ },
+ {
+  "word": "company",
+  "start": 86.841,
+  "end": 87.383
+ },
+ {
+  "word": "gets",
+  "start": 87.383,
+  "end": 87.745
+ },
+ {
+  "word": "hold",
+  "start": 87.745,
+  "end": 88.107
+ },
+ {
+  "word": "of",
+  "start": 88.107,
+  "end": 88.349
+ },
+ {
+  "word": "a",
+  "start": 88.349,
+  "end": 88.529
+ },
+ {
+  "word": "plot,",
+  "start": 88.529,
+  "end": 88.952
+ },
+ {
+  "word": "by",
+  "start": 88.952,
+  "end": 89.193
+ },
+ {
+  "word": "renting",
+  "start": 89.193,
+  "end": 89.736
+ },
+ {
+  "word": "or",
+  "start": 89.736,
+  "end": 89.977
+ },
+ {
+  "word": "buying,",
+  "start": 89.977,
+  "end": 90.52
+ },
+ {
+  "word": "then",
+  "start": 90.82,
+  "end": 91.082
+ },
+ {
+  "word": "rents",
+  "start": 91.082,
+  "end": 91.387
+ },
+ {
+  "word": "it",
+  "start": 91.387,
+  "end": 91.562
+ },
+ {
+  "word": "to",
+  "start": 91.562,
+  "end": 91.736
+ },
+ {
+  "word": "the",
+  "start": 91.736,
+  "end": 91.954
+ },
+ {
+  "word": "restaurant",
+  "start": 91.954,
+  "end": 92.478
+ },
+ {
+  "word": "owner.",
+  "start": 92.478,
+  "end": 92.827
+ },
+ {
+  "word": "By",
+  "start": 93.427,
+  "end": 93.739
+ },
+ {
+  "word": "most",
+  "start": 93.739,
+  "end": 94.207
+ },
+ {
+  "word": "accounts,",
+  "start": 94.207,
+  "end": 95.064
+ },
+ {
+  "word": "around",
+  "start": 95.064,
+  "end": 95.688
+ },
+ {
+  "word": "1956,",
+  "start": 95.688,
+  "end": 96.233
+ },
+ {
+  "word": "a",
+  "start": 96.233,
+  "end": 96.467
+ },
+ {
+  "word": "company",
+  "start": 96.467,
+  "end": 97.169
+ },
+ {
+  "word": "was",
+  "start": 97.169,
+  "end": 97.558
+ },
+ {
+  "word": "set",
+  "start": 97.558,
+  "end": 97.948
+ },
+ {
+  "word": "up",
+  "start": 97.948,
+  "end": 98.26
+ },
+ {
+  "word": "just",
+  "start": 98.26,
+  "end": 98.728
+ },
+ {
+  "word": "for",
+  "start": 98.728,
+  "end": 99.117
+ },
+ {
+  "word": "that:",
+  "start": 99.117,
+  "end": 99.663
+ },
+ {
+  "word": "Franchise",
+  "start": 99.663,
+  "end": 100.52
+ },
+ {
+  "word": "Realty.",
+  "start": 100.52,
+  "end": 101.222
+ },
+ {
+  "word": "Say",
+  "start": 101.822,
+  "end": 102.052
+ },
+ {
+  "word": "your",
+  "start": 102.052,
+  "end": 102.327
+ },
+ {
+  "word": "restaurant",
+  "start": 102.327,
+  "end": 102.878
+ },
+ {
+  "word": "sells",
+  "start": 102.878,
+  "end": 103.199
+ },
+ {
+  "word": "a",
+  "start": 103.199,
+  "end": 103.337
+ },
+ {
+  "word": "million",
+  "start": 103.337,
+  "end": 103.75
+ },
+ {
+  "word": "dollars",
+  "start": 103.75,
+  "end": 104.163
+ },
+ {
+  "word": "a",
+  "start": 104.163,
+  "end": 104.301
+ },
+ {
+  "word": "year.",
+  "start": 104.301,
+  "end": 104.622
+ },
+ {
+  "word": "The",
+  "start": 104.922,
+  "end": 105.149
+ },
+ {
+  "word": "old",
+  "start": 105.149,
+  "end": 105.376
+ },
+ {
+  "word": "deal",
+  "start": 105.376,
+  "end": 105.648
+ },
+ {
+  "word": "pays",
+  "start": 105.648,
+  "end": 105.92
+ },
+ {
+  "word": "the",
+  "start": 105.92,
+  "end": 106.147
+ },
+ {
+  "word": "company",
+  "start": 106.147,
+  "end": 106.555
+ },
+ {
+  "word": "twenty",
+  "start": 106.555,
+  "end": 106.918
+ },
+ {
+  "word": "thousand.",
+  "start": 106.918,
+  "end": 107.417
+ },
+ {
+  "word": "Now",
+  "start": 108.017,
+  "end": 108.353
+ },
+ {
+  "word": "the",
+  "start": 108.353,
+  "end": 108.689
+ },
+ {
+  "word": "landlord",
+  "start": 108.689,
+  "end": 109.361
+ },
+ {
+  "word": "way.",
+  "start": 109.361,
+  "end": 109.764
+ },
+ {
+  "word": "Say",
+  "start": 110.064,
+  "end": 110.357
+ },
+ {
+  "word": "the",
+  "start": 110.357,
+  "end": 110.649
+ },
+ {
+  "word": "company",
+  "start": 110.649,
+  "end": 111.176
+ },
+ {
+  "word": "rents",
+  "start": 111.176,
+  "end": 111.585
+ },
+ {
+  "word": "the",
+  "start": 111.585,
+  "end": 111.878
+ },
+ {
+  "word": "site",
+  "start": 111.878,
+  "end": 112.229
+ },
+ {
+  "word": "itself,",
+  "start": 112.229,
+  "end": 112.755
+ },
+ {
+  "word": "and",
+  "start": 112.755,
+  "end": 113.048
+ },
+ {
+  "word": "pays",
+  "start": 113.048,
+  "end": 113.399
+ },
+ {
+  "word": "its",
+  "start": 113.399,
+  "end": 113.691
+ },
+ {
+  "word": "own",
+  "start": 113.691,
+  "end": 113.984
+ },
+ {
+  "word": "landlord",
+  "start": 113.984,
+  "end": 114.569
+ },
+ {
+  "word": "sixty",
+  "start": 114.569,
+  "end": 114.978
+ },
+ {
+  "word": "thousand.",
+  "start": 114.978,
+  "end": 115.622
+ },
+ {
+  "word": "It",
+  "start": 116.222,
+  "end": 116.454
+ },
+ {
+  "word": "charges",
+  "start": 116.454,
+  "end": 116.976
+ },
+ {
+  "word": "you",
+  "start": 116.976,
+  "end": 117.266
+ },
+ {
+  "word": "a",
+  "start": 117.266,
+  "end": 117.44
+ },
+ {
+  "word": "hundred",
+  "start": 117.44,
+  "end": 117.963
+ },
+ {
+  "word": "and",
+  "start": 117.963,
+  "end": 118.253
+ },
+ {
+  "word": "five.",
+  "start": 118.253,
+  "end": 118.659
+ },
+ {
+  "word": "The",
+  "start": 118.959,
+  "end": 119.202
+ },
+ {
+  "word": "company",
+  "start": 119.202,
+  "end": 119.64
+ },
+ {
+  "word": "keeps",
+  "start": 119.64,
+  "end": 119.98
+ },
+ {
+  "word": "the",
+  "start": 119.98,
+  "end": 120.223
+ },
+ {
+  "word": "gap.",
+  "start": 120.223,
+  "end": 120.515
+ },
+ {
+  "word": "Add",
+  "start": 120.815,
+  "end": 121.113
+ },
+ {
+  "word": "the",
+  "start": 121.113,
+  "end": 121.411
+ },
+ {
+  "word": "fee,",
+  "start": 121.411,
+  "end": 121.768
+ },
+ {
+  "word": "and",
+  "start": 121.768,
+  "end": 122.066
+ },
+ {
+  "word": "it",
+  "start": 122.066,
+  "end": 122.304
+ },
+ {
+  "word": "keeps",
+  "start": 122.304,
+  "end": 122.721
+ },
+ {
+  "word": "sixty-five.",
+  "start": 122.721,
+  "end": 123.496
+ },
+ {
+  "word": "Now",
+  "start": 124.096,
+  "end": 124.387
+ },
+ {
+  "word": "double",
+  "start": 124.387,
+  "end": 124.852
+ },
+ {
+  "word": "your",
+  "start": 124.852,
+  "end": 125.202
+ },
+ {
+  "word": "sales.",
+  "start": 125.202,
+  "end": 125.667
+ },
+ {
+  "word": "Your",
+  "start": 125.967,
+  "end": 126.317
+ },
+ {
+  "word": "rent",
+  "start": 126.317,
+  "end": 126.667
+ },
+ {
+  "word": "rises",
+  "start": 126.667,
+  "end": 127.076
+ },
+ {
+  "word": "with",
+  "start": 127.076,
+  "end": 127.426
+ },
+ {
+  "word": "them.",
+  "start": 127.426,
+  "end": 127.835
+ },
+ {
+  "word": "In",
+  "start": 127.835,
+  "end": 128.068
+ },
+ {
+  "word": "our",
+  "start": 128.068,
+  "end": 128.36
+ },
+ {
+  "word": "example,",
+  "start": 128.36,
+  "end": 128.944
+ },
+ {
+  "word": "their",
+  "start": 128.944,
+  "end": 129.352
+ },
+ {
+  "word": "cost",
+  "start": 129.352,
+  "end": 129.703
+ },
+ {
+  "word": "for",
+  "start": 129.703,
+  "end": 129.994
+ },
+ {
+  "word": "the",
+  "start": 129.994,
+  "end": 130.286
+ },
+ {
+  "word": "ground",
+  "start": 130.286,
+  "end": 130.753
+ },
+ {
+  "word": "stays",
+  "start": 130.753,
+  "end": 131.162
+ },
+ {
+  "word": "put.",
+  "start": 131.162,
+  "end": 131.512
+ },
+ {
+  "word": "That's",
+  "start": 131.812,
+  "end": 132.198
+ },
+ {
+  "word": "how",
+  "start": 132.198,
+  "end": 132.44
+ },
+ {
+  "word": "the",
+  "start": 132.44,
+  "end": 132.681
+ },
+ {
+  "word": "company's",
+  "start": 132.681,
+  "end": 133.212
+ },
+ {
+  "word": "sixty-five",
+  "start": 133.212,
+  "end": 133.791
+ },
+ {
+  "word": "becomes",
+  "start": 133.791,
+  "end": 134.226
+ },
+ {
+  "word": "a",
+  "start": 134.226,
+  "end": 134.37
+ },
+ {
+  "word": "hundred",
+  "start": 134.37,
+  "end": 134.805
+ },
+ {
+  "word": "and",
+  "start": 134.805,
+  "end": 135.046
+ },
+ {
+  "word": "fifteen.",
+  "start": 135.046,
+  "end": 135.529
+ },
+ {
+  "word": "You",
+  "start": 136.129,
+  "end": 136.426
+ },
+ {
+  "word": "pay",
+  "start": 136.426,
+  "end": 136.723
+ },
+ {
+  "word": "far",
+  "start": 136.723,
+  "end": 137.021
+ },
+ {
+  "word": "more",
+  "start": 137.021,
+  "end": 137.377
+ },
+ {
+  "word": "than",
+  "start": 137.377,
+  "end": 137.734
+ },
+ {
+  "word": "before.",
+  "start": 137.734,
+  "end": 138.269
+ },
+ {
+  "word": "But",
+  "start": 138.569,
+  "end": 138.796
+ },
+ {
+  "word": "you",
+  "start": 138.796,
+  "end": 139.023
+ },
+ {
+  "word": "didn't",
+  "start": 139.023,
+  "end": 139.386
+ },
+ {
+  "word": "have",
+  "start": 139.386,
+  "end": 139.658
+ },
+ {
+  "word": "to",
+  "start": 139.658,
+  "end": 139.84
+ },
+ {
+  "word": "find",
+  "start": 139.84,
+  "end": 140.112
+ },
+ {
+  "word": "the",
+  "start": 140.112,
+  "end": 140.339
+ },
+ {
+  "word": "land.",
+  "start": 140.339,
+  "end": 140.657
+ },
+ {
+  "word": "And",
+  "start": 141.257,
+  "end": 141.538
+ },
+ {
+  "word": "since",
+  "start": 141.538,
+  "end": 141.932
+ },
+ {
+  "word": "the",
+  "start": 141.932,
+  "end": 142.213
+ },
+ {
+  "word": "company",
+  "start": 142.213,
+  "end": 142.719
+ },
+ {
+  "word": "controls",
+  "start": 142.719,
+  "end": 143.281
+ },
+ {
+  "word": "the",
+  "start": 143.281,
+  "end": 143.562
+ },
+ {
+  "word": "site,",
+  "start": 143.562,
+  "end": 143.955
+ },
+ {
+  "word": "an",
+  "start": 143.955,
+  "end": 144.18
+ },
+ {
+  "word": "owner",
+  "start": 144.18,
+  "end": 144.574
+ },
+ {
+  "word": "who",
+  "start": 144.574,
+  "end": 144.855
+ },
+ {
+  "word": "breaks",
+  "start": 144.855,
+  "end": 145.304
+ },
+ {
+  "word": "the",
+  "start": 145.304,
+  "end": 145.585
+ },
+ {
+  "word": "rules",
+  "start": 145.585,
+  "end": 145.979
+ },
+ {
+  "word": "has",
+  "start": 145.979,
+  "end": 146.26
+ },
+ {
+  "word": "a",
+  "start": 146.26,
+  "end": 146.429
+ },
+ {
+  "word": "lot",
+  "start": 146.429,
+  "end": 146.71
+ },
+ {
+  "word": "to",
+  "start": 146.71,
+  "end": 146.935
+ },
+ {
+  "word": "lose.",
+  "start": 146.935,
+  "end": 147.328
+ },
+ {
+  "word": "Every",
+  "start": 147.928,
+  "end": 148.241
+ },
+ {
+  "word": "burger",
+  "start": 148.241,
+  "end": 148.599
+ },
+ {
+  "word": "runs",
+  "start": 148.599,
+  "end": 148.868
+ },
+ {
+  "word": "through",
+  "start": 148.868,
+  "end": 149.27
+ },
+ {
+  "word": "the",
+  "start": 149.27,
+  "end": 149.494
+ },
+ {
+  "word": "tollbooth.",
+  "start": 149.494,
+  "end": 150.031
+ },
+ {
+  "word": "At",
+  "start": 150.331,
+  "end": 150.517
+ },
+ {
+  "word": "a",
+  "start": 150.517,
+  "end": 150.656
+ },
+ {
+  "word": "regular",
+  "start": 150.656,
+  "end": 151.074
+ },
+ {
+  "word": "McDonald's",
+  "start": 151.074,
+  "end": 151.631
+ },
+ {
+  "word": "franchise,",
+  "start": 151.631,
+  "end": 152.188
+ },
+ {
+  "word": "you",
+  "start": 152.188,
+  "end": 152.42
+ },
+ {
+  "word": "pay",
+  "start": 152.42,
+  "end": 152.652
+ },
+ {
+  "word": "rent.",
+  "start": 152.652,
+  "end": 152.977
+ },
+ {
+  "word": "You",
+  "start": 153.277,
+  "end": 153.559
+ },
+ {
+  "word": "pay",
+  "start": 153.559,
+  "end": 153.842
+ },
+ {
+  "word": "the",
+  "start": 153.842,
+  "end": 154.124
+ },
+ {
+  "word": "fee,",
+  "start": 154.124,
+  "end": 154.463
+ },
+ {
+  "word": "which",
+  "start": 154.463,
+  "end": 154.858
+ },
+ {
+  "word": "has",
+  "start": 154.858,
+  "end": 155.14
+ },
+ {
+  "word": "a",
+  "start": 155.14,
+  "end": 155.309
+ },
+ {
+  "word": "name:",
+  "start": 155.309,
+  "end": 155.704
+ },
+ {
+  "word": "royalty.",
+  "start": 155.704,
+  "end": 156.269
+ },
+ {
+  "word": "Both.",
+  "start": 156.569,
+  "end": 157.146
+ },
+ {
+  "word": "Congratulations.",
+  "start": 157.146,
+  "end": 158.628
+ },
+ {
+  "word": "Kroc",
+  "start": 159.228,
+  "end": 159.564
+ },
+ {
+  "word": "still",
+  "start": 159.564,
+  "end": 159.955
+ },
+ {
+  "word": "answered",
+  "start": 159.955,
+  "end": 160.515
+ },
+ {
+  "word": "to",
+  "start": 160.515,
+  "end": 160.738
+ },
+ {
+  "word": "the",
+  "start": 160.738,
+  "end": 161.018
+ },
+ {
+  "word": "McDonald",
+  "start": 161.018,
+  "end": 161.578
+ },
+ {
+  "word": "brothers.",
+  "start": 161.578,
+  "end": 162.193
+ },
+ {
+  "word": "In",
+  "start": 162.793,
+  "end": 163.072
+ },
+ {
+  "word": "1961,",
+  "start": 163.072,
+  "end": 163.561
+ },
+ {
+  "word": "he",
+  "start": 163.561,
+  "end": 163.841
+ },
+ {
+  "word": "bought",
+  "start": 163.841,
+  "end": 164.399
+ },
+ {
+  "word": "them",
+  "start": 164.399,
+  "end": 164.818
+ },
+ {
+  "word": "out",
+  "start": 164.818,
+  "end": 165.168
+ },
+ {
+  "word": "for",
+  "start": 165.168,
+  "end": 165.517
+ },
+ {
+  "word": "two",
+  "start": 165.517,
+  "end": 165.866
+ },
+ {
+  "word": "point",
+  "start": 165.866,
+  "end": 166.355
+ },
+ {
+  "word": "seven",
+  "start": 166.355,
+  "end": 166.844
+ },
+ {
+  "word": "million",
+  "start": 166.844,
+  "end": 167.473
+ },
+ {
+  "word": "dollars.",
+  "start": 167.473,
+  "end": 168.171
+ },
+ {
+  "word": "Sonneborn",
+  "start": 168.471,
+  "end": 168.996
+ },
+ {
+  "word": "is",
+  "start": 168.996,
+  "end": 169.187
+ },
+ {
+  "word": "credited",
+  "start": 169.187,
+  "end": 169.665
+ },
+ {
+  "word": "with",
+  "start": 169.665,
+  "end": 169.951
+ },
+ {
+  "word": "arranging",
+  "start": 169.951,
+  "end": 170.476
+ },
+ {
+  "word": "the",
+  "start": 170.476,
+  "end": 170.715
+ },
+ {
+  "word": "money.",
+  "start": 170.715,
+  "end": 171.097
+ },
+ {
+  "word": "That",
+  "start": 171.697,
+  "end": 172.016
+ },
+ {
+  "word": "question",
+  "start": 172.016,
+  "end": 172.548
+ },
+ {
+  "word": "put",
+  "start": 172.548,
+  "end": 172.814
+ },
+ {
+  "word": "the",
+  "start": 172.814,
+  "end": 173.08
+ },
+ {
+  "word": "company",
+  "start": 173.08,
+  "end": 173.559
+ },
+ {
+  "word": "in",
+  "start": 173.559,
+  "end": 173.771
+ },
+ {
+  "word": "the",
+  "start": 173.771,
+  "end": 174.037
+ },
+ {
+  "word": "landlord's",
+  "start": 174.037,
+  "end": 174.676
+ },
+ {
+  "word": "chair.",
+  "start": 174.676,
+  "end": 175.101
+ },
+ {
+  "word": "In",
+  "start": 175.401,
+  "end": 175.673
+ },
+ {
+  "word": "2025",
+  "start": 175.673,
+  "end": 176.081
+ },
+ {
+  "word": "the",
+  "start": 176.081,
+  "end": 176.421
+ },
+ {
+  "word": "rent",
+  "start": 176.421,
+  "end": 176.83
+ },
+ {
+  "word": "it",
+  "start": 176.83,
+  "end": 177.102
+ },
+ {
+  "word": "collected",
+  "start": 177.102,
+  "end": 177.85
+ },
+ {
+  "word": "came",
+  "start": 177.85,
+  "end": 178.258
+ },
+ {
+  "word": "to",
+  "start": 178.258,
+  "end": 178.53
+ },
+ {
+  "word": "about",
+  "start": 178.53,
+  "end": 179.007
+ },
+ {
+  "word": "ten",
+  "start": 179.007,
+  "end": 179.347
+ },
+ {
+  "word": "point",
+  "start": 179.347,
+  "end": 179.823
+ },
+ {
+  "word": "four",
+  "start": 179.823,
+  "end": 180.231
+ },
+ {
+  "word": "billion,",
+  "start": 180.231,
+  "end": 180.912
+ },
+ {
+  "word": "against",
+  "start": 180.912,
+  "end": 181.524
+ },
+ {
+  "word": "about",
+  "start": 181.524,
+  "end": 182.0
+ },
+ {
+  "word": "six",
+  "start": 182.0,
+  "end": 182.34
+ },
+ {
+  "word": "billion",
+  "start": 182.34,
+  "end": 182.952
+ },
+ {
+  "word": "in",
+  "start": 182.952,
+  "end": 183.225
+ },
+ {
+  "word": "royalties.",
+  "start": 183.225,
+  "end": 184.041
+ },
+ {
+  "word": "McDonald's",
+  "start": 184.641,
+  "end": 185.298
+ },
+ {
+  "word": "annual",
+  "start": 185.298,
+  "end": 185.736
+ },
+ {
+  "word": "report",
+  "start": 185.736,
+  "end": 186.175
+ },
+ {
+  "word": "doesn't",
+  "start": 186.175,
+  "end": 186.668
+ },
+ {
+  "word": "say",
+  "start": 186.668,
+  "end": 186.942
+ },
+ {
+  "word": "which",
+  "start": 186.942,
+  "end": 187.325
+ },
+ {
+  "word": "earns",
+  "start": 187.325,
+  "end": 187.708
+ },
+ {
+  "word": "more",
+  "start": 187.708,
+  "end": 188.037
+ },
+ {
+  "word": "profit.",
+  "start": 188.037,
+  "end": 188.53
+ },
+ {
+  "word": "Rent",
+  "start": 188.83,
+  "end": 189.261
+ },
+ {
+  "word": "is",
+  "start": 189.261,
+  "end": 189.548
+ },
+ {
+  "word": "revenue,",
+  "start": 189.548,
+  "end": 190.267
+ },
+ {
+  "word": "before",
+  "start": 190.267,
+  "end": 190.841
+ },
+ {
+  "word": "the",
+  "start": 190.841,
+  "end": 191.201
+ },
+ {
+  "word": "company",
+  "start": 191.201,
+  "end": 191.847
+ },
+ {
+  "word": "pays",
+  "start": 191.847,
+  "end": 192.278
+ },
+ {
+  "word": "its",
+  "start": 192.278,
+  "end": 192.637
+ },
+ {
+  "word": "own",
+  "start": 192.637,
+  "end": 192.996
+ },
+ {
+  "word": "costs",
+  "start": 192.996,
+  "end": 193.499
+ },
+ {
+  "word": "for",
+  "start": 193.499,
+  "end": 193.858
+ },
+ {
+  "word": "those",
+  "start": 193.858,
+  "end": 194.361
+ },
+ {
+  "word": "sites.",
+  "start": 194.361,
+  "end": 194.936
+ },
+ {
+  "word": "It",
+  "start": 195.236,
+  "end": 195.453
+ },
+ {
+  "word": "only",
+  "start": 195.453,
+  "end": 195.779
+ },
+ {
+  "word": "shows",
+  "start": 195.779,
+  "end": 196.158
+ },
+ {
+  "word": "which",
+  "start": 196.158,
+  "end": 196.538
+ },
+ {
+  "word": "brings",
+  "start": 196.538,
+  "end": 196.972
+ },
+ {
+  "word": "in",
+  "start": 196.972,
+  "end": 197.189
+ },
+ {
+  "word": "more.",
+  "start": 197.189,
+  "end": 197.569
+ },
+ {
+  "word": "And",
+  "start": 198.169,
+  "end": 198.53
+ },
+ {
+  "word": "in",
+  "start": 198.53,
+  "end": 198.819
+ },
+ {
+  "word": "its",
+  "start": 198.819,
+  "end": 199.18
+ },
+ {
+  "word": "biggest",
+  "start": 199.18,
+  "end": 199.83
+ },
+ {
+  "word": "markets,",
+  "start": 199.83,
+  "end": 200.552
+ },
+ {
+  "word": "McDonald's",
+  "start": 200.552,
+  "end": 201.419
+ },
+ {
+  "word": "owns",
+  "start": 201.419,
+  "end": 201.852
+ },
+ {
+  "word": "about",
+  "start": 201.852,
+  "end": 202.357
+ },
+ {
+  "word": "56%",
+  "start": 202.357,
+  "end": 202.719
+ },
+ {
+  "word": "of",
+  "start": 202.719,
+  "end": 203.007
+ },
+ {
+  "word": "the",
+  "start": 203.007,
+  "end": 203.368
+ },
+ {
+  "word": "land.",
+  "start": 203.368,
+  "end": 203.874
+ },
+ {
+  "word": "That",
+  "start": 204.474,
+  "end": 204.775
+ },
+ {
+  "word": "famous",
+  "start": 204.775,
+  "end": 205.177
+ },
+ {
+  "word": "line,",
+  "start": 205.177,
+  "end": 205.528
+ },
+ {
+  "word": "'you're",
+  "start": 205.528,
+  "end": 205.98
+ },
+ {
+  "word": "in",
+  "start": 205.98,
+  "end": 206.181
+ },
+ {
+  "word": "the",
+  "start": 206.181,
+  "end": 206.432
+ },
+ {
+  "word": "real",
+  "start": 206.432,
+  "end": 206.733
+ },
+ {
+  "word": "estate",
+  "start": 206.733,
+  "end": 207.135
+ },
+ {
+  "word": "business'?",
+  "start": 207.135,
+  "end": 207.737
+ },
+ {
+  "word": "That",
+  "start": 208.037,
+  "end": 208.33
+ },
+ {
+  "word": "one's",
+  "start": 208.33,
+  "end": 208.671
+ },
+ {
+  "word": "from",
+  "start": 208.671,
+  "end": 208.963
+ },
+ {
+  "word": "a",
+  "start": 208.963,
+  "end": 209.11
+ },
+ {
+  "word": "movie,",
+  "start": 209.11,
+  "end": 209.5
+ },
+ {
+  "word": "The",
+  "start": 209.5,
+  "end": 209.743
+ },
+ {
+  "word": "Founder.",
+  "start": 209.743,
+  "end": 210.231
+ },
+ {
+  "word": "A",
+  "start": 210.831,
+  "end": 211.008
+ },
+ {
+  "word": "similar",
+  "start": 211.008,
+  "end": 211.538
+ },
+ {
+  "word": "line",
+  "start": 211.538,
+  "end": 211.891
+ },
+ {
+  "word": "is",
+  "start": 211.891,
+  "end": 212.126
+ },
+ {
+  "word": "widely",
+  "start": 212.126,
+  "end": 212.597
+ },
+ {
+  "word": "attributed",
+  "start": 212.597,
+  "end": 213.304
+ },
+ {
+  "word": "to",
+  "start": 213.304,
+  "end": 213.54
+ },
+ {
+  "word": "Sonneborn",
+  "start": 213.54,
+  "end": 214.187
+ },
+ {
+  "word": "himself.",
+  "start": 214.187,
+  "end": 214.776
+ },
+ {
+  "word": "Whether",
+  "start": 215.076,
+  "end": 215.631
+ },
+ {
+  "word": "he",
+  "start": 215.631,
+  "end": 215.878
+ },
+ {
+  "word": "said",
+  "start": 215.878,
+  "end": 216.248
+ },
+ {
+  "word": "it,",
+  "start": 216.248,
+  "end": 216.556
+ },
+ {
+  "word": "I",
+  "start": 216.556,
+  "end": 216.741
+ },
+ {
+  "word": "couldn't",
+  "start": 216.741,
+  "end": 217.358
+ },
+ {
+  "word": "find.",
+  "start": 217.358,
+  "end": 217.79
+ },
+ {
+  "word": "The",
+  "start": 218.09,
+  "end": 218.39
+ },
+ {
+  "word": "movie",
+  "start": 218.39,
+  "end": 218.811
+ },
+ {
+  "word": "just",
+  "start": 218.811,
+  "end": 219.172
+ },
+ {
+  "word": "gave",
+  "start": 219.172,
+  "end": 219.532
+ },
+ {
+  "word": "it",
+  "start": 219.532,
+  "end": 219.772
+ },
+ {
+  "word": "a",
+  "start": 219.772,
+  "end": 219.953
+ },
+ {
+  "word": "famous",
+  "start": 219.953,
+  "end": 220.433
+ },
+ {
+  "word": "voice.",
+  "start": 220.433,
+  "end": 220.914
+ },
+ {
+  "word": "June",
+  "start": 221.514,
+  "end": 222.592
+ },
+ {
+  "word": "1967.",
+  "start": 222.592,
+  "end": 223.849
+ },
+ {
+  "word": "Sonneborn",
+  "start": 224.149,
+  "end": 225.114
+ },
+ {
+  "word": "resigns.",
+  "start": 225.114,
+  "end": 225.992
+ },
+ {
+  "word": "One",
+  "start": 226.592,
+  "end": 226.868
+ },
+ {
+  "word": "account",
+  "start": 226.868,
+  "end": 227.364
+ },
+ {
+  "word": "says",
+  "start": 227.364,
+  "end": 227.695
+ },
+ {
+  "word": "Kroc",
+  "start": 227.695,
+  "end": 228.026
+ },
+ {
+  "word": "wanted",
+  "start": 228.026,
+  "end": 228.467
+ },
+ {
+  "word": "to",
+  "start": 228.467,
+  "end": 228.688
+ },
+ {
+  "word": "keep",
+  "start": 228.688,
+  "end": 229.019
+ },
+ {
+  "word": "expanding.",
+  "start": 229.019,
+  "end": 229.681
+ },
+ {
+  "word": "Sonneborn",
+  "start": 229.982,
+  "end": 230.589
+ },
+ {
+  "word": "expected",
+  "start": 230.589,
+  "end": 231.14
+ },
+ {
+  "word": "a",
+  "start": 231.14,
+  "end": 231.305
+ },
+ {
+  "word": "recession",
+  "start": 231.305,
+  "end": 231.912
+ },
+ {
+  "word": "and",
+  "start": 231.912,
+  "end": 232.188
+ },
+ {
+  "word": "wanted",
+  "start": 232.188,
+  "end": 232.629
+ },
+ {
+  "word": "to",
+  "start": 232.629,
+  "end": 232.85
+ },
+ {
+  "word": "stop",
+  "start": 232.85,
+  "end": 233.18
+ },
+ {
+  "word": "building.",
+  "start": 233.18,
+  "end": 233.787
+ },
+ {
+  "word": "By",
+  "start": 234.387,
+  "end": 234.606
+ },
+ {
+  "word": "that",
+  "start": 234.606,
+  "end": 234.935
+ },
+ {
+  "word": "account,",
+  "start": 234.935,
+  "end": 235.483
+ },
+ {
+  "word": "the",
+  "start": 235.483,
+  "end": 235.757
+ },
+ {
+  "word": "man",
+  "start": 235.757,
+  "end": 236.032
+ },
+ {
+  "word": "behind",
+  "start": 236.032,
+  "end": 236.47
+ },
+ {
+  "word": "the",
+  "start": 236.47,
+  "end": 236.744
+ },
+ {
+  "word": "question",
+  "start": 236.744,
+  "end": 237.292
+ },
+ {
+  "word": "quit",
+  "start": 237.292,
+  "end": 237.621
+ },
+ {
+  "word": "over",
+  "start": 237.621,
+  "end": 237.95
+ },
+ {
+  "word": "how",
+  "start": 237.95,
+  "end": 238.224
+ },
+ {
+  "word": "fast",
+  "start": 238.224,
+  "end": 238.553
+ },
+ {
+  "word": "to",
+  "start": 238.553,
+  "end": 238.772
+ },
+ {
+  "word": "build.",
+  "start": 238.772,
+  "end": 239.211
+ },
+ {
+  "word": "The",
+  "start": 239.511,
+  "end": 239.782
+ },
+ {
+  "word": "franchises",
+  "start": 239.782,
+  "end": 240.432
+ },
+ {
+  "word": "stayed,",
+  "start": 240.432,
+  "end": 240.92
+ },
+ {
+  "word": "and",
+  "start": 240.92,
+  "end": 241.191
+ },
+ {
+  "word": "the",
+  "start": 241.191,
+  "end": 241.461
+ },
+ {
+  "word": "rent",
+  "start": 241.461,
+  "end": 241.787
+ },
+ {
+  "word": "still",
+  "start": 241.787,
+  "end": 242.166
+ },
+ {
+  "word": "comes",
+  "start": 242.166,
+  "end": 242.545
+ },
+ {
+  "word": "in.",
+  "start": 242.545,
+  "end": 242.816
+ },
+ {
+  "word": "He",
+  "start": 243.416,
+  "end": 243.714
+ },
+ {
+  "word": "died",
+  "start": 243.714,
+  "end": 244.161
+ },
+ {
+  "word": "in",
+  "start": 244.161,
+  "end": 244.459
+ },
+ {
+  "word": "1992,",
+  "start": 244.459,
+  "end": 244.98
+ },
+ {
+  "word": "remembered",
+  "start": 244.98,
+  "end": 245.874
+ },
+ {
+  "word": "by",
+  "start": 245.874,
+  "end": 246.172
+ },
+ {
+  "word": "few,",
+  "start": 246.172,
+  "end": 246.619
+ },
+ {
+  "word": "and",
+  "start": 246.619,
+  "end": 246.992
+ },
+ {
+  "word": "best",
+  "start": 246.992,
+  "end": 247.439
+ },
+ {
+  "word": "known",
+  "start": 247.439,
+  "end": 247.96
+ },
+ {
+  "word": "today",
+  "start": 247.96,
+  "end": 248.482
+ },
+ {
+  "word": "for",
+  "start": 248.482,
+  "end": 248.854
+ },
+ {
+  "word": "a",
+  "start": 248.854,
+  "end": 249.078
+ },
+ {
+  "word": "movie",
+  "start": 249.078,
+  "end": 249.599
+ },
+ {
+  "word": "line",
+  "start": 249.599,
+  "end": 250.046
+ },
+ {
+  "word": "with",
+  "start": 250.046,
+  "end": 250.493
+ },
+ {
+  "word": "his",
+  "start": 250.493,
+  "end": 250.866
+ },
+ {
+  "word": "name",
+  "start": 250.866,
+  "end": 251.313
+ },
+ {
+  "word": "on",
+  "start": 251.313,
+  "end": 251.611
+ },
+ {
+  "word": "it.",
+  "start": 251.611,
+  "end": 251.983
+ },
+ {
+  "word": "Next",
+  "start": 252.983,
+  "end": 253.266
+ },
+ {
+  "word": "time",
+  "start": 253.266,
+  "end": 253.55
+ },
+ {
+  "word": "you",
+  "start": 253.55,
+  "end": 253.786
+ },
+ {
+  "word": "pass",
+  "start": 253.786,
+  "end": 254.069
+ },
+ {
+  "word": "one,",
+  "start": 254.069,
+  "end": 254.352
+ },
+ {
+  "word": "don't",
+  "start": 254.352,
+  "end": 254.683
+ },
+ {
+  "word": "count",
+  "start": 254.683,
+  "end": 255.014
+ },
+ {
+  "word": "the",
+  "start": 255.014,
+  "end": 255.25
+ },
+ {
+  "word": "burgers.",
+  "start": 255.25,
+  "end": 255.722
+ },
+ {
+  "word": "Whoever",
+  "start": 256.022,
+  "end": 256.471
+ },
+ {
+  "word": "runs",
+  "start": 256.471,
+  "end": 256.771
+ },
+ {
+  "word": "it,",
+  "start": 256.771,
+  "end": 257.021
+ },
+ {
+  "word": "ask",
+  "start": 257.021,
+  "end": 257.271
+ },
+ {
+  "word": "who",
+  "start": 257.271,
+  "end": 257.52
+ },
+ {
+  "word": "owns",
+  "start": 257.52,
+  "end": 257.82
+ },
+ {
+  "word": "the",
+  "start": 257.82,
+  "end": 258.07
+ },
+ {
+  "word": "ground.",
+  "start": 258.07,
+  "end": 258.519
+ },
+ {
+  "word": "Look",
+  "start": 258.819,
+  "end": 259.323
+ },
+ {
+  "word": "down.",
+  "start": 259.323,
+  "end": 259.912
+ },
+ {
+  "word": "Subscribe.",
+  "start": 260.512,
+  "end": 261.23
+ },
+ {
+  "word": "It's",
+  "start": 261.23,
+  "end": 261.589
+ },
+ {
+  "word": "the",
+  "start": 261.589,
+  "end": 261.888
+ },
+ {
+  "word": "one",
+  "start": 261.888,
+  "end": 262.187
+ },
+ {
+  "word": "deal",
+  "start": 262.187,
+  "end": 262.546
+ },
+ {
+  "word": "here",
+  "start": 262.546,
+  "end": 262.905
+ },
+ {
+  "word": "with",
+  "start": 262.905,
+  "end": 263.264
+ },
+ {
+  "word": "no",
+  "start": 263.264,
+  "end": 263.503
+ },
+ {
+  "word": "rent.",
+  "start": 263.503,
+  "end": 263.922
+ }
+]

@@ -1,0 +1,86 @@
+{
+ "slug": "2026-10-30-internet-dies",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "text": "You wake up. The whole world's internet is gone.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> SPLIT cover: a thin vertical line divides the picture. LEFT half: lying in bed happily watching a cute cat video on a smartphone with little hearts. RIGHT half: the same bed, the phone now showing only a gray screen with a crossed-out Wi-Fi symbol, the character with huge shocked eyes and open mouth. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "cover": true
+  },
+  {
+   "id": 2,
+   "text": "No email. No streaming. No cat videos. Your boss can't reach you, though.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> watching a floating mail envelope, a small television and a cute cat photo slowly fade into gray dust and drift away from him, a sad shrug. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right"
+  },
+  {
+   "id": 3,
+   "text": "Your phone feels like a brick. It isn't.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding up his smartphone with a smug raised-finger grin as if proving a point, plain bedroom background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 4,
+   "text": "GPS still works. Those satellites don't need the internet.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing outdoors holding up a smartphone showing a simple location pin, three small satellites orbiting high above him with thin dotted beams reaching down to the phone, cheerful. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "GPS"
+  },
+  {
+   "id": 5,
+   "text": "Saved a map earlier? It still guides you home. Nobody saved a map earlier.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> hiking a forest trail confidently while looking at his smartphone showing a saved offline map with a winding route line, a pin and a small star icon marking it saved, a small sunny cabin visible in the distance. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_left"
+  },
+  {
+   "id": 6,
+   "text": "An old battery radio still plays the news and emergency alerts. Yes, the one in the drawer.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> pulling an old battery-powered radio with a telescoping antenna out of a messy kitchen drawer with a proud grin, soft sound waves and a tiny alarm bell above it. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "pan_right"
+   ]
+  },
+  {
+   "id": 7,
+   "text": "Calls and texts? Maybe. Depends on your carrier.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding a smartphone to his ear with an uncertain shrug, a tall cell tower beside him with a tangle of crossed waves above it. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right"
+  },
+  {
+   "id": 8,
+   "text": "The bad news: almost all data between continents runs through undersea cables. The internet is basically wet.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a diving mask underwater looking at thick cables lying on the seabed that stretch from one continent to another far away, a curious fish nearby, calm blue water. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "overlay_text": "99%",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ]
+  },
+  {
+   "id": 9,
+   "text": "So, what would you do first?",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting on a couch with a thoughtful curious face, a thought bubble above him showing a small radio, a paper map and a satellite, plain living room. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  }
+ ]
+}

@@ -1,0 +1,744 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.954,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 0.0,
+    "end": 0.44
+   },
+   {
+    "text": "NOON.",
+    "start": 0.44,
+    "end": 0.954
+   }
+  ]
+ },
+ {
+  "start": 0.954,
+  "end": 2.569,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 0.954,
+    "end": 1.395
+   },
+   {
+    "text": "WHOLE",
+    "start": 1.395,
+    "end": 1.909
+   },
+   {
+    "text": "WORKDAY",
+    "start": 1.909,
+    "end": 2.569
+   }
+  ]
+ },
+ {
+  "start": 2.569,
+  "end": 3.377,
+  "words": [
+   {
+    "text": "IS",
+    "start": 2.569,
+    "end": 2.863
+   },
+   {
+    "text": "OVER.",
+    "start": 2.863,
+    "end": 3.377
+   }
+  ]
+ },
+ {
+  "start": 3.777,
+  "end": 4.477,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 3.777,
+    "end": 4.069
+   },
+   {
+    "text": "WHAT?",
+    "start": 4.069,
+    "end": 4.477
+   }
+  ]
+ },
+ {
+  "start": 4.977,
+  "end": 5.617,
+  "words": [
+   {
+    "text": "SPOILER:",
+    "start": 4.977,
+    "end": 5.617
+   }
+  ]
+ },
+ {
+  "start": 5.617,
+  "end": 6.641,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 5.617,
+    "end": 5.937
+   },
+   {
+    "text": "STILL",
+    "start": 5.937,
+    "end": 6.385
+   },
+   {
+    "text": "DO",
+    "start": 6.385,
+    "end": 6.641
+   }
+  ]
+ },
+ {
+  "start": 6.641,
+  "end": 7.857,
+  "words": [
+   {
+    "text": "IT",
+    "start": 6.641,
+    "end": 6.897
+   },
+   {
+    "text": "EVERY",
+    "start": 6.897,
+    "end": 7.345
+   },
+   {
+    "text": "NIGHT.",
+    "start": 7.345,
+    "end": 7.857
+   }
+  ]
+ },
+ {
+  "start": 8.407,
+  "end": 9.578,
+  "words": [
+   {
+    "text": "MODERN",
+    "start": 8.407,
+    "end": 8.927
+   },
+   {
+    "text": "KALAHARI",
+    "start": 8.927,
+    "end": 9.578
+   }
+  ]
+ },
+ {
+  "start": 9.578,
+  "end": 11.074,
+  "words": [
+   {
+    "text": "FORAGERS",
+    "start": 9.578,
+    "end": 10.229
+   },
+   {
+    "text": "FOUND",
+    "start": 10.229,
+    "end": 10.684
+   },
+   {
+    "text": "FOOD",
+    "start": 10.684,
+    "end": 11.074
+   }
+  ]
+ },
+ {
+  "start": 11.074,
+  "end": 11.855,
+  "words": [
+   {
+    "text": "IN",
+    "start": 11.074,
+    "end": 11.334
+   },
+   {
+    "text": "A",
+    "start": 11.334,
+    "end": 11.53
+   },
+   {
+    "text": "FEW",
+    "start": 11.53,
+    "end": 11.855
+   }
+  ]
+ },
+ {
+  "start": 11.855,
+  "end": 12.896,
+  "words": [
+   {
+    "text": "HOURS",
+    "start": 11.855,
+    "end": 12.31
+   },
+   {
+    "text": "A",
+    "start": 12.31,
+    "end": 12.505
+   },
+   {
+    "text": "DAY.",
+    "start": 12.505,
+    "end": 12.896
+   }
+  ]
+ },
+ {
+  "start": 12.896,
+  "end": 14.327,
+  "words": [
+   {
+    "text": "CHORES",
+    "start": 12.896,
+    "end": 13.416
+   },
+   {
+    "text": "CAME",
+    "start": 13.416,
+    "end": 13.807
+   },
+   {
+    "text": "EXTRA.",
+    "start": 13.807,
+    "end": 14.327
+   }
+  ]
+ },
+ {
+  "start": 14.727,
+  "end": 16.325,
+  "words": [
+   {
+    "text": "SO",
+    "start": 14.727,
+    "end": 15.153
+   },
+   {
+    "text": "YOU",
+    "start": 15.153,
+    "end": 15.686
+   },
+   {
+    "text": "NAP.",
+    "start": 15.686,
+    "end": 16.325
+   }
+  ]
+ },
+ {
+  "start": 16.325,
+  "end": 18.029,
+  "words": [
+   {
+    "text": "FIX",
+    "start": 16.325,
+    "end": 16.857
+   },
+   {
+    "text": "A",
+    "start": 16.857,
+    "end": 17.177
+   },
+   {
+    "text": "SPEAR.",
+    "start": 17.177,
+    "end": 18.029
+   }
+  ]
+ },
+ {
+  "start": 18.029,
+  "end": 18.988,
+  "words": [
+   {
+    "text": "GOSSIP.",
+    "start": 18.029,
+    "end": 18.988
+   }
+  ]
+ },
+ {
+  "start": 19.338,
+  "end": 20.263,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 19.338,
+    "end": 19.735
+   },
+   {
+    "text": "HOBBY:",
+    "start": 19.735,
+    "end": 20.263
+   }
+  ]
+ },
+ {
+  "start": 20.263,
+  "end": 21.321,
+  "words": [
+   {
+    "text": "OTHER",
+    "start": 20.263,
+    "end": 20.726
+   },
+   {
+    "text": "PEOPLE.",
+    "start": 20.726,
+    "end": 21.321
+   }
+  ]
+ },
+ {
+  "start": 21.87,
+  "end": 22.788,
+  "words": [
+   {
+    "text": "BY",
+    "start": 21.87,
+    "end": 22.132
+   },
+   {
+    "text": "EVENING,",
+    "start": 22.132,
+    "end": 22.788
+   }
+  ]
+ },
+ {
+  "start": 22.788,
+  "end": 23.969,
+  "words": [
+   {
+    "text": "THE",
+    "start": 22.788,
+    "end": 23.116
+   },
+   {
+    "text": "FIRE",
+    "start": 23.116,
+    "end": 23.51
+   },
+   {
+    "text": "COMES",
+    "start": 23.51,
+    "end": 23.969
+   }
+  ]
+ },
+ {
+  "start": 23.969,
+  "end": 24.669,
+  "words": [
+   {
+    "text": "OUT.",
+    "start": 23.969,
+    "end": 24.363
+   }
+  ]
+ },
+ {
+  "start": 24.813,
+  "end": 25.877,
+  "words": [
+   {
+    "text": "BY",
+    "start": 24.813,
+    "end": 25.097
+   },
+   {
+    "text": "DAY",
+    "start": 25.097,
+    "end": 25.452
+   },
+   {
+    "text": "THEY",
+    "start": 25.452,
+    "end": 25.877
+   }
+  ]
+ },
+ {
+  "start": 25.877,
+  "end": 27.439,
+  "words": [
+   {
+    "text": "ARGUED",
+    "start": 25.877,
+    "end": 26.445
+   },
+   {
+    "text": "ABOUT",
+    "start": 26.445,
+    "end": 26.942
+   },
+   {
+    "text": "FOOD,",
+    "start": 26.942,
+    "end": 27.439
+   }
+  ]
+ },
+ {
+  "start": 27.439,
+  "end": 27.935,
+  "words": [
+   {
+    "text": "LAND,",
+    "start": 27.439,
+    "end": 27.935
+   }
+  ]
+ },
+ {
+  "start": 27.935,
+  "end": 28.635,
+  "words": [
+   {
+    "text": "DRAMA.",
+    "start": 27.935,
+    "end": 28.503
+   }
+  ]
+ },
+ {
+  "start": 28.953,
+  "end": 29.988,
+  "words": [
+   {
+    "text": "BY",
+    "start": 28.953,
+    "end": 29.298
+   },
+   {
+    "text": "NIGHT,",
+    "start": 29.298,
+    "end": 29.988
+   }
+  ]
+ },
+ {
+  "start": 29.988,
+  "end": 32.144,
+  "words": [
+   {
+    "text": "EIGHTY-ONE",
+    "start": 29.988,
+    "end": 31.023
+   },
+   {
+    "text": "PERCENT",
+    "start": 31.023,
+    "end": 31.799
+   },
+   {
+    "text": "OF",
+    "start": 31.799,
+    "end": 32.144
+   }
+  ]
+ },
+ {
+  "start": 32.144,
+  "end": 33.783,
+  "words": [
+   {
+    "text": "LONG",
+    "start": 32.144,
+    "end": 32.661
+   },
+   {
+    "text": "CHATS",
+    "start": 32.661,
+    "end": 33.265
+   },
+   {
+    "text": "WERE",
+    "start": 33.265,
+    "end": 33.783
+   }
+  ]
+ },
+ {
+  "start": 33.783,
+  "end": 34.645,
+  "words": [
+   {
+    "text": "STORIES.",
+    "start": 33.783,
+    "end": 34.645
+   }
+  ]
+ },
+ {
+  "start": 35.045,
+  "end": 36.218,
+  "words": [
+   {
+    "text": "MOSTLY",
+    "start": 35.045,
+    "end": 35.453
+   },
+   {
+    "text": "ABOUT",
+    "start": 35.453,
+    "end": 35.81
+   },
+   {
+    "text": "PEOPLE",
+    "start": 35.81,
+    "end": 36.218
+   }
+  ]
+ },
+ {
+  "start": 36.218,
+  "end": 36.918,
+  "words": [
+   {
+    "text": "THEY",
+    "start": 36.218,
+    "end": 36.524
+   },
+   {
+    "text": "KNEW.",
+    "start": 36.524,
+    "end": 36.881
+   }
+  ]
+ },
+ {
+  "start": 37.231,
+  "end": 39.17,
+  "words": [
+   {
+    "text": "ANCIENT",
+    "start": 37.231,
+    "end": 37.99
+   },
+   {
+    "text": "REALITY",
+    "start": 37.99,
+    "end": 38.748
+   },
+   {
+    "text": "TV.",
+    "start": 38.748,
+    "end": 39.17
+   }
+  ]
+ },
+ {
+  "start": 39.52,
+  "end": 40.434,
+  "words": [
+   {
+    "text": "STARRING",
+    "start": 39.52,
+    "end": 40.091
+   },
+   {
+    "text": "YOUR",
+    "start": 40.091,
+    "end": 40.434
+   }
+  ]
+ },
+ {
+  "start": 40.434,
+  "end": 41.134,
+  "words": [
+   {
+    "text": "NEIGHBORS.",
+    "start": 40.434,
+    "end": 41.12
+   }
+  ]
+ },
+ {
+  "start": 41.57,
+  "end": 42.592,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 41.57,
+    "end": 41.893
+   },
+   {
+    "text": "GROUP",
+    "start": 41.893,
+    "end": 42.269
+   },
+   {
+    "text": "CHAT",
+    "start": 42.269,
+    "end": 42.592
+   }
+  ]
+ },
+ {
+  "start": 42.592,
+  "end": 43.56,
+  "words": [
+   {
+    "text": "IS",
+    "start": 42.592,
+    "end": 42.807
+   },
+   {
+    "text": "BASICALLY",
+    "start": 42.807,
+    "end": 43.398
+   },
+   {
+    "text": "A",
+    "start": 43.398,
+    "end": 43.56
+   }
+  ]
+ },
+ {
+  "start": 43.56,
+  "end": 44.26,
+  "words": [
+   {
+    "text": "CAMPFIRE.",
+    "start": 43.56,
+    "end": 44.151
+   }
+  ]
+ },
+ {
+  "start": 44.701,
+  "end": 46.151,
+  "words": [
+   {
+    "text": "NOT",
+    "start": 44.701,
+    "end": 45.184
+   },
+   {
+    "text": "CAVEMEN.",
+    "start": 45.184,
+    "end": 46.151
+   }
+  ]
+ },
+ {
+  "start": 46.151,
+  "end": 48.181,
+  "words": [
+   {
+    "text": "BUT",
+    "start": 46.151,
+    "end": 46.635
+   },
+   {
+    "text": "MAYBE",
+    "start": 46.635,
+    "end": 47.311
+   },
+   {
+    "text": "BOREDOM",
+    "start": 47.311,
+    "end": 48.181
+   }
+  ]
+ },
+ {
+  "start": 48.181,
+  "end": 49.825,
+  "words": [
+   {
+    "text": "BUILT",
+    "start": 48.181,
+    "end": 48.858
+   },
+   {
+    "text": "CULTURE.",
+    "start": 48.858,
+    "end": 49.825
+   }
+  ]
+ },
+ {
+  "start": 50.325,
+  "end": 51.353,
+  "words": [
+   {
+    "text": "WHAT",
+    "start": 50.325,
+    "end": 50.668
+   },
+   {
+    "text": "WOULD",
+    "start": 50.668,
+    "end": 51.068
+   },
+   {
+    "text": "YOU",
+    "start": 51.068,
+    "end": 51.353
+   }
+  ]
+ },
+ {
+  "start": 51.353,
+  "end": 52.439,
+  "words": [
+   {
+    "text": "DO",
+    "start": 51.353,
+    "end": 51.582
+   },
+   {
+    "text": "AFTER",
+    "start": 51.582,
+    "end": 51.982
+   },
+   {
+    "text": "LUNCH?",
+    "start": 51.982,
+    "end": 52.439
+   }
+  ]
+ },
+ {
+  "start": 52.789,
+  "end": 53.576,
+  "words": [
+   {
+    "text": "TELL",
+    "start": 52.789,
+    "end": 53.051
+   },
+   {
+    "text": "ME",
+    "start": 53.051,
+    "end": 53.226
+   },
+   {
+    "text": "BELOW.",
+    "start": 53.226,
+    "end": 53.576
+   }
+  ]
+ }
+]

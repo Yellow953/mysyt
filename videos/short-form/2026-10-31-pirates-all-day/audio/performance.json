@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Think pirates spent all day fighting, stealing treasure, and drinking rum? Yeah... not even close.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "01.mp3"
+  },
+  {
+    "text": "Most of the time, being a pirate was basically the worst job at sea.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "02.mp3"
+  },
+  {
+    "text": "They hauled ropes and mended sails. Miss your shift? Congratulations. You're everyone's least favorite pirate.",
+    "tag": "lazy",
+    "pause": 0.4,
+    "clip": "03.mp3"
+  },
+  {
+    "text": "And the food? Hard biscuits. Fresh fruit? Basically a luxury.",
+    "tag": "flat",
+    "pause": 0.4,
+    "clip": "04.mp3"
+  },
+  {
+    "text": "But when they spotted a merchant ship? EVERYTHING changed. Weapons out, hoping the other ship surrendered.",
+    "tag": "excited",
+    "pause": 0.4,
+    "clip": "05.mp3"
+  },
+  {
+    "text": "Win, and they got money, supplies, and cargo. Lose, and their career ended VERY badly.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "06.mp3"
+  },
+  {
+    "text": "So yeah, pirate life wasn't nonstop treasure hunting. It was mostly sea chores... with occasional murder attempts.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "07.mp3"
+  },
+  {
+    "text": "Still wanna be a pirate?",
+    "tag": "curious",
+    "pause": 0.0,
+    "clip": "08.mp3"
+  }
+]

@@ -1,0 +1,100 @@
+{
+ "slug": "2026-10-31-levels-business",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Country Music - Hugh Mitchel.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "Every level of being a businessman. From making your first five dollars… to owning a company that makes millions.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> SPLIT picture divided by a thin vertical line. LEFT half: Mr. Yellow Scarf holding one single dollar bill in his hand looking at it small, plain pavement. RIGHT half: Mr. Yellow Scarf in a nice suit standing proudly beside a tall glass skyscraper, plain pale sky, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Level one: The Hustler. You sell anything you can find. Old phones, sneakers, random stuff from your bedroom. Your startup capital? Basically zero.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf selling a dusty old laptop, old phones and sneakers out of a cardboard box on a street corner with a hopeful forced smile, one customer walking past, plain pavement, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_left",
+   "overlay_text": "LEVEL 1 — THE HUSTLER"
+  },
+  {
+   "id": 3,
+   "text": "Level two: Freelancer. You finally make money from your skills. There's just one problem: if you stop working, the money stops coming.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf typing on a laptop in a dark bedroom at 3 AM with tired eyes, a clock-like blank round shape on the wall, a small payment bubble popping up on the screen, mug of coffee, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "LEVEL 2 — FREELANCER"
+  },
+  {
+   "id": 4,
+   "text": "Level three: Startup Founder. You have an idea, a logo, and absolutely no customers. But don't worry. Your pitch deck says you're changing the world.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf presenting a giant blank slideshow screen to three confused stick-figure investors sitting in chairs, proud confident pose with a pointer, plain meeting room, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "moves": [
+    "pan_right",
+    "pan_left"
+   ],
+   "overlay_text": "LEVEL 3 — STARTUP FOUNDER"
+  },
+  {
+   "id": 5,
+   "text": "Level four: Business Owner. Customers are finally paying. Now you're managing employees, invoices, angry emails, and taxes. Congratulations. You created yourself a job.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a small office buried in ringing phones, paper invoices and stick-figure employees all asking him questions at once, overwhelmed face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "LEVEL 4 — BUSINESS OWNER"
+  },
+  {
+   "id": 6,
+   "text": "Level five: CEO. You have a team, real revenue, and an actual office. You no longer do everything yourself. Instead, you attend meetings about meetings.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a suit at the head of a long boardroom table, stick-figure colleagues around it and a giant projector screen full of endless blank slides, dead-eyed bored face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "LEVEL 5 — CEO"
+  },
+  {
+   "id": 7,
+   "text": "Level six: Serial Entrepreneur. You've built multiple businesses. Money is coming from different directions, and your calendar looks more complicated than a NASA launch.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a suit standing between three different small office buildings while dozens of blank notification bubbles explode in the air around him, calendar overload, frazzled face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ],
+   "overlay_text": "LEVEL 6 — SERIAL ENTREPRENEUR"
+  },
+  {
+   "id": 8,
+   "text": "Final level: Business Empire. Your companies run with entire leadership teams. You make huge decisions, invest millions, and somehow still ask your assistant where your keys are.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a suit in a huge corner office looking out at a city skyline through a giant window, blank glowing chart shapes and invented blank logo plaques on the wall behind him, a tiny assistant stick figure handing him a set of keys, proud but confused face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "FINAL LEVEL — BUSINESS EMPIRE"
+  },
+  {
+   "id": 9,
+   "text": "Which level are you at right now?",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf staring sadly at an empty open wallet in one hand, then looking determinedly at a laptop in the other, split-second two-pose look, plain background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "LEVEL 1 OR LEVEL 100?"
+  }
+ ]
+}

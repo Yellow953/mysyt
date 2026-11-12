@@ -1,0 +1,492 @@
+[
+ {
+  "word": "It's",
+  "start": 0.0,
+  "end": 0.459
+ },
+ {
+  "word": "September",
+  "start": 0.459,
+  "end": 1.301
+ },
+ {
+  "word": "3,",
+  "start": 1.301,
+  "end": 1.607
+ },
+ {
+  "word": "1929.",
+  "start": 1.607,
+  "end": 2.142
+ },
+ {
+  "word": "Wall",
+  "start": 2.142,
+  "end": 2.601
+ },
+ {
+  "word": "Street",
+  "start": 2.601,
+  "end": 3.213
+ },
+ {
+  "word": "has",
+  "start": 3.213,
+  "end": 3.596
+ },
+ {
+  "word": "never",
+  "start": 3.596,
+  "end": 4.131
+ },
+ {
+  "word": "been",
+  "start": 4.131,
+  "end": 4.59
+ },
+ {
+  "word": "higher.",
+  "start": 4.59,
+  "end": 5.279
+ },
+ {
+  "word": "Everyone's",
+  "start": 5.579,
+  "end": 6.332
+ },
+ {
+  "word": "rich.",
+  "start": 6.332,
+  "end": 6.771
+ },
+ {
+  "word": "You",
+  "start": 6.771,
+  "end": 7.084
+ },
+ {
+  "word": "know",
+  "start": 7.084,
+  "end": 7.461
+ },
+ {
+  "word": "it",
+  "start": 7.461,
+  "end": 7.712
+ },
+ {
+  "word": "ends",
+  "start": 7.712,
+  "end": 8.088
+ },
+ {
+  "word": "in",
+  "start": 8.088,
+  "end": 8.339
+ },
+ {
+  "word": "seven",
+  "start": 8.339,
+  "end": 8.778
+ },
+ {
+  "word": "weeks.",
+  "start": 8.778,
+  "end": 9.28
+ },
+ {
+  "word": "So",
+  "start": 9.58,
+  "end": 9.836
+ },
+ {
+  "word": "you",
+  "start": 9.836,
+  "end": 10.156
+ },
+ {
+  "word": "bet",
+  "start": 10.156,
+  "end": 10.476
+ },
+ {
+  "word": "against",
+  "start": 10.476,
+  "end": 11.051
+ },
+ {
+  "word": "the",
+  "start": 11.051,
+  "end": 11.371
+ },
+ {
+  "word": "market.",
+  "start": 11.371,
+  "end": 11.947
+ },
+ {
+  "word": "October",
+  "start": 12.247,
+  "end": 13.085
+ },
+ {
+  "word": "24.",
+  "start": 13.085,
+  "end": 13.55
+ },
+ {
+  "word": "The",
+  "start": 13.55,
+  "end": 14.016
+ },
+ {
+  "word": "floor",
+  "start": 14.016,
+  "end": 14.668
+ },
+ {
+  "word": "disappears.",
+  "start": 14.668,
+  "end": 15.878
+ },
+ {
+  "word": "By",
+  "start": 16.178,
+  "end": 16.543
+ },
+ {
+  "word": "November,",
+  "start": 16.543,
+  "end": 17.546
+ },
+ {
+  "word": "stocks",
+  "start": 17.546,
+  "end": 18.276
+ },
+ {
+  "word": "are",
+  "start": 18.276,
+  "end": 18.732
+ },
+ {
+  "word": "down",
+  "start": 18.732,
+  "end": 19.279
+ },
+ {
+  "word": "almost",
+  "start": 19.279,
+  "end": 20.009
+ },
+ {
+  "word": "half.",
+  "start": 20.009,
+  "end": 20.648
+ },
+ {
+  "word": "You're",
+  "start": 20.648,
+  "end": 21.377
+ },
+ {
+  "word": "rich.",
+  "start": 21.377,
+  "end": 22.016
+ },
+ {
+  "word": "Cash",
+  "start": 22.316,
+  "end": 22.838
+ },
+ {
+  "word": "out.",
+  "start": 22.838,
+  "end": 23.361
+ },
+ {
+  "word": "Don't",
+  "start": 23.361,
+  "end": 23.97
+ },
+ {
+  "word": "buy",
+  "start": 23.97,
+  "end": 24.406
+ },
+ {
+  "word": "the",
+  "start": 24.406,
+  "end": 24.841
+ },
+ {
+  "word": "dip",
+  "start": 24.841,
+  "end": 25.277
+ },
+ {
+  "word": "yet.",
+  "start": 25.277,
+  "end": 25.799
+ },
+ {
+  "word": "Stocks",
+  "start": 26.099,
+  "end": 26.669
+ },
+ {
+  "word": "bounce",
+  "start": 26.669,
+  "end": 27.239
+ },
+ {
+  "word": "nearly",
+  "start": 27.239,
+  "end": 27.808
+ },
+ {
+  "word": "fifty",
+  "start": 27.808,
+  "end": 28.307
+ },
+ {
+  "word": "percent.",
+  "start": 28.307,
+  "end": 29.019
+ },
+ {
+  "word": "Everyone",
+  "start": 29.019,
+  "end": 29.731
+ },
+ {
+  "word": "says",
+  "start": 29.731,
+  "end": 30.159
+ },
+ {
+  "word": "it's",
+  "start": 30.159,
+  "end": 30.586
+ },
+ {
+  "word": "over.",
+  "start": 30.586,
+  "end": 31.084
+ },
+ {
+  "word": "It",
+  "start": 31.084,
+  "end": 31.369
+ },
+ {
+  "word": "isn't.",
+  "start": 31.369,
+  "end": 31.939
+ },
+ {
+  "word": "You",
+  "start": 32.239,
+  "end": 32.781
+ },
+ {
+  "word": "wait",
+  "start": 32.781,
+  "end": 33.432
+ },
+ {
+  "word": "almost",
+  "start": 33.432,
+  "end": 34.3
+ },
+ {
+  "word": "three",
+  "start": 34.3,
+  "end": 35.06
+ },
+ {
+  "word": "years.",
+  "start": 35.06,
+  "end": 35.928
+ },
+ {
+  "word": "July",
+  "start": 35.928,
+  "end": 36.579
+ },
+ {
+  "word": "8,",
+  "start": 36.579,
+  "end": 37.013
+ },
+ {
+  "word": "1932.",
+  "start": 37.013,
+  "end": 37.773
+ },
+ {
+  "word": "The",
+  "start": 37.773,
+  "end": 38.315
+ },
+ {
+  "word": "Dow",
+  "start": 38.315,
+  "end": 38.858
+ },
+ {
+  "word": "is",
+  "start": 38.858,
+  "end": 39.291
+ },
+ {
+  "word": "down",
+  "start": 39.291,
+  "end": 39.943
+ },
+ {
+  "word": "eighty-nine",
+  "start": 39.943,
+  "end": 41.353
+ },
+ {
+  "word": "percent.",
+  "start": 41.353,
+  "end": 42.438
+ },
+ {
+  "word": "Now",
+  "start": 42.738,
+  "end": 43.099
+ },
+ {
+  "word": "you",
+  "start": 43.099,
+  "end": 43.46
+ },
+ {
+  "word": "buy",
+  "start": 43.46,
+  "end": 43.821
+ },
+ {
+  "word": "everything.",
+  "start": 43.821,
+  "end": 44.759
+ },
+ {
+  "word": "It",
+  "start": 45.059,
+  "end": 45.378
+ },
+ {
+  "word": "takes",
+  "start": 45.378,
+  "end": 45.937
+ },
+ {
+  "word": "until",
+  "start": 45.937,
+  "end": 46.496
+ },
+ {
+  "word": "1954",
+  "start": 46.496,
+  "end": 46.974
+ },
+ {
+  "word": "to",
+  "start": 46.974,
+  "end": 47.294
+ },
+ {
+  "word": "climb",
+  "start": 47.294,
+  "end": 47.852
+ },
+ {
+  "word": "back.",
+  "start": 47.852,
+  "end": 48.411
+ },
+ {
+  "word": "Your",
+  "start": 48.411,
+  "end": 48.89
+ },
+ {
+  "word": "money",
+  "start": 48.89,
+  "end": 49.448
+ },
+ {
+  "word": "grows",
+  "start": 49.448,
+  "end": 50.007
+ },
+ {
+  "word": "about",
+  "start": 50.007,
+  "end": 50.566
+ },
+ {
+  "word": "nine",
+  "start": 50.566,
+  "end": 51.045
+ },
+ {
+  "word": "times.",
+  "start": 51.045,
+  "end": 51.683
+ },
+ {
+  "word": "Predicting",
+  "start": 51.983,
+  "end": 52.681
+ },
+ {
+  "word": "the",
+  "start": 52.681,
+  "end": 52.971
+ },
+ {
+  "word": "crash",
+  "start": 52.971,
+  "end": 53.378
+ },
+ {
+  "word": "was",
+  "start": 53.378,
+  "end": 53.669
+ },
+ {
+  "word": "easy.",
+  "start": 53.669,
+  "end": 54.076
+ },
+ {
+  "word": "Waiting",
+  "start": 54.076,
+  "end": 54.599
+ },
+ {
+  "word": "was",
+  "start": 54.599,
+  "end": 54.89
+ },
+ {
+  "word": "the",
+  "start": 54.89,
+  "end": 55.18
+ },
+ {
+  "word": "hard",
+  "start": 55.18,
+  "end": 55.529
+ },
+ {
+  "word": "part.",
+  "start": 55.529,
+  "end": 55.936
+ }
+]

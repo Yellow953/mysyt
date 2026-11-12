@@ -1,0 +1,751 @@
+{
+ "total": 59.28,
+ "segs": [
+  {
+   "start": 0.0,
+   "end": 2.057,
+   "words": [
+    {
+     "text": "WHY",
+     "start": 0.0,
+     "end": 0.257
+    },
+    {
+     "text": "CAN'T",
+     "start": 0.257,
+     "end": 0.617
+    },
+    {
+     "text": "WE",
+     "start": 0.617,
+     "end": 0.823
+    },
+    {
+     "text": "JUST",
+     "start": 0.823,
+     "end": 1.131
+    },
+    {
+     "text": "DRINK",
+     "start": 1.131,
+     "end": 1.492
+    },
+    {
+     "text": "SEAWATER?",
+     "start": 1.492,
+     "end": 2.057
+    }
+   ]
+  },
+  {
+   "start": 2.421,
+   "end": 5.33,
+   "words": [
+    {
+     "text": "THERE'S",
+     "start": 2.421,
+     "end": 3.003
+    },
+    {
+     "text": "WATER",
+     "start": 3.003,
+     "end": 3.455
+    },
+    {
+     "text": "EVERYWHERE.",
+     "start": 3.455,
+     "end": 4.296
+    },
+    {
+     "text": "FREE",
+     "start": 4.296,
+     "end": 4.684
+    },
+    {
+     "text": "REFILLS.",
+     "start": 4.684,
+     "end": 5.33
+    }
+   ]
+  },
+  {
+   "start": 5.694,
+   "end": 9.338,
+   "words": [
+    {
+     "text": "BUT",
+     "start": 5.694,
+     "end": 5.958
+    },
+    {
+     "text": "SEAWATER",
+     "start": 5.958,
+     "end": 6.486
+    },
+    {
+     "text": "HAS",
+     "start": 6.486,
+     "end": 6.75
+    },
+    {
+     "text": "OVER",
+     "start": 6.75,
+     "end": 7.067
+    },
+    {
+     "text": "THREE",
+     "start": 7.067,
+     "end": 7.437
+    },
+    {
+     "text": "TIMES",
+     "start": 7.437,
+     "end": 7.806
+    },
+    {
+     "text": "THE",
+     "start": 7.806,
+     "end": 8.071
+    },
+    {
+     "text": "SALT",
+     "start": 8.071,
+     "end": 8.387
+    },
+    {
+     "text": "OF",
+     "start": 8.387,
+     "end": 8.599
+    },
+    {
+     "text": "YOUR",
+     "start": 8.599,
+     "end": 8.916
+    },
+    {
+     "text": "BLOOD.",
+     "start": 8.916,
+     "end": 9.338
+    }
+   ]
+  },
+  {
+   "start": 9.702,
+   "end": 15.752,
+   "words": [
+    {
+     "text": "YOUR",
+     "start": 9.702,
+     "end": 9.997
+    },
+    {
+     "text": "KIDNEYS",
+     "start": 9.997,
+     "end": 10.44
+    },
+    {
+     "text": "CAN'T",
+     "start": 10.44,
+     "end": 10.784
+    },
+    {
+     "text": "MAKE",
+     "start": 10.784,
+     "end": 11.079
+    },
+    {
+     "text": "PEE",
+     "start": 11.079,
+     "end": 11.325
+    },
+    {
+     "text": "SALTIER",
+     "start": 11.325,
+     "end": 11.768
+    },
+    {
+     "text": "THAN",
+     "start": 11.768,
+     "end": 12.063
+    },
+    {
+     "text": "THE",
+     "start": 12.063,
+     "end": 12.309
+    },
+    {
+     "text": "SEA,",
+     "start": 12.309,
+     "end": 12.604
+    },
+    {
+     "text": "SO",
+     "start": 12.604,
+     "end": 12.801
+    },
+    {
+     "text": "FLUSHING",
+     "start": 12.801,
+     "end": 13.292
+    },
+    {
+     "text": "THE",
+     "start": 13.292,
+     "end": 13.538
+    },
+    {
+     "text": "SALT",
+     "start": 13.538,
+     "end": 13.834
+    },
+    {
+     "text": "COSTS",
+     "start": 13.834,
+     "end": 14.178
+    },
+    {
+     "text": "MORE",
+     "start": 14.178,
+     "end": 14.473
+    },
+    {
+     "text": "WATER",
+     "start": 14.473,
+     "end": 14.817
+    },
+    {
+     "text": "THAN",
+     "start": 14.817,
+     "end": 15.112
+    },
+    {
+     "text": "YOU",
+     "start": 15.112,
+     "end": 15.358
+    },
+    {
+     "text": "DRANK.",
+     "start": 15.358,
+     "end": 15.752
+    }
+   ]
+  },
+  {
+   "start": 16.161,
+   "end": 18.592,
+   "words": [
+    {
+     "text": "CONGRATULATIONS.",
+     "start": 16.161,
+     "end": 17.312
+    },
+    {
+     "text": "YOU'RE",
+     "start": 17.312,
+     "end": 17.824
+    },
+    {
+     "text": "THIRSTIER.",
+     "start": 17.824,
+     "end": 18.592
+    }
+   ]
+  },
+  {
+   "start": 19.137,
+   "end": 25.513,
+   "words": [
+    {
+     "text": "THE",
+     "start": 19.137,
+     "end": 19.508
+    },
+    {
+     "text": "GULF",
+     "start": 19.508,
+     "end": 19.953
+    },
+    {
+     "text": "IS",
+     "start": 19.953,
+     "end": 20.249
+    },
+    {
+     "text": "HOT",
+     "start": 20.249,
+     "end": 20.62
+    },
+    {
+     "text": "DESERT",
+     "start": 20.62,
+     "end": 21.213
+    },
+    {
+     "text": "WITH",
+     "start": 21.213,
+     "end": 21.658
+    },
+    {
+     "text": "ALMOST",
+     "start": 21.658,
+     "end": 22.251
+    },
+    {
+     "text": "NO",
+     "start": 22.251,
+     "end": 22.547
+    },
+    {
+     "text": "RAIN,",
+     "start": 22.547,
+     "end": 23.066
+    },
+    {
+     "text": "SO",
+     "start": 23.066,
+     "end": 23.363
+    },
+    {
+     "text": "IT",
+     "start": 23.363,
+     "end": 23.659
+    },
+    {
+     "text": "USES",
+     "start": 23.659,
+     "end": 24.104
+    },
+    {
+     "text": "THE",
+     "start": 24.104,
+     "end": 24.475
+    },
+    {
+     "text": "SEA",
+     "start": 24.475,
+     "end": 24.846
+    },
+    {
+     "text": "ANYWAY.",
+     "start": 24.846,
+     "end": 25.513
+    }
+   ]
+  },
+  {
+   "start": 25.876,
+   "end": 32.308,
+   "words": [
+    {
+     "text": "DESALINATION",
+     "start": 25.876,
+     "end": 26.639
+    },
+    {
+     "text": "PLANTS",
+     "start": 26.639,
+     "end": 27.076
+    },
+    {
+     "text": "BOIL",
+     "start": 27.076,
+     "end": 27.403
+    },
+    {
+     "text": "SEAWATER",
+     "start": 27.403,
+     "end": 27.948
+    },
+    {
+     "text": "AND",
+     "start": 27.948,
+     "end": 28.22
+    },
+    {
+     "text": "CATCH",
+     "start": 28.22,
+     "end": 28.602
+    },
+    {
+     "text": "THE",
+     "start": 28.602,
+     "end": 28.874
+    },
+    {
+     "text": "STEAM,",
+     "start": 28.874,
+     "end": 29.31
+    },
+    {
+     "text": "OR",
+     "start": 29.31,
+     "end": 29.528
+    },
+    {
+     "text": "PUSH",
+     "start": 29.528,
+     "end": 29.855
+    },
+    {
+     "text": "IT",
+     "start": 29.855,
+     "end": 30.073
+    },
+    {
+     "text": "THROUGH",
+     "start": 30.073,
+     "end": 30.564
+    },
+    {
+     "text": "FILTERS",
+     "start": 30.564,
+     "end": 31.055
+    },
+    {
+     "text": "TOO",
+     "start": 31.055,
+     "end": 31.327
+    },
+    {
+     "text": "FINE",
+     "start": 31.327,
+     "end": 31.654
+    },
+    {
+     "text": "FOR",
+     "start": 31.654,
+     "end": 31.927
+    },
+    {
+     "text": "SALT.",
+     "start": 31.927,
+     "end": 32.308
+    }
+   ]
+  },
+  {
+   "start": 32.672,
+   "end": 39.565,
+   "words": [
+    {
+     "text": "ONE",
+     "start": 32.672,
+     "end": 33.013
+    },
+    {
+     "text": "SAUDI",
+     "start": 33.013,
+     "end": 33.491
+    },
+    {
+     "text": "PLANT",
+     "start": 33.491,
+     "end": 33.968
+    },
+    {
+     "text": "MAKES",
+     "start": 33.968,
+     "end": 34.446
+    },
+    {
+     "text": "A",
+     "start": 34.446,
+     "end": 34.651
+    },
+    {
+     "text": "MILLION",
+     "start": 34.651,
+     "end": 35.265
+    },
+    {
+     "text": "CUBIC",
+     "start": 35.265,
+     "end": 35.743
+    },
+    {
+     "text": "METERS",
+     "start": 35.743,
+     "end": 36.289
+    },
+    {
+     "text": "A",
+     "start": 36.289,
+     "end": 36.494
+    },
+    {
+     "text": "DAY.",
+     "start": 36.494,
+     "end": 36.903
+    },
+    {
+     "text": "ABOUT",
+     "start": 36.903,
+     "end": 37.381
+    },
+    {
+     "text": "FOUR",
+     "start": 37.381,
+     "end": 37.79
+    },
+    {
+     "text": "HUNDRED",
+     "start": 37.79,
+     "end": 38.404
+    },
+    {
+     "text": "OLYMPIC",
+     "start": 38.404,
+     "end": 39.019
+    },
+    {
+     "text": "POOLS.",
+     "start": 39.019,
+     "end": 39.565
+    }
+   ]
+  },
+  {
+   "start": 39.928,
+   "end": 46.475,
+   "words": [
+    {
+     "text": "THE",
+     "start": 39.928,
+     "end": 40.21
+    },
+    {
+     "text": "GULF",
+     "start": 40.21,
+     "end": 40.549
+    },
+    {
+     "text": "HOLDS",
+     "start": 40.549,
+     "end": 40.944
+    },
+    {
+     "text": "A",
+     "start": 40.944,
+     "end": 41.113
+    },
+    {
+     "text": "THIRD",
+     "start": 41.113,
+     "end": 41.508
+    },
+    {
+     "text": "OF",
+     "start": 41.508,
+     "end": 41.734
+    },
+    {
+     "text": "THE",
+     "start": 41.734,
+     "end": 42.016
+    },
+    {
+     "text": "WORLD'S",
+     "start": 42.016,
+     "end": 42.524
+    },
+    {
+     "text": "DESALINATION",
+     "start": 42.524,
+     "end": 43.314
+    },
+    {
+     "text": "CAPACITY.",
+     "start": 43.314,
+     "end": 43.935
+    },
+    {
+     "text": "KUWAIT",
+     "start": 43.935,
+     "end": 44.386
+    },
+    {
+     "text": "RELIES",
+     "start": 44.386,
+     "end": 44.838
+    },
+    {
+     "text": "ON",
+     "start": 44.838,
+     "end": 45.064
+    },
+    {
+     "text": "IT",
+     "start": 45.064,
+     "end": 45.289
+    },
+    {
+     "text": "ALMOST",
+     "start": 45.289,
+     "end": 45.741
+    },
+    {
+     "text": "COMPLETELY.",
+     "start": 45.741,
+     "end": 46.475
+    }
+   ]
+  },
+  {
+   "start": 46.838,
+   "end": 52.324,
+   "words": [
+    {
+     "text": "THE",
+     "start": 46.838,
+     "end": 47.136
+    },
+    {
+     "text": "CATCH?",
+     "start": 47.136,
+     "end": 47.613
+    },
+    {
+     "text": "IT",
+     "start": 47.613,
+     "end": 47.852
+    },
+    {
+     "text": "BURNS",
+     "start": 47.852,
+     "end": 48.269
+    },
+    {
+     "text": "LOTS",
+     "start": 48.269,
+     "end": 48.627
+    },
+    {
+     "text": "OF",
+     "start": 48.627,
+     "end": 48.865
+    },
+    {
+     "text": "ENERGY,",
+     "start": 48.865,
+     "end": 49.402
+    },
+    {
+     "text": "AND",
+     "start": 49.402,
+     "end": 49.7
+    },
+    {
+     "text": "THE",
+     "start": 49.7,
+     "end": 49.998
+    },
+    {
+     "text": "LEFTOVER",
+     "start": 49.998,
+     "end": 50.595
+    },
+    {
+     "text": "BRINE",
+     "start": 50.595,
+     "end": 51.012
+    },
+    {
+     "text": "CAN",
+     "start": 51.012,
+     "end": 51.31
+    },
+    {
+     "text": "HURT",
+     "start": 51.31,
+     "end": 51.668
+    },
+    {
+     "text": "THE",
+     "start": 51.668,
+     "end": 51.966
+    },
+    {
+     "text": "SEA.",
+     "start": 51.966,
+     "end": 52.324
+    }
+   ]
+  },
+  {
+   "start": 52.733,
+   "end": 58.576,
+   "words": [
+    {
+     "text": "SO",
+     "start": 52.733,
+     "end": 53.036
+    },
+    {
+     "text": "YES,",
+     "start": 53.036,
+     "end": 53.492
+    },
+    {
+     "text": "YOU",
+     "start": 53.492,
+     "end": 53.871
+    },
+    {
+     "text": "CAN",
+     "start": 53.871,
+     "end": 54.251
+    },
+    {
+     "text": "DRINK",
+     "start": 54.251,
+     "end": 54.782
+    },
+    {
+     "text": "THE",
+     "start": 54.782,
+     "end": 55.161
+    },
+    {
+     "text": "SEA.",
+     "start": 55.161,
+     "end": 55.617
+    },
+    {
+     "text": "YOU",
+     "start": 55.617,
+     "end": 55.996
+    },
+    {
+     "text": "JUST",
+     "start": 55.996,
+     "end": 56.451
+    },
+    {
+     "text": "NEED",
+     "start": 56.451,
+     "end": 56.907
+    },
+    {
+     "text": "A",
+     "start": 56.907,
+     "end": 57.134
+    },
+    {
+     "text": "VERY",
+     "start": 57.134,
+     "end": 57.59
+    },
+    {
+     "text": "BIG",
+     "start": 57.59,
+     "end": 57.969
+    },
+    {
+     "text": "PLANT.",
+     "start": 57.969,
+     "end": 58.576
+    }
+   ]
+  }
+ ]
+}

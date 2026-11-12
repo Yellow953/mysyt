@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Before Mario, Nintendo ran a taxi company.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Also instant rice. Also a vacuum cleaner.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Then its share price fell from nine hundred yen to sixty.",
+  "tag": "flat",
+  "pause": 0.5,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "So how did this mess end up making your childhood?",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "It started with flower cards. Yes, cards. 1889, by their own count.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Then Disney cards sold at least six hundred thousand packs. You'd have retired.",
+  "tag": "excited",
+  "pause": 0.35,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Instead, in the 1960s: taxis. Union trouble. Sold.",
+  "tag": "lazy",
+  "pause": 0.3,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Then a maintenance guy built a toy arm for fun. It sold.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Fifteen years later, same company: Donkey Kong. Mario's debut. You'd still be driving a taxi.",
+  "tag": "excited",
+  "pause": 0.5,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Which side hustle would you have tried?",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "11.mp3"
+ }
+]

@@ -1,0 +1,221 @@
+{
+ "slug": "medieval-privacy",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "You've waited months for tonight.",
+   "kind": "ILL",
+   "visual": "Candlelit path; you and your wife walking close, sleeves touching, she glances at you."
+  },
+  {
+   "id": 2,
+   "text": "Your wife is right beside you. So is your mother. Your father. Three little brothers. And a grandmother who has never once slept.",
+   "kind": "CUT",
+   "visual": "Family members pop into frame one by one; grandmother's wide unblinking eyes last."
+  },
+  {
+   "id": 3,
+   "text": "One room. Eight people. And you need five minutes alone.",
+   "kind": "ILL",
+   "visual": "Cutaway of a one-room house packed with sleeping bundles; you and your wife in the middle looking at the camera."
+  },
+  {
+   "id": 4,
+   "text": "You have a plan. It's a bad plan. But it's a plan.",
+   "kind": "CUT",
+   "visual": "You hold up a finger; your wife raises one eyebrow."
+  },
+  {
+   "id": 5,
+   "text": "Plan A. The village walks you to bed. In some places, that's tradition: candles, songs, advice you did not ask for.",
+   "kind": "ILL",
+   "visual": "Lantern procession to a doorway; guests crowd, one raises a finger, one thumbs up."
+  },
+  {
+   "id": 6,
+   "text": "The last guest winks at you. You have never wanted to hurt a stranger so much.",
+   "kind": "CUT",
+   "visual": "Wink close-up; your clenched fist, your wife patting it."
+  },
+  {
+   "id": 7,
+   "text": "They finally go. Your wife looks at you. You look at her. Your mother clears her throat from the bench.",
+   "kind": "ILL",
+   "visual": "Firelight on both faces; behind them mother on a bench, arms folded."
+  },
+  {
+   "id": 8,
+   "text": "Plan A is dead.",
+   "kind": "CUT",
+   "visual": "A big \"A\" crossed out, wobbling."
+  },
+  {
+   "id": 9,
+   "text": "Plan B. \"Let's get some air.\" Your wife takes your hand and you slip out into the dark field.",
+   "kind": "ILL",
+   "visual": "Moonlit field, two figures running hand in hand, laughing."
+  },
+  {
+   "id": 10,
+   "text": "It's quiet. It's cold. It's perfect. Then a lantern bobs up from the hedge. Then another. Then six.",
+   "kind": "ILL",
+   "visual": "Wide field; one by one, lanterns rise from the grass, each over a couple."
+  },
+  {
+   "id": 11,
+   "text": "Turns out you were not the first newlyweds to ask for some air. Somebody's cousin waves.",
+   "kind": "CUT",
+   "visual": "A cousin waves from the hedge, a couple scrambling to straighten their clothes."
+  },
+  {
+   "id": 12,
+   "text": "Plan B is dead. It's also freezing.",
+   "kind": "CUT",
+   "visual": "You, shivering, scarf flapping; your wife blows into her hands."
+  },
+  {
+   "id": 13,
+   "text": "Plan C is ambitious. The lord's manor. The rich had private rooms upstairs, with real beds and real curtains.",
+   "kind": "ILL",
+   "visual": "Stone manor at night, a lit upper window, a canopy bed visible with curtains half drawn."
+  },
+  {
+   "id": 14,
+   "text": "You tiptoe up the stairs. A soft bed. Heavy curtains. A door that shuts. And a very large man holding a lamp.",
+   "kind": "ILL",
+   "visual": "Staircase; at the top a huge steward silhouette with a lamp, you two frozen mid-step."
+  },
+  {
+   "id": 15,
+   "text": "\"What are you doing in the lord's bedroom?\" \"Looking at curtains.\" Your wife nods like an expert.",
+   "kind": "CUT",
+   "visual": "Steward looming; you pointing at the curtain; your wife nodding seriously."
+  },
+  {
+   "id": 16,
+   "text": "You are removed by the collar. Curtains, it turns out, are for people who own the building.",
+   "kind": "CUT",
+   "visual": "You and your wife tossed out the door in a heap; the door slams."
+  },
+  {
+   "id": 17,
+   "text": "Plan C is dead.",
+   "kind": "CUT",
+   "visual": "A big \"C\" crossed out."
+  },
+  {
+   "id": 18,
+   "text": "Plan D. Wait. Everyone sleeps eventually.",
+   "kind": "CUT",
+   "visual": "Back in the house, you and your wife sit up in the dark, watching the sleepers."
+  },
+  {
+   "id": 19,
+   "text": "Your father snores. Your brothers sleep in a heap. Your mother finally turns away. And the grandmother's eyes glint in the dark.",
+   "kind": "ILL",
+   "visual": "Dark room; sleeping bundles, and one pair of eyes lit by the embers."
+  },
+  {
+   "id": 20,
+   "text": "Your wife leans in and whispers a question. What day is it? You tell her. Her face falls.",
+   "kind": "ILL",
+   "visual": "Her lips at your ear, then both of you staring at a wall calendar."
+  },
+  {
+   "id": 21,
+   "text": "A church tradition, going back centuries, frowned on couples being together on certain days. How strictly people kept it is debated. Your grandmother keeps it strictly. For everyone.",
+   "kind": "CUT",
+   "visual": "Calendar with crosses; grandmother raises one eyebrow, still not asleep."
+  },
+  {
+   "id": 22,
+   "text": "Plan D is dead. You're starting to feel like a guest in your own marriage.",
+   "kind": "CUT",
+   "visual": "You, slumped, holding a cup; your wife patting your knee."
+  },
+  {
+   "id": 23,
+   "text": "And that's when your wife says it. \"Then stop looking for a room.\"",
+   "kind": "ILL",
+   "visual": "Close on her, firelight on her face, a spark in her eyes."
+  },
+  {
+   "id": 24,
+   "text": "Plan E. You build one.",
+   "kind": "CUT",
+   "visual": "You roll up your sleeves; a pile of planks, a saw, a bad attitude."
+  },
+  {
+   "id": 25,
+   "text": "Planks. A saw. Your wife holding the board, saying you're doing it wrong. A bed with four walls and a door on the front.",
+   "kind": "CUT",
+   "visual": "Montage: you sawing, plank snaps, sawdust puffs, her hands over yours to steady the saw."
+  },
+  {
+   "id": 26,
+   "text": "People really did this. A bed with walls and a door, a tiny house inside the house. They're called box beds.",
+   "kind": "ILL",
+   "visual": "The finished box bed, plain wooden, door open, firelight inside."
+  },
+  {
+   "id": 27,
+   "text": "You climb in. Your wife follows, laughing into her sleeve so nobody hears.",
+   "kind": "ILL",
+   "visual": "Two figures squeezing into the box, her hand over her mouth, shoulders shaking."
+  },
+  {
+   "id": 28,
+   "text": "It's small in there. Her shoulder against yours. Her breath an inch from your ear.",
+   "kind": "ILL",
+   "visual": "Close, warm: two faces in firelight, nearly touching."
+  },
+  {
+   "id": 29,
+   "text": "One inch of wood away, your father coughs. Your grandmother turns over, very pointedly.",
+   "kind": "CUT",
+   "visual": "Wall cross-section: the two of you inside, family silhouettes outside, the grandmother's eye at a knothole."
+  },
+  {
+   "id": 30,
+   "text": "So you learn the first rule of marriage in a one-room house. Quiet is a skill.",
+   "kind": "CUT",
+   "visual": "Your wife presses a finger to your lips, eyes full of mischief."
+  },
+  {
+   "id": 31,
+   "text": "She finds your hand in the dark. And you find out she's been practicing longer than you.",
+   "kind": "ILL",
+   "visual": "Interlaced hands in a thin gold line of light."
+  },
+  {
+   "id": 32,
+   "text": "You pull the door. It sticks. Then it shuts.",
+   "kind": "ILL",
+   "visual": "Close on the box door swinging shut, hand on the latch. Nothing beyond it."
+  },
+  {
+   "id": 33,
+   "text": "The firelight shrinks to one thin gold line. The house falls away.",
+   "kind": "ILL",
+   "visual": "Outside view: house at night, lanterns going dark one by one, the box a faint glow."
+  },
+  {
+   "id": 34,
+   "text": "For the first time all day, nobody is watching.",
+   "kind": "ILL",
+   "visual": "The closed box door, warm light at the seams."
+  },
+  {
+   "id": 35,
+   "text": "It wasn't much of a door.",
+   "kind": "ILL",
+   "visual": "Slow push on wood grain and a crooked hinge."
+  },
+  {
+   "id": 36,
+   "text": "It was the only one in the house, and you built it yourself.",
+   "kind": "ILL",
+   "visual": "Same frame held; the scarf tail lifts in a draft. Fade to black."
+  }
+ ]
+}

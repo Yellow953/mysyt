@@ -1,0 +1,698 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.98,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 0.0,
+    "end": 0.341
+   },
+   {
+    "text": "THE",
+    "start": 0.341,
+    "end": 0.554
+   },
+   {
+    "text": "SULTAN'S",
+    "start": 0.554,
+    "end": 0.98
+   }
+  ]
+ },
+ {
+  "start": 0.98,
+  "end": 1.747,
+  "words": [
+   {
+    "text": "LITTLE",
+    "start": 0.98,
+    "end": 1.321
+   },
+   {
+    "text": "BROTHER.",
+    "start": 1.321,
+    "end": 1.747
+   }
+  ]
+ },
+ {
+  "start": 2.047,
+  "end": 3.83,
+  "words": [
+   {
+    "text": "DAD",
+    "start": 2.047,
+    "end": 2.79
+   },
+   {
+    "text": "DIED.",
+    "start": 2.79,
+    "end": 3.83
+   }
+  ]
+ },
+ {
+  "start": 4.13,
+  "end": 5.344,
+  "words": [
+   {
+    "text": "LOSE",
+    "start": 4.13,
+    "end": 4.559
+   },
+   {
+    "text": "THE",
+    "start": 4.559,
+    "end": 4.916
+   },
+   {
+    "text": "RACE",
+    "start": 4.916,
+    "end": 5.344
+   }
+  ]
+ },
+ {
+  "start": 5.344,
+  "end": 6.416,
+  "words": [
+   {
+    "text": "TO",
+    "start": 5.344,
+    "end": 5.63
+   },
+   {
+    "text": "ISTANBUL,",
+    "start": 5.63,
+    "end": 6.416
+   }
+  ]
+ },
+ {
+  "start": 6.416,
+  "end": 7.559,
+  "words": [
+   {
+    "text": "GET",
+    "start": 6.416,
+    "end": 6.773
+   },
+   {
+    "text": "A",
+    "start": 6.773,
+    "end": 6.987
+   },
+   {
+    "text": "POLITE",
+    "start": 6.987,
+    "end": 7.559
+   }
+  ]
+ },
+ {
+  "start": 7.559,
+  "end": 8.259,
+  "words": [
+   {
+    "text": "VISIT.",
+    "start": 7.559,
+    "end": 8.13
+   }
+  ]
+ },
+ {
+  "start": 8.58,
+  "end": 10.148,
+  "words": [
+   {
+    "text": "FIRST",
+    "start": 8.58,
+    "end": 9.103
+   },
+   {
+    "text": "TO",
+    "start": 9.103,
+    "end": 9.401
+   },
+   {
+    "text": "ISTANBUL",
+    "start": 9.401,
+    "end": 10.148
+   }
+  ]
+ },
+ {
+  "start": 10.148,
+  "end": 11.342,
+  "words": [
+   {
+    "text": "USUALLY",
+    "start": 10.148,
+    "end": 10.819
+   },
+   {
+    "text": "WINS.",
+    "start": 10.819,
+    "end": 11.342
+   }
+  ]
+ },
+ {
+  "start": 11.742,
+  "end": 12.496,
+  "words": [
+   {
+    "text": "IN",
+    "start": 11.742,
+    "end": 12.016
+   },
+   {
+    "text": "1481,",
+    "start": 12.016,
+    "end": 12.496
+   }
+  ]
+ },
+ {
+  "start": 12.496,
+  "end": 14.142,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 12.496,
+    "end": 12.908
+   },
+   {
+    "text": "BROTHER",
+    "start": 12.908,
+    "end": 13.525
+   },
+   {
+    "text": "BAYEZID",
+    "start": 13.525,
+    "end": 14.142
+   }
+  ]
+ },
+ {
+  "start": 14.142,
+  "end": 15.171,
+  "words": [
+   {
+    "text": "BEAT",
+    "start": 14.142,
+    "end": 14.554
+   },
+   {
+    "text": "YOU",
+    "start": 14.554,
+    "end": 14.896
+   },
+   {
+    "text": "TO",
+    "start": 14.896,
+    "end": 15.171
+   }
+  ]
+ },
+ {
+  "start": 15.171,
+  "end": 15.925,
+  "words": [
+   {
+    "text": "ISTANBUL.",
+    "start": 15.171,
+    "end": 15.925
+   }
+  ]
+ },
+ {
+  "start": 16.225,
+  "end": 17.825,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 16.225,
+    "end": 16.625
+   },
+   {
+    "text": "FLEE",
+    "start": 16.625,
+    "end": 17.105
+   },
+   {
+    "text": "ABROAD.",
+    "start": 17.105,
+    "end": 17.825
+   }
+  ]
+ },
+ {
+  "start": 17.825,
+  "end": 18.525,
+  "words": [
+   {
+    "text": "SMART.",
+    "start": 17.825,
+    "end": 18.465
+   }
+  ]
+ },
+ {
+  "start": 19.065,
+  "end": 20.861,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 19.065,
+    "end": 19.626
+   },
+   {
+    "text": "A",
+    "start": 19.626,
+    "end": 19.963
+   },
+   {
+    "text": "WHILE.",
+    "start": 19.963,
+    "end": 20.861
+   }
+  ]
+ },
+ {
+  "start": 21.261,
+  "end": 23.15,
+  "words": [
+   {
+    "text": "THE",
+    "start": 21.261,
+    "end": 21.655
+   },
+   {
+    "text": "CONQUEROR'S",
+    "start": 21.655,
+    "end": 22.678
+   },
+   {
+    "text": "LAW:",
+    "start": 22.678,
+    "end": 23.15
+   }
+  ]
+ },
+ {
+  "start": 23.15,
+  "end": 24.646,
+  "words": [
+   {
+    "text": "BROTHERS",
+    "start": 23.15,
+    "end": 23.938
+   },
+   {
+    "text": "CAN",
+    "start": 23.938,
+    "end": 24.331
+   },
+   {
+    "text": "BE",
+    "start": 24.331,
+    "end": 24.646
+   }
+  ]
+ },
+ {
+  "start": 24.646,
+  "end": 25.433,
+  "words": [
+   {
+    "text": "REMOVED.",
+    "start": 24.646,
+    "end": 25.433
+   }
+  ]
+ },
+ {
+  "start": 25.433,
+  "end": 26.457,
+  "words": [
+   {
+    "text": "OFFICIALLY,",
+    "start": 25.433,
+    "end": 26.457
+   }
+  ]
+ },
+ {
+  "start": 26.457,
+  "end": 27.48,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 26.457,
+    "end": 26.85
+   },
+   {
+    "text": "ORDER.",
+    "start": 26.85,
+    "end": 27.48
+   }
+  ]
+ },
+ {
+  "start": 27.88,
+  "end": 28.698,
+  "words": [
+   {
+    "text": "IN",
+    "start": 27.88,
+    "end": 28.177
+   },
+   {
+    "text": "1595,",
+    "start": 28.177,
+    "end": 28.698
+   }
+  ]
+ },
+ {
+  "start": 28.698,
+  "end": 30.408,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 28.698,
+    "end": 29.144
+   },
+   {
+    "text": "BROTHER",
+    "start": 29.144,
+    "end": 29.813
+   },
+   {
+    "text": "MEHMED",
+    "start": 29.813,
+    "end": 30.408
+   }
+  ]
+ },
+ {
+  "start": 30.408,
+  "end": 31.821,
+  "words": [
+   {
+    "text": "THE",
+    "start": 30.408,
+    "end": 30.78
+   },
+   {
+    "text": "THIRD",
+    "start": 30.78,
+    "end": 31.3
+   },
+   {
+    "text": "TAKES",
+    "start": 31.3,
+    "end": 31.821
+   }
+  ]
+ },
+ {
+  "start": 31.821,
+  "end": 32.862,
+  "words": [
+   {
+    "text": "THE",
+    "start": 31.821,
+    "end": 32.193
+   },
+   {
+    "text": "THRONE.",
+    "start": 32.193,
+    "end": 32.862
+   }
+  ]
+ },
+ {
+  "start": 32.862,
+  "end": 34.126,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 32.862,
+    "end": 33.457
+   },
+   {
+    "text": "ONE",
+    "start": 33.457,
+    "end": 33.829
+   },
+   {
+    "text": "OF",
+    "start": 33.829,
+    "end": 34.126
+   }
+  ]
+ },
+ {
+  "start": 34.126,
+  "end": 34.944,
+  "words": [
+   {
+    "text": "NINETEEN.",
+    "start": 34.126,
+    "end": 34.944
+   }
+  ]
+ },
+ {
+  "start": 35.394,
+  "end": 37.234,
+  "words": [
+   {
+    "text": "BASICALLY",
+    "start": 35.394,
+    "end": 36.314
+   },
+   {
+    "text": "DAY",
+    "start": 36.314,
+    "end": 36.732
+   },
+   {
+    "text": "ONE.",
+    "start": 36.732,
+    "end": 37.234
+   }
+  ]
+ },
+ {
+  "start": 37.834,
+  "end": 39.128,
+  "words": [
+   {
+    "text": "AHMED",
+    "start": 37.834,
+    "end": 38.311
+   },
+   {
+    "text": "THE",
+    "start": 38.311,
+    "end": 38.651
+   },
+   {
+    "text": "FIRST",
+    "start": 38.651,
+    "end": 39.128
+   }
+  ]
+ },
+ {
+  "start": 39.128,
+  "end": 40.694,
+  "words": [
+   {
+    "text": "SPARES",
+    "start": 39.128,
+    "end": 39.673
+   },
+   {
+    "text": "HIS",
+    "start": 39.673,
+    "end": 40.013
+   },
+   {
+    "text": "BROTHER.",
+    "start": 40.013,
+    "end": 40.694
+   }
+  ]
+ },
+ {
+  "start": 40.994,
+  "end": 41.525,
+  "words": [
+   {
+    "text": "LATER,",
+    "start": 40.994,
+    "end": 41.525
+   }
+  ]
+ },
+ {
+  "start": 41.525,
+  "end": 43.053,
+  "words": [
+   {
+    "text": "SULTANS",
+    "start": 41.525,
+    "end": 42.123
+   },
+   {
+    "text": "MOSTLY",
+    "start": 42.123,
+    "end": 42.655
+   },
+   {
+    "text": "CAGE",
+    "start": 42.655,
+    "end": 43.053
+   }
+  ]
+ },
+ {
+  "start": 43.053,
+  "end": 44.382,
+  "words": [
+   {
+    "text": "BROTHERS",
+    "start": 43.053,
+    "end": 43.718
+   },
+   {
+    "text": "INSTEAD.",
+    "start": 43.718,
+    "end": 44.382
+   }
+  ]
+ },
+ {
+  "start": 44.782,
+  "end": 46.171,
+  "words": [
+   {
+    "text": "FREE",
+    "start": 44.782,
+    "end": 45.377
+   },
+   {
+    "text": "ROOMS.",
+    "start": 45.377,
+    "end": 46.171
+   }
+  ]
+ },
+ {
+  "start": 46.171,
+  "end": 47.262,
+  "words": [
+   {
+    "text": "NO",
+    "start": 46.171,
+    "end": 46.568
+   },
+   {
+    "text": "EXIT.",
+    "start": 46.568,
+    "end": 47.262
+   }
+  ]
+ },
+ {
+  "start": 47.662,
+  "end": 48.472,
+  "words": [
+   {
+    "text": "HONESTLY?",
+    "start": 47.662,
+    "end": 48.472
+   }
+  ]
+ },
+ {
+  "start": 48.472,
+  "end": 49.209,
+  "words": [
+   {
+    "text": "USUALLY,",
+    "start": 48.472,
+    "end": 49.209
+   }
+  ]
+ },
+ {
+  "start": 49.209,
+  "end": 50.535,
+  "words": [
+   {
+    "text": "TAKE",
+    "start": 49.209,
+    "end": 49.651
+   },
+   {
+    "text": "THE",
+    "start": 49.651,
+    "end": 50.019
+   },
+   {
+    "text": "CAGE.",
+    "start": 50.019,
+    "end": 50.535
+   }
+  ]
+ },
+ {
+  "start": 50.935,
+  "end": 51.518,
+  "words": [
+   {
+    "text": "RUN,",
+    "start": 50.935,
+    "end": 51.518
+   }
+  ]
+ },
+ {
+  "start": 51.518,
+  "end": 52.975,
+  "words": [
+   {
+    "text": "OR",
+    "start": 51.518,
+    "end": 51.906
+   },
+   {
+    "text": "TAKE",
+    "start": 51.906,
+    "end": 52.489
+   },
+   {
+    "text": "THE",
+    "start": 52.489,
+    "end": 52.975
+   }
+  ]
+ },
+ {
+  "start": 52.975,
+  "end": 53.675,
+  "words": [
+   {
+    "text": "CAGE?",
+    "start": 52.975,
+    "end": 53.655
+   }
+  ]
+ }
+]

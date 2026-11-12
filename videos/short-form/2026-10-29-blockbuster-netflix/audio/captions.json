@@ -1,0 +1,652 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.617,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 0.0,
+    "end": 0.545
+   },
+   {
+    "text": "RUN",
+    "start": 0.545,
+    "end": 1.09
+   },
+   {
+    "text": "BLOCKBUSTER.",
+    "start": 1.09,
+    "end": 2.617
+   }
+  ]
+ },
+ {
+  "start": 2.617,
+  "end": 4.034,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 2.617,
+    "end": 3.271
+   },
+   {
+    "text": "2000.",
+    "start": 3.271,
+    "end": 4.034
+   }
+  ]
+ },
+ {
+  "start": 4.384,
+  "end": 6.031,
+  "words": [
+   {
+    "text": "TWO",
+    "start": 4.384,
+    "end": 4.796
+   },
+   {
+    "text": "NERVOUS",
+    "start": 4.796,
+    "end": 5.537
+   },
+   {
+    "text": "GUYS",
+    "start": 5.537,
+    "end": 6.031
+   }
+  ]
+ },
+ {
+  "start": 6.031,
+  "end": 7.843,
+  "words": [
+   {
+    "text": "OFFER",
+    "start": 6.031,
+    "end": 6.608
+   },
+   {
+    "text": "YOU",
+    "start": 6.608,
+    "end": 7.019
+   },
+   {
+    "text": "NETFLIX.",
+    "start": 7.019,
+    "end": 7.843
+   }
+  ]
+ },
+ {
+  "start": 7.843,
+  "end": 9.984,
+  "words": [
+   {
+    "text": "FIFTY",
+    "start": 7.843,
+    "end": 8.419
+   },
+   {
+    "text": "MILLION",
+    "start": 8.419,
+    "end": 9.16
+   },
+   {
+    "text": "DOLLARS.",
+    "start": 9.16,
+    "end": 9.984
+   }
+  ]
+ },
+ {
+  "start": 10.384,
+  "end": 11.014,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 10.384,
+    "end": 10.594
+   },
+   {
+    "text": "OF",
+    "start": 10.594,
+    "end": 10.762
+   },
+   {
+    "text": "THEM",
+    "start": 10.762,
+    "end": 11.014
+   }
+  ]
+ },
+ {
+  "start": 11.014,
+  "end": 11.811,
+  "words": [
+   {
+    "text": "SAYS",
+    "start": 11.014,
+    "end": 11.266
+   },
+   {
+    "text": "YOU",
+    "start": 11.266,
+    "end": 11.475
+   },
+   {
+    "text": "FOUGHT",
+    "start": 11.475,
+    "end": 11.811
+   }
+  ]
+ },
+ {
+  "start": 11.811,
+  "end": 12.525,
+  "words": [
+   {
+    "text": "BACK",
+    "start": 11.811,
+    "end": 12.063
+   },
+   {
+    "text": "A",
+    "start": 12.063,
+    "end": 12.189
+   },
+   {
+    "text": "LAUGH.",
+    "start": 12.189,
+    "end": 12.525
+   }
+  ]
+ },
+ {
+  "start": 13.025,
+  "end": 14.561,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 13.025,
+    "end": 13.537
+   },
+   {
+    "text": "SAY",
+    "start": 13.537,
+    "end": 14.049
+   },
+   {
+    "text": "NO.",
+    "start": 14.049,
+    "end": 14.561
+   }
+  ]
+ },
+ {
+  "start": 15.061,
+  "end": 16.276,
+  "words": [
+   {
+    "text": "TEN",
+    "start": 15.061,
+    "end": 15.365
+   },
+   {
+    "text": "YEARS",
+    "start": 15.365,
+    "end": 15.79
+   },
+   {
+    "text": "LATER,",
+    "start": 15.79,
+    "end": 16.276
+   }
+  ]
+ },
+ {
+  "start": 16.276,
+  "end": 17.43,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 16.276,
+    "end": 16.762
+   },
+   {
+    "text": "BANKRUPT.",
+    "start": 16.762,
+    "end": 17.43
+   }
+  ]
+ },
+ {
+  "start": 18.13,
+  "end": 19.931,
+  "words": [
+   {
+    "text": "THEIR",
+    "start": 18.13,
+    "end": 18.655
+   },
+   {
+    "text": "COMPANY",
+    "start": 18.655,
+    "end": 19.331
+   },
+   {
+    "text": "MAILED",
+    "start": 19.331,
+    "end": 19.931
+   }
+  ]
+ },
+ {
+  "start": 19.931,
+  "end": 21.282,
+  "words": [
+   {
+    "text": "DVDS",
+    "start": 19.931,
+    "end": 20.381
+   },
+   {
+    "text": "IN",
+    "start": 20.381,
+    "end": 20.681
+   },
+   {
+    "text": "LITTLE",
+    "start": 20.681,
+    "end": 21.282
+   }
+  ]
+ },
+ {
+  "start": 21.282,
+  "end": 22.182,
+  "words": [
+   {
+    "text": "ENVELOPES.",
+    "start": 21.282,
+    "end": 22.182
+   }
+  ]
+ },
+ {
+  "start": 22.582,
+  "end": 24.41,
+  "words": [
+   {
+    "text": "YOURS",
+    "start": 22.582,
+    "end": 23.138
+   },
+   {
+    "text": "HAD",
+    "start": 23.138,
+    "end": 23.536
+   },
+   {
+    "text": "THOUSANDS",
+    "start": 23.536,
+    "end": 24.41
+   }
+  ]
+ },
+ {
+  "start": 24.41,
+  "end": 25.443,
+  "words": [
+   {
+    "text": "OF",
+    "start": 24.41,
+    "end": 24.728
+   },
+   {
+    "text": "STORES.",
+    "start": 24.728,
+    "end": 25.443
+   }
+  ]
+ },
+ {
+  "start": 25.443,
+  "end": 26.873,
+  "words": [
+   {
+    "text": "AND",
+    "start": 25.443,
+    "end": 25.84
+   },
+   {
+    "text": "LATE",
+    "start": 25.84,
+    "end": 26.317
+   },
+   {
+    "text": "FEES.",
+    "start": 26.317,
+    "end": 26.873
+   }
+  ]
+ },
+ {
+  "start": 27.373,
+  "end": 28.852,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 27.373,
+    "end": 27.714
+   },
+   {
+    "text": "EVERYBODY",
+    "start": 27.714,
+    "end": 28.34
+   },
+   {
+    "text": "STARTED",
+    "start": 28.34,
+    "end": 28.852
+   }
+  ]
+ },
+ {
+  "start": 28.852,
+  "end": 29.552,
+  "words": [
+   {
+    "text": "STREAMING.",
+    "start": 28.852,
+    "end": 29.535
+   }
+  ]
+ },
+ {
+  "start": 30.035,
+  "end": 31.171,
+  "words": [
+   {
+    "text": "NETFLIX",
+    "start": 30.035,
+    "end": 30.546
+   },
+   {
+    "text": "IS",
+    "start": 30.546,
+    "end": 30.773
+   },
+   {
+    "text": "STILL",
+    "start": 30.773,
+    "end": 31.171
+   }
+  ]
+ },
+ {
+  "start": 31.171,
+  "end": 31.871,
+  "words": [
+   {
+    "text": "HERE.",
+    "start": 31.171,
+    "end": 31.568
+   }
+  ]
+ },
+ {
+  "start": 32.168,
+  "end": 33.116,
+  "words": [
+   {
+    "text": "BY",
+    "start": 32.168,
+    "end": 32.513
+   },
+   {
+    "text": "2019,",
+    "start": 32.513,
+    "end": 33.116
+   }
+  ]
+ },
+ {
+  "start": 33.116,
+  "end": 35.097,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 33.116,
+    "end": 33.546
+   },
+   {
+    "text": "BLOCKBUSTER",
+    "start": 33.546,
+    "end": 34.666
+   },
+   {
+    "text": "WAS",
+    "start": 34.666,
+    "end": 35.097
+   }
+  ]
+ },
+ {
+  "start": 35.097,
+  "end": 35.7,
+  "words": [
+   {
+    "text": "LEFT.",
+    "start": 35.097,
+    "end": 35.7
+   }
+  ]
+ },
+ {
+  "start": 35.7,
+  "end": 36.82,
+  "words": [
+   {
+    "text": "IN",
+    "start": 35.7,
+    "end": 36.045
+   },
+   {
+    "text": "OREGON.",
+    "start": 36.045,
+    "end": 36.82
+   }
+  ]
+ },
+ {
+  "start": 37.22,
+  "end": 38.462,
+  "words": [
+   {
+    "text": "TOURISTS",
+    "start": 37.22,
+    "end": 37.812
+   },
+   {
+    "text": "VISIT",
+    "start": 37.812,
+    "end": 38.226
+   },
+   {
+    "text": "IT",
+    "start": 38.226,
+    "end": 38.462
+   }
+  ]
+ },
+ {
+  "start": 38.462,
+  "end": 39.527,
+  "words": [
+   {
+    "text": "LIKE",
+    "start": 38.462,
+    "end": 38.817
+   },
+   {
+    "text": "A",
+    "start": 38.817,
+    "end": 38.995
+   },
+   {
+    "text": "MUSEUM.",
+    "start": 38.995,
+    "end": 39.527
+   }
+  ]
+ },
+ {
+  "start": 40.127,
+  "end": 41.088,
+  "words": [
+   {
+    "text": "TO",
+    "start": 40.127,
+    "end": 40.383
+   },
+   {
+    "text": "BE",
+    "start": 40.383,
+    "end": 40.64
+   },
+   {
+    "text": "FAIR,",
+    "start": 40.64,
+    "end": 41.088
+   }
+  ]
+ },
+ {
+  "start": 41.088,
+  "end": 42.433,
+  "words": [
+   {
+    "text": "EVERYONE",
+    "start": 41.088,
+    "end": 41.729
+   },
+   {
+    "text": "WAS",
+    "start": 41.729,
+    "end": 42.049
+   },
+   {
+    "text": "NUTS",
+    "start": 42.049,
+    "end": 42.433
+   }
+  ]
+ },
+ {
+  "start": 42.433,
+  "end": 43.138,
+  "words": [
+   {
+    "text": "IN",
+    "start": 42.433,
+    "end": 42.69
+   },
+   {
+    "text": "2000.",
+    "start": 42.69,
+    "end": 43.138
+   }
+  ]
+ },
+ {
+  "start": 43.538,
+  "end": 44.348,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 43.538,
+    "end": 43.862
+   },
+   {
+    "text": "NO",
+    "start": 43.862,
+    "end": 44.078
+   },
+   {
+    "text": "WAS",
+    "start": 44.078,
+    "end": 44.348
+   }
+  ]
+ },
+ {
+  "start": 44.348,
+  "end": 45.32,
+  "words": [
+   {
+    "text": "JUST",
+    "start": 44.348,
+    "end": 44.672
+   },
+   {
+    "text": "EXPENSIVE.",
+    "start": 44.672,
+    "end": 45.32
+   }
+  ]
+ },
+ {
+  "start": 46.02,
+  "end": 46.75,
+  "words": [
+   {
+    "text": "BE",
+    "start": 46.02,
+    "end": 46.244
+   },
+   {
+    "text": "HONEST.",
+    "start": 46.244,
+    "end": 46.75
+   }
+  ]
+ },
+ {
+  "start": 46.75,
+  "end": 47.816,
+  "words": [
+   {
+    "text": "YOU'D",
+    "start": 46.75,
+    "end": 47.142
+   },
+   {
+    "text": "HAVE",
+    "start": 47.142,
+    "end": 47.479
+   },
+   {
+    "text": "SAID",
+    "start": 47.479,
+    "end": 47.816
+   }
+  ]
+ },
+ {
+  "start": 47.816,
+  "end": 48.516,
+  "words": [
+   {
+    "text": "NO",
+    "start": 47.816,
+    "end": 48.04
+   },
+   {
+    "text": "TOO?",
+    "start": 48.04,
+    "end": 48.377
+   }
+  ]
+ }
+]

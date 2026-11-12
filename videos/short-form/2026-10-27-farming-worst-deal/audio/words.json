@@ -1,0 +1,537 @@
+[
+ {
+  "word": "Farming:",
+  "start": 0.0,
+  "end": 0.778
+ },
+ {
+  "word": "worst",
+  "start": 0.778,
+  "end": 1.323
+ },
+ {
+  "word": "deal",
+  "start": 1.323,
+  "end": 1.79
+ },
+ {
+  "word": "in",
+  "start": 1.79,
+  "end": 2.102
+ },
+ {
+  "word": "history?",
+  "start": 2.102,
+  "end": 2.88
+ },
+ {
+  "word": "Some",
+  "start": 3.35,
+  "end": 3.689
+ },
+ {
+  "word": "of",
+  "start": 3.689,
+  "end": 3.914
+ },
+ {
+  "word": "your",
+  "start": 3.914,
+  "end": 4.253
+ },
+ {
+  "word": "ancestors",
+  "start": 4.253,
+  "end": 4.874
+ },
+ {
+  "word": "spent",
+  "start": 4.874,
+  "end": 5.269
+ },
+ {
+  "word": "fifteen",
+  "start": 5.269,
+  "end": 5.777
+ },
+ {
+  "word": "hours",
+  "start": 5.777,
+  "end": 6.172
+ },
+ {
+  "word": "a",
+  "start": 6.172,
+  "end": 6.341
+ },
+ {
+  "word": "week",
+  "start": 6.341,
+  "end": 6.68
+ },
+ {
+  "word": "finding",
+  "start": 6.68,
+  "end": 7.188
+ },
+ {
+  "word": "food.",
+  "start": 7.188,
+  "end": 7.583
+ },
+ {
+  "word": "Free",
+  "start": 7.883,
+  "end": 8.317
+ },
+ {
+  "word": "food",
+  "start": 8.317,
+  "end": 8.75
+ },
+ {
+  "word": "that",
+  "start": 8.75,
+  "end": 9.184
+ },
+ {
+  "word": "stays",
+  "start": 9.184,
+  "end": 9.689
+ },
+ {
+  "word": "put!",
+  "start": 9.689,
+  "end": 10.123
+ },
+ {
+  "word": "Finally,",
+  "start": 10.503,
+  "end": 11.088
+ },
+ {
+  "word": "a",
+  "start": 11.088,
+  "end": 11.263
+ },
+ {
+  "word": "job",
+  "start": 11.263,
+  "end": 11.555
+ },
+ {
+  "word": "that",
+  "start": 11.555,
+  "end": 11.906
+ },
+ {
+  "word": "doesn't",
+  "start": 11.906,
+  "end": 12.432
+ },
+ {
+  "word": "require",
+  "start": 12.432,
+  "end": 12.958
+ },
+ {
+  "word": "walking.",
+  "start": 12.958,
+  "end": 13.543
+ },
+ {
+  "word": "What",
+  "start": 13.803,
+  "end": 14.084
+ },
+ {
+  "word": "could",
+  "start": 14.084,
+  "end": 14.412
+ },
+ {
+  "word": "go",
+  "start": 14.412,
+  "end": 14.599
+ },
+ {
+  "word": "wrong?",
+  "start": 14.599,
+  "end": 14.974
+ },
+ {
+  "word": "Everything.",
+  "start": 15.444,
+  "end": 16.125
+ },
+ {
+  "word": "Greek",
+  "start": 16.505,
+  "end": 16.971
+ },
+ {
+  "word": "skeletons",
+  "start": 16.971,
+  "end": 17.704
+ },
+ {
+  "word": "suggest",
+  "start": 17.704,
+  "end": 18.303
+ },
+ {
+  "word": "men",
+  "start": 18.303,
+  "end": 18.636
+ },
+ {
+  "word": "shrank",
+  "start": 18.636,
+  "end": 19.169
+ },
+ {
+  "word": "from",
+  "start": 19.169,
+  "end": 19.568
+ },
+ {
+  "word": "about",
+  "start": 19.568,
+  "end": 20.034
+ },
+ {
+  "word": "five-nine",
+  "start": 20.034,
+  "end": 20.767
+ },
+ {
+  "word": "to",
+  "start": 20.767,
+  "end": 21.033
+ },
+ {
+  "word": "five-three.",
+  "start": 21.033,
+  "end": 21.899
+ },
+ {
+  "word": "Crops",
+  "start": 22.319,
+  "end": 22.966
+ },
+ {
+  "word": "fail.",
+  "start": 22.966,
+  "end": 23.613
+ },
+ {
+  "word": "Crowds",
+  "start": 23.873,
+  "end": 24.628
+ },
+ {
+  "word": "spread",
+  "start": 24.628,
+  "end": 25.383
+ },
+ {
+  "word": "disease.",
+  "start": 25.383,
+  "end": 26.327
+ },
+ {
+  "word": "Grain",
+  "start": 26.797,
+  "end": 27.258
+ },
+ {
+  "word": "needs",
+  "start": 27.258,
+  "end": 27.72
+ },
+ {
+  "word": "guarding.",
+  "start": 27.72,
+  "end": 28.445
+ },
+ {
+  "word": "Meet",
+  "start": 28.745,
+  "end": 29.262
+ },
+ {
+  "word": "your",
+  "start": 29.262,
+  "end": 29.779
+ },
+ {
+  "word": "first",
+  "start": 29.779,
+  "end": 30.382
+ },
+ {
+  "word": "boss.",
+  "start": 30.382,
+  "end": 30.985
+ },
+ {
+  "word": "Congratulations",
+  "start": 31.365,
+  "end": 32.13
+ },
+ {
+  "word": "on",
+  "start": 32.13,
+  "end": 32.31
+ },
+ {
+  "word": "the",
+  "start": 32.31,
+  "end": 32.535
+ },
+ {
+  "word": "promotion.",
+  "start": 32.535,
+  "end": 33.075
+ },
+ {
+  "word": "Of",
+  "start": 33.375,
+  "end": 33.621
+ },
+ {
+  "word": "him.",
+  "start": 33.621,
+  "end": 33.991
+ },
+ {
+  "word": "Fair",
+  "start": 34.501,
+  "end": 34.931
+ },
+ {
+  "word": "point:",
+  "start": 34.931,
+  "end": 35.504
+ },
+ {
+  "word": "add",
+  "start": 35.504,
+  "end": 35.862
+ },
+ {
+  "word": "cooking",
+  "start": 35.862,
+  "end": 36.506
+ },
+ {
+  "word": "and",
+  "start": 36.506,
+  "end": 36.864
+ },
+ {
+  "word": "tool-making,",
+  "start": 36.864,
+  "end": 37.867
+ },
+ {
+  "word": "and",
+  "start": 38.077,
+  "end": 38.323
+ },
+ {
+  "word": "foragers",
+  "start": 38.323,
+  "end": 38.815
+ },
+ {
+  "word": "worked",
+  "start": 38.815,
+  "end": 39.209
+ },
+ {
+  "word": "about",
+  "start": 39.209,
+  "end": 39.554
+ },
+ {
+  "word": "forty",
+  "start": 39.554,
+  "end": 39.898
+ },
+ {
+  "word": "hours",
+  "start": 39.898,
+  "end": 40.243
+ },
+ {
+  "word": "too.",
+  "start": 40.243,
+  "end": 40.538
+ },
+ {
+  "word": "But",
+  "start": 40.918,
+  "end": 41.275
+ },
+ {
+  "word": "usually",
+  "start": 41.275,
+  "end": 41.917
+ },
+ {
+  "word": "no",
+  "start": 41.917,
+  "end": 42.202
+ },
+ {
+  "word": "boss.",
+  "start": 42.202,
+  "end": 42.702
+ },
+ {
+  "word": "No",
+  "start": 42.962,
+  "end": 43.375
+ },
+ {
+  "word": "Monday.",
+  "start": 43.375,
+  "end": 44.305
+ },
+ {
+  "word": "One",
+  "start": 44.775,
+  "end": 45.07
+ },
+ {
+  "word": "famous",
+  "start": 45.07,
+  "end": 45.541
+ },
+ {
+  "word": "scientist",
+  "start": 45.541,
+  "end": 46.189
+ },
+ {
+  "word": "called",
+  "start": 46.189,
+  "end": 46.661
+ },
+ {
+  "word": "farming",
+  "start": 46.661,
+  "end": 47.191
+ },
+ {
+  "word": "the",
+  "start": 47.191,
+  "end": 47.486
+ },
+ {
+  "word": "worst",
+  "start": 47.486,
+  "end": 47.899
+ },
+ {
+  "word": "mistake",
+  "start": 47.899,
+  "end": 48.429
+ },
+ {
+  "word": "in",
+  "start": 48.429,
+  "end": 48.665
+ },
+ {
+  "word": "history.",
+  "start": 48.665,
+  "end": 49.254
+ },
+ {
+  "word": "You",
+  "start": 49.674,
+  "end": 49.943
+ },
+ {
+  "word": "still",
+  "start": 49.943,
+  "end": 50.32
+ },
+ {
+  "word": "work",
+  "start": 50.32,
+  "end": 50.643
+ },
+ {
+  "word": "forty.",
+  "start": 50.643,
+  "end": 51.074
+ },
+ {
+  "word": "Same",
+  "start": 51.334,
+  "end": 51.738
+ },
+ {
+  "word": "hours.",
+  "start": 51.738,
+  "end": 52.277
+ },
+ {
+  "word": "Worse",
+  "start": 52.537,
+  "end": 53.171
+ },
+ {
+  "word": "deal.",
+  "start": 53.171,
+  "end": 53.805
+ },
+ {
+  "word": "Would",
+  "start": 54.395,
+  "end": 54.808
+ },
+ {
+  "word": "you",
+  "start": 54.808,
+  "end": 55.104
+ },
+ {
+  "word": "take",
+  "start": 55.104,
+  "end": 55.458
+ },
+ {
+  "word": "the",
+  "start": 55.458,
+  "end": 55.754
+ },
+ {
+  "word": "fifteen-hour",
+  "start": 55.754,
+  "end": 56.581
+ },
+ {
+  "word": "week?",
+  "start": 56.581,
+  "end": 56.994
+ },
+ {
+  "word": "Tell",
+  "start": 57.294,
+  "end": 57.554
+ },
+ {
+  "word": "me",
+  "start": 57.554,
+  "end": 57.728
+ },
+ {
+  "word": "below.",
+  "start": 57.728,
+  "end": 58.075
+ }
+]

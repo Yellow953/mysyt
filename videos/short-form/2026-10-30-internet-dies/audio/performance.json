@@ -1,0 +1,56 @@
+[
+ {
+  "text": "You wake up. The whole world's internet is gone.",
+  "tag": "dry",
+  "pause": 0.8,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "No email. No streaming. No cat videos. Your boss can't reach you, though.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Your phone feels like a brick. It isn't.",
+  "tag": "lazy",
+  "pause": 0.5,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "GPS still works. Those satellites don't need the internet.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Saved a map earlier? It still guides you home. Nobody saved a map earlier.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "An old battery radio still plays the news and emergency alerts. Yes, the one in the drawer.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Calls and texts? Maybe. Depends on your carrier.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "The bad news: almost all data between continents runs through undersea cables. The internet is basically wet.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "So, what would you do first?",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "09.mp3"
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "text": "It's noon. Your whole workday is over.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Now what?",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Spoiler: you still do it every night.",
+  "tag": "knowing",
+  "pause": 0.55,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "Modern Kalahari foragers found food in a few hours a day. Chores came extra.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "So you nap. Fix a spear. Gossip.",
+  "tag": "lazy",
+  "pause": 0.35,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Your hobby: other people.",
+  "tag": "deadpan",
+  "pause": 0.55,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "By evening, the fire comes out.",
+  "tag": "dramatic",
+  "pause": 0.45,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "By day they argued about food, land, drama.",
+  "tag": "flat",
+  "pause": 0.45,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "By night, eighty-one percent of long chats were stories.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Mostly about people they knew.",
+  "tag": "",
+  "pause": 0.35,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Ancient reality TV.",
+  "tag": "deadpan",
+  "pause": 0.35,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "Starring your neighbors.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "Your group chat is basically a campfire.",
+  "tag": "dry",
+  "pause": 0.55,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "Not cavemen. But maybe boredom built culture.",
+  "tag": "warm",
+  "pause": 0.5,
+  "clip": "14.mp3"
+ },
+ {
+  "text": "What would you do after lunch?",
+  "tag": "curious",
+  "pause": 0.35,
+  "clip": "15.mp3"
+ },
+ {
+  "text": "Tell me below.",
+  "tag": "warm, casual",
+  "pause": 0,
+  "clip": "16.mp3"
+ }
+]

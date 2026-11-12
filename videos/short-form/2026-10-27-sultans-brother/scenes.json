@@ -1,0 +1,103 @@
+{
+  "slug": "2026-10-27-sultans-brother",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "text": "You're the sultan's little brother. Dad died.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> caught mid-leap, flying out of a palace gate with a huge startled face, one hand clutching a rolled blank scroll, a big dust cloud behind him, small stick-figure servants sprinting alongside, a pale dome behind the wall, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "id": 1
+    },
+    {
+      "text": "Lose the race to Istanbul, get a polite visit.",
+      "image_prompt": "split-screen divided by a thin vertical line: on the left a stylish confident stick-figure sultan's mother with long wavy hair, long eyelashes, rosy cheeks and an elegant fully covering gown, smirking smugly and waving from a palace balcony, on the right <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> panting and sweating, mid-run on a dusty road with a small dust cloud, fully clothed. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "pan_right",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "text": "First to Istanbul usually wins.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sprinting on a road beside a stick-figure messenger on a galloping horse, both leaning forward, huge worried expression, dust trail, empty open sky above. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "text": "In 1481, your brother Bayezid beat you to Istanbul. You flee abroad. Smart. For a while.",
+      "image_prompt": "split-screen divided by a thin vertical line: on the left a stick-figure prince in a turban reaching a domed city gate first with arms raised in victory, on the right <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> on a small sailing boat on a calm sea, waving back at the city with a deadpan shrug, exactly two arms and two hands each. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "id": 4,
+      "moves": [
+        "pan_right",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "The Conqueror's law: brothers can be removed. Officially, for order.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> dressed as a solemn palace clerk holding a big blank rolled scroll and an official stamp, deadpan flat face, a stick-figure sultan with a big turban and mustache sitting behind a desk smiling politely, tidy room, no text on the scroll, every figure has exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 6,
+      "text": "In 1595, your brother Mehmed the Third takes the throne.",
+      "image_prompt": "a stick-figure young sultan with a tall turban sitting proudly on a simple cushioned throne in a calm hall with arches, soft warm light, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> peeking in from the doorway on the side with a nervous face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "text": "You're one of nineteen.",
+      "image_prompt": "a long neat row of identical empty cushions on a palace floor, each with a small plain turban resting on it, no people anywhere in the row, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> at the end of the row with a puzzled face counting on one raised finger, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_out",
+      "id": 7
+    },
+    {
+      "text": "Basically day one.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> with big shocked wide eyes and open mouth standing beside the same long row of empty cushions with small turbans, and one tall closed wooden door at the far end of the hall, no other people, calm empty hall. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "shake",
+      "id": 8
+    },
+    {
+      "text": "Ahmed the First spares his brother. Later, sultans mostly cage brothers instead.",
+      "image_prompt": "a friendly stick-figure sultan with a big turban shaking hands with a smaller stick-figure prince standing beside (not inside) a big wooden birdcage-like cell in a palace room, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> looking up at the cage with a suspicious raised eyebrow, exactly two arms and two hands each. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "id": 9,
+      "moves": [
+        "zoom_in",
+        "pan_left"
+      ]
+    },
+    {
+      "text": "Free rooms. No exit.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lounging on a cushion inside a cozy palace room with a barred window, a tray of snacks, a book and a cat, happy but bored half-lidded face, sunlight through the bars, simple uncluttered room. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "pan_right",
+      "id": 10
+    },
+    {
+      "text": "Honestly? Usually, take the cage.",
+      "image_prompt": "split-screen divided by a thin vertical line, left half: <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sprinting on a dusty road with a terrified wide-eyed face and sweat drops, right half: a smug stick-figure prince in a turban and robe lounging on a cushion in a cozy room with a barred window, a cat on his lap and a small cup in hand, big empty pale sky across the top third of both halves, bottom right corner empty, bright and playful, fully clothed, exactly two arms and two hands each. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "text": "Run, or take the cage?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing at a fork in a dusty road, one path leading to a distant domed city, the other to a small cozy palace room with a window, hands on hips, thoughtful squint, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every figure has exactly two arms and two hands, no extra arms or hands. Family-friendly and comic: no weapons drawn, no violence, no harm shown. ",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

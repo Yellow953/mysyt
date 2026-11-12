@@ -1,0 +1,92 @@
+[
+ {
+  "text": "Other apes wake up dressed.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "You lost your fur.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Scientists still argue why.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "Around one to two million years ago, we shed most of it.",
+  "tag": "matter-of-fact",
+  "pause": 0.5,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Maybe sweating. Maybe parasites. Nobody wrote it down.",
+  "tag": "flat",
+  "pause": 0.45,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Then winter happened.",
+  "tag": "deadpan",
+  "pause": 0.55,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "By four hundred thousand years ago, someone was scraping hides.",
+  "tag": "matter-of-fact",
+  "pause": 0.3,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Not me.",
+  "tag": "deadpan",
+  "pause": 0.8,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Lice DNA hints clothes existed by about a hundred thousand years ago.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "The lice moved in. Rent-free.",
+  "tag": "dry",
+  "pause": 0.55,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "A 2024 study links eyed needles to fitted, decorated clothes.",
+  "tag": "reasonable",
+  "pause": 0.5,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "Survival gear became a statement.",
+  "tag": "warm",
+  "pause": 0.35,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "Mine says: tired.",
+  "tag": "deadpan",
+  "pause": 0.55,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "Would you take the fur back?",
+  "tag": "curious",
+  "pause": 0.35,
+  "clip": "14.mp3"
+ },
+ {
+  "text": "Tell me below.",
+  "tag": "warm, casual",
+  "pause": 0,
+  "clip": "15.mp3"
+ }
+]

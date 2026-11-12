@@ -1,0 +1,1070 @@
+{
+ "total": 39.4,
+ "segs": [
+  {
+   "text": "Why don't we just fill a rocket with our trash and dump it in the Sun?",
+   "start": 0.0,
+   "end": 3.72
+  },
+  {
+   "text": "The Sun is huge. Hard to miss.",
+   "start": 4.27,
+   "end": 7.79
+  },
+  {
+   "text": "But Earth moves sideways at thirty kilometers a second, and the rocket keeps that speed.",
+   "start": 8.29,
+   "end": 14.174
+  },
+  {
+   "text": "So it misses, and circles the Sun.",
+   "start": 14.474,
+   "end": 17.024
+  },
+  {
+   "text": "To actually hit it, you have to cancel that speed. That takes fifty-five times more energy than going to Mars.",
+   "start": 17.574,
+   "end": 26.345
+  },
+  {
+   "text": "And we make over two billion tonnes of trash a year. That's at least eighty million full rockets. Every year.",
+   "start": 26.845,
+   "end": 36.065
+  },
+  {
+   "text": "So, recycle.",
+   "start": 36.815,
+   "end": 38.902
+  }
+ ],
+ "caps": [
+  {
+   "start": 0.0,
+   "end": 0.78,
+   "words": [
+    {
+     "text": "Why",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "don't",
+     "start": 0.24,
+     "end": 0.44
+    },
+    {
+     "text": "we",
+     "start": 0.44,
+     "end": 0.56
+    },
+    {
+     "text": "just",
+     "start": 0.56,
+     "end": 0.78
+    }
+   ]
+  },
+  {
+   "start": 0.78,
+   "end": 1.76,
+   "words": [
+    {
+     "text": "fill",
+     "start": 0.78,
+     "end": 1.16
+    },
+    {
+     "text": "a",
+     "start": 1.16,
+     "end": 1.28
+    },
+    {
+     "text": "rocket",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "text": "with",
+     "start": 1.52,
+     "end": 1.76
+    }
+   ]
+  },
+  {
+   "start": 1.76,
+   "end": 3.04,
+   "words": [
+    {
+     "text": "our",
+     "start": 1.76,
+     "end": 1.92
+    },
+    {
+     "text": "trash",
+     "start": 1.92,
+     "end": 2.24
+    },
+    {
+     "text": "and",
+     "start": 2.24,
+     "end": 2.74
+    },
+    {
+     "text": "dump",
+     "start": 2.8,
+     "end": 3.04
+    }
+   ]
+  },
+  {
+   "start": 3.04,
+   "end": 3.9400000000000004,
+   "words": [
+    {
+     "text": "it",
+     "start": 3.04,
+     "end": 3.14
+    },
+    {
+     "text": "in",
+     "start": 3.14,
+     "end": 3.26
+    },
+    {
+     "text": "the",
+     "start": 3.26,
+     "end": 3.38
+    },
+    {
+     "text": "Sun?",
+     "start": 3.38,
+     "end": 3.8200000000000003
+    }
+   ]
+  },
+  {
+   "start": 4.42,
+   "end": 6.0200000000000005,
+   "words": [
+    {
+     "text": "The",
+     "start": 4.42,
+     "end": 4.6
+    },
+    {
+     "text": "Sun",
+     "start": 4.6,
+     "end": 5.0
+    },
+    {
+     "text": "is",
+     "start": 5.0,
+     "end": 5.4
+    },
+    {
+     "text": "huge.",
+     "start": 5.4,
+     "end": 5.9
+    }
+   ]
+  },
+  {
+   "start": 7.06,
+   "end": 8.01,
+   "words": [
+    {
+     "text": "Hard",
+     "start": 7.06,
+     "end": 7.28
+    },
+    {
+     "text": "to",
+     "start": 7.28,
+     "end": 7.46
+    },
+    {
+     "text": "miss,",
+     "start": 7.46,
+     "end": 7.89
+    }
+   ]
+  },
+  {
+   "start": 8.18,
+   "end": 9.1,
+   "words": [
+    {
+     "text": "but",
+     "start": 8.18,
+     "end": 8.42
+    },
+    {
+     "text": "Earth",
+     "start": 8.42,
+     "end": 8.76
+    },
+    {
+     "text": "moves",
+     "start": 8.76,
+     "end": 9.1
+    }
+   ]
+  },
+  {
+   "start": 9.1,
+   "end": 10.58,
+   "words": [
+    {
+     "text": "sideways",
+     "start": 9.1,
+     "end": 9.6
+    },
+    {
+     "text": "at",
+     "start": 9.66,
+     "end": 10.08
+    },
+    {
+     "text": "30",
+     "start": 10.08,
+     "end": 10.58
+    }
+   ]
+  },
+  {
+   "start": 10.58,
+   "end": 11.56,
+   "words": [
+    {
+     "text": "kilometers",
+     "start": 10.58,
+     "end": 10.88
+    },
+    {
+     "text": "a",
+     "start": 10.88,
+     "end": 11.24
+    },
+    {
+     "text": "second",
+     "start": 11.24,
+     "end": 11.56
+    }
+   ]
+  },
+  {
+   "start": 11.56,
+   "end": 12.7,
+   "words": [
+    {
+     "text": "and",
+     "start": 11.56,
+     "end": 12.06
+    },
+    {
+     "text": "the",
+     "start": 12.24,
+     "end": 12.36
+    },
+    {
+     "text": "rocket",
+     "start": 12.36,
+     "end": 12.7
+    }
+   ]
+  },
+  {
+   "start": 12.7,
+   "end": 14.26,
+   "words": [
+    {
+     "text": "keeps",
+     "start": 12.7,
+     "end": 13.2
+    },
+    {
+     "text": "that",
+     "start": 13.36,
+     "end": 13.64
+    },
+    {
+     "text": "speed",
+     "start": 13.64,
+     "end": 14.14
+    }
+   ]
+  },
+  {
+   "start": 14.5,
+   "end": 15.22,
+   "words": [
+    {
+     "text": "so",
+     "start": 14.5,
+     "end": 14.7
+    },
+    {
+     "text": "it",
+     "start": 14.7,
+     "end": 14.84
+    },
+    {
+     "text": "misses",
+     "start": 14.84,
+     "end": 15.22
+    }
+   ]
+  },
+  {
+   "start": 15.22,
+   "end": 17.244000000000003,
+   "words": [
+    {
+     "text": "and",
+     "start": 15.22,
+     "end": 15.72
+    },
+    {
+     "text": "circles",
+     "start": 16.0,
+     "end": 16.38
+    },
+    {
+     "text": "the",
+     "start": 16.38,
+     "end": 16.68
+    },
+    {
+     "text": "Sun.",
+     "start": 16.68,
+     "end": 17.124000000000002
+    }
+   ]
+  },
+  {
+   "start": 17.48,
+   "end": 18.8,
+   "words": [
+    {
+     "text": "To",
+     "start": 17.48,
+     "end": 17.7
+    },
+    {
+     "text": "actually",
+     "start": 17.7,
+     "end": 18.12
+    },
+    {
+     "text": "hit",
+     "start": 18.12,
+     "end": 18.54
+    },
+    {
+     "text": "it",
+     "start": 18.54,
+     "end": 18.8
+    }
+   ]
+  },
+  {
+   "start": 18.8,
+   "end": 20.34,
+   "words": [
+    {
+     "text": "you",
+     "start": 18.8,
+     "end": 19.3
+    },
+    {
+     "text": "have",
+     "start": 19.4,
+     "end": 19.56
+    },
+    {
+     "text": "to",
+     "start": 19.56,
+     "end": 19.72
+    },
+    {
+     "text": "cancel",
+     "start": 19.72,
+     "end": 20.22
+    }
+   ]
+  },
+  {
+   "start": 20.34,
+   "end": 21.42,
+   "words": [
+    {
+     "text": "that",
+     "start": 20.34,
+     "end": 20.8
+    },
+    {
+     "text": "speed.",
+     "start": 20.8,
+     "end": 21.3
+    }
+   ]
+  },
+  {
+   "start": 22.06,
+   "end": 23.96,
+   "words": [
+    {
+     "text": "That",
+     "start": 22.06,
+     "end": 22.36
+    },
+    {
+     "text": "takes",
+     "start": 22.36,
+     "end": 22.7
+    },
+    {
+     "text": "55",
+     "start": 22.7,
+     "end": 23.2
+    },
+    {
+     "text": "times",
+     "start": 23.34,
+     "end": 23.84
+    }
+   ]
+  },
+  {
+   "start": 23.98,
+   "end": 25.22,
+   "words": [
+    {
+     "text": "more",
+     "start": 23.98,
+     "end": 24.36
+    },
+    {
+     "text": "energy",
+     "start": 24.36,
+     "end": 24.86
+    },
+    {
+     "text": "than",
+     "start": 24.86,
+     "end": 25.22
+    }
+   ]
+  },
+  {
+   "start": 25.22,
+   "end": 26.36,
+   "words": [
+    {
+     "text": "going",
+     "start": 25.22,
+     "end": 25.5
+    },
+    {
+     "text": "to",
+     "start": 25.5,
+     "end": 25.74
+    },
+    {
+     "text": "Mars",
+     "start": 25.74,
+     "end": 26.24
+    }
+   ]
+  },
+  {
+   "start": 26.9,
+   "end": 27.82,
+   "words": [
+    {
+     "text": "and",
+     "start": 26.9,
+     "end": 26.98
+    },
+    {
+     "text": "we",
+     "start": 26.98,
+     "end": 27.22
+    },
+    {
+     "text": "make",
+     "start": 27.22,
+     "end": 27.52
+    },
+    {
+     "text": "over",
+     "start": 27.52,
+     "end": 27.82
+    }
+   ]
+  },
+  {
+   "start": 27.82,
+   "end": 29.3,
+   "words": [
+    {
+     "text": "two",
+     "start": 27.82,
+     "end": 28.18
+    },
+    {
+     "text": "billion",
+     "start": 28.18,
+     "end": 28.68
+    },
+    {
+     "text": "tonnes",
+     "start": 28.86,
+     "end": 29.3
+    }
+   ]
+  },
+  {
+   "start": 29.3,
+   "end": 30.8,
+   "words": [
+    {
+     "text": "of",
+     "start": 29.3,
+     "end": 29.54
+    },
+    {
+     "text": "trash",
+     "start": 29.54,
+     "end": 30.0
+    },
+    {
+     "text": "a",
+     "start": 30.0,
+     "end": 30.18
+    },
+    {
+     "text": "year.",
+     "start": 30.18,
+     "end": 30.68
+    }
+   ]
+  },
+  {
+   "start": 31.28,
+   "end": 32.48,
+   "words": [
+    {
+     "text": "That's",
+     "start": 31.28,
+     "end": 31.56
+    },
+    {
+     "text": "at",
+     "start": 31.56,
+     "end": 31.66
+    },
+    {
+     "text": "least",
+     "start": 31.66,
+     "end": 31.86
+    },
+    {
+     "text": "80",
+     "start": 31.86,
+     "end": 32.36
+    }
+   ]
+  },
+  {
+   "start": 32.48,
+   "end": 34.32,
+   "words": [
+    {
+     "text": "million",
+     "start": 32.48,
+     "end": 32.98
+    },
+    {
+     "text": "full",
+     "start": 33.1,
+     "end": 33.6
+    },
+    {
+     "text": "rockets",
+     "start": 33.78,
+     "end": 34.28
+    }
+   ]
+  },
+  {
+   "start": 34.32,
+   "end": 36.099999999999994,
+   "words": [
+    {
+     "text": "every",
+     "start": 34.32,
+     "end": 34.82
+    },
+    {
+     "text": "year.",
+     "start": 35.48,
+     "end": 35.98
+    }
+   ]
+  },
+  {
+   "start": 36.8,
+   "end": 38.699999999999996,
+   "words": [
+    {
+     "text": "So,",
+     "start": 36.8,
+     "end": 37.3
+    },
+    {
+     "text": "recycle.",
+     "start": 38.08,
+     "end": 38.58
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "text": "Why",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "text": "don't",
+   "start": 0.24,
+   "end": 0.44
+  },
+  {
+   "text": "we",
+   "start": 0.44,
+   "end": 0.56
+  },
+  {
+   "text": "just",
+   "start": 0.56,
+   "end": 0.78
+  },
+  {
+   "text": "fill",
+   "start": 0.78,
+   "end": 1.16
+  },
+  {
+   "text": "a",
+   "start": 1.16,
+   "end": 1.28
+  },
+  {
+   "text": "rocket",
+   "start": 1.28,
+   "end": 1.52
+  },
+  {
+   "text": "with",
+   "start": 1.52,
+   "end": 1.76
+  },
+  {
+   "text": "our",
+   "start": 1.76,
+   "end": 1.92
+  },
+  {
+   "text": "trash",
+   "start": 1.92,
+   "end": 2.24
+  },
+  {
+   "text": "and",
+   "start": 2.24,
+   "end": 2.74
+  },
+  {
+   "text": "dump",
+   "start": 2.8,
+   "end": 3.04
+  },
+  {
+   "text": "it",
+   "start": 3.04,
+   "end": 3.14
+  },
+  {
+   "text": "in",
+   "start": 3.14,
+   "end": 3.26
+  },
+  {
+   "text": "the",
+   "start": 3.26,
+   "end": 3.38
+  },
+  {
+   "text": "Sun?",
+   "start": 3.38,
+   "end": 3.8200000000000003
+  },
+  {
+   "text": "The",
+   "start": 4.42,
+   "end": 4.6
+  },
+  {
+   "text": "Sun",
+   "start": 4.6,
+   "end": 5.0
+  },
+  {
+   "text": "is",
+   "start": 5.0,
+   "end": 5.4
+  },
+  {
+   "text": "huge.",
+   "start": 5.4,
+   "end": 5.9
+  },
+  {
+   "text": "Hard",
+   "start": 7.06,
+   "end": 7.28
+  },
+  {
+   "text": "to",
+   "start": 7.28,
+   "end": 7.46
+  },
+  {
+   "text": "miss,",
+   "start": 7.46,
+   "end": 7.89
+  },
+  {
+   "text": "but",
+   "start": 8.18,
+   "end": 8.42
+  },
+  {
+   "text": "Earth",
+   "start": 8.42,
+   "end": 8.76
+  },
+  {
+   "text": "moves",
+   "start": 8.76,
+   "end": 9.1
+  },
+  {
+   "text": "sideways",
+   "start": 9.1,
+   "end": 9.6
+  },
+  {
+   "text": "at",
+   "start": 9.66,
+   "end": 10.08
+  },
+  {
+   "text": "30",
+   "start": 10.08,
+   "end": 10.58
+  },
+  {
+   "text": "kilometers",
+   "start": 10.58,
+   "end": 10.88
+  },
+  {
+   "text": "a",
+   "start": 10.88,
+   "end": 11.24
+  },
+  {
+   "text": "second",
+   "start": 11.24,
+   "end": 11.56
+  },
+  {
+   "text": "and",
+   "start": 11.56,
+   "end": 12.06
+  },
+  {
+   "text": "the",
+   "start": 12.24,
+   "end": 12.36
+  },
+  {
+   "text": "rocket",
+   "start": 12.36,
+   "end": 12.7
+  },
+  {
+   "text": "keeps",
+   "start": 12.7,
+   "end": 13.2
+  },
+  {
+   "text": "that",
+   "start": 13.36,
+   "end": 13.64
+  },
+  {
+   "text": "speed",
+   "start": 13.64,
+   "end": 14.14
+  },
+  {
+   "text": "so",
+   "start": 14.5,
+   "end": 14.7
+  },
+  {
+   "text": "it",
+   "start": 14.7,
+   "end": 14.84
+  },
+  {
+   "text": "misses",
+   "start": 14.84,
+   "end": 15.22
+  },
+  {
+   "text": "and",
+   "start": 15.22,
+   "end": 15.72
+  },
+  {
+   "text": "circles",
+   "start": 16.0,
+   "end": 16.38
+  },
+  {
+   "text": "the",
+   "start": 16.38,
+   "end": 16.68
+  },
+  {
+   "text": "Sun.",
+   "start": 16.68,
+   "end": 17.124000000000002
+  },
+  {
+   "text": "To",
+   "start": 17.48,
+   "end": 17.7
+  },
+  {
+   "text": "actually",
+   "start": 17.7,
+   "end": 18.12
+  },
+  {
+   "text": "hit",
+   "start": 18.12,
+   "end": 18.54
+  },
+  {
+   "text": "it",
+   "start": 18.54,
+   "end": 18.8
+  },
+  {
+   "text": "you",
+   "start": 18.8,
+   "end": 19.3
+  },
+  {
+   "text": "have",
+   "start": 19.4,
+   "end": 19.56
+  },
+  {
+   "text": "to",
+   "start": 19.56,
+   "end": 19.72
+  },
+  {
+   "text": "cancel",
+   "start": 19.72,
+   "end": 20.22
+  },
+  {
+   "text": "that",
+   "start": 20.34,
+   "end": 20.8
+  },
+  {
+   "text": "speed.",
+   "start": 20.8,
+   "end": 21.3
+  },
+  {
+   "text": "That",
+   "start": 22.06,
+   "end": 22.36
+  },
+  {
+   "text": "takes",
+   "start": 22.36,
+   "end": 22.7
+  },
+  {
+   "text": "55",
+   "start": 22.7,
+   "end": 23.2
+  },
+  {
+   "text": "times",
+   "start": 23.34,
+   "end": 23.84
+  },
+  {
+   "text": "more",
+   "start": 23.98,
+   "end": 24.36
+  },
+  {
+   "text": "energy",
+   "start": 24.36,
+   "end": 24.86
+  },
+  {
+   "text": "than",
+   "start": 24.86,
+   "end": 25.22
+  },
+  {
+   "text": "going",
+   "start": 25.22,
+   "end": 25.5
+  },
+  {
+   "text": "to",
+   "start": 25.5,
+   "end": 25.74
+  },
+  {
+   "text": "Mars",
+   "start": 25.74,
+   "end": 26.24
+  },
+  {
+   "text": "and",
+   "start": 26.9,
+   "end": 26.98
+  },
+  {
+   "text": "we",
+   "start": 26.98,
+   "end": 27.22
+  },
+  {
+   "text": "make",
+   "start": 27.22,
+   "end": 27.52
+  },
+  {
+   "text": "over",
+   "start": 27.52,
+   "end": 27.82
+  },
+  {
+   "text": "two",
+   "start": 27.82,
+   "end": 28.18
+  },
+  {
+   "text": "billion",
+   "start": 28.18,
+   "end": 28.68
+  },
+  {
+   "text": "tonnes",
+   "start": 28.86,
+   "end": 29.3
+  },
+  {
+   "text": "of",
+   "start": 29.3,
+   "end": 29.54
+  },
+  {
+   "text": "trash",
+   "start": 29.54,
+   "end": 30.0
+  },
+  {
+   "text": "a",
+   "start": 30.0,
+   "end": 30.18
+  },
+  {
+   "text": "year.",
+   "start": 30.18,
+   "end": 30.68
+  },
+  {
+   "text": "That's",
+   "start": 31.28,
+   "end": 31.56
+  },
+  {
+   "text": "at",
+   "start": 31.56,
+   "end": 31.66
+  },
+  {
+   "text": "least",
+   "start": 31.66,
+   "end": 31.86
+  },
+  {
+   "text": "80",
+   "start": 31.86,
+   "end": 32.36
+  },
+  {
+   "text": "million",
+   "start": 32.48,
+   "end": 32.98
+  },
+  {
+   "text": "full",
+   "start": 33.1,
+   "end": 33.6
+  },
+  {
+   "text": "rockets",
+   "start": 33.78,
+   "end": 34.28
+  },
+  {
+   "text": "every",
+   "start": 34.32,
+   "end": 34.82
+  },
+  {
+   "text": "year.",
+   "start": 35.48,
+   "end": 35.98
+  },
+  {
+   "text": "So,",
+   "start": 36.8,
+   "end": 37.3
+  },
+  {
+   "text": "recycle.",
+   "start": 38.08,
+   "end": 38.58
+  }
+ ]
+}

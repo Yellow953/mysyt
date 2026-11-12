@@ -1,0 +1,326 @@
+[
+ {
+  "scene": 0,
+  "text": "You've waited months for tonight.",
+  "send": "[low] You've waited months for tonight.",
+  "tag": "low",
+  "pause": 0.5,
+  "clip": "01.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 1,
+  "text": "Your wife is right beside you. So is your mother. Your father. Three little brothers. And a grandmother who has never once slept.",
+  "send": "[wry] Your wife is right beside you. So is your mother. Your father. Three little brothers. And a grandmother who has never once slept.",
+  "tag": "wry",
+  "pause": 0.5,
+  "clip": "02.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 2,
+  "text": "One room. Eight people. And you need five minutes alone.",
+  "send": "[dry] One room. Eight people. And you need five minutes alone.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "03.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 3,
+  "text": "You have a plan. It's a bad plan. But it's a plan.",
+  "send": "[dry] You have a plan. It's a bad plan. But it's a plan.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "04.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 4,
+  "text": "Plan A. The village walks you to bed. In some places, that's tradition: candles, songs, advice you did not ask for.",
+  "send": "[dry] Plan A. The village walks you to bed. In some places, that's tradition: candles, songs, advice you did not ask for.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "05.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 5,
+  "text": "The last guest winks at you. You have never wanted to hurt a stranger so much.",
+  "send": "[wry] The last guest winks at you. ... You have never wanted to hurt a stranger so much.",
+  "tag": "wry",
+  "pause": 0.65,
+  "clip": "06.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 6,
+  "text": "They finally go. Your wife looks at you. You look at her. Your mother clears her throat from the bench.",
+  "send": "[low] They finally go. Your wife looks at you. You look at her. ... Your mother clears her throat from the bench.",
+  "tag": "low",
+  "pause": 0.65,
+  "clip": "07.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 7,
+  "text": "Plan A is dead.",
+  "send": "[dry] Plan A is dead.",
+  "tag": "dry",
+  "pause": 0.7,
+  "clip": "08.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 8,
+  "text": "Plan B. \"Let's get some air.\" Your wife takes your hand and you slip out into the dark field.",
+  "send": "[whisper] Plan B. \"Let's get some air.\" Your wife takes your hand and you slip out into the dark field.",
+  "tag": "whisper",
+  "pause": 0.5,
+  "clip": "09.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 9,
+  "text": "It's quiet. It's cold. It's perfect. Then a lantern bobs up from the hedge. Then another. Then six.",
+  "send": "[low] It's quiet. It's cold. It's perfect. ... Then a lantern bobs up from the hedge. Then another. Then six.",
+  "tag": "low",
+  "pause": 0.65,
+  "clip": "10.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 10,
+  "text": "Turns out you were not the first newlyweds to ask for some air. Somebody's cousin waves.",
+  "send": "[deadpan] Turns out you were not the first newlyweds to ask for some air. Somebody's cousin waves.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "11.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 11,
+  "text": "Plan B is dead. It's also freezing.",
+  "send": "[dry] Plan B is dead. It's also freezing.",
+  "tag": "dry",
+  "pause": 0.7,
+  "clip": "12.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 12,
+  "text": "Plan C is ambitious. The lord's manor. The rich had private rooms upstairs, with real beds and real curtains.",
+  "send": "[curious] Plan C is ambitious. The lord's manor. The rich had private rooms upstairs, with real beds and real curtains.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "13.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 13,
+  "text": "You tiptoe up the stairs. A soft bed. Heavy curtains. A door that shuts. And a very large man holding a lamp.",
+  "send": "[whisper] You tiptoe up the stairs. A soft bed. Heavy curtains. A door that shuts. ... And a very large man holding a lamp.",
+  "tag": "whisper",
+  "pause": 0.65,
+  "clip": "14.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 14,
+  "text": "\"What are you doing in the lord's bedroom?\" \"Looking at curtains.\" Your wife nods like an expert.",
+  "send": "[deadpan] \"What are you doing in the lord's bedroom?\" \"Looking at curtains.\" Your wife nods like an expert.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "15.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 15,
+  "text": "You are removed by the collar. Curtains, it turns out, are for people who own the building.",
+  "send": "[dry] You are removed by the collar. Curtains, it turns out, are for people who own the building.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "16.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 16,
+  "text": "Plan C is dead.",
+  "send": "[dry] Plan C is dead.",
+  "tag": "dry",
+  "pause": 0.7,
+  "clip": "17.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 17,
+  "text": "Plan D. Wait. Everyone sleeps eventually.",
+  "send": "[curious] Plan D. Wait. Everyone sleeps eventually.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "18.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 18,
+  "text": "Your father snores. Your brothers sleep in a heap. Your mother finally turns away. And the grandmother's eyes glint in the dark.",
+  "send": "[dry] Your father snores. Your brothers sleep in a heap. Your mother finally turns away. ... And the grandmother's eyes glint in the dark.",
+  "tag": "dry",
+  "pause": 0.65,
+  "clip": "19.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 19,
+  "text": "Your wife leans in and whispers a question. What day is it? You tell her. Her face falls.",
+  "send": "[whisper] Your wife leans in and whispers a question. What day is it? ... You tell her. Her face falls.",
+  "tag": "whisper",
+  "pause": 0.65,
+  "clip": "20.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 20,
+  "text": "A church tradition, going back centuries, frowned on couples being together on certain days. How strictly people kept it is debated. Your grandmother keeps it strictly. For everyone.",
+  "send": "[wry] A church tradition, going back centuries, frowned on couples being together on certain days. How strictly people kept it is debated. Your grandmother keeps it strictly. For everyone.",
+  "tag": "wry",
+  "pause": 0.5,
+  "clip": "21.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 21,
+  "text": "Plan D is dead. You're starting to feel like a guest in your own marriage.",
+  "send": "[dry] Plan D is dead. ... You're starting to feel like a guest in your own marriage.",
+  "tag": "dry",
+  "pause": 0.7,
+  "clip": "22.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 22,
+  "text": "And that's when your wife says it. \"Then stop looking for a room.\"",
+  "send": "[low] And that's when your wife says it. ... \"Then stop looking for a room.\"",
+  "tag": "low",
+  "pause": 0.65,
+  "clip": "23.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 23,
+  "text": "Plan E. You build one.",
+  "send": "[wry] Plan E. You build one.",
+  "tag": "wry",
+  "pause": 0.5,
+  "clip": "24.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 24,
+  "text": "Planks. A saw. Your wife holding the board, saying you're doing it wrong. A bed with four walls and a door on the front.",
+  "send": "[dry] Planks. A saw. Your wife holding the board, saying you're doing it wrong. A bed with four walls and a door on the front.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "25.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 25,
+  "text": "People really did this. A bed with walls and a door, a tiny house inside the house. They're called box beds.",
+  "send": "[curious] People really did this. A bed with walls and a door, a tiny house inside the house. They're called box beds.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "26.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 26,
+  "text": "You climb in. Your wife follows, laughing into her sleeve so nobody hears.",
+  "send": "[whisper] You climb in. Your wife follows, laughing into her sleeve so nobody hears.",
+  "tag": "whisper",
+  "pause": 0.5,
+  "clip": "27.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 27,
+  "text": "It's small in there. Her shoulder against yours. Her breath an inch from your ear.",
+  "send": "[low] It's small in there. Her shoulder against yours. Her breath an inch from your ear.",
+  "tag": "low",
+  "pause": 0.5,
+  "clip": "28.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 28,
+  "text": "One inch of wood away, your father coughs. Your grandmother turns over, very pointedly.",
+  "send": "[dry] One inch of wood away, your father coughs. ... Your grandmother turns over, very pointedly.",
+  "tag": "dry",
+  "pause": 0.65,
+  "clip": "29.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 29,
+  "text": "So you learn the first rule of marriage in a one-room house. Quiet is a skill.",
+  "send": "[whisper] So you learn the first rule of marriage in a one-room house. ... Quiet is a skill.",
+  "tag": "whisper",
+  "pause": 0.65,
+  "clip": "30.mp3",
+  "kind": "CUT"
+ },
+ {
+  "scene": 30,
+  "text": "She finds your hand in the dark. And you find out she's been practicing longer than you.",
+  "send": "[low] She finds your hand in the dark. And you find out she's been practicing longer than you.",
+  "tag": "low",
+  "pause": 0.5,
+  "clip": "31.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 31,
+  "text": "You pull the door. It sticks. Then it shuts.",
+  "send": "[quiet] You pull the door. It sticks. ... Then it shuts.",
+  "tag": "quiet",
+  "pause": 0.65,
+  "clip": "32.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 32,
+  "text": "The firelight shrinks to one thin gold line. The house falls away.",
+  "send": "[quiet] The firelight shrinks to one thin gold line. The house falls away.",
+  "tag": "quiet",
+  "pause": 0.5,
+  "clip": "33.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 33,
+  "text": "For the first time all day, nobody is watching.",
+  "send": "[low] For the first time all day, nobody is watching.",
+  "tag": "low",
+  "pause": 0.5,
+  "clip": "34.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 34,
+  "text": "It wasn't much of a door.",
+  "send": "[warm] It wasn't much of a door.",
+  "tag": "warm",
+  "pause": 0.5,
+  "clip": "35.mp3",
+  "kind": "ILL"
+ },
+ {
+  "scene": 35,
+  "text": "It was the only one in the house, and you built it yourself.",
+  "send": "[warm] It was the only one in the house, and you built it yourself.",
+  "tag": "warm",
+  "pause": 0.5,
+  "clip": "36.mp3",
+  "kind": "ILL"
+ }
+]

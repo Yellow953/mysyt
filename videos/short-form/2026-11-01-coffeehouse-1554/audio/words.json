@@ -1,0 +1,467 @@
+[
+ {
+  "word": "It's",
+  "start": 0.0,
+  "end": 0.478
+ },
+ {
+  "word": "1554.",
+  "start": 0.478,
+  "end": 1.035
+ },
+ {
+  "word": "You're",
+  "start": 1.035,
+  "end": 1.671
+ },
+ {
+  "word": "opening",
+  "start": 1.671,
+  "end": 2.388
+ },
+ {
+  "word": "a",
+  "start": 2.388,
+  "end": 2.627
+ },
+ {
+  "word": "Starbucks",
+  "start": 2.627,
+  "end": 3.502
+ },
+ {
+  "word": "in",
+  "start": 3.502,
+  "end": 3.82
+ },
+ {
+  "word": "Istanbul.",
+  "start": 3.82,
+  "end": 4.696
+ },
+ {
+  "word": "No",
+  "start": 5.196,
+  "end": 5.543
+ },
+ {
+  "word": "Wi-Fi.",
+  "start": 5.543,
+  "end": 6.238
+ },
+ {
+  "word": "No",
+  "start": 6.238,
+  "end": 6.586
+ },
+ {
+  "word": "logo.",
+  "start": 6.586,
+  "end": 7.194
+ },
+ {
+  "word": "Just",
+  "start": 7.194,
+  "end": 7.715
+ },
+ {
+  "word": "coffee,",
+  "start": 7.715,
+  "end": 8.497
+ },
+ {
+  "word": "backgammon,",
+  "start": 8.497,
+  "end": 9.626
+ },
+ {
+  "word": "and",
+  "start": 9.626,
+  "end": 10.06
+ },
+ {
+  "word": "comfy",
+  "start": 10.06,
+  "end": 10.668
+ },
+ {
+  "word": "cushions.",
+  "start": 10.668,
+  "end": 11.624
+ },
+ {
+  "word": "Poets",
+  "start": 12.024,
+  "end": 12.538
+ },
+ {
+  "word": "show",
+  "start": 12.538,
+  "end": 12.978
+ },
+ {
+  "word": "up.",
+  "start": 12.978,
+  "end": 13.345
+ },
+ {
+  "word": "Then",
+  "start": 13.345,
+  "end": 13.786
+ },
+ {
+  "word": "scholars.",
+  "start": 13.786,
+  "end": 14.593
+ },
+ {
+  "word": "People",
+  "start": 14.593,
+  "end": 15.18
+ },
+ {
+  "word": "call",
+  "start": 15.18,
+  "end": 15.621
+ },
+ {
+  "word": "it",
+  "start": 15.621,
+  "end": 15.914
+ },
+ {
+  "word": "the",
+  "start": 15.914,
+  "end": 16.281
+ },
+ {
+  "word": "School",
+  "start": 16.281,
+  "end": 16.869
+ },
+ {
+  "word": "of",
+  "start": 16.869,
+  "end": 17.162
+ },
+ {
+  "word": "the",
+  "start": 17.162,
+  "end": 17.529
+ },
+ {
+  "word": "Wise.",
+  "start": 17.529,
+  "end": 18.043
+ },
+ {
+  "word": "You",
+  "start": 18.443,
+  "end": 18.766
+ },
+ {
+  "word": "sell",
+  "start": 18.766,
+  "end": 19.153
+ },
+ {
+  "word": "one",
+  "start": 19.153,
+  "end": 19.475
+ },
+ {
+  "word": "coffee.",
+  "start": 19.475,
+  "end": 20.056
+ },
+ {
+  "word": "They",
+  "start": 20.056,
+  "end": 20.443
+ },
+ {
+  "word": "stay",
+  "start": 20.443,
+  "end": 20.831
+ },
+ {
+  "word": "five",
+  "start": 20.831,
+  "end": 21.218
+ },
+ {
+  "word": "hours.",
+  "start": 21.218,
+  "end": 21.734
+ },
+ {
+  "word": "Soon",
+  "start": 22.234,
+  "end": 22.638
+ },
+ {
+  "word": "the",
+  "start": 22.638,
+  "end": 22.975
+ },
+ {
+  "word": "whole",
+  "start": 22.975,
+  "end": 23.446
+ },
+ {
+  "word": "city",
+  "start": 23.446,
+  "end": 23.85
+ },
+ {
+  "word": "copies",
+  "start": 23.85,
+  "end": 24.389
+ },
+ {
+  "word": "you.",
+  "start": 24.389,
+  "end": 24.792
+ },
+ {
+  "word": "Hundreds",
+  "start": 24.792,
+  "end": 25.466
+ },
+ {
+  "word": "of",
+  "start": 25.466,
+  "end": 25.735
+ },
+ {
+  "word": "coffeehouses.",
+  "start": 25.735,
+  "end": 26.745
+ },
+ {
+  "word": "Then",
+  "start": 27.145,
+  "end": 27.609
+ },
+ {
+  "word": "the",
+  "start": 27.609,
+  "end": 27.995
+ },
+ {
+  "word": "Sultan",
+  "start": 27.995,
+  "end": 28.614
+ },
+ {
+  "word": "checks",
+  "start": 28.614,
+  "end": 29.232
+ },
+ {
+  "word": "who's",
+  "start": 29.232,
+  "end": 29.773
+ },
+ {
+  "word": "inside.",
+  "start": 29.773,
+  "end": 30.469
+ },
+ {
+  "word": "Soldiers.",
+  "start": 30.469,
+  "end": 31.319
+ },
+ {
+  "word": "Plotting.",
+  "start": 31.319,
+  "end": 32.169
+ },
+ {
+  "word": "In",
+  "start": 32.669,
+  "end": 33.02
+ },
+ {
+  "word": "1633,",
+  "start": 33.02,
+  "end": 33.635
+ },
+ {
+  "word": "Murad",
+  "start": 33.635,
+  "end": 34.25
+ },
+ {
+  "word": "IV",
+  "start": 34.25,
+  "end": 34.601
+ },
+ {
+  "word": "shuts",
+  "start": 34.601,
+  "end": 35.216
+ },
+ {
+  "word": "every",
+  "start": 35.216,
+  "end": 35.831
+ },
+ {
+  "word": "coffeehouse",
+  "start": 35.831,
+  "end": 36.973
+ },
+ {
+  "word": "in",
+  "start": 36.973,
+  "end": 37.324
+ },
+ {
+  "word": "Istanbul.",
+  "start": 37.324,
+  "end": 38.29
+ },
+ {
+  "word": "You",
+  "start": 38.79,
+  "end": 39.096
+ },
+ {
+  "word": "built",
+  "start": 39.096,
+  "end": 39.525
+ },
+ {
+  "word": "a",
+  "start": 39.525,
+  "end": 39.709
+ },
+ {
+  "word": "place",
+  "start": 39.709,
+  "end": 40.138
+ },
+ {
+  "word": "so",
+  "start": 40.138,
+  "end": 40.383
+ },
+ {
+  "word": "good",
+  "start": 40.383,
+  "end": 40.75
+ },
+ {
+  "word": "at",
+  "start": 40.75,
+  "end": 40.995
+ },
+ {
+  "word": "getting",
+  "start": 40.995,
+  "end": 41.547
+ },
+ {
+  "word": "people",
+  "start": 41.547,
+  "end": 42.037
+ },
+ {
+  "word": "talking,",
+  "start": 42.037,
+  "end": 42.649
+ },
+ {
+  "word": "it",
+  "start": 42.649,
+  "end": 42.895
+ },
+ {
+  "word": "scared",
+  "start": 42.895,
+  "end": 43.385
+ },
+ {
+  "word": "an",
+  "start": 43.385,
+  "end": 43.63
+ },
+ {
+  "word": "empire.",
+  "start": 43.63,
+  "end": 44.181
+ },
+ {
+  "word": "Later,",
+  "start": 44.781,
+  "end": 45.265
+ },
+ {
+  "word": "the",
+  "start": 45.265,
+  "end": 45.568
+ },
+ {
+  "word": "coffeehouses",
+  "start": 45.568,
+  "end": 46.416
+ },
+ {
+  "word": "come",
+  "start": 46.416,
+  "end": 46.779
+ },
+ {
+  "word": "back.",
+  "start": 46.779,
+  "end": 47.203
+ },
+ {
+  "word": "Your",
+  "start": 47.703,
+  "end": 48.242
+ },
+ {
+  "word": "Starbucks",
+  "start": 48.242,
+  "end": 49.231
+ },
+ {
+  "word": "lasted",
+  "start": 49.231,
+  "end": 49.95
+ },
+ {
+  "word": "seventy-nine",
+  "start": 49.95,
+  "end": 51.208
+ },
+ {
+  "word": "years.",
+  "start": 51.208,
+  "end": 51.927
+ },
+ {
+  "word": "The",
+  "start": 51.927,
+  "end": 52.376
+ },
+ {
+  "word": "idea?",
+  "start": 52.376,
+  "end": 53.005
+ },
+ {
+  "word": "Still",
+  "start": 53.005,
+  "end": 53.634
+ },
+ {
+  "word": "open.",
+  "start": 53.634,
+  "end": 54.263
+ }
+]

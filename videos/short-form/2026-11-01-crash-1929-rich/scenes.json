@@ -1,0 +1,105 @@
+{
+ "slug": "2026-11-01-crash-1929-rich",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Country Music - Hugh Mitchel.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "It's September 3, 1929. Wall Street has never been higher.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> grinning smugly in a 1929 brokerage office holding a long curling strip of ticker tape, stick-figure men in suits and top hats cheering in the background, green and burgundy decor, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "SEPT 3, 1929",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Everyone's rich. You know it ends in seven weeks.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> smirking knowingly in the foreground with one eyebrow raised while a crowd of tiny rich stick figures in top hats and furs toast with glasses behind him, art-deco hall. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "pan_left"
+  },
+  {
+   "id": 3,
+   "text": "So you bet against the market.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> flipping a big chart upside down with both hands so its arrow points sharply downward, a sly grin, exactly two arms and two hands, bright office wall behind. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 4,
+   "text": "October 24. The floor disappears.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> watching smugly from a balcony railing as stick-figure brokers in suits and hats tumble through a huge cracked floor in a grand trading hall, papers flying, dramatic red and orange light. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "OCT 24",
+   "motion": "shake"
+  },
+  {
+   "id": 5,
+   "text": "By November, stocks are down almost half. You're rich.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> dancing happily with a bulging sack of coins next to a giant board showing a steep falling red line, confetti of coins, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "-48%",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 6,
+   "text": "Cash out. Don't buy the dip yet.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> pulling a handful of coins out of an open vault while holding up one hand in a stop-wait gesture, a cautious look, exactly two arms and two hands, teal vault door. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 7,
+   "text": "Stocks bounce nearly fifty percent. Everyone says it's over. It isn't.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing with a flat deadpan face shaking his head while a crowd of stick figures celebrates under falling confetti and a big rising green arrow behind them. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "+48%",
+   "motion": "pan_right"
+  },
+  {
+   "id": 8,
+   "text": "You wait almost three years. July 8, 1932. The Dow is down eighty-nine percent.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting alone and small on a bench in a huge empty gloomy brokerage hall with dust floating, a big chart on the wall with its line nearly at the floor, muted blue-violet tones, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "JULY 8, 1932 — -89%",
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "pan_right"
+   ]
+  },
+  {
+   "id": 9,
+   "text": "Now you buy everything.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> grabbing armfuls of fancy stock certificates with wild excited eyes, papers flying around him, bright teal and orange office. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "shake"
+  },
+  {
+   "id": 10,
+   "text": "It takes until 1954 to climb back. Your money grows about nine times.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lounging happily on a giant pile of green cash with a big green arrow rising steeply behind him, sunny sky, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "1954 — 9X",
+   "motion": "zoom_out"
+  },
+  {
+   "id": 11,
+   "text": "Predicting the crash was easy. Waiting was the hard part.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> asleep slumped in an armchair with his scarf drooping beside a plain round wall clock with no numbers, a bored and sleepy look, cozy purple room. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  }
+ ]
+}

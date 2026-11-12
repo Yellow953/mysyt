@@ -1,0 +1,112 @@
+{
+ "slug": "2026-10-31-levels-egypt",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Medieval Astrology - Underbelly & Ty Mayer.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "Every level of life in ancient Egypt. From having absolutely nothing… to being worshipped as a god.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> SPLIT picture divided by a thin vertical line. LEFT half: a small poor ragged stick-figure worker with a dusty empty bowl on plain sand. RIGHT half: Mr. Yellow Scarf as a golden crowned pharaoh in a shiny gold headdress on a throne, pale desert background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Level one: Enslaved person. You have little control over your life, and your daily reality depends heavily on who controls your labor. This is survival mode.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a ragged linen kilt carrying two heavy baskets on his back along a dusty path while a stick-figure supervisor watches with arms crossed, weary face, pale sand background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_left",
+   "moves": [
+    "pan_left",
+    "pan_right"
+   ],
+   "overlay_text": "LEVEL 1 — ENSLAVED"
+  },
+  {
+   "id": 3,
+   "text": "Level two: Farmer. You work the land, grow food, and hope the Nile floods at the right time. Your boss is basically the weather.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as an Egyptian farmer in a plain linen kilt standing in a green field beside the blue Nile as the river rises and crops grow, looking hopefully up at the sky, palm trees, pale sand, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "LEVEL 2 — FARMER"
+  },
+  {
+   "id": 4,
+   "text": "Level three: Skilled craftsman. You can make pottery, furniture, or beautiful objects. Congratulations! You have a valuable skill… and still have bills to pay.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as an Egyptian craftsman in a linen kilt shaping a decorated clay vase at a workbench, staring sadly at a tiny bag of coins beside him, plain workshop, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ],
+   "overlay_text": "LEVEL 3 — CRAFTSMAN"
+  },
+  {
+   "id": 5,
+   "text": "Level four: Scribe. You learned to read and write hieroglyphic and other Egyptian scripts. Suddenly, the government needs you to keep track of absolutely everything.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as an Egyptian scribe sitting cross-legged holding a reed pen with piles of blank papyrus scrolls around him and confused tiny accountant stick figures holding scrolls, plain background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "moves": [
+    "pan_right",
+    "pan_left"
+   ],
+   "overlay_text": "LEVEL 4 — SCRIBE"
+  },
+  {
+   "id": 6,
+   "text": "Level five: High official. You manage resources, oversee workers, and stand close to the people running the kingdom. Your sandals are probably nicer now.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a high official in fine white linen and a wide collar necklace while servants carry scrolls and baskets of supplies to him, smug sandals pose, plain palace courtyard, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ],
+   "overlay_text": "LEVEL 5 — HIGH OFFICIAL"
+  },
+  {
+   "id": 7,
+   "text": "Level six: Noble. You have wealth, land, influence, and a much more comfortable life. Meanwhile, everyone else is wondering how you got that house.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a noble relaxing in a chair beneath a canopy beside a big luxurious Egyptian house with columns and a garden, holding a cup, comfy smile, small stick-figure neighbours peeking enviously, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "LEVEL 6 — NOBLE"
+  },
+  {
+   "id": 8,
+   "text": "Final level: Pharaoh. You rule the kingdom, command enormous resources, and are treated as a divine ruler. Your biggest problem? Making sure the entire country keeps running.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as pharaoh seated on a golden throne wearing the red and white double crown of Egypt with stick-figure officials bowing low in two rows, heavy proud face, pale palace hall, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "FINAL LEVEL — PHARAOH"
+  },
+  {
+   "id": 9,
+   "text": "Which level would you choose? Personally, I'd take the palace.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf standing beside a golden throne looking at it with greedy eyes, a faint motion-blur ghost of him already sitting on the throne, comic grin, pale palace hall, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "CLAIM YOUR THRONE"
+  }
+ ]
+}

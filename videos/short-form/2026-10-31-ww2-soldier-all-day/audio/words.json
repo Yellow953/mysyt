@@ -1,0 +1,507 @@
+[
+ {
+  "word": "Think",
+  "start": 0.0,
+  "end": 0.585
+ },
+ {
+  "word": "WW2",
+  "start": 0.585,
+  "end": 1.004
+ },
+ {
+  "word": "soldiers",
+  "start": 1.004,
+  "end": 1.84
+ },
+ {
+  "word": "spent",
+  "start": 1.84,
+  "end": 2.425
+ },
+ {
+  "word": "all",
+  "start": 2.425,
+  "end": 2.844
+ },
+ {
+  "word": "day",
+  "start": 2.844,
+  "end": 3.262
+ },
+ {
+  "word": "storming",
+  "start": 3.262,
+  "end": 4.098
+ },
+ {
+  "word": "beaches",
+  "start": 4.098,
+  "end": 4.851
+ },
+ {
+  "word": "and",
+  "start": 4.851,
+  "end": 5.269
+ },
+ {
+  "word": "winning",
+  "start": 5.269,
+  "end": 6.022
+ },
+ {
+  "word": "battles?",
+  "start": 6.022,
+  "end": 6.858
+ },
+ {
+  "word": "Yeah...",
+  "start": 6.858,
+  "end": 7.611
+ },
+ {
+  "word": "not",
+  "start": 7.611,
+  "end": 8.029
+ },
+ {
+  "word": "even",
+  "start": 8.029,
+  "end": 8.531
+ },
+ {
+  "word": "close.",
+  "start": 8.531,
+  "end": 9.2
+ },
+ {
+  "word": "Most",
+  "start": 9.6,
+  "end": 9.96
+ },
+ {
+  "word": "of",
+  "start": 9.96,
+  "end": 10.2
+ },
+ {
+  "word": "the",
+  "start": 10.2,
+  "end": 10.5
+ },
+ {
+  "word": "time,",
+  "start": 10.5,
+  "end": 10.92
+ },
+ {
+  "word": "being",
+  "start": 10.92,
+  "end": 11.34
+ },
+ {
+  "word": "a",
+  "start": 11.34,
+  "end": 11.52
+ },
+ {
+  "word": "soldier",
+  "start": 11.52,
+  "end": 12.06
+ },
+ {
+  "word": "was",
+  "start": 12.06,
+  "end": 12.36
+ },
+ {
+  "word": "basically",
+  "start": 12.36,
+  "end": 13.02
+ },
+ {
+  "word": "digging",
+  "start": 13.02,
+  "end": 13.56
+ },
+ {
+  "word": "holes",
+  "start": 13.56,
+  "end": 13.98
+ },
+ {
+  "word": "and",
+  "start": 13.98,
+  "end": 14.28
+ },
+ {
+  "word": "waiting.",
+  "start": 14.28,
+  "end": 14.88
+ },
+ {
+  "word": "They",
+  "start": 15.28,
+  "end": 15.705
+ },
+ {
+  "word": "dug",
+  "start": 15.705,
+  "end": 16.06
+ },
+ {
+  "word": "foxholes.",
+  "start": 16.06,
+  "end": 16.84
+ },
+ {
+  "word": "Fall",
+  "start": 16.84,
+  "end": 17.265
+ },
+ {
+  "word": "asleep",
+  "start": 17.265,
+  "end": 17.832
+ },
+ {
+  "word": "on",
+  "start": 17.832,
+  "end": 18.116
+ },
+ {
+  "word": "watch?",
+  "start": 18.116,
+  "end": 18.683
+ },
+ {
+  "word": "Congratulations.",
+  "start": 18.683,
+  "end": 19.959
+ },
+ {
+  "word": "You're",
+  "start": 19.959,
+  "end": 20.526
+ },
+ {
+  "word": "everyone's",
+  "start": 20.526,
+  "end": 21.377
+ },
+ {
+  "word": "least",
+  "start": 21.377,
+  "end": 21.873
+ },
+ {
+  "word": "favorite",
+  "start": 21.873,
+  "end": 22.582
+ },
+ {
+  "word": "soldier.",
+  "start": 22.582,
+  "end": 23.291
+ },
+ {
+  "word": "And",
+  "start": 23.691,
+  "end": 24.157
+ },
+ {
+  "word": "the",
+  "start": 24.157,
+  "end": 24.623
+ },
+ {
+  "word": "food?",
+  "start": 24.623,
+  "end": 25.276
+ },
+ {
+  "word": "Canned",
+  "start": 25.276,
+  "end": 26.022
+ },
+ {
+  "word": "meat",
+  "start": 26.022,
+  "end": 26.581
+ },
+ {
+  "word": "and",
+  "start": 26.581,
+  "end": 27.048
+ },
+ {
+  "word": "biscuits.",
+  "start": 27.048,
+  "end": 28.073
+ },
+ {
+  "word": "Dry",
+  "start": 28.073,
+  "end": 28.539
+ },
+ {
+  "word": "socks?",
+  "start": 28.539,
+  "end": 29.285
+ },
+ {
+  "word": "A",
+  "start": 29.285,
+  "end": 29.565
+ },
+ {
+  "word": "luxury.",
+  "start": 29.565,
+  "end": 30.404
+ },
+ {
+  "word": "But",
+  "start": 30.804,
+  "end": 31.159
+ },
+ {
+  "word": "when",
+  "start": 31.159,
+  "end": 31.584
+ },
+ {
+  "word": "the",
+  "start": 31.584,
+  "end": 31.939
+ },
+ {
+  "word": "shooting",
+  "start": 31.939,
+  "end": 32.648
+ },
+ {
+  "word": "started?",
+  "start": 32.648,
+  "end": 33.358
+ },
+ {
+  "word": "EVERYTHING",
+  "start": 33.358,
+  "end": 34.209
+ },
+ {
+  "word": "changed.",
+  "start": 34.209,
+  "end": 34.918
+ },
+ {
+  "word": "Helmets",
+  "start": 34.918,
+  "end": 35.557
+ },
+ {
+  "word": "on,",
+  "start": 35.557,
+  "end": 35.911
+ },
+ {
+  "word": "heads",
+  "start": 35.911,
+  "end": 36.408
+ },
+ {
+  "word": "down,",
+  "start": 36.408,
+  "end": 36.904
+ },
+ {
+  "word": "hoping",
+  "start": 36.904,
+  "end": 37.472
+ },
+ {
+  "word": "the",
+  "start": 37.472,
+  "end": 37.826
+ },
+ {
+  "word": "next",
+  "start": 37.826,
+  "end": 38.252
+ },
+ {
+  "word": "shell",
+  "start": 38.252,
+  "end": 38.749
+ },
+ {
+  "word": "missed.",
+  "start": 38.749,
+  "end": 39.387
+ },
+ {
+  "word": "Win,",
+  "start": 39.787,
+  "end": 40.265
+ },
+ {
+  "word": "and",
+  "start": 40.265,
+  "end": 40.663
+ },
+ {
+  "word": "you",
+  "start": 40.663,
+  "end": 41.061
+ },
+ {
+  "word": "got",
+  "start": 41.061,
+  "end": 41.459
+ },
+ {
+  "word": "rest,",
+  "start": 41.459,
+  "end": 42.016
+ },
+ {
+  "word": "letters,",
+  "start": 42.016,
+  "end": 42.813
+ },
+ {
+  "word": "and",
+  "start": 42.813,
+  "end": 43.211
+ },
+ {
+  "word": "a",
+  "start": 43.211,
+  "end": 43.45
+ },
+ {
+  "word": "hot",
+  "start": 43.45,
+  "end": 43.848
+ },
+ {
+  "word": "meal.",
+  "start": 43.848,
+  "end": 44.405
+ },
+ {
+  "word": "Lose,",
+  "start": 44.405,
+  "end": 44.962
+ },
+ {
+  "word": "and",
+  "start": 44.962,
+  "end": 45.36
+ },
+ {
+  "word": "it",
+  "start": 45.36,
+  "end": 45.679
+ },
+ {
+  "word": "ended",
+  "start": 45.679,
+  "end": 46.236
+ },
+ {
+  "word": "VERY",
+  "start": 46.236,
+  "end": 46.714
+ },
+ {
+  "word": "badly.",
+  "start": 46.714,
+  "end": 47.351
+ },
+ {
+  "word": "So",
+  "start": 47.751,
+  "end": 48.002
+ },
+ {
+  "word": "yeah,",
+  "start": 48.002,
+  "end": 48.442
+ },
+ {
+  "word": "soldier",
+  "start": 48.442,
+  "end": 49.007
+ },
+ {
+  "word": "life",
+  "start": 49.007,
+  "end": 49.384
+ },
+ {
+  "word": "was",
+  "start": 49.384,
+  "end": 49.698
+ },
+ {
+  "word": "mostly",
+  "start": 49.698,
+  "end": 50.201
+ },
+ {
+  "word": "digging",
+  "start": 50.201,
+  "end": 50.766
+ },
+ {
+  "word": "and",
+  "start": 50.766,
+  "end": 51.08
+ },
+ {
+  "word": "waiting...",
+  "start": 51.08,
+  "end": 51.834
+ },
+ {
+  "word": "with",
+  "start": 51.834,
+  "end": 52.211
+ },
+ {
+  "word": "occasional",
+  "start": 52.211,
+  "end": 52.964
+ },
+ {
+  "word": "chaos.",
+  "start": 52.964,
+  "end": 53.467
+ },
+ {
+  "word": "Still",
+  "start": 53.867,
+  "end": 54.166
+ },
+ {
+  "word": "wanna",
+  "start": 54.166,
+  "end": 54.466
+ },
+ {
+  "word": "be",
+  "start": 54.466,
+  "end": 54.637
+ },
+ {
+  "word": "a",
+  "start": 54.637,
+  "end": 54.765
+ },
+ {
+  "word": "soldier?",
+  "start": 54.765,
+  "end": 55.193
+ }
+]

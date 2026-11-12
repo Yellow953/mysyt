@@ -1,0 +1,477 @@
+[
+ {
+  "word": "It's",
+  "start": 0.0,
+  "end": 0.534
+ },
+ {
+  "word": "April",
+  "start": 0.534,
+  "end": 1.158
+ },
+ {
+  "word": "1848.",
+  "start": 1.158,
+  "end": 1.781
+ },
+ {
+  "word": "Nobody",
+  "start": 1.781,
+  "end": 2.493
+ },
+ {
+  "word": "knows",
+  "start": 2.493,
+  "end": 3.117
+ },
+ {
+  "word": "about",
+  "start": 3.117,
+  "end": 3.74
+ },
+ {
+  "word": "the",
+  "start": 3.74,
+  "end": 4.185
+ },
+ {
+  "word": "gold",
+  "start": 4.185,
+  "end": 4.719
+ },
+ {
+  "word": "yet.",
+  "start": 4.719,
+  "end": 5.254
+ },
+ {
+  "word": "You",
+  "start": 5.254,
+  "end": 5.699
+ },
+ {
+  "word": "do.",
+  "start": 5.699,
+  "end": 6.144
+ },
+ {
+  "word": "Everyone's",
+  "start": 6.644,
+  "end": 7.493
+ },
+ {
+  "word": "about",
+  "start": 7.493,
+  "end": 7.988
+ },
+ {
+  "word": "to",
+  "start": 7.988,
+  "end": 8.271
+ },
+ {
+  "word": "dig.",
+  "start": 8.271,
+  "end": 8.695
+ },
+ {
+  "word": "You",
+  "start": 8.695,
+  "end": 9.049
+ },
+ {
+  "word": "hate",
+  "start": 9.049,
+  "end": 9.474
+ },
+ {
+  "word": "digging.",
+  "start": 9.474,
+  "end": 10.181
+ },
+ {
+  "word": "So",
+  "start": 10.581,
+  "end": 10.889
+ },
+ {
+  "word": "you",
+  "start": 10.889,
+  "end": 11.274
+ },
+ {
+  "word": "buy",
+  "start": 11.274,
+  "end": 11.659
+ },
+ {
+  "word": "every",
+  "start": 11.659,
+  "end": 12.198
+ },
+ {
+  "word": "pan",
+  "start": 12.198,
+  "end": 12.583
+ },
+ {
+  "word": "you",
+  "start": 12.583,
+  "end": 12.968
+ },
+ {
+  "word": "can",
+  "start": 12.968,
+  "end": 13.353
+ },
+ {
+  "word": "find.",
+  "start": 13.353,
+  "end": 13.892
+ },
+ {
+  "word": "Twenty",
+  "start": 13.892,
+  "end": 14.508
+ },
+ {
+  "word": "cents",
+  "start": 14.508,
+  "end": 15.047
+ },
+ {
+  "word": "each.",
+  "start": 15.047,
+  "end": 15.586
+ },
+ {
+  "word": "May",
+  "start": 15.986,
+  "end": 16.34
+ },
+ {
+  "word": "12.",
+  "start": 16.34,
+  "end": 16.695
+ },
+ {
+  "word": "You",
+  "start": 16.695,
+  "end": 17.049
+ },
+ {
+  "word": "sprint",
+  "start": 17.049,
+  "end": 17.616
+ },
+ {
+  "word": "through",
+  "start": 17.616,
+  "end": 18.254
+ },
+ {
+  "word": "San",
+  "start": 18.254,
+  "end": 18.608
+ },
+ {
+  "word": "Francisco,",
+  "start": 18.608,
+  "end": 19.459
+ },
+ {
+  "word": "waving",
+  "start": 19.459,
+  "end": 20.026
+ },
+ {
+  "word": "a",
+  "start": 20.026,
+  "end": 20.238
+ },
+ {
+  "word": "bottle",
+  "start": 20.238,
+  "end": 20.805
+ },
+ {
+  "word": "of",
+  "start": 20.805,
+  "end": 21.089
+ },
+ {
+  "word": "gold",
+  "start": 21.089,
+  "end": 21.514
+ },
+ {
+  "word": "dust.",
+  "start": 21.514,
+  "end": 22.01
+ },
+ {
+  "word": "Gold!",
+  "start": 22.41,
+  "end": 22.84
+ },
+ {
+  "word": "Gold",
+  "start": 22.84,
+  "end": 23.208
+ },
+ {
+  "word": "from",
+  "start": 23.208,
+  "end": 23.576
+ },
+ {
+  "word": "the",
+  "start": 23.576,
+  "end": 23.883
+ },
+ {
+  "word": "American",
+  "start": 23.883,
+  "end": 24.497
+ },
+ {
+  "word": "River!",
+  "start": 24.497,
+  "end": 24.988
+ },
+ {
+  "word": "Pans",
+  "start": 25.488,
+  "end": 25.928
+ },
+ {
+  "word": "now",
+  "start": 25.928,
+  "end": 26.294
+ },
+ {
+  "word": "cost",
+  "start": 26.294,
+  "end": 26.734
+ },
+ {
+  "word": "fifteen",
+  "start": 26.734,
+  "end": 27.394
+ },
+ {
+  "word": "dollars.",
+  "start": 27.394,
+  "end": 28.127
+ },
+ {
+  "word": "That's",
+  "start": 28.127,
+  "end": 28.714
+ },
+ {
+  "word": "seventy-five",
+  "start": 28.714,
+  "end": 29.74
+ },
+ {
+  "word": "times",
+  "start": 29.74,
+  "end": 30.253
+ },
+ {
+  "word": "what",
+  "start": 30.253,
+  "end": 30.693
+ },
+ {
+  "word": "you",
+  "start": 30.693,
+  "end": 31.06
+ },
+ {
+  "word": "paid.",
+  "start": 31.06,
+  "end": 31.573
+ },
+ {
+  "word": "The",
+  "start": 32.073,
+  "end": 32.435
+ },
+ {
+  "word": "miners",
+  "start": 32.435,
+  "end": 33.013
+ },
+ {
+  "word": "dig",
+  "start": 33.013,
+  "end": 33.374
+ },
+ {
+  "word": "for",
+  "start": 33.374,
+  "end": 33.736
+ },
+ {
+  "word": "years.",
+  "start": 33.736,
+  "end": 34.314
+ },
+ {
+  "word": "Most",
+  "start": 34.314,
+  "end": 34.748
+ },
+ {
+  "word": "never",
+  "start": 34.748,
+  "end": 35.254
+ },
+ {
+  "word": "get",
+  "start": 35.254,
+  "end": 35.616
+ },
+ {
+  "word": "rich.",
+  "start": 35.616,
+  "end": 36.122
+ },
+ {
+  "word": "You",
+  "start": 36.522,
+  "end": 36.88
+ },
+ {
+  "word": "never",
+  "start": 36.88,
+  "end": 37.382
+ },
+ {
+  "word": "touch",
+  "start": 37.382,
+  "end": 37.884
+ },
+ {
+  "word": "a",
+  "start": 37.884,
+  "end": 38.099
+ },
+ {
+  "word": "shovel.",
+  "start": 38.099,
+  "end": 38.744
+ },
+ {
+  "word": "You",
+  "start": 38.744,
+  "end": 39.102
+ },
+ {
+  "word": "just",
+  "start": 39.102,
+  "end": 39.533
+ },
+ {
+  "word": "count.",
+  "start": 39.533,
+  "end": 40.106
+ },
+ {
+  "word": "A",
+  "start": 40.506,
+  "end": 40.723
+ },
+ {
+  "word": "man",
+  "start": 40.723,
+  "end": 41.086
+ },
+ {
+  "word": "named",
+  "start": 41.086,
+  "end": 41.593
+ },
+ {
+  "word": "Sam",
+  "start": 41.593,
+  "end": 41.956
+ },
+ {
+  "word": "Brannan",
+  "start": 41.956,
+  "end": 42.608
+ },
+ {
+  "word": "really",
+  "start": 42.608,
+  "end": 43.188
+ },
+ {
+  "word": "did",
+  "start": 43.188,
+  "end": 43.55
+ },
+ {
+  "word": "this.",
+  "start": 43.55,
+  "end": 44.057
+ },
+ {
+  "word": "California's",
+  "start": 44.057,
+  "end": 45.072
+ },
+ {
+  "word": "first",
+  "start": 45.072,
+  "end": 45.579
+ },
+ {
+  "word": "millionaire.",
+  "start": 45.579,
+  "end": 46.594
+ },
+ {
+  "word": "Then",
+  "start": 47.094,
+  "end": 47.585
+ },
+ {
+  "word": "he",
+  "start": 47.585,
+  "end": 47.912
+ },
+ {
+  "word": "lost",
+  "start": 47.912,
+  "end": 48.403
+ },
+ {
+  "word": "it",
+  "start": 48.403,
+  "end": 48.73
+ },
+ {
+  "word": "all.",
+  "start": 48.73,
+  "end": 49.221
+ },
+ {
+  "word": "You",
+  "start": 49.221,
+  "end": 49.63
+ },
+ {
+  "word": "read",
+  "start": 49.63,
+  "end": 50.121
+ },
+ {
+  "word": "ahead.",
+  "start": 50.121,
+  "end": 50.776
+ }
+]

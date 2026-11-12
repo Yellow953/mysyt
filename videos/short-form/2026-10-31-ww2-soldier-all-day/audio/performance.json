@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Think WW2 soldiers spent all day storming beaches and winning battles? Yeah... not even close.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "01.mp3"
+  },
+  {
+    "text": "Most of the time, being a soldier was basically digging holes and waiting.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "02.mp3"
+  },
+  {
+    "text": "They dug foxholes. Fall asleep on watch? Congratulations. You're everyone's least favorite soldier.",
+    "tag": "lazy",
+    "pause": 0.4,
+    "clip": "03.mp3"
+  },
+  {
+    "text": "And the food? Canned meat and biscuits. Dry socks? A luxury.",
+    "tag": "flat",
+    "pause": 0.4,
+    "clip": "04.mp3"
+  },
+  {
+    "text": "But when the shooting started? EVERYTHING changed. Helmets on, heads down, hoping the next shell missed.",
+    "tag": "excited",
+    "pause": 0.4,
+    "clip": "05.mp3"
+  },
+  {
+    "text": "Win, and you got rest, letters, and a hot meal. Lose, and it ended VERY badly.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "06.mp3"
+  },
+  {
+    "text": "So yeah, soldier life was mostly digging and waiting... with occasional chaos.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "07.mp3"
+  },
+  {
+    "text": "Still wanna be a soldier?",
+    "tag": "curious",
+    "pause": 0.0,
+    "clip": "08.mp3"
+  }
+]

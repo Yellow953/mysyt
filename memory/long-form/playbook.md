@@ -1,0 +1,82 @@
+# Long-form playbook (v0, 2026-11-03: all HYPOTHESES until our data says otherwise)
+Brand and character rules are shared with Shorts (see CLAUDE.md). This file is long-form only.
+
+## Goal
+Fascinating stories that happen to teach something, not educational videos that happen to be animated. Target ~5 min for every pillar (Joe, 2026-11-03: keep videos 5 mins; story may run a little over/under). Not a stretched Short.
+
+## Structure (flexible)
+1. Cold open (0-30 s): drop into the most gripping moment or question; no greeting, no channel intro.
+2. Setup: only what the viewer needs to care.
+3. Development -> complications -> unexpected turns. Every section must advance the story, raise stakes, or deliver something surprising.
+4. Major reveal, climax, resolution. Open a new question as each old one closes.
+5. Natural CTA at the end (one line, in character).
+
+Avoid: long greetings, generic intros, background dumps, statistics piles, repeated narration, predictable endings, padded scenes.
+
+## Ideas
+- Global, story-first (never default to Middle East/Lebanon). Starting areas: forgotten history, strange events, psychology, wealth/power, rise and fall, survival, mystery, odd decisions, rivalries, real-life unbelievable events, strange discoveries.
+- From a competitor hit: extract the emotional appeal, why they clicked, why they stayed, the mechanism; then pick a different subject/character/perspective. Never reproduce a script or swap the subject only.
+- Reject generic ideas. Score: click potential, story strength, retention, visual potential, research feasibility, originality.
+
+## Packaging comes BEFORE the script
+Per idea: 5 titles, 3 thumbnail concepts, curiosity gap, intended emotion, why title+thumbnail work together, recommended pair. Thumbnails: readable on mobile, few words, strong expression, not a repeat of the title. Mascot appearance and style block: shared with Shorts (see script-writer SKILL style block).
+
+## Fact discipline
+Label every claim: verified / strongly supported / disputed / speculation / dramatization. Never invent events or dialogue as fact; imagined scenes are fine when framed as dramatization.
+
+## Metrics (long-form)
+Impressions, CTR, first-30-s retention, retention curve, avg view duration, watch time, subs gained, traffic sources, views over time, comments/shares. Compare to OUR long-form baseline, not Shorts.
+
+## Pillars
+Six pillars (see pillars.md), premise first. Attraction/romance rules: character-and-attraction-policy.md. Thumbnail experiments: thumbnail-experiments.md.
+
+## Working rules (Joe, 2026-11-04): cheap, fast, creative first
+1. ALL long-form agents run on the cheapest model (`model: haiku` in every `lf-*` agent file). Never override a subagent to a pricier model unless Joe asks. Keep prompts short and demand short returns.
+2. SPEED: ideas = ONE agent pass (a few strong ideas), not 6 hunters + 12 fact-checks + critics. Script = ONE writer pass + ONE quick review, then show Joe. At most one revision round unless Joe asks. Don't re-run reviews on small edits. Do not spawn agents to answer questions you can answer yourself.
+3. CREATIVITY OVER ACCURACY for hypotheticals / what-ifs / POV / thought experiments (pillars 1 and 3): NO fact-check gate. Good premise, escalation, humor and a payoff come first; keep only a quick sanity check on any real number used and label imagination as imagination.
+4. Real stories (pillars 2, 4, 5, 6): proportional light check ONLY: confirm the core story is real with 2 sources and don't state anything shaky as fact (hedge it in narration). No multi-agent source audits, no reopening primary filings, no per-claim tables unless Joe asks. Story, hook, twist and payoff are judged first; facts must not slow or flatten them.
+5. Present to Joe quickly and short: title, premise, hook, twist, payoff, thumbnail idea. Detail lives in files.
+
+## Production style rules (Joe, 2026-11-04, feedback on the McDonald's video)
+1. NO on-screen text except the captions at the bottom: no overlay plates, no source tags, no stat boxes, no "DRAMATIZATION" labels. Real-logo badges (golden arches etc.) are fine. `overlay_text` stays empty in scenes.json.
+2. NO disclaimer lines, spoken or on screen, at the start or mid-video. Keep honesty inside the narration instead: say "say your restaurant sells..." / "imagine..." for invented numbers, hedge shaky facts ("by most accounts"), and put the "illustration / not affiliated" notes in the description and pinned comment.
+3. Images must not look zoomed or cropped: assemble_lf.py now crops only ~2% (BUF 1.02) with zoom/pan of at most 3%. Compose scenes with the subject well inside the frame (heads in the upper-middle, nothing important near the edges).
+4. Thumbnails: when the video is about a real brand, put the real logo on the sign/object in the art (composited locally); text stays minimal.
+
+## Voice QC rule (2026-11-04, McDonald's)
+After recording clips and BEFORE build_voice.py, run `.venv/bin/python scripts/long-form/check_clips.py videos/long-form/<slug>`: it transcribes every clip and flags any whose speech does not match performance.json. The McDonald's first pass had clips 01-08 holding the wrong speech (the removed disclaimer played in the opening while the captions showed the right words) and nothing caught it. Also: after the final render, transcribe the first 45 seconds of the MP4's audio and read it against the script. Map batch results to prompts by prompt text, never by job order.
+
+## Production directives (Joe, 2026-11-06, Emu War)
+1. Scene change at least every 5 s (never shorter than ~5 s per scene; ~60 scenes max for 5 min).
+2. Use animating characters via the Remotion cut-out method from the last Short (remotion/src/TrashVolcano.tsx template, sprites on magenta -> scripts/short-form/cutout.py -> sprite_meta.py, Chrome render, SFX from make_sfx.py; see learnings.md section D and video-producer notes 2026-11-05). Needs a 16:9 long-form variant of the template (read-only reuse, copy, don't edit the Shorts files).
+3. Music: NEW track(s) from the YouTube Audio Library each video, not one already in assets/music/ (see used.json).
+
+## Remotion cut-out pipeline for long-form (built 2026-11-06, Emu War)
+- Files: remotion/src/EmuWar.tsx (data-driven shots; edit the SHOTS array), EmuRoot.tsx + emuIndex.ts (entry), emuShots.json (shot times from voice), emuCaps.json, emuMeta.ts; assets in remotion/public/emu/. Render: `npx remotion render src/emuIndex.ts EmuWar60 out.mp4 --browser-executable="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --concurrency=8` (30 min for 5:20 at 1080p60; draft with EmuWar30 --scale=0.5 about 16 min).
+- Flow: performance.json (one clip per script row) -> Grady clips -> check_clips.py -> build_voice.py -> captions.py -> shots (groups of clips, each shot >= 5 s) -> sprites on magenta (~0.5 cr, 21 sprites enough for 37 shots) -> cutout.py --global -> sprite_meta.py -> shots in SHOTS -> stills -> half-scale draft -> final.
+- Voice cost measured: ~0.32 credit per clip. zsh: a no-match glob aborts the command; do not trust an empty grep result when the command errored.
+- Story structure (Joe, 2026-11-06): when the story's resolution is a mechanism (e.g. the bounty), give it its own half of the video with a mini-arc, not a tag-on ending. Title says "emus" (never "ostriches").
+
+## Joe's feedback on the first Emu War cut (2026-11-06) -> standing long-form rules
+1. THUMBNAILS: not boring. Use the colorful hand-drawn watercolor style (style v2), a giant expressive character/animal close-up plus the small panicked mascot, blazing high-contrast colors, minimal text. Generate 3 compositions and pick the best at phone size (the flat "mascot beside a gun" thumbnail was rejected as boring). Never keep art with garbled lettering (crate/sack words); reject it.
+2. COLOR: animated scenes must be vivid, not faded: saturated sky/ground palettes, CSS saturate ~1.3, warm-tinted emus. Pale pastel backgrounds are out.
+3. MIX OF STYLES: not all animation. Mix colorful generated illustrations (Ken Burns push, ~0.5 cr each) with Remotion cut-out animation: roughly 40-50% illustrated on story peaks (hook, deal, parliament, climax, finale), animation for the connecting beats.
+4. HOOK (first 5 s) must be punchy: lead with the premise in one line over the most striking illustrated image, then hit the second image on the punchline word (zoom punch + thud). The old "date + gun jams" opening was too slow; keep the date line for second 8.
+5. Truncated PNG downloads happen again: always verify every image with PIL load() after download.
+6. (Joe 2026-11-06) Sound: add synthesized machine-gun/action SFX on gun moments, heaviest in the hook (mg_burst/mg_short in remotion/public/emu, made locally). Spacing: emu groups use fixed row spacing (flock rows), never random clumps; keep the mascot and groups clear of each other.
+
+## Script rules from Joe (2026-11-07, medieval-privacy rewrite)
+1. STORY OVER FACTS, always. A script is one want + escalating attempts/obstacles + a payoff, with funny set pieces. Facts are one hedged line each, only where they sharpen a scene. No fact ladder, no "historians disagree" thesis section, no explainer beats. If a beat exists only to deliver a fact, cut it.
+2. NO NAMES for the mascot or the people around him. The narrator is "you"; others are "your wife", "your mother". Anyone can imagine being him. Never "I'm Mr. Yellow Scarf" or "I" in narration.
+3. Intimate/romantic ideas: go up to tier 2 (heat, longing, whispers, closeness, innuendo, clothed adults, ends at the closed door). Do not fall back to a dry, safe tone.
+4. No gag that is introduced and then dropped (the cow). Every setup pays off.
+
+## Image style v4 "Bright Expressive Cartoon" (Joe, 2026-11-08) - REPLACES v3 below for all new videos
+Use the style block and the female-character rule in `.claude/skills/script-writer/SKILL.md` (same block for Shorts and long-form, 16:9 for long-form). Glossy digital paint, vivid blue sky or sunset glow, detailed textured environments, thin dark outlines, big exaggerated reactions. Scarf only yellow. CSS saturate ~1.05.
+
+### (RETIRED 2026-11-08) Image style v3 "mid color" (Joe, 2026-11-07)
+Joe: "too colorful like the previous version, not barely any color either: the mid, like the competitors." Style v3 = hand-drawn ink, flat watercolor fills at MEDIUM saturation: warm earthy palette (ochre, rust, dusty teal, olive, slate blue, warm cream) with one or two stronger accents per scene, thin wobbly black outlines, warm firelight glow for night scenes. No neon, no candy colors, no pale washed-out pastels. CSS saturate ~1.05 (not 1.3). The scarf stays the ONLY yellow. Thumbnails may be a touch punchier than the video but still in this palette. Reference look: Ink Story / Relic Explains / Lore-style channels.
+Music rule (Joe, 2026-11-07): pick a NEW track whose mood matches the video (medieval-privacy = sexy, relaxing, smooth); never reuse a used.json track.
+
+
+Female lead look (Joe, 2026-11-07, medieval-privacy): attractive and sexy within tier 2: long wavy hair, eyelashes, rosy cheeks, confident half-smile, sultry playful eyes, flirty posture, fitted but fully covering period dress; sexy through styling, expression and chemistry, never body emphasis, no cleavage or bare skin beyond face/hands.

@@ -1,0 +1,4386 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.731,
+  "words": [
+   {
+    "text": "IN",
+    "start": 0.0,
+    "end": 0.266
+   },
+   {
+    "text": "2025,",
+    "start": 0.266,
+    "end": 0.731
+   }
+  ]
+ },
+ {
+  "start": 0.731,
+  "end": 2.26,
+  "words": [
+   {
+    "text": "MCDONALD'S",
+    "start": 0.731,
+    "end": 1.529
+   },
+   {
+    "text": "COLLECTED",
+    "start": 1.529,
+    "end": 2.26
+   }
+  ]
+ },
+ {
+  "start": 2.26,
+  "end": 3.59,
+  "words": [
+   {
+    "text": "OVER",
+    "start": 2.26,
+    "end": 2.659
+   },
+   {
+    "text": "TEN",
+    "start": 2.659,
+    "end": 2.991
+   },
+   {
+    "text": "BILLION",
+    "start": 2.991,
+    "end": 3.59
+   }
+  ]
+ },
+ {
+  "start": 3.59,
+  "end": 4.919,
+  "words": [
+   {
+    "text": "DOLLARS",
+    "start": 3.59,
+    "end": 4.188
+   },
+   {
+    "text": "IN",
+    "start": 4.188,
+    "end": 4.454
+   },
+   {
+    "text": "RENT.",
+    "start": 4.454,
+    "end": 4.919
+   }
+  ]
+ },
+ {
+  "start": 5.219,
+  "end": 6.774,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 5.219,
+    "end": 5.578
+   },
+   {
+    "text": "RESTAURANTS",
+    "start": 5.578,
+    "end": 6.356
+   },
+   {
+    "text": "OTHER",
+    "start": 6.356,
+    "end": 6.774
+   }
+  ]
+ },
+ {
+  "start": 6.774,
+  "end": 7.612,
+  "words": [
+   {
+    "text": "PEOPLE",
+    "start": 6.774,
+    "end": 7.253
+   },
+   {
+    "text": "RUN.",
+    "start": 7.253,
+    "end": 7.612
+   }
+  ]
+ },
+ {
+  "start": 8.212,
+  "end": 9.012,
+  "words": [
+   {
+    "text": "AT",
+    "start": 8.212,
+    "end": 8.412
+   },
+   {
+    "text": "A",
+    "start": 8.412,
+    "end": 8.562
+   },
+   {
+    "text": "REGULAR",
+    "start": 8.562,
+    "end": 9.012
+   }
+  ]
+ },
+ {
+  "start": 9.012,
+  "end": 10.212,
+  "words": [
+   {
+    "text": "MCDONALD'S",
+    "start": 9.012,
+    "end": 9.612
+   },
+   {
+    "text": "FRANCHISE,",
+    "start": 9.612,
+    "end": 10.212
+   }
+  ]
+ },
+ {
+  "start": 10.212,
+  "end": 11.262,
+  "words": [
+   {
+    "text": "THE",
+    "start": 10.212,
+    "end": 10.462
+   },
+   {
+    "text": "OWNER",
+    "start": 10.462,
+    "end": 10.812
+   },
+   {
+    "text": "DOESN'T",
+    "start": 10.812,
+    "end": 11.262
+   }
+  ]
+ },
+ {
+  "start": 11.262,
+  "end": 12.212,
+  "words": [
+   {
+    "text": "OWN",
+    "start": 11.262,
+    "end": 11.512
+   },
+   {
+    "text": "THE",
+    "start": 11.512,
+    "end": 11.762
+   },
+   {
+    "text": "GROUND.",
+    "start": 11.762,
+    "end": 12.212
+   }
+  ]
+ },
+ {
+  "start": 12.512,
+  "end": 13.997,
+  "words": [
+   {
+    "text": "THE",
+    "start": 12.512,
+    "end": 12.903
+   },
+   {
+    "text": "OWNER",
+    "start": 12.903,
+    "end": 13.45
+   },
+   {
+    "text": "RENTS",
+    "start": 13.45,
+    "end": 13.997
+   }
+  ]
+ },
+ {
+  "start": 13.997,
+  "end": 14.387,
+  "words": [
+   {
+    "text": "IT.",
+    "start": 13.997,
+    "end": 14.387
+   }
+  ]
+ },
+ {
+  "start": 14.387,
+  "end": 15.872,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 14.387,
+    "end": 14.856
+   },
+   {
+    "text": "MCDONALD'S.",
+    "start": 14.856,
+    "end": 15.872
+   }
+  ]
+ },
+ {
+  "start": 16.472,
+  "end": 17.564,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 16.472,
+    "end": 16.836
+   },
+   {
+    "text": "IDEA",
+    "start": 16.836,
+    "end": 17.2
+   },
+   {
+    "text": "CAME",
+    "start": 17.2,
+    "end": 17.564
+   }
+  ]
+ },
+ {
+  "start": 17.564,
+  "end": 18.656,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 17.564,
+    "end": 17.928
+   },
+   {
+    "text": "A",
+    "start": 17.928,
+    "end": 18.11
+   },
+   {
+    "text": "FINANCE",
+    "start": 18.11,
+    "end": 18.656
+   }
+  ]
+ },
+ {
+  "start": 18.656,
+  "end": 19.809,
+  "words": [
+   {
+    "text": "MAN",
+    "start": 18.656,
+    "end": 18.959
+   },
+   {
+    "text": "NAMED",
+    "start": 18.959,
+    "end": 19.384
+   },
+   {
+    "text": "HARRY",
+    "start": 19.384,
+    "end": 19.809
+   }
+  ]
+ },
+ {
+  "start": 19.809,
+  "end": 20.537,
+  "words": [
+   {
+    "text": "SONNEBORN,",
+    "start": 19.809,
+    "end": 20.537
+   }
+  ]
+ },
+ {
+  "start": 20.537,
+  "end": 21.447,
+  "words": [
+   {
+    "text": "WHO",
+    "start": 20.537,
+    "end": 20.84
+   },
+   {
+    "text": "ASKED",
+    "start": 20.84,
+    "end": 21.265
+   },
+   {
+    "text": "A",
+    "start": 21.265,
+    "end": 21.447
+   }
+  ]
+ },
+ {
+  "start": 21.447,
+  "end": 22.842,
+  "words": [
+   {
+    "text": "QUESTION",
+    "start": 21.447,
+    "end": 22.053
+   },
+   {
+    "text": "THE",
+    "start": 22.053,
+    "end": 22.357
+   },
+   {
+    "text": "BURGER",
+    "start": 22.357,
+    "end": 22.842
+   }
+  ]
+ },
+ {
+  "start": 22.842,
+  "end": 23.934,
+  "words": [
+   {
+    "text": "BUSINESS",
+    "start": 22.842,
+    "end": 23.449
+   },
+   {
+    "text": "WASN'T",
+    "start": 23.449,
+    "end": 23.934
+   }
+  ]
+ },
+ {
+  "start": 23.934,
+  "end": 24.634,
+  "words": [
+   {
+    "text": "ASKING.",
+    "start": 23.934,
+    "end": 24.48
+   }
+  ]
+ },
+ {
+  "start": 25.08,
+  "end": 26.182,
+  "words": [
+   {
+    "text": "NOT",
+    "start": 25.08,
+    "end": 25.404
+   },
+   {
+    "text": "'HOW",
+    "start": 25.404,
+    "end": 25.793
+   },
+   {
+    "text": "MANY",
+    "start": 25.793,
+    "end": 26.182
+   }
+  ]
+ },
+ {
+  "start": 26.182,
+  "end": 27.348,
+  "words": [
+   {
+    "text": "BURGERS",
+    "start": 26.182,
+    "end": 26.765
+   },
+   {
+    "text": "CAN",
+    "start": 26.765,
+    "end": 27.089
+   },
+   {
+    "text": "WE",
+    "start": 27.089,
+    "end": 27.348
+   }
+  ]
+ },
+ {
+  "start": 27.348,
+  "end": 28.625,
+  "words": [
+   {
+    "text": "SELL?'",
+    "start": 27.348,
+    "end": 27.867
+   },
+   {
+    "text": "BUT,",
+    "start": 28.167,
+    "end": 28.625
+   }
+  ]
+ },
+ {
+  "start": 28.625,
+  "end": 29.616,
+  "words": [
+   {
+    "text": "IN",
+    "start": 28.625,
+    "end": 28.93
+   },
+   {
+    "text": "EFFECT,",
+    "start": 28.93,
+    "end": 29.616
+   }
+  ]
+ },
+ {
+  "start": 29.616,
+  "end": 30.912,
+  "words": [
+   {
+    "text": "'WHO",
+    "start": 29.616,
+    "end": 30.074
+   },
+   {
+    "text": "OWNS",
+    "start": 30.074,
+    "end": 30.531
+   },
+   {
+    "text": "THE",
+    "start": 30.531,
+    "end": 30.912
+   }
+  ]
+ },
+ {
+  "start": 30.912,
+  "end": 31.675,
+  "words": [
+   {
+    "text": "GROUND?'",
+    "start": 30.912,
+    "end": 31.675
+   }
+  ]
+ },
+ {
+  "start": 32.275,
+  "end": 33.537,
+  "words": [
+   {
+    "text": "YEARS",
+    "start": 32.275,
+    "end": 32.864
+   },
+   {
+    "text": "LATER,",
+    "start": 32.864,
+    "end": 33.537
+   }
+  ]
+ },
+ {
+  "start": 33.537,
+  "end": 34.463,
+  "words": [
+   {
+    "text": "HE",
+    "start": 33.537,
+    "end": 33.874
+   },
+   {
+    "text": "QUIT.",
+    "start": 33.874,
+    "end": 34.463
+   }
+  ]
+ },
+ {
+  "start": 35.063,
+  "end": 36.539,
+  "words": [
+   {
+    "text": "AND",
+    "start": 35.063,
+    "end": 35.414
+   },
+   {
+    "text": "ALMOST",
+    "start": 35.414,
+    "end": 35.977
+   },
+   {
+    "text": "NOBODY",
+    "start": 35.977,
+    "end": 36.539
+   }
+  ]
+ },
+ {
+  "start": 36.539,
+  "end": 37.734,
+  "words": [
+   {
+    "text": "REMEMBERS",
+    "start": 36.539,
+    "end": 37.312
+   },
+   {
+    "text": "HIM.",
+    "start": 37.312,
+    "end": 37.734
+   }
+  ]
+ },
+ {
+  "start": 38.734,
+  "end": 39.624,
+  "words": [
+   {
+    "text": "TO",
+    "start": 38.734,
+    "end": 38.988
+   },
+   {
+    "text": "SEE",
+    "start": 38.988,
+    "end": 39.306
+   },
+   {
+    "text": "WHY",
+    "start": 39.306,
+    "end": 39.624
+   }
+  ]
+ },
+ {
+  "start": 39.624,
+  "end": 40.577,
+  "words": [
+   {
+    "text": "IT",
+    "start": 39.624,
+    "end": 39.878
+   },
+   {
+    "text": "MATTERED,",
+    "start": 39.878,
+    "end": 40.577
+   }
+  ]
+ },
+ {
+  "start": 40.577,
+  "end": 41.721,
+  "words": [
+   {
+    "text": "START",
+    "start": 40.577,
+    "end": 41.022
+   },
+   {
+    "text": "WITH",
+    "start": 41.022,
+    "end": 41.403
+   },
+   {
+    "text": "THE",
+    "start": 41.403,
+    "end": 41.721
+   }
+  ]
+ },
+ {
+  "start": 41.721,
+  "end": 42.865,
+  "words": [
+   {
+    "text": "MAN",
+    "start": 41.721,
+    "end": 42.039
+   },
+   {
+    "text": "WHO",
+    "start": 42.039,
+    "end": 42.357
+   },
+   {
+    "text": "NEEDED",
+    "start": 42.357,
+    "end": 42.865
+   }
+  ]
+ },
+ {
+  "start": 42.865,
+  "end": 43.565,
+  "words": [
+   {
+    "text": "IT.",
+    "start": 42.865,
+    "end": 43.183
+   }
+  ]
+ },
+ {
+  "start": 43.783,
+  "end": 44.938,
+  "words": [
+   {
+    "text": "RAY",
+    "start": 43.783,
+    "end": 44.264
+   },
+   {
+    "text": "KROC,",
+    "start": 44.264,
+    "end": 44.938
+   }
+  ]
+ },
+ {
+  "start": 44.938,
+  "end": 45.638,
+  "words": [
+   {
+    "text": "1954.",
+    "start": 44.938,
+    "end": 45.612
+   }
+  ]
+ },
+ {
+  "start": 45.762,
+  "end": 46.753,
+  "words": [
+   {
+    "text": "HE",
+    "start": 45.762,
+    "end": 45.942
+   },
+   {
+    "text": "SOLD",
+    "start": 45.942,
+    "end": 46.213
+   },
+   {
+    "text": "FRANCHISES",
+    "start": 46.213,
+    "end": 46.753
+   }
+  ]
+ },
+ {
+  "start": 46.753,
+  "end": 47.654,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 46.753,
+    "end": 46.979
+   },
+   {
+    "text": "THE",
+    "start": 46.979,
+    "end": 47.204
+   },
+   {
+    "text": "MCDONALD",
+    "start": 47.204,
+    "end": 47.654
+   }
+  ]
+ },
+ {
+  "start": 47.654,
+  "end": 48.354,
+  "words": [
+   {
+    "text": "BROTHERS.",
+    "start": 47.654,
+    "end": 48.15
+   }
+  ]
+ },
+ {
+  "start": 48.45,
+  "end": 49.415,
+  "words": [
+   {
+    "text": "A",
+    "start": 48.45,
+    "end": 48.611
+   },
+   {
+    "text": "FRANCHISE",
+    "start": 48.611,
+    "end": 49.201
+   },
+   {
+    "text": "IS",
+    "start": 49.201,
+    "end": 49.415
+   }
+  ]
+ },
+ {
+  "start": 49.415,
+  "end": 50.274,
+  "words": [
+   {
+    "text": "THE",
+    "start": 49.415,
+    "end": 49.684
+   },
+   {
+    "text": "RIGHT",
+    "start": 49.684,
+    "end": 50.059
+   },
+   {
+    "text": "TO",
+    "start": 50.059,
+    "end": 50.274
+   }
+  ]
+ },
+ {
+  "start": 50.274,
+  "end": 51.4,
+  "words": [
+   {
+    "text": "OPEN",
+    "start": 50.274,
+    "end": 50.595
+   },
+   {
+    "text": "A",
+    "start": 50.595,
+    "end": 50.756
+   },
+   {
+    "text": "MCDONALD'S",
+    "start": 50.756,
+    "end": 51.4
+   }
+  ]
+ },
+ {
+  "start": 51.4,
+  "end": 52.419,
+  "words": [
+   {
+    "text": "UNDER",
+    "start": 51.4,
+    "end": 51.775
+   },
+   {
+    "text": "ITS",
+    "start": 51.775,
+    "end": 52.044
+   },
+   {
+    "text": "NAME.",
+    "start": 52.044,
+    "end": 52.419
+   }
+  ]
+ },
+ {
+  "start": 52.719,
+  "end": 53.962,
+  "words": [
+   {
+    "text": "THE",
+    "start": 52.719,
+    "end": 53.064
+   },
+   {
+    "text": "OWNER",
+    "start": 53.064,
+    "end": 53.547
+   },
+   {
+    "text": "PAYS",
+    "start": 53.547,
+    "end": 53.962
+   }
+  ]
+ },
+ {
+  "start": 53.962,
+  "end": 54.662,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 53.962,
+    "end": 54.307
+   },
+   {
+    "text": "IT.",
+    "start": 54.307,
+    "end": 54.652
+   }
+  ]
+ },
+ {
+  "start": 55.252,
+  "end": 56.816,
+  "words": [
+   {
+    "text": "BY",
+    "start": 55.252,
+    "end": 55.55
+   },
+   {
+    "text": "MOST",
+    "start": 55.55,
+    "end": 55.997
+   },
+   {
+    "text": "ACCOUNTS,",
+    "start": 55.997,
+    "end": 56.816
+   }
+  ]
+ },
+ {
+  "start": 56.816,
+  "end": 57.934,
+  "words": [
+   {
+    "text": "THE",
+    "start": 56.816,
+    "end": 57.189
+   },
+   {
+    "text": "FEE",
+    "start": 57.189,
+    "end": 57.561
+   },
+   {
+    "text": "WAS",
+    "start": 57.561,
+    "end": 57.934
+   }
+  ]
+ },
+ {
+  "start": 57.934,
+  "end": 59.2,
+  "words": [
+   {
+    "text": "ABOUT",
+    "start": 57.934,
+    "end": 58.455
+   },
+   {
+    "text": "1.9%",
+    "start": 58.455,
+    "end": 58.902
+   },
+   {
+    "text": "OF",
+    "start": 58.902,
+    "end": 59.2
+   }
+  ]
+ },
+ {
+  "start": 59.2,
+  "end": 59.9,
+  "words": [
+   {
+    "text": "SALES,",
+    "start": 59.2,
+    "end": 59.796
+   }
+  ]
+ },
+ {
+  "start": 60.096,
+  "end": 60.806,
+  "words": [
+   {
+    "text": "AND",
+    "start": 60.096,
+    "end": 60.35
+   },
+   {
+    "text": "HALF",
+    "start": 60.35,
+    "end": 60.654
+   },
+   {
+    "text": "A",
+    "start": 60.654,
+    "end": 60.806
+   }
+  ]
+ },
+ {
+  "start": 60.806,
+  "end": 61.82,
+  "words": [
+   {
+    "text": "PERCENT",
+    "start": 60.806,
+    "end": 61.262
+   },
+   {
+    "text": "OF",
+    "start": 61.262,
+    "end": 61.465
+   },
+   {
+    "text": "SALES",
+    "start": 61.465,
+    "end": 61.82
+   }
+  ]
+ },
+ {
+  "start": 61.82,
+  "end": 62.581,
+  "words": [
+   {
+    "text": "WENT",
+    "start": 61.82,
+    "end": 62.125
+   },
+   {
+    "text": "TO",
+    "start": 62.125,
+    "end": 62.328
+   },
+   {
+    "text": "THE",
+    "start": 62.328,
+    "end": 62.581
+   }
+  ]
+ },
+ {
+  "start": 62.581,
+  "end": 63.281,
+  "words": [
+   {
+    "text": "BROTHERS.",
+    "start": 62.581,
+    "end": 63.139
+   }
+  ]
+ },
+ {
+  "start": 63.739,
+  "end": 64.851,
+  "words": [
+   {
+    "text": "BY",
+    "start": 63.739,
+    "end": 63.951
+   },
+   {
+    "text": "MOST",
+    "start": 63.951,
+    "end": 64.269
+   },
+   {
+    "text": "ACCOUNTS,",
+    "start": 64.269,
+    "end": 64.851
+   }
+  ]
+ },
+ {
+  "start": 64.851,
+  "end": 65.752,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 64.851,
+    "end": 65.169
+   },
+   {
+    "text": "LEFT",
+    "start": 65.169,
+    "end": 65.487
+   },
+   {
+    "text": "HIS",
+    "start": 65.487,
+    "end": 65.752
+   }
+  ]
+ },
+ {
+  "start": 65.752,
+  "end": 67.023,
+  "words": [
+   {
+    "text": "COMPANY",
+    "start": 65.752,
+    "end": 66.228
+   },
+   {
+    "text": "VERY",
+    "start": 66.228,
+    "end": 66.546
+   },
+   {
+    "text": "LITTLE.",
+    "start": 66.546,
+    "end": 67.023
+   }
+  ]
+ },
+ {
+  "start": 67.323,
+  "end": 68.107,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 67.323,
+    "end": 67.568
+   },
+   {
+    "text": "SELL",
+    "start": 67.568,
+    "end": 67.862
+   },
+   {
+    "text": "ALL",
+    "start": 67.862,
+    "end": 68.107
+   }
+  ]
+ },
+ {
+  "start": 68.107,
+  "end": 68.4,
+  "words": [
+   {
+    "text": "DAY,",
+    "start": 68.107,
+    "end": 68.4
+   }
+  ]
+ },
+ {
+  "start": 68.4,
+  "end": 69.037,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 68.4,
+    "end": 68.645
+   },
+   {
+    "text": "GET",
+    "start": 68.645,
+    "end": 68.89
+   },
+   {
+    "text": "A",
+    "start": 68.89,
+    "end": 69.037
+   }
+  ]
+ },
+ {
+  "start": 69.037,
+  "end": 69.737,
+  "words": [
+   {
+    "text": "TIP.",
+    "start": 69.037,
+    "end": 69.331
+   }
+  ]
+ },
+ {
+  "start": 69.931,
+  "end": 71.276,
+  "words": [
+   {
+    "text": "ENTER",
+    "start": 69.931,
+    "end": 70.426
+   },
+   {
+    "text": "SONNEBORN,",
+    "start": 70.426,
+    "end": 71.276
+   }
+  ]
+ },
+ {
+  "start": 71.276,
+  "end": 72.479,
+  "words": [
+   {
+    "text": "WHO",
+    "start": 71.276,
+    "end": 71.629
+   },
+   {
+    "text": "JOINED",
+    "start": 71.629,
+    "end": 72.196
+   },
+   {
+    "text": "IN",
+    "start": 72.196,
+    "end": 72.479
+   }
+  ]
+ },
+ {
+  "start": 72.479,
+  "end": 73.965,
+  "words": [
+   {
+    "text": "THE",
+    "start": 72.479,
+    "end": 72.833
+   },
+   {
+    "text": "MID-1950S",
+    "start": 72.833,
+    "end": 73.611
+   },
+   {
+    "text": "AND",
+    "start": 73.611,
+    "end": 73.965
+   }
+  ]
+ },
+ {
+  "start": 73.965,
+  "end": 75.593,
+  "words": [
+   {
+    "text": "BECAME",
+    "start": 73.965,
+    "end": 74.531
+   },
+   {
+    "text": "PRESIDENT",
+    "start": 74.531,
+    "end": 75.31
+   },
+   {
+    "text": "IN",
+    "start": 75.31,
+    "end": 75.593
+   }
+  ]
+ },
+ {
+  "start": 75.593,
+  "end": 76.293,
+  "words": [
+   {
+    "text": "1959.",
+    "start": 75.593,
+    "end": 76.088
+   }
+  ]
+ },
+ {
+  "start": 76.388,
+  "end": 77.496,
+  "words": [
+   {
+    "text": "THE",
+    "start": 76.388,
+    "end": 76.64
+   },
+   {
+    "text": "COMPANY",
+    "start": 76.64,
+    "end": 77.093
+   },
+   {
+    "text": "NEEDED",
+    "start": 77.093,
+    "end": 77.496
+   }
+  ]
+ },
+ {
+  "start": 77.496,
+  "end": 78.504,
+  "words": [
+   {
+    "text": "MONEY",
+    "start": 77.496,
+    "end": 77.849
+   },
+   {
+    "text": "TO",
+    "start": 77.849,
+    "end": 78.051
+   },
+   {
+    "text": "EXPAND.",
+    "start": 78.051,
+    "end": 78.504
+   }
+  ]
+ },
+ {
+  "start": 78.804,
+  "end": 79.699,
+  "words": [
+   {
+    "text": "A",
+    "start": 78.804,
+    "end": 78.972
+   },
+   {
+    "text": "TIP",
+    "start": 78.972,
+    "end": 79.251
+   },
+   {
+    "text": "WASN'T",
+    "start": 79.251,
+    "end": 79.699
+   }
+  ]
+ },
+ {
+  "start": 79.699,
+  "end": 80.537,
+  "words": [
+   {
+    "text": "GOING",
+    "start": 79.699,
+    "end": 80.09
+   },
+   {
+    "text": "TO",
+    "start": 80.09,
+    "end": 80.314
+   },
+   {
+    "text": "DO",
+    "start": 80.314,
+    "end": 80.537
+   }
+  ]
+ },
+ {
+  "start": 80.537,
+  "end": 81.237,
+  "words": [
+   {
+    "text": "IT.",
+    "start": 80.537,
+    "end": 80.817
+   }
+  ]
+ },
+ {
+  "start": 81.417,
+  "end": 82.211,
+  "words": [
+   {
+    "text": "I",
+    "start": 81.417,
+    "end": 81.542
+   },
+   {
+    "text": "COULDN'T",
+    "start": 81.542,
+    "end": 81.961
+   },
+   {
+    "text": "FIND",
+    "start": 81.961,
+    "end": 82.211
+   }
+  ]
+ },
+ {
+  "start": 82.211,
+  "end": 83.131,
+  "words": [
+   {
+    "text": "A",
+    "start": 82.211,
+    "end": 82.337
+   },
+   {
+    "text": "RELIABLE",
+    "start": 82.337,
+    "end": 82.755
+   },
+   {
+    "text": "ACCOUNT",
+    "start": 82.755,
+    "end": 83.131
+   }
+  ]
+ },
+ {
+  "start": 83.131,
+  "end": 83.675,
+  "words": [
+   {
+    "text": "OF",
+    "start": 83.131,
+    "end": 83.298
+   },
+   {
+    "text": "HOW",
+    "start": 83.298,
+    "end": 83.507
+   },
+   {
+    "text": "HE",
+    "start": 83.507,
+    "end": 83.675
+   }
+  ]
+ },
+ {
+  "start": 83.675,
+  "end": 84.375,
+  "words": [
+   {
+    "text": "PITCHED",
+    "start": 83.675,
+    "end": 84.051
+   },
+   {
+    "text": "IT.",
+    "start": 84.051,
+    "end": 84.26
+   }
+  ]
+ },
+ {
+  "start": 84.56,
+  "end": 85.459,
+  "words": [
+   {
+    "text": "THE",
+    "start": 84.56,
+    "end": 84.86
+   },
+   {
+    "text": "IDEA",
+    "start": 84.86,
+    "end": 85.22
+   },
+   {
+    "text": "IS",
+    "start": 85.22,
+    "end": 85.459
+   }
+  ]
+ },
+ {
+  "start": 85.459,
+  "end": 86.159,
+  "words": [
+   {
+    "text": "CLEAR.",
+    "start": 85.459,
+    "end": 85.939
+   }
+  ]
+ },
+ {
+  "start": 86.539,
+  "end": 87.745,
+  "words": [
+   {
+    "text": "THE",
+    "start": 86.539,
+    "end": 86.841
+   },
+   {
+    "text": "COMPANY",
+    "start": 86.841,
+    "end": 87.383
+   },
+   {
+    "text": "GETS",
+    "start": 87.383,
+    "end": 87.745
+   }
+  ]
+ },
+ {
+  "start": 87.745,
+  "end": 88.529,
+  "words": [
+   {
+    "text": "HOLD",
+    "start": 87.745,
+    "end": 88.107
+   },
+   {
+    "text": "OF",
+    "start": 88.107,
+    "end": 88.349
+   },
+   {
+    "text": "A",
+    "start": 88.349,
+    "end": 88.529
+   }
+  ]
+ },
+ {
+  "start": 88.529,
+  "end": 88.952,
+  "words": [
+   {
+    "text": "PLOT,",
+    "start": 88.529,
+    "end": 88.952
+   }
+  ]
+ },
+ {
+  "start": 88.952,
+  "end": 89.977,
+  "words": [
+   {
+    "text": "BY",
+    "start": 88.952,
+    "end": 89.193
+   },
+   {
+    "text": "RENTING",
+    "start": 89.193,
+    "end": 89.736
+   },
+   {
+    "text": "OR",
+    "start": 89.736,
+    "end": 89.977
+   }
+  ]
+ },
+ {
+  "start": 89.977,
+  "end": 90.677,
+  "words": [
+   {
+    "text": "BUYING,",
+    "start": 89.977,
+    "end": 90.52
+   }
+  ]
+ },
+ {
+  "start": 90.82,
+  "end": 91.562,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 90.82,
+    "end": 91.082
+   },
+   {
+    "text": "RENTS",
+    "start": 91.082,
+    "end": 91.387
+   },
+   {
+    "text": "IT",
+    "start": 91.387,
+    "end": 91.562
+   }
+  ]
+ },
+ {
+  "start": 91.562,
+  "end": 92.478,
+  "words": [
+   {
+    "text": "TO",
+    "start": 91.562,
+    "end": 91.736
+   },
+   {
+    "text": "THE",
+    "start": 91.736,
+    "end": 91.954
+   },
+   {
+    "text": "RESTAURANT",
+    "start": 91.954,
+    "end": 92.478
+   }
+  ]
+ },
+ {
+  "start": 92.478,
+  "end": 93.178,
+  "words": [
+   {
+    "text": "OWNER.",
+    "start": 92.478,
+    "end": 92.827
+   }
+  ]
+ },
+ {
+  "start": 93.427,
+  "end": 95.064,
+  "words": [
+   {
+    "text": "BY",
+    "start": 93.427,
+    "end": 93.739
+   },
+   {
+    "text": "MOST",
+    "start": 93.739,
+    "end": 94.207
+   },
+   {
+    "text": "ACCOUNTS,",
+    "start": 94.207,
+    "end": 95.064
+   }
+  ]
+ },
+ {
+  "start": 95.064,
+  "end": 96.233,
+  "words": [
+   {
+    "text": "AROUND",
+    "start": 95.064,
+    "end": 95.688
+   },
+   {
+    "text": "1956,",
+    "start": 95.688,
+    "end": 96.233
+   }
+  ]
+ },
+ {
+  "start": 96.233,
+  "end": 97.558,
+  "words": [
+   {
+    "text": "A",
+    "start": 96.233,
+    "end": 96.467
+   },
+   {
+    "text": "COMPANY",
+    "start": 96.467,
+    "end": 97.169
+   },
+   {
+    "text": "WAS",
+    "start": 97.169,
+    "end": 97.558
+   }
+  ]
+ },
+ {
+  "start": 97.558,
+  "end": 98.728,
+  "words": [
+   {
+    "text": "SET",
+    "start": 97.558,
+    "end": 97.948
+   },
+   {
+    "text": "UP",
+    "start": 97.948,
+    "end": 98.26
+   },
+   {
+    "text": "JUST",
+    "start": 98.26,
+    "end": 98.728
+   }
+  ]
+ },
+ {
+  "start": 98.728,
+  "end": 99.663,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 98.728,
+    "end": 99.117
+   },
+   {
+    "text": "THAT:",
+    "start": 99.117,
+    "end": 99.663
+   }
+  ]
+ },
+ {
+  "start": 99.663,
+  "end": 101.222,
+  "words": [
+   {
+    "text": "FRANCHISE",
+    "start": 99.663,
+    "end": 100.52
+   },
+   {
+    "text": "REALTY.",
+    "start": 100.52,
+    "end": 101.222
+   }
+  ]
+ },
+ {
+  "start": 101.822,
+  "end": 102.878,
+  "words": [
+   {
+    "text": "SAY",
+    "start": 101.822,
+    "end": 102.052
+   },
+   {
+    "text": "YOUR",
+    "start": 102.052,
+    "end": 102.327
+   },
+   {
+    "text": "RESTAURANT",
+    "start": 102.327,
+    "end": 102.878
+   }
+  ]
+ },
+ {
+  "start": 102.878,
+  "end": 103.75,
+  "words": [
+   {
+    "text": "SELLS",
+    "start": 102.878,
+    "end": 103.199
+   },
+   {
+    "text": "A",
+    "start": 103.199,
+    "end": 103.337
+   },
+   {
+    "text": "MILLION",
+    "start": 103.337,
+    "end": 103.75
+   }
+  ]
+ },
+ {
+  "start": 103.75,
+  "end": 104.622,
+  "words": [
+   {
+    "text": "DOLLARS",
+    "start": 103.75,
+    "end": 104.163
+   },
+   {
+    "text": "A",
+    "start": 104.163,
+    "end": 104.301
+   },
+   {
+    "text": "YEAR.",
+    "start": 104.301,
+    "end": 104.622
+   }
+  ]
+ },
+ {
+  "start": 104.922,
+  "end": 105.648,
+  "words": [
+   {
+    "text": "THE",
+    "start": 104.922,
+    "end": 105.149
+   },
+   {
+    "text": "OLD",
+    "start": 105.149,
+    "end": 105.376
+   },
+   {
+    "text": "DEAL",
+    "start": 105.376,
+    "end": 105.648
+   }
+  ]
+ },
+ {
+  "start": 105.648,
+  "end": 106.555,
+  "words": [
+   {
+    "text": "PAYS",
+    "start": 105.648,
+    "end": 105.92
+   },
+   {
+    "text": "THE",
+    "start": 105.92,
+    "end": 106.147
+   },
+   {
+    "text": "COMPANY",
+    "start": 106.147,
+    "end": 106.555
+   }
+  ]
+ },
+ {
+  "start": 106.555,
+  "end": 107.417,
+  "words": [
+   {
+    "text": "TWENTY",
+    "start": 106.555,
+    "end": 106.918
+   },
+   {
+    "text": "THOUSAND.",
+    "start": 106.918,
+    "end": 107.417
+   }
+  ]
+ },
+ {
+  "start": 108.017,
+  "end": 109.361,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 108.017,
+    "end": 108.353
+   },
+   {
+    "text": "THE",
+    "start": 108.353,
+    "end": 108.689
+   },
+   {
+    "text": "LANDLORD",
+    "start": 108.689,
+    "end": 109.361
+   }
+  ]
+ },
+ {
+  "start": 109.361,
+  "end": 110.061,
+  "words": [
+   {
+    "text": "WAY.",
+    "start": 109.361,
+    "end": 109.764
+   }
+  ]
+ },
+ {
+  "start": 110.064,
+  "end": 111.176,
+  "words": [
+   {
+    "text": "SAY",
+    "start": 110.064,
+    "end": 110.357
+   },
+   {
+    "text": "THE",
+    "start": 110.357,
+    "end": 110.649
+   },
+   {
+    "text": "COMPANY",
+    "start": 110.649,
+    "end": 111.176
+   }
+  ]
+ },
+ {
+  "start": 111.176,
+  "end": 112.229,
+  "words": [
+   {
+    "text": "RENTS",
+    "start": 111.176,
+    "end": 111.585
+   },
+   {
+    "text": "THE",
+    "start": 111.585,
+    "end": 111.878
+   },
+   {
+    "text": "SITE",
+    "start": 111.878,
+    "end": 112.229
+   }
+  ]
+ },
+ {
+  "start": 112.229,
+  "end": 112.755,
+  "words": [
+   {
+    "text": "ITSELF,",
+    "start": 112.229,
+    "end": 112.755
+   }
+  ]
+ },
+ {
+  "start": 112.755,
+  "end": 113.691,
+  "words": [
+   {
+    "text": "AND",
+    "start": 112.755,
+    "end": 113.048
+   },
+   {
+    "text": "PAYS",
+    "start": 113.048,
+    "end": 113.399
+   },
+   {
+    "text": "ITS",
+    "start": 113.399,
+    "end": 113.691
+   }
+  ]
+ },
+ {
+  "start": 113.691,
+  "end": 114.978,
+  "words": [
+   {
+    "text": "OWN",
+    "start": 113.691,
+    "end": 113.984
+   },
+   {
+    "text": "LANDLORD",
+    "start": 113.984,
+    "end": 114.569
+   },
+   {
+    "text": "SIXTY",
+    "start": 114.569,
+    "end": 114.978
+   }
+  ]
+ },
+ {
+  "start": 114.978,
+  "end": 115.678,
+  "words": [
+   {
+    "text": "THOUSAND.",
+    "start": 114.978,
+    "end": 115.622
+   }
+  ]
+ },
+ {
+  "start": 116.222,
+  "end": 117.266,
+  "words": [
+   {
+    "text": "IT",
+    "start": 116.222,
+    "end": 116.454
+   },
+   {
+    "text": "CHARGES",
+    "start": 116.454,
+    "end": 116.976
+   },
+   {
+    "text": "YOU",
+    "start": 116.976,
+    "end": 117.266
+   }
+  ]
+ },
+ {
+  "start": 117.266,
+  "end": 118.253,
+  "words": [
+   {
+    "text": "A",
+    "start": 117.266,
+    "end": 117.44
+   },
+   {
+    "text": "HUNDRED",
+    "start": 117.44,
+    "end": 117.963
+   },
+   {
+    "text": "AND",
+    "start": 117.963,
+    "end": 118.253
+   }
+  ]
+ },
+ {
+  "start": 118.253,
+  "end": 118.953,
+  "words": [
+   {
+    "text": "FIVE.",
+    "start": 118.253,
+    "end": 118.659
+   }
+  ]
+ },
+ {
+  "start": 118.959,
+  "end": 119.98,
+  "words": [
+   {
+    "text": "THE",
+    "start": 118.959,
+    "end": 119.202
+   },
+   {
+    "text": "COMPANY",
+    "start": 119.202,
+    "end": 119.64
+   },
+   {
+    "text": "KEEPS",
+    "start": 119.64,
+    "end": 119.98
+   }
+  ]
+ },
+ {
+  "start": 119.98,
+  "end": 120.68,
+  "words": [
+   {
+    "text": "THE",
+    "start": 119.98,
+    "end": 120.223
+   },
+   {
+    "text": "GAP.",
+    "start": 120.223,
+    "end": 120.515
+   }
+  ]
+ },
+ {
+  "start": 120.815,
+  "end": 121.768,
+  "words": [
+   {
+    "text": "ADD",
+    "start": 120.815,
+    "end": 121.113
+   },
+   {
+    "text": "THE",
+    "start": 121.113,
+    "end": 121.411
+   },
+   {
+    "text": "FEE,",
+    "start": 121.411,
+    "end": 121.768
+   }
+  ]
+ },
+ {
+  "start": 121.768,
+  "end": 122.721,
+  "words": [
+   {
+    "text": "AND",
+    "start": 121.768,
+    "end": 122.066
+   },
+   {
+    "text": "IT",
+    "start": 122.066,
+    "end": 122.304
+   },
+   {
+    "text": "KEEPS",
+    "start": 122.304,
+    "end": 122.721
+   }
+  ]
+ },
+ {
+  "start": 122.721,
+  "end": 123.496,
+  "words": [
+   {
+    "text": "SIXTY-FIVE.",
+    "start": 122.721,
+    "end": 123.496
+   }
+  ]
+ },
+ {
+  "start": 124.096,
+  "end": 125.202,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 124.096,
+    "end": 124.387
+   },
+   {
+    "text": "DOUBLE",
+    "start": 124.387,
+    "end": 124.852
+   },
+   {
+    "text": "YOUR",
+    "start": 124.852,
+    "end": 125.202
+   }
+  ]
+ },
+ {
+  "start": 125.202,
+  "end": 125.902,
+  "words": [
+   {
+    "text": "SALES.",
+    "start": 125.202,
+    "end": 125.667
+   }
+  ]
+ },
+ {
+  "start": 125.967,
+  "end": 127.076,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 125.967,
+    "end": 126.317
+   },
+   {
+    "text": "RENT",
+    "start": 126.317,
+    "end": 126.667
+   },
+   {
+    "text": "RISES",
+    "start": 126.667,
+    "end": 127.076
+   }
+  ]
+ },
+ {
+  "start": 127.076,
+  "end": 127.835,
+  "words": [
+   {
+    "text": "WITH",
+    "start": 127.076,
+    "end": 127.426
+   },
+   {
+    "text": "THEM.",
+    "start": 127.426,
+    "end": 127.835
+   }
+  ]
+ },
+ {
+  "start": 127.835,
+  "end": 128.944,
+  "words": [
+   {
+    "text": "IN",
+    "start": 127.835,
+    "end": 128.068
+   },
+   {
+    "text": "OUR",
+    "start": 128.068,
+    "end": 128.36
+   },
+   {
+    "text": "EXAMPLE,",
+    "start": 128.36,
+    "end": 128.944
+   }
+  ]
+ },
+ {
+  "start": 128.944,
+  "end": 129.994,
+  "words": [
+   {
+    "text": "THEIR",
+    "start": 128.944,
+    "end": 129.352
+   },
+   {
+    "text": "COST",
+    "start": 129.352,
+    "end": 129.703
+   },
+   {
+    "text": "FOR",
+    "start": 129.703,
+    "end": 129.994
+   }
+  ]
+ },
+ {
+  "start": 129.994,
+  "end": 131.162,
+  "words": [
+   {
+    "text": "THE",
+    "start": 129.994,
+    "end": 130.286
+   },
+   {
+    "text": "GROUND",
+    "start": 130.286,
+    "end": 130.753
+   },
+   {
+    "text": "STAYS",
+    "start": 130.753,
+    "end": 131.162
+   }
+  ]
+ },
+ {
+  "start": 131.162,
+  "end": 131.812,
+  "words": [
+   {
+    "text": "PUT.",
+    "start": 131.162,
+    "end": 131.512
+   }
+  ]
+ },
+ {
+  "start": 131.812,
+  "end": 132.681,
+  "words": [
+   {
+    "text": "THAT'S",
+    "start": 131.812,
+    "end": 132.198
+   },
+   {
+    "text": "HOW",
+    "start": 132.198,
+    "end": 132.44
+   },
+   {
+    "text": "THE",
+    "start": 132.44,
+    "end": 132.681
+   }
+  ]
+ },
+ {
+  "start": 132.681,
+  "end": 133.791,
+  "words": [
+   {
+    "text": "COMPANY'S",
+    "start": 132.681,
+    "end": 133.212
+   },
+   {
+    "text": "SIXTY-FIVE",
+    "start": 133.212,
+    "end": 133.791
+   }
+  ]
+ },
+ {
+  "start": 133.791,
+  "end": 134.805,
+  "words": [
+   {
+    "text": "BECOMES",
+    "start": 133.791,
+    "end": 134.226
+   },
+   {
+    "text": "A",
+    "start": 134.226,
+    "end": 134.37
+   },
+   {
+    "text": "HUNDRED",
+    "start": 134.37,
+    "end": 134.805
+   }
+  ]
+ },
+ {
+  "start": 134.805,
+  "end": 135.529,
+  "words": [
+   {
+    "text": "AND",
+    "start": 134.805,
+    "end": 135.046
+   },
+   {
+    "text": "FIFTEEN.",
+    "start": 135.046,
+    "end": 135.529
+   }
+  ]
+ },
+ {
+  "start": 136.129,
+  "end": 137.021,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 136.129,
+    "end": 136.426
+   },
+   {
+    "text": "PAY",
+    "start": 136.426,
+    "end": 136.723
+   },
+   {
+    "text": "FAR",
+    "start": 136.723,
+    "end": 137.021
+   }
+  ]
+ },
+ {
+  "start": 137.021,
+  "end": 138.269,
+  "words": [
+   {
+    "text": "MORE",
+    "start": 137.021,
+    "end": 137.377
+   },
+   {
+    "text": "THAN",
+    "start": 137.377,
+    "end": 137.734
+   },
+   {
+    "text": "BEFORE.",
+    "start": 137.734,
+    "end": 138.269
+   }
+  ]
+ },
+ {
+  "start": 138.569,
+  "end": 139.386,
+  "words": [
+   {
+    "text": "BUT",
+    "start": 138.569,
+    "end": 138.796
+   },
+   {
+    "text": "YOU",
+    "start": 138.796,
+    "end": 139.023
+   },
+   {
+    "text": "DIDN'T",
+    "start": 139.023,
+    "end": 139.386
+   }
+  ]
+ },
+ {
+  "start": 139.386,
+  "end": 140.112,
+  "words": [
+   {
+    "text": "HAVE",
+    "start": 139.386,
+    "end": 139.658
+   },
+   {
+    "text": "TO",
+    "start": 139.658,
+    "end": 139.84
+   },
+   {
+    "text": "FIND",
+    "start": 139.84,
+    "end": 140.112
+   }
+  ]
+ },
+ {
+  "start": 140.112,
+  "end": 140.812,
+  "words": [
+   {
+    "text": "THE",
+    "start": 140.112,
+    "end": 140.339
+   },
+   {
+    "text": "LAND.",
+    "start": 140.339,
+    "end": 140.657
+   }
+  ]
+ },
+ {
+  "start": 141.257,
+  "end": 142.213,
+  "words": [
+   {
+    "text": "AND",
+    "start": 141.257,
+    "end": 141.538
+   },
+   {
+    "text": "SINCE",
+    "start": 141.538,
+    "end": 141.932
+   },
+   {
+    "text": "THE",
+    "start": 141.932,
+    "end": 142.213
+   }
+  ]
+ },
+ {
+  "start": 142.213,
+  "end": 143.562,
+  "words": [
+   {
+    "text": "COMPANY",
+    "start": 142.213,
+    "end": 142.719
+   },
+   {
+    "text": "CONTROLS",
+    "start": 142.719,
+    "end": 143.281
+   },
+   {
+    "text": "THE",
+    "start": 143.281,
+    "end": 143.562
+   }
+  ]
+ },
+ {
+  "start": 143.562,
+  "end": 143.955,
+  "words": [
+   {
+    "text": "SITE,",
+    "start": 143.562,
+    "end": 143.955
+   }
+  ]
+ },
+ {
+  "start": 143.955,
+  "end": 144.855,
+  "words": [
+   {
+    "text": "AN",
+    "start": 143.955,
+    "end": 144.18
+   },
+   {
+    "text": "OWNER",
+    "start": 144.18,
+    "end": 144.574
+   },
+   {
+    "text": "WHO",
+    "start": 144.574,
+    "end": 144.855
+   }
+  ]
+ },
+ {
+  "start": 144.855,
+  "end": 145.979,
+  "words": [
+   {
+    "text": "BREAKS",
+    "start": 144.855,
+    "end": 145.304
+   },
+   {
+    "text": "THE",
+    "start": 145.304,
+    "end": 145.585
+   },
+   {
+    "text": "RULES",
+    "start": 145.585,
+    "end": 145.979
+   }
+  ]
+ },
+ {
+  "start": 145.979,
+  "end": 146.71,
+  "words": [
+   {
+    "text": "HAS",
+    "start": 145.979,
+    "end": 146.26
+   },
+   {
+    "text": "A",
+    "start": 146.26,
+    "end": 146.429
+   },
+   {
+    "text": "LOT",
+    "start": 146.429,
+    "end": 146.71
+   }
+  ]
+ },
+ {
+  "start": 146.71,
+  "end": 147.41,
+  "words": [
+   {
+    "text": "TO",
+    "start": 146.71,
+    "end": 146.935
+   },
+   {
+    "text": "LOSE.",
+    "start": 146.935,
+    "end": 147.328
+   }
+  ]
+ },
+ {
+  "start": 147.928,
+  "end": 148.868,
+  "words": [
+   {
+    "text": "EVERY",
+    "start": 147.928,
+    "end": 148.241
+   },
+   {
+    "text": "BURGER",
+    "start": 148.241,
+    "end": 148.599
+   },
+   {
+    "text": "RUNS",
+    "start": 148.599,
+    "end": 148.868
+   }
+  ]
+ },
+ {
+  "start": 148.868,
+  "end": 150.031,
+  "words": [
+   {
+    "text": "THROUGH",
+    "start": 148.868,
+    "end": 149.27
+   },
+   {
+    "text": "THE",
+    "start": 149.27,
+    "end": 149.494
+   },
+   {
+    "text": "TOLLBOOTH.",
+    "start": 149.494,
+    "end": 150.031
+   }
+  ]
+ },
+ {
+  "start": 150.331,
+  "end": 151.074,
+  "words": [
+   {
+    "text": "AT",
+    "start": 150.331,
+    "end": 150.517
+   },
+   {
+    "text": "A",
+    "start": 150.517,
+    "end": 150.656
+   },
+   {
+    "text": "REGULAR",
+    "start": 150.656,
+    "end": 151.074
+   }
+  ]
+ },
+ {
+  "start": 151.074,
+  "end": 152.188,
+  "words": [
+   {
+    "text": "MCDONALD'S",
+    "start": 151.074,
+    "end": 151.631
+   },
+   {
+    "text": "FRANCHISE,",
+    "start": 151.631,
+    "end": 152.188
+   }
+  ]
+ },
+ {
+  "start": 152.188,
+  "end": 152.977,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 152.188,
+    "end": 152.42
+   },
+   {
+    "text": "PAY",
+    "start": 152.42,
+    "end": 152.652
+   },
+   {
+    "text": "RENT.",
+    "start": 152.652,
+    "end": 152.977
+   }
+  ]
+ },
+ {
+  "start": 153.277,
+  "end": 154.124,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 153.277,
+    "end": 153.559
+   },
+   {
+    "text": "PAY",
+    "start": 153.559,
+    "end": 153.842
+   },
+   {
+    "text": "THE",
+    "start": 153.842,
+    "end": 154.124
+   }
+  ]
+ },
+ {
+  "start": 154.124,
+  "end": 154.463,
+  "words": [
+   {
+    "text": "FEE,",
+    "start": 154.124,
+    "end": 154.463
+   }
+  ]
+ },
+ {
+  "start": 154.463,
+  "end": 155.309,
+  "words": [
+   {
+    "text": "WHICH",
+    "start": 154.463,
+    "end": 154.858
+   },
+   {
+    "text": "HAS",
+    "start": 154.858,
+    "end": 155.14
+   },
+   {
+    "text": "A",
+    "start": 155.14,
+    "end": 155.309
+   }
+  ]
+ },
+ {
+  "start": 155.309,
+  "end": 155.704,
+  "words": [
+   {
+    "text": "NAME:",
+    "start": 155.309,
+    "end": 155.704
+   }
+  ]
+ },
+ {
+  "start": 155.704,
+  "end": 156.404,
+  "words": [
+   {
+    "text": "ROYALTY.",
+    "start": 155.704,
+    "end": 156.269
+   }
+  ]
+ },
+ {
+  "start": 156.569,
+  "end": 157.146,
+  "words": [
+   {
+    "text": "BOTH.",
+    "start": 156.569,
+    "end": 157.146
+   }
+  ]
+ },
+ {
+  "start": 157.146,
+  "end": 158.628,
+  "words": [
+   {
+    "text": "CONGRATULATIONS.",
+    "start": 157.146,
+    "end": 158.628
+   }
+  ]
+ },
+ {
+  "start": 159.228,
+  "end": 160.515,
+  "words": [
+   {
+    "text": "KROC",
+    "start": 159.228,
+    "end": 159.564
+   },
+   {
+    "text": "STILL",
+    "start": 159.564,
+    "end": 159.955
+   },
+   {
+    "text": "ANSWERED",
+    "start": 159.955,
+    "end": 160.515
+   }
+  ]
+ },
+ {
+  "start": 160.515,
+  "end": 161.578,
+  "words": [
+   {
+    "text": "TO",
+    "start": 160.515,
+    "end": 160.738
+   },
+   {
+    "text": "THE",
+    "start": 160.738,
+    "end": 161.018
+   },
+   {
+    "text": "MCDONALD",
+    "start": 161.018,
+    "end": 161.578
+   }
+  ]
+ },
+ {
+  "start": 161.578,
+  "end": 162.278,
+  "words": [
+   {
+    "text": "BROTHERS.",
+    "start": 161.578,
+    "end": 162.193
+   }
+  ]
+ },
+ {
+  "start": 162.793,
+  "end": 163.561,
+  "words": [
+   {
+    "text": "IN",
+    "start": 162.793,
+    "end": 163.072
+   },
+   {
+    "text": "1961,",
+    "start": 163.072,
+    "end": 163.561
+   }
+  ]
+ },
+ {
+  "start": 163.561,
+  "end": 164.818,
+  "words": [
+   {
+    "text": "HE",
+    "start": 163.561,
+    "end": 163.841
+   },
+   {
+    "text": "BOUGHT",
+    "start": 163.841,
+    "end": 164.399
+   },
+   {
+    "text": "THEM",
+    "start": 164.399,
+    "end": 164.818
+   }
+  ]
+ },
+ {
+  "start": 164.818,
+  "end": 165.866,
+  "words": [
+   {
+    "text": "OUT",
+    "start": 164.818,
+    "end": 165.168
+   },
+   {
+    "text": "FOR",
+    "start": 165.168,
+    "end": 165.517
+   },
+   {
+    "text": "TWO",
+    "start": 165.517,
+    "end": 165.866
+   }
+  ]
+ },
+ {
+  "start": 165.866,
+  "end": 167.473,
+  "words": [
+   {
+    "text": "POINT",
+    "start": 165.866,
+    "end": 166.355
+   },
+   {
+    "text": "SEVEN",
+    "start": 166.355,
+    "end": 166.844
+   },
+   {
+    "text": "MILLION",
+    "start": 166.844,
+    "end": 167.473
+   }
+  ]
+ },
+ {
+  "start": 167.473,
+  "end": 168.173,
+  "words": [
+   {
+    "text": "DOLLARS.",
+    "start": 167.473,
+    "end": 168.171
+   }
+  ]
+ },
+ {
+  "start": 168.471,
+  "end": 169.665,
+  "words": [
+   {
+    "text": "SONNEBORN",
+    "start": 168.471,
+    "end": 168.996
+   },
+   {
+    "text": "IS",
+    "start": 168.996,
+    "end": 169.187
+   },
+   {
+    "text": "CREDITED",
+    "start": 169.187,
+    "end": 169.665
+   }
+  ]
+ },
+ {
+  "start": 169.665,
+  "end": 170.715,
+  "words": [
+   {
+    "text": "WITH",
+    "start": 169.665,
+    "end": 169.951
+   },
+   {
+    "text": "ARRANGING",
+    "start": 169.951,
+    "end": 170.476
+   },
+   {
+    "text": "THE",
+    "start": 170.476,
+    "end": 170.715
+   }
+  ]
+ },
+ {
+  "start": 170.715,
+  "end": 171.415,
+  "words": [
+   {
+    "text": "MONEY.",
+    "start": 170.715,
+    "end": 171.097
+   }
+  ]
+ },
+ {
+  "start": 171.697,
+  "end": 172.814,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 171.697,
+    "end": 172.016
+   },
+   {
+    "text": "QUESTION",
+    "start": 172.016,
+    "end": 172.548
+   },
+   {
+    "text": "PUT",
+    "start": 172.548,
+    "end": 172.814
+   }
+  ]
+ },
+ {
+  "start": 172.814,
+  "end": 173.771,
+  "words": [
+   {
+    "text": "THE",
+    "start": 172.814,
+    "end": 173.08
+   },
+   {
+    "text": "COMPANY",
+    "start": 173.08,
+    "end": 173.559
+   },
+   {
+    "text": "IN",
+    "start": 173.559,
+    "end": 173.771
+   }
+  ]
+ },
+ {
+  "start": 173.771,
+  "end": 175.101,
+  "words": [
+   {
+    "text": "THE",
+    "start": 173.771,
+    "end": 174.037
+   },
+   {
+    "text": "LANDLORD'S",
+    "start": 174.037,
+    "end": 174.676
+   },
+   {
+    "text": "CHAIR.",
+    "start": 174.676,
+    "end": 175.101
+   }
+  ]
+ },
+ {
+  "start": 175.401,
+  "end": 176.421,
+  "words": [
+   {
+    "text": "IN",
+    "start": 175.401,
+    "end": 175.673
+   },
+   {
+    "text": "2025",
+    "start": 175.673,
+    "end": 176.081
+   },
+   {
+    "text": "THE",
+    "start": 176.081,
+    "end": 176.421
+   }
+  ]
+ },
+ {
+  "start": 176.421,
+  "end": 177.85,
+  "words": [
+   {
+    "text": "RENT",
+    "start": 176.421,
+    "end": 176.83
+   },
+   {
+    "text": "IT",
+    "start": 176.83,
+    "end": 177.102
+   },
+   {
+    "text": "COLLECTED",
+    "start": 177.102,
+    "end": 177.85
+   }
+  ]
+ },
+ {
+  "start": 177.85,
+  "end": 179.007,
+  "words": [
+   {
+    "text": "CAME",
+    "start": 177.85,
+    "end": 178.258
+   },
+   {
+    "text": "TO",
+    "start": 178.258,
+    "end": 178.53
+   },
+   {
+    "text": "ABOUT",
+    "start": 178.53,
+    "end": 179.007
+   }
+  ]
+ },
+ {
+  "start": 179.007,
+  "end": 180.231,
+  "words": [
+   {
+    "text": "TEN",
+    "start": 179.007,
+    "end": 179.347
+   },
+   {
+    "text": "POINT",
+    "start": 179.347,
+    "end": 179.823
+   },
+   {
+    "text": "FOUR",
+    "start": 179.823,
+    "end": 180.231
+   }
+  ]
+ },
+ {
+  "start": 180.231,
+  "end": 180.912,
+  "words": [
+   {
+    "text": "BILLION,",
+    "start": 180.231,
+    "end": 180.912
+   }
+  ]
+ },
+ {
+  "start": 180.912,
+  "end": 182.34,
+  "words": [
+   {
+    "text": "AGAINST",
+    "start": 180.912,
+    "end": 181.524
+   },
+   {
+    "text": "ABOUT",
+    "start": 181.524,
+    "end": 182.0
+   },
+   {
+    "text": "SIX",
+    "start": 182.0,
+    "end": 182.34
+   }
+  ]
+ },
+ {
+  "start": 182.34,
+  "end": 184.041,
+  "words": [
+   {
+    "text": "BILLION",
+    "start": 182.34,
+    "end": 182.952
+   },
+   {
+    "text": "IN",
+    "start": 182.952,
+    "end": 183.225
+   },
+   {
+    "text": "ROYALTIES.",
+    "start": 183.225,
+    "end": 184.041
+   }
+  ]
+ },
+ {
+  "start": 184.641,
+  "end": 185.736,
+  "words": [
+   {
+    "text": "MCDONALD'S",
+    "start": 184.641,
+    "end": 185.298
+   },
+   {
+    "text": "ANNUAL",
+    "start": 185.298,
+    "end": 185.736
+   }
+  ]
+ },
+ {
+  "start": 185.736,
+  "end": 186.942,
+  "words": [
+   {
+    "text": "REPORT",
+    "start": 185.736,
+    "end": 186.175
+   },
+   {
+    "text": "DOESN'T",
+    "start": 186.175,
+    "end": 186.668
+   },
+   {
+    "text": "SAY",
+    "start": 186.668,
+    "end": 186.942
+   }
+  ]
+ },
+ {
+  "start": 186.942,
+  "end": 188.037,
+  "words": [
+   {
+    "text": "WHICH",
+    "start": 186.942,
+    "end": 187.325
+   },
+   {
+    "text": "EARNS",
+    "start": 187.325,
+    "end": 187.708
+   },
+   {
+    "text": "MORE",
+    "start": 187.708,
+    "end": 188.037
+   }
+  ]
+ },
+ {
+  "start": 188.037,
+  "end": 188.737,
+  "words": [
+   {
+    "text": "PROFIT.",
+    "start": 188.037,
+    "end": 188.53
+   }
+  ]
+ },
+ {
+  "start": 188.83,
+  "end": 190.267,
+  "words": [
+   {
+    "text": "RENT",
+    "start": 188.83,
+    "end": 189.261
+   },
+   {
+    "text": "IS",
+    "start": 189.261,
+    "end": 189.548
+   },
+   {
+    "text": "REVENUE,",
+    "start": 189.548,
+    "end": 190.267
+   }
+  ]
+ },
+ {
+  "start": 190.267,
+  "end": 191.847,
+  "words": [
+   {
+    "text": "BEFORE",
+    "start": 190.267,
+    "end": 190.841
+   },
+   {
+    "text": "THE",
+    "start": 190.841,
+    "end": 191.201
+   },
+   {
+    "text": "COMPANY",
+    "start": 191.201,
+    "end": 191.847
+   }
+  ]
+ },
+ {
+  "start": 191.847,
+  "end": 192.996,
+  "words": [
+   {
+    "text": "PAYS",
+    "start": 191.847,
+    "end": 192.278
+   },
+   {
+    "text": "ITS",
+    "start": 192.278,
+    "end": 192.637
+   },
+   {
+    "text": "OWN",
+    "start": 192.637,
+    "end": 192.996
+   }
+  ]
+ },
+ {
+  "start": 192.996,
+  "end": 194.361,
+  "words": [
+   {
+    "text": "COSTS",
+    "start": 192.996,
+    "end": 193.499
+   },
+   {
+    "text": "FOR",
+    "start": 193.499,
+    "end": 193.858
+   },
+   {
+    "text": "THOSE",
+    "start": 193.858,
+    "end": 194.361
+   }
+  ]
+ },
+ {
+  "start": 194.361,
+  "end": 195.061,
+  "words": [
+   {
+    "text": "SITES.",
+    "start": 194.361,
+    "end": 194.936
+   }
+  ]
+ },
+ {
+  "start": 195.236,
+  "end": 196.158,
+  "words": [
+   {
+    "text": "IT",
+    "start": 195.236,
+    "end": 195.453
+   },
+   {
+    "text": "ONLY",
+    "start": 195.453,
+    "end": 195.779
+   },
+   {
+    "text": "SHOWS",
+    "start": 195.779,
+    "end": 196.158
+   }
+  ]
+ },
+ {
+  "start": 196.158,
+  "end": 197.189,
+  "words": [
+   {
+    "text": "WHICH",
+    "start": 196.158,
+    "end": 196.538
+   },
+   {
+    "text": "BRINGS",
+    "start": 196.538,
+    "end": 196.972
+   },
+   {
+    "text": "IN",
+    "start": 196.972,
+    "end": 197.189
+   }
+  ]
+ },
+ {
+  "start": 197.189,
+  "end": 197.889,
+  "words": [
+   {
+    "text": "MORE.",
+    "start": 197.189,
+    "end": 197.569
+   }
+  ]
+ },
+ {
+  "start": 198.169,
+  "end": 199.18,
+  "words": [
+   {
+    "text": "AND",
+    "start": 198.169,
+    "end": 198.53
+   },
+   {
+    "text": "IN",
+    "start": 198.53,
+    "end": 198.819
+   },
+   {
+    "text": "ITS",
+    "start": 198.819,
+    "end": 199.18
+   }
+  ]
+ },
+ {
+  "start": 199.18,
+  "end": 200.552,
+  "words": [
+   {
+    "text": "BIGGEST",
+    "start": 199.18,
+    "end": 199.83
+   },
+   {
+    "text": "MARKETS,",
+    "start": 199.83,
+    "end": 200.552
+   }
+  ]
+ },
+ {
+  "start": 200.552,
+  "end": 202.357,
+  "words": [
+   {
+    "text": "MCDONALD'S",
+    "start": 200.552,
+    "end": 201.419
+   },
+   {
+    "text": "OWNS",
+    "start": 201.419,
+    "end": 201.852
+   },
+   {
+    "text": "ABOUT",
+    "start": 201.852,
+    "end": 202.357
+   }
+  ]
+ },
+ {
+  "start": 202.357,
+  "end": 203.368,
+  "words": [
+   {
+    "text": "56%",
+    "start": 202.357,
+    "end": 202.719
+   },
+   {
+    "text": "OF",
+    "start": 202.719,
+    "end": 203.007
+   },
+   {
+    "text": "THE",
+    "start": 203.007,
+    "end": 203.368
+   }
+  ]
+ },
+ {
+  "start": 203.368,
+  "end": 204.068,
+  "words": [
+   {
+    "text": "LAND.",
+    "start": 203.368,
+    "end": 203.874
+   }
+  ]
+ },
+ {
+  "start": 204.474,
+  "end": 205.528,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 204.474,
+    "end": 204.775
+   },
+   {
+    "text": "FAMOUS",
+    "start": 204.775,
+    "end": 205.177
+   },
+   {
+    "text": "LINE,",
+    "start": 205.177,
+    "end": 205.528
+   }
+  ]
+ },
+ {
+  "start": 205.528,
+  "end": 206.432,
+  "words": [
+   {
+    "text": "'YOU'RE",
+    "start": 205.528,
+    "end": 205.98
+   },
+   {
+    "text": "IN",
+    "start": 205.98,
+    "end": 206.181
+   },
+   {
+    "text": "THE",
+    "start": 206.181,
+    "end": 206.432
+   }
+  ]
+ },
+ {
+  "start": 206.432,
+  "end": 207.737,
+  "words": [
+   {
+    "text": "REAL",
+    "start": 206.432,
+    "end": 206.733
+   },
+   {
+    "text": "ESTATE",
+    "start": 206.733,
+    "end": 207.135
+   },
+   {
+    "text": "BUSINESS'?",
+    "start": 207.135,
+    "end": 207.737
+   }
+  ]
+ },
+ {
+  "start": 208.037,
+  "end": 208.963,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 208.037,
+    "end": 208.33
+   },
+   {
+    "text": "ONE'S",
+    "start": 208.33,
+    "end": 208.671
+   },
+   {
+    "text": "FROM",
+    "start": 208.671,
+    "end": 208.963
+   }
+  ]
+ },
+ {
+  "start": 208.963,
+  "end": 209.5,
+  "words": [
+   {
+    "text": "A",
+    "start": 208.963,
+    "end": 209.11
+   },
+   {
+    "text": "MOVIE,",
+    "start": 209.11,
+    "end": 209.5
+   }
+  ]
+ },
+ {
+  "start": 209.5,
+  "end": 210.231,
+  "words": [
+   {
+    "text": "THE",
+    "start": 209.5,
+    "end": 209.743
+   },
+   {
+    "text": "FOUNDER.",
+    "start": 209.743,
+    "end": 210.231
+   }
+  ]
+ },
+ {
+  "start": 210.831,
+  "end": 211.891,
+  "words": [
+   {
+    "text": "A",
+    "start": 210.831,
+    "end": 211.008
+   },
+   {
+    "text": "SIMILAR",
+    "start": 211.008,
+    "end": 211.538
+   },
+   {
+    "text": "LINE",
+    "start": 211.538,
+    "end": 211.891
+   }
+  ]
+ },
+ {
+  "start": 211.891,
+  "end": 213.304,
+  "words": [
+   {
+    "text": "IS",
+    "start": 211.891,
+    "end": 212.126
+   },
+   {
+    "text": "WIDELY",
+    "start": 212.126,
+    "end": 212.597
+   },
+   {
+    "text": "ATTRIBUTED",
+    "start": 212.597,
+    "end": 213.304
+   }
+  ]
+ },
+ {
+  "start": 213.304,
+  "end": 214.776,
+  "words": [
+   {
+    "text": "TO",
+    "start": 213.304,
+    "end": 213.54
+   },
+   {
+    "text": "SONNEBORN",
+    "start": 213.54,
+    "end": 214.187
+   },
+   {
+    "text": "HIMSELF.",
+    "start": 214.187,
+    "end": 214.776
+   }
+  ]
+ },
+ {
+  "start": 215.076,
+  "end": 216.248,
+  "words": [
+   {
+    "text": "WHETHER",
+    "start": 215.076,
+    "end": 215.631
+   },
+   {
+    "text": "HE",
+    "start": 215.631,
+    "end": 215.878
+   },
+   {
+    "text": "SAID",
+    "start": 215.878,
+    "end": 216.248
+   }
+  ]
+ },
+ {
+  "start": 216.248,
+  "end": 216.556,
+  "words": [
+   {
+    "text": "IT,",
+    "start": 216.248,
+    "end": 216.556
+   }
+  ]
+ },
+ {
+  "start": 216.556,
+  "end": 217.79,
+  "words": [
+   {
+    "text": "I",
+    "start": 216.556,
+    "end": 216.741
+   },
+   {
+    "text": "COULDN'T",
+    "start": 216.741,
+    "end": 217.358
+   },
+   {
+    "text": "FIND.",
+    "start": 217.358,
+    "end": 217.79
+   }
+  ]
+ },
+ {
+  "start": 218.09,
+  "end": 219.172,
+  "words": [
+   {
+    "text": "THE",
+    "start": 218.09,
+    "end": 218.39
+   },
+   {
+    "text": "MOVIE",
+    "start": 218.39,
+    "end": 218.811
+   },
+   {
+    "text": "JUST",
+    "start": 218.811,
+    "end": 219.172
+   }
+  ]
+ },
+ {
+  "start": 219.172,
+  "end": 219.953,
+  "words": [
+   {
+    "text": "GAVE",
+    "start": 219.172,
+    "end": 219.532
+   },
+   {
+    "text": "IT",
+    "start": 219.532,
+    "end": 219.772
+   },
+   {
+    "text": "A",
+    "start": 219.772,
+    "end": 219.953
+   }
+  ]
+ },
+ {
+  "start": 219.953,
+  "end": 220.914,
+  "words": [
+   {
+    "text": "FAMOUS",
+    "start": 219.953,
+    "end": 220.433
+   },
+   {
+    "text": "VOICE.",
+    "start": 220.433,
+    "end": 220.914
+   }
+  ]
+ },
+ {
+  "start": 221.514,
+  "end": 223.849,
+  "words": [
+   {
+    "text": "JUNE",
+    "start": 221.514,
+    "end": 222.592
+   },
+   {
+    "text": "1967.",
+    "start": 222.592,
+    "end": 223.849
+   }
+  ]
+ },
+ {
+  "start": 224.149,
+  "end": 225.992,
+  "words": [
+   {
+    "text": "SONNEBORN",
+    "start": 224.149,
+    "end": 225.114
+   },
+   {
+    "text": "RESIGNS.",
+    "start": 225.114,
+    "end": 225.992
+   }
+  ]
+ },
+ {
+  "start": 226.592,
+  "end": 227.695,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 226.592,
+    "end": 226.868
+   },
+   {
+    "text": "ACCOUNT",
+    "start": 226.868,
+    "end": 227.364
+   },
+   {
+    "text": "SAYS",
+    "start": 227.364,
+    "end": 227.695
+   }
+  ]
+ },
+ {
+  "start": 227.695,
+  "end": 228.688,
+  "words": [
+   {
+    "text": "KROC",
+    "start": 227.695,
+    "end": 228.026
+   },
+   {
+    "text": "WANTED",
+    "start": 228.026,
+    "end": 228.467
+   },
+   {
+    "text": "TO",
+    "start": 228.467,
+    "end": 228.688
+   }
+  ]
+ },
+ {
+  "start": 228.688,
+  "end": 229.681,
+  "words": [
+   {
+    "text": "KEEP",
+    "start": 228.688,
+    "end": 229.019
+   },
+   {
+    "text": "EXPANDING.",
+    "start": 229.019,
+    "end": 229.681
+   }
+  ]
+ },
+ {
+  "start": 229.982,
+  "end": 231.305,
+  "words": [
+   {
+    "text": "SONNEBORN",
+    "start": 229.982,
+    "end": 230.589
+   },
+   {
+    "text": "EXPECTED",
+    "start": 230.589,
+    "end": 231.14
+   },
+   {
+    "text": "A",
+    "start": 231.14,
+    "end": 231.305
+   }
+  ]
+ },
+ {
+  "start": 231.305,
+  "end": 232.629,
+  "words": [
+   {
+    "text": "RECESSION",
+    "start": 231.305,
+    "end": 231.912
+   },
+   {
+    "text": "AND",
+    "start": 231.912,
+    "end": 232.188
+   },
+   {
+    "text": "WANTED",
+    "start": 232.188,
+    "end": 232.629
+   }
+  ]
+ },
+ {
+  "start": 232.629,
+  "end": 233.787,
+  "words": [
+   {
+    "text": "TO",
+    "start": 232.629,
+    "end": 232.85
+   },
+   {
+    "text": "STOP",
+    "start": 232.85,
+    "end": 233.18
+   },
+   {
+    "text": "BUILDING.",
+    "start": 233.18,
+    "end": 233.787
+   }
+  ]
+ },
+ {
+  "start": 234.387,
+  "end": 235.483,
+  "words": [
+   {
+    "text": "BY",
+    "start": 234.387,
+    "end": 234.606
+   },
+   {
+    "text": "THAT",
+    "start": 234.606,
+    "end": 234.935
+   },
+   {
+    "text": "ACCOUNT,",
+    "start": 234.935,
+    "end": 235.483
+   }
+  ]
+ },
+ {
+  "start": 235.483,
+  "end": 236.47,
+  "words": [
+   {
+    "text": "THE",
+    "start": 235.483,
+    "end": 235.757
+   },
+   {
+    "text": "MAN",
+    "start": 235.757,
+    "end": 236.032
+   },
+   {
+    "text": "BEHIND",
+    "start": 236.032,
+    "end": 236.47
+   }
+  ]
+ },
+ {
+  "start": 236.47,
+  "end": 237.621,
+  "words": [
+   {
+    "text": "THE",
+    "start": 236.47,
+    "end": 236.744
+   },
+   {
+    "text": "QUESTION",
+    "start": 236.744,
+    "end": 237.292
+   },
+   {
+    "text": "QUIT",
+    "start": 237.292,
+    "end": 237.621
+   }
+  ]
+ },
+ {
+  "start": 237.621,
+  "end": 238.553,
+  "words": [
+   {
+    "text": "OVER",
+    "start": 237.621,
+    "end": 237.95
+   },
+   {
+    "text": "HOW",
+    "start": 237.95,
+    "end": 238.224
+   },
+   {
+    "text": "FAST",
+    "start": 238.224,
+    "end": 238.553
+   }
+  ]
+ },
+ {
+  "start": 238.553,
+  "end": 239.253,
+  "words": [
+   {
+    "text": "TO",
+    "start": 238.553,
+    "end": 238.772
+   },
+   {
+    "text": "BUILD.",
+    "start": 238.772,
+    "end": 239.211
+   }
+  ]
+ },
+ {
+  "start": 239.511,
+  "end": 240.92,
+  "words": [
+   {
+    "text": "THE",
+    "start": 239.511,
+    "end": 239.782
+   },
+   {
+    "text": "FRANCHISES",
+    "start": 239.782,
+    "end": 240.432
+   },
+   {
+    "text": "STAYED,",
+    "start": 240.432,
+    "end": 240.92
+   }
+  ]
+ },
+ {
+  "start": 240.92,
+  "end": 241.787,
+  "words": [
+   {
+    "text": "AND",
+    "start": 240.92,
+    "end": 241.191
+   },
+   {
+    "text": "THE",
+    "start": 241.191,
+    "end": 241.461
+   },
+   {
+    "text": "RENT",
+    "start": 241.461,
+    "end": 241.787
+   }
+  ]
+ },
+ {
+  "start": 241.787,
+  "end": 242.816,
+  "words": [
+   {
+    "text": "STILL",
+    "start": 241.787,
+    "end": 242.166
+   },
+   {
+    "text": "COMES",
+    "start": 242.166,
+    "end": 242.545
+   },
+   {
+    "text": "IN.",
+    "start": 242.545,
+    "end": 242.816
+   }
+  ]
+ },
+ {
+  "start": 243.416,
+  "end": 244.459,
+  "words": [
+   {
+    "text": "HE",
+    "start": 243.416,
+    "end": 243.714
+   },
+   {
+    "text": "DIED",
+    "start": 243.714,
+    "end": 244.161
+   },
+   {
+    "text": "IN",
+    "start": 244.161,
+    "end": 244.459
+   }
+  ]
+ },
+ {
+  "start": 244.459,
+  "end": 244.98,
+  "words": [
+   {
+    "text": "1992,",
+    "start": 244.459,
+    "end": 244.98
+   }
+  ]
+ },
+ {
+  "start": 244.98,
+  "end": 246.619,
+  "words": [
+   {
+    "text": "REMEMBERED",
+    "start": 244.98,
+    "end": 245.874
+   },
+   {
+    "text": "BY",
+    "start": 245.874,
+    "end": 246.172
+   },
+   {
+    "text": "FEW,",
+    "start": 246.172,
+    "end": 246.619
+   }
+  ]
+ },
+ {
+  "start": 246.619,
+  "end": 247.96,
+  "words": [
+   {
+    "text": "AND",
+    "start": 246.619,
+    "end": 246.992
+   },
+   {
+    "text": "BEST",
+    "start": 246.992,
+    "end": 247.439
+   },
+   {
+    "text": "KNOWN",
+    "start": 247.439,
+    "end": 247.96
+   }
+  ]
+ },
+ {
+  "start": 247.96,
+  "end": 249.078,
+  "words": [
+   {
+    "text": "TODAY",
+    "start": 247.96,
+    "end": 248.482
+   },
+   {
+    "text": "FOR",
+    "start": 248.482,
+    "end": 248.854
+   },
+   {
+    "text": "A",
+    "start": 248.854,
+    "end": 249.078
+   }
+  ]
+ },
+ {
+  "start": 249.078,
+  "end": 250.493,
+  "words": [
+   {
+    "text": "MOVIE",
+    "start": 249.078,
+    "end": 249.599
+   },
+   {
+    "text": "LINE",
+    "start": 249.599,
+    "end": 250.046
+   },
+   {
+    "text": "WITH",
+    "start": 250.046,
+    "end": 250.493
+   }
+  ]
+ },
+ {
+  "start": 250.493,
+  "end": 251.611,
+  "words": [
+   {
+    "text": "HIS",
+    "start": 250.493,
+    "end": 250.866
+   },
+   {
+    "text": "NAME",
+    "start": 250.866,
+    "end": 251.313
+   },
+   {
+    "text": "ON",
+    "start": 251.313,
+    "end": 251.611
+   }
+  ]
+ },
+ {
+  "start": 251.611,
+  "end": 252.311,
+  "words": [
+   {
+    "text": "IT.",
+    "start": 251.611,
+    "end": 251.983
+   }
+  ]
+ },
+ {
+  "start": 252.983,
+  "end": 253.786,
+  "words": [
+   {
+    "text": "NEXT",
+    "start": 252.983,
+    "end": 253.266
+   },
+   {
+    "text": "TIME",
+    "start": 253.266,
+    "end": 253.55
+   },
+   {
+    "text": "YOU",
+    "start": 253.55,
+    "end": 253.786
+   }
+  ]
+ },
+ {
+  "start": 253.786,
+  "end": 254.352,
+  "words": [
+   {
+    "text": "PASS",
+    "start": 253.786,
+    "end": 254.069
+   },
+   {
+    "text": "ONE,",
+    "start": 254.069,
+    "end": 254.352
+   }
+  ]
+ },
+ {
+  "start": 254.352,
+  "end": 255.25,
+  "words": [
+   {
+    "text": "DON'T",
+    "start": 254.352,
+    "end": 254.683
+   },
+   {
+    "text": "COUNT",
+    "start": 254.683,
+    "end": 255.014
+   },
+   {
+    "text": "THE",
+    "start": 255.014,
+    "end": 255.25
+   }
+  ]
+ },
+ {
+  "start": 255.25,
+  "end": 255.95,
+  "words": [
+   {
+    "text": "BURGERS.",
+    "start": 255.25,
+    "end": 255.722
+   }
+  ]
+ },
+ {
+  "start": 256.022,
+  "end": 257.021,
+  "words": [
+   {
+    "text": "WHOEVER",
+    "start": 256.022,
+    "end": 256.471
+   },
+   {
+    "text": "RUNS",
+    "start": 256.471,
+    "end": 256.771
+   },
+   {
+    "text": "IT,",
+    "start": 256.771,
+    "end": 257.021
+   }
+  ]
+ },
+ {
+  "start": 257.021,
+  "end": 257.82,
+  "words": [
+   {
+    "text": "ASK",
+    "start": 257.021,
+    "end": 257.271
+   },
+   {
+    "text": "WHO",
+    "start": 257.271,
+    "end": 257.52
+   },
+   {
+    "text": "OWNS",
+    "start": 257.52,
+    "end": 257.82
+   }
+  ]
+ },
+ {
+  "start": 257.82,
+  "end": 258.52,
+  "words": [
+   {
+    "text": "THE",
+    "start": 257.82,
+    "end": 258.07
+   },
+   {
+    "text": "GROUND.",
+    "start": 258.07,
+    "end": 258.519
+   }
+  ]
+ },
+ {
+  "start": 258.819,
+  "end": 259.912,
+  "words": [
+   {
+    "text": "LOOK",
+    "start": 258.819,
+    "end": 259.323
+   },
+   {
+    "text": "DOWN.",
+    "start": 259.323,
+    "end": 259.912
+   }
+  ]
+ },
+ {
+  "start": 260.512,
+  "end": 261.23,
+  "words": [
+   {
+    "text": "SUBSCRIBE.",
+    "start": 260.512,
+    "end": 261.23
+   }
+  ]
+ },
+ {
+  "start": 261.23,
+  "end": 262.187,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 261.23,
+    "end": 261.589
+   },
+   {
+    "text": "THE",
+    "start": 261.589,
+    "end": 261.888
+   },
+   {
+    "text": "ONE",
+    "start": 261.888,
+    "end": 262.187
+   }
+  ]
+ },
+ {
+  "start": 262.187,
+  "end": 263.264,
+  "words": [
+   {
+    "text": "DEAL",
+    "start": 262.187,
+    "end": 262.546
+   },
+   {
+    "text": "HERE",
+    "start": 262.546,
+    "end": 262.905
+   },
+   {
+    "text": "WITH",
+    "start": 262.905,
+    "end": 263.264
+   }
+  ]
+ },
+ {
+  "start": 263.264,
+  "end": 263.964,
+  "words": [
+   {
+    "text": "NO",
+    "start": 263.264,
+    "end": 263.503
+   },
+   {
+    "text": "RENT.",
+    "start": 263.503,
+    "end": 263.922
+   }
+  ]
+ }
+]

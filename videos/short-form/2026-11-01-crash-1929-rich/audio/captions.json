@@ -1,0 +1,744 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.607,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 0.0,
+    "end": 0.459
+   },
+   {
+    "text": "SEPTEMBER",
+    "start": 0.459,
+    "end": 1.301
+   },
+   {
+    "text": "3,",
+    "start": 1.301,
+    "end": 1.607
+   }
+  ]
+ },
+ {
+  "start": 1.607,
+  "end": 2.142,
+  "words": [
+   {
+    "text": "1929.",
+    "start": 1.607,
+    "end": 2.142
+   }
+  ]
+ },
+ {
+  "start": 2.142,
+  "end": 3.596,
+  "words": [
+   {
+    "text": "WALL",
+    "start": 2.142,
+    "end": 2.601
+   },
+   {
+    "text": "STREET",
+    "start": 2.601,
+    "end": 3.213
+   },
+   {
+    "text": "HAS",
+    "start": 3.213,
+    "end": 3.596
+   }
+  ]
+ },
+ {
+  "start": 3.596,
+  "end": 5.279,
+  "words": [
+   {
+    "text": "NEVER",
+    "start": 3.596,
+    "end": 4.131
+   },
+   {
+    "text": "BEEN",
+    "start": 4.131,
+    "end": 4.59
+   },
+   {
+    "text": "HIGHER.",
+    "start": 4.59,
+    "end": 5.279
+   }
+  ]
+ },
+ {
+  "start": 5.579,
+  "end": 6.771,
+  "words": [
+   {
+    "text": "EVERYONE'S",
+    "start": 5.579,
+    "end": 6.332
+   },
+   {
+    "text": "RICH.",
+    "start": 6.332,
+    "end": 6.771
+   }
+  ]
+ },
+ {
+  "start": 6.771,
+  "end": 7.712,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 6.771,
+    "end": 7.084
+   },
+   {
+    "text": "KNOW",
+    "start": 7.084,
+    "end": 7.461
+   },
+   {
+    "text": "IT",
+    "start": 7.461,
+    "end": 7.712
+   }
+  ]
+ },
+ {
+  "start": 7.712,
+  "end": 8.778,
+  "words": [
+   {
+    "text": "ENDS",
+    "start": 7.712,
+    "end": 8.088
+   },
+   {
+    "text": "IN",
+    "start": 8.088,
+    "end": 8.339
+   },
+   {
+    "text": "SEVEN",
+    "start": 8.339,
+    "end": 8.778
+   }
+  ]
+ },
+ {
+  "start": 8.778,
+  "end": 9.478,
+  "words": [
+   {
+    "text": "WEEKS.",
+    "start": 8.778,
+    "end": 9.28
+   }
+  ]
+ },
+ {
+  "start": 9.58,
+  "end": 10.476,
+  "words": [
+   {
+    "text": "SO",
+    "start": 9.58,
+    "end": 9.836
+   },
+   {
+    "text": "YOU",
+    "start": 9.836,
+    "end": 10.156
+   },
+   {
+    "text": "BET",
+    "start": 10.156,
+    "end": 10.476
+   }
+  ]
+ },
+ {
+  "start": 10.476,
+  "end": 11.947,
+  "words": [
+   {
+    "text": "AGAINST",
+    "start": 10.476,
+    "end": 11.051
+   },
+   {
+    "text": "THE",
+    "start": 11.051,
+    "end": 11.371
+   },
+   {
+    "text": "MARKET.",
+    "start": 11.371,
+    "end": 11.947
+   }
+  ]
+ },
+ {
+  "start": 12.247,
+  "end": 13.55,
+  "words": [
+   {
+    "text": "OCTOBER",
+    "start": 12.247,
+    "end": 13.085
+   },
+   {
+    "text": "24.",
+    "start": 13.085,
+    "end": 13.55
+   }
+  ]
+ },
+ {
+  "start": 13.55,
+  "end": 15.878,
+  "words": [
+   {
+    "text": "THE",
+    "start": 13.55,
+    "end": 14.016
+   },
+   {
+    "text": "FLOOR",
+    "start": 14.016,
+    "end": 14.668
+   },
+   {
+    "text": "DISAPPEARS.",
+    "start": 14.668,
+    "end": 15.878
+   }
+  ]
+ },
+ {
+  "start": 16.178,
+  "end": 17.546,
+  "words": [
+   {
+    "text": "BY",
+    "start": 16.178,
+    "end": 16.543
+   },
+   {
+    "text": "NOVEMBER,",
+    "start": 16.543,
+    "end": 17.546
+   }
+  ]
+ },
+ {
+  "start": 17.546,
+  "end": 19.279,
+  "words": [
+   {
+    "text": "STOCKS",
+    "start": 17.546,
+    "end": 18.276
+   },
+   {
+    "text": "ARE",
+    "start": 18.276,
+    "end": 18.732
+   },
+   {
+    "text": "DOWN",
+    "start": 18.732,
+    "end": 19.279
+   }
+  ]
+ },
+ {
+  "start": 19.279,
+  "end": 20.648,
+  "words": [
+   {
+    "text": "ALMOST",
+    "start": 19.279,
+    "end": 20.009
+   },
+   {
+    "text": "HALF.",
+    "start": 20.009,
+    "end": 20.648
+   }
+  ]
+ },
+ {
+  "start": 20.648,
+  "end": 22.016,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 20.648,
+    "end": 21.377
+   },
+   {
+    "text": "RICH.",
+    "start": 21.377,
+    "end": 22.016
+   }
+  ]
+ },
+ {
+  "start": 22.316,
+  "end": 23.361,
+  "words": [
+   {
+    "text": "CASH",
+    "start": 22.316,
+    "end": 22.838
+   },
+   {
+    "text": "OUT.",
+    "start": 22.838,
+    "end": 23.361
+   }
+  ]
+ },
+ {
+  "start": 23.361,
+  "end": 24.841,
+  "words": [
+   {
+    "text": "DON'T",
+    "start": 23.361,
+    "end": 23.97
+   },
+   {
+    "text": "BUY",
+    "start": 23.97,
+    "end": 24.406
+   },
+   {
+    "text": "THE",
+    "start": 24.406,
+    "end": 24.841
+   }
+  ]
+ },
+ {
+  "start": 24.841,
+  "end": 25.799,
+  "words": [
+   {
+    "text": "DIP",
+    "start": 24.841,
+    "end": 25.277
+   },
+   {
+    "text": "YET.",
+    "start": 25.277,
+    "end": 25.799
+   }
+  ]
+ },
+ {
+  "start": 26.099,
+  "end": 27.808,
+  "words": [
+   {
+    "text": "STOCKS",
+    "start": 26.099,
+    "end": 26.669
+   },
+   {
+    "text": "BOUNCE",
+    "start": 26.669,
+    "end": 27.239
+   },
+   {
+    "text": "NEARLY",
+    "start": 27.239,
+    "end": 27.808
+   }
+  ]
+ },
+ {
+  "start": 27.808,
+  "end": 29.019,
+  "words": [
+   {
+    "text": "FIFTY",
+    "start": 27.808,
+    "end": 28.307
+   },
+   {
+    "text": "PERCENT.",
+    "start": 28.307,
+    "end": 29.019
+   }
+  ]
+ },
+ {
+  "start": 29.019,
+  "end": 30.586,
+  "words": [
+   {
+    "text": "EVERYONE",
+    "start": 29.019,
+    "end": 29.731
+   },
+   {
+    "text": "SAYS",
+    "start": 29.731,
+    "end": 30.159
+   },
+   {
+    "text": "IT'S",
+    "start": 30.159,
+    "end": 30.586
+   }
+  ]
+ },
+ {
+  "start": 30.586,
+  "end": 31.084,
+  "words": [
+   {
+    "text": "OVER.",
+    "start": 30.586,
+    "end": 31.084
+   }
+  ]
+ },
+ {
+  "start": 31.084,
+  "end": 31.939,
+  "words": [
+   {
+    "text": "IT",
+    "start": 31.084,
+    "end": 31.369
+   },
+   {
+    "text": "ISN'T.",
+    "start": 31.369,
+    "end": 31.939
+   }
+  ]
+ },
+ {
+  "start": 32.239,
+  "end": 34.3,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 32.239,
+    "end": 32.781
+   },
+   {
+    "text": "WAIT",
+    "start": 32.781,
+    "end": 33.432
+   },
+   {
+    "text": "ALMOST",
+    "start": 33.432,
+    "end": 34.3
+   }
+  ]
+ },
+ {
+  "start": 34.3,
+  "end": 35.928,
+  "words": [
+   {
+    "text": "THREE",
+    "start": 34.3,
+    "end": 35.06
+   },
+   {
+    "text": "YEARS.",
+    "start": 35.06,
+    "end": 35.928
+   }
+  ]
+ },
+ {
+  "start": 35.928,
+  "end": 37.013,
+  "words": [
+   {
+    "text": "JULY",
+    "start": 35.928,
+    "end": 36.579
+   },
+   {
+    "text": "8,",
+    "start": 36.579,
+    "end": 37.013
+   }
+  ]
+ },
+ {
+  "start": 37.013,
+  "end": 37.773,
+  "words": [
+   {
+    "text": "1932.",
+    "start": 37.013,
+    "end": 37.773
+   }
+  ]
+ },
+ {
+  "start": 37.773,
+  "end": 39.291,
+  "words": [
+   {
+    "text": "THE",
+    "start": 37.773,
+    "end": 38.315
+   },
+   {
+    "text": "DOW",
+    "start": 38.315,
+    "end": 38.858
+   },
+   {
+    "text": "IS",
+    "start": 38.858,
+    "end": 39.291
+   }
+  ]
+ },
+ {
+  "start": 39.291,
+  "end": 41.353,
+  "words": [
+   {
+    "text": "DOWN",
+    "start": 39.291,
+    "end": 39.943
+   },
+   {
+    "text": "EIGHTY-NINE",
+    "start": 39.943,
+    "end": 41.353
+   }
+  ]
+ },
+ {
+  "start": 41.353,
+  "end": 42.438,
+  "words": [
+   {
+    "text": "PERCENT.",
+    "start": 41.353,
+    "end": 42.438
+   }
+  ]
+ },
+ {
+  "start": 42.738,
+  "end": 43.821,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 42.738,
+    "end": 43.099
+   },
+   {
+    "text": "YOU",
+    "start": 43.099,
+    "end": 43.46
+   },
+   {
+    "text": "BUY",
+    "start": 43.46,
+    "end": 43.821
+   }
+  ]
+ },
+ {
+  "start": 43.821,
+  "end": 44.759,
+  "words": [
+   {
+    "text": "EVERYTHING.",
+    "start": 43.821,
+    "end": 44.759
+   }
+  ]
+ },
+ {
+  "start": 45.059,
+  "end": 46.496,
+  "words": [
+   {
+    "text": "IT",
+    "start": 45.059,
+    "end": 45.378
+   },
+   {
+    "text": "TAKES",
+    "start": 45.378,
+    "end": 45.937
+   },
+   {
+    "text": "UNTIL",
+    "start": 45.937,
+    "end": 46.496
+   }
+  ]
+ },
+ {
+  "start": 46.496,
+  "end": 47.852,
+  "words": [
+   {
+    "text": "1954",
+    "start": 46.496,
+    "end": 46.974
+   },
+   {
+    "text": "TO",
+    "start": 46.974,
+    "end": 47.294
+   },
+   {
+    "text": "CLIMB",
+    "start": 47.294,
+    "end": 47.852
+   }
+  ]
+ },
+ {
+  "start": 47.852,
+  "end": 48.411,
+  "words": [
+   {
+    "text": "BACK.",
+    "start": 47.852,
+    "end": 48.411
+   }
+  ]
+ },
+ {
+  "start": 48.411,
+  "end": 50.007,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 48.411,
+    "end": 48.89
+   },
+   {
+    "text": "MONEY",
+    "start": 48.89,
+    "end": 49.448
+   },
+   {
+    "text": "GROWS",
+    "start": 49.448,
+    "end": 50.007
+   }
+  ]
+ },
+ {
+  "start": 50.007,
+  "end": 51.683,
+  "words": [
+   {
+    "text": "ABOUT",
+    "start": 50.007,
+    "end": 50.566
+   },
+   {
+    "text": "NINE",
+    "start": 50.566,
+    "end": 51.045
+   },
+   {
+    "text": "TIMES.",
+    "start": 51.045,
+    "end": 51.683
+   }
+  ]
+ },
+ {
+  "start": 51.983,
+  "end": 53.378,
+  "words": [
+   {
+    "text": "PREDICTING",
+    "start": 51.983,
+    "end": 52.681
+   },
+   {
+    "text": "THE",
+    "start": 52.681,
+    "end": 52.971
+   },
+   {
+    "text": "CRASH",
+    "start": 52.971,
+    "end": 53.378
+   }
+  ]
+ },
+ {
+  "start": 53.378,
+  "end": 54.076,
+  "words": [
+   {
+    "text": "WAS",
+    "start": 53.378,
+    "end": 53.669
+   },
+   {
+    "text": "EASY.",
+    "start": 53.669,
+    "end": 54.076
+   }
+  ]
+ },
+ {
+  "start": 54.076,
+  "end": 55.18,
+  "words": [
+   {
+    "text": "WAITING",
+    "start": 54.076,
+    "end": 54.599
+   },
+   {
+    "text": "WAS",
+    "start": 54.599,
+    "end": 54.89
+   },
+   {
+    "text": "THE",
+    "start": 54.89,
+    "end": 55.18
+   }
+  ]
+ },
+ {
+  "start": 55.18,
+  "end": 55.936,
+  "words": [
+   {
+    "text": "HARD",
+    "start": 55.18,
+    "end": 55.529
+   },
+   {
+    "text": "PART.",
+    "start": 55.529,
+    "end": 55.936
+   }
+  ]
+ }
+]

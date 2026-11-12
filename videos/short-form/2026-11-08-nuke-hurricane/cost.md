@@ -1,0 +1,5 @@
+# Cost (2026-11-08)
+- Images: 7 x 0.5 = 3.5 (hook whole image, hurricane, missile, bomb, burst, fallout cloud, suitcase)
+- Grady voice: 6 clips, ~1.8 (estimated, 0.3 each)
+- Mascot poses reused from emu/mp2 packs (0); thumbnail made locally from the hook image (0); SFX, music, render (0)
+- Total ~5.3 credits (cap 6)

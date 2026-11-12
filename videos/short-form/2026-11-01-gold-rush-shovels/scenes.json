@@ -1,0 +1,93 @@
+{
+ "slug": "2026-11-01-gold-rush-shovels",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Country Music - Hugh Mitchel.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "It's April 1848. Nobody knows about the gold yet. You do.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lounging with arms behind his head on a big heap of shiny silver tin pans, a smug grin, tiny stick-figure miners wading in a sparkling river far behind, blue sky, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "APRIL 1848",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Everyone's about to dig. You hate digging.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> yawning in a striped canvas chair in the foreground while tiny stick-figure miners swing pickaxes in the distance, green hills and a bright blue sky. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "pan_right"
+  },
+  {
+   "id": 3,
+   "text": "So you buy every pan you can find. Twenty cents each.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> handing one small coin to a puzzled stick-figure shopkeeper with no scarf behind a wooden counter, shelves packed with shiny silver tin pans behind them. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "20 CENTS",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 4,
+   "text": "May 12. You sprint through San Francisco, waving a bottle of gold dust.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sprinting wildly down a dusty street of wooden frontier buildings, dust cloud behind him, holding a small glass bottle with sparkling orange-gold glints above his head. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "MAY 12",
+   "motion": "pan_right"
+  },
+  {
+   "id": 5,
+   "text": "Gold! Gold from the American River!",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> shouting with mouth wide open and the bottle raised high while a crowd of stick figures in hats turn to stare with open mouths, bright orange sunset sky. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "shake"
+  },
+  {
+   "id": 6,
+   "text": "Pans now cost fifteen dollars. That's seventy-five times what you paid.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> smiling and handing a pan to a long line of eager stick figures holding fistfuls of coins, a huge red arrow shooting upward beside him. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "$15 — 75X",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 7,
+   "text": "The miners dig for years. Most never get rich.",
+   "image_prompt": "A row of tired stick-figure miners waist-deep in a muddy river with sad droopy faces holding empty pans, gloomy grey-blue light, no scarf on anyone. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. Keep the whole picture away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "",
+   "motion": "pan_left"
+  },
+  {
+   "id": 8,
+   "text": "You never touch a shovel. You just count.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting bored on a stool inside a small wooden store counting a tall stack of coins, a heap of pans behind him, cozy warm light, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 9,
+   "text": "A man named Sam Brannan really did this. California's first millionaire.",
+   "image_prompt": "A stick-figure shopkeeper with a big mustache in a vest holding a ledger and grinning proudly in front of a wooden store with a pile of coins, no scarf on him. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. Keep the whole picture away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "SAM BRANNAN",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 10,
+   "text": "Then he lost it all. You read ahead.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> raising one eyebrow smugly in the foreground while behind him a stick-figure shopkeeper with a mustache stares sadly at a tiny empty pan where his pile of coins used to be. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_out"
+  }
+ ]
+}

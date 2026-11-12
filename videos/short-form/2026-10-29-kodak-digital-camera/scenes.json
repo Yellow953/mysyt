@@ -1,0 +1,111 @@
+{
+ "slug": "2026-10-29-kodak-digital-camera",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "text": "You're a Kodak engineer. It's 1975.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> as a lab engineer in a white lab coat with a narrow tie and safety glasses pushed up on his forehead, holding a clunky toaster-sized boxy camera with a cassette tape deck bolted on top, in a 1975 corporate research lab with wood-paneled walls, orange and brown 1970s colors, a reel-to-reel tape machine and big beige electronics cabinets, lazy half-smile. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "1975",
+   "logo": "kodak"
+  },
+  {
+   "id": 2,
+   "text": "You just built the camera that will help sink your company.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> proudly raising the clunky boxy camera above his head with a triumphant grin while behind him a big brick factory complex with a smokestack is slowly sinking into gentle blue waves, he has not noticed. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 3,
+   "text": "Your bosses are not thrilled.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> SPLIT cover: a thin vertical line divides the picture. LEFT half: the small engineer in a 1970s lab coat grinning proudly and holding up the clunky boxy camera. RIGHT half: one HUGE stern executive stick figure in a 1970s wide-lapel brown suit with a wide tie, big frown and crossed arms filling most of the half, wood-paneled wall behind. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "cover": true,
+   "logo": "kodak"
+  },
+  {
+   "id": 4,
+   "text": "The first handheld digital camera. Eight pounds.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> struggling to carry a toaster-sized boxy camera that is clearly too heavy for him, knees bending, sweat drops flying, in a 1975 research lab with wood-paneled walls and orange and brown 1970s colors. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "shake"
+  },
+  {
+   "id": 5,
+   "text": "A hundred by a hundred pixels. Your phone has a thousand times more.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing proudly between a 1970s wood-cabinet console television showing a blurry chunky pixelated gray face made of big gray squares and a modern smartphone showing a crisp detailed smiling face, pointing at the television with a hopeful grin. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "overlay_text": "100 x 100",
+   "moves": [
+    "zoom_in",
+    "pan_right"
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Twenty-three seconds to save one picture. Time for a nap.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> fast asleep in a 1970s orange armchair with closed eyes and a drool bubble beside a spinning cassette tape deck on a wooden bench in a wood-paneled lab, a tiny cobweb in the corner. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "23 s"
+  },
+  {
+   "id": 7,
+   "text": "Kodak sold film. Your camera needs none.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> small at the bottom of the picture holding his clunky boxy camera, looking up with a raised eyebrow at three executive stick figures in 1970s wide-lapel brown suits (no scarves on the executives) lounging on a huge mountain of yellow and red cardboard film boxes. Only the small main character wears a scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "logo": "kodak"
+  },
+  {
+   "id": 8,
+   "text": "Kodak's own 1979 report predicted digital by 2010. They were right.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> an executive stick figure in a 1979 wide-lapel suit at a wood desk with a rotary phone reading a thick report, sweating, while the engineer stands behind him with arms crossed and one eyebrow raised in a told-you-so look. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "1979",
+   "moves": [
+    "zoom_in",
+    "pan_right"
+   ]
+  },
+  {
+   "id": 9,
+   "text": "January 2012: Kodak files for bankruptcy.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing alone in front of a huge empty red-brick industrial factory complex with tall smokestacks and a big chained padlock on the gate, a single film roll rolling away down the street, holding a small cardboard box of belongings with a flat deadpan face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "overlay_text": "2012",
+   "logo": "kodak"
+  },
+  {
+   "id": 10,
+   "text": "It did make digital cameras. Even No. 1 in the US by 2005.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing between a tall stack of yellow and red cardboard film boxes and his clunky boxy camera on a stool, shrugging with both palms up and a curious uncertain face, plain background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ]
+  },
+  {
+   "id": 11,
+   "text": "Film or digital, engineer? Your call.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing between a tall stack of dark film canisters and his clunky boxy camera on a stool, shrugging with both palms up and a curious uncertain face, plain background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  }
+ ]
+}

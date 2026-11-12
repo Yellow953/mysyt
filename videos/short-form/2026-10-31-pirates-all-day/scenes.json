@@ -1,0 +1,82 @@
+{
+  "slug": "2026-10-30-pirates-all-day",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Think pirates spent all day fighting, stealing treasure, and drinking rum? Yeah... not even close.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, swinging a sword in one hand, a rum mug in the other beside an open treasure chest like a movie pirate, frozen mid-action with a faint freeze-frame border and speed lines stopped, confident grin turning to blank, plain pale sea background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Most of the time, being a pirate was basically the worst job at sea.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, scrubbing a grimy wooden ship deck on his knees with a big brush, miserable half-lidded face, while another small stick-figure sailor leans green over the ship rail throwing up into the sea, grey overcast sky, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true
+    },
+    {
+      "id": 3,
+      "text": "They hauled ropes and mended sails. Miss your shift? Congratulations. You're everyone's least favorite pirate.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, pulling a heavy rope with a small crew of stick-figure sailors beside a torn sail, and up on the mast a lookout stick figure fast asleep, tired sarcastic face, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "pan_right",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "And the food? Hard biscuits. Fresh fruit? Basically a luxury.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, lifting the lid of a wooden barrel, looking inside with disgust and slowly closing it, while a small stick-figure sailor beside him bites a rock-hard biscuit with a cartoon tooth cracking, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "zoom_in",
+        "pan_left"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "But when they spotted a merchant ship? EVERYTHING changed. Weapons out, hoping the other ship surrendered.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, on the deck as an alarm bell rings, small stick-figure pirates grabbing swords and rushing across the planks, a lookout pointing at a merchant sailing ship on the sunny horizon, he looks alarmed, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "shake",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Win, and they got money, supplies, and cargo. Lose, and their career ended VERY badly.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, SPLIT: a thin vertical line divides the picture. LEFT half: stick-figure pirates celebrating around a pile of loot. RIGHT half: the main character staring terrified at a huge enemy warship, exactly two arms and two hands each. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "pan_left",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "So yeah, pirate life wasn't nonstop treasure hunting. It was mostly sea chores... with occasional murder attempts.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, scrubbing the deck with a brush, deadpan tired face, while a giant wave crashes behind him, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 8,
+      "text": "Still wanna be a pirate?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small tricorn pirate hat, shrugging with a thoughtful curious face and one raised eyebrow, plain pale sea background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ],
+  "music": "Drunken Sailor - Cooper Cannell.mp3"
+}

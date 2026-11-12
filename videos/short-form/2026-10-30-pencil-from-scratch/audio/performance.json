@@ -1,0 +1,68 @@
+[
+ {
+  "text": "You have a forest and a mine. Build one pencil.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Easy. It's wood and a stick of lead.",
+  "tag": "lazy",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "There is no lead. It's graphite and clay.",
+  "tag": "flat",
+  "pause": 0.6,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "A famous 1958 essay traced one pencil around the world.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Graphite from Ceylon. Clay from Mississippi.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Cedar from California and Oregon. You brought a pickaxe to a tree problem.",
+  "tag": "lazy",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "The metal band is brass. That's two more mines. You have one.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Six coats of lacquer. Castor beans are involved. Of course.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "The essay's point: not one person on Earth knows how to make a pencil.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "You, with your forest and your mine? Good luck.",
+  "tag": "lazy",
+  "pause": 0.5,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Could you make one?",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "11.mp3"
+ }
+]

@@ -1,0 +1,3922 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.416,
+  "words": [
+   {
+    "text": "YOU'VE",
+    "start": 0.0,
+    "end": 0.472
+   },
+   {
+    "text": "WAITED",
+    "start": 0.472,
+    "end": 0.944
+   },
+   {
+    "text": "MONTHS",
+    "start": 0.944,
+    "end": 1.416
+   }
+  ]
+ },
+ {
+  "start": 1.416,
+  "end": 2.301,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 1.416,
+    "end": 1.711
+   },
+   {
+    "text": "TONIGHT.",
+    "start": 1.711,
+    "end": 2.301
+   }
+  ]
+ },
+ {
+  "start": 2.801,
+  "end": 3.962,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 2.801,
+    "end": 3.236
+   },
+   {
+    "text": "WIFE",
+    "start": 3.236,
+    "end": 3.672
+   },
+   {
+    "text": "IS",
+    "start": 3.672,
+    "end": 3.962
+   }
+  ]
+ },
+ {
+  "start": 3.962,
+  "end": 5.486,
+  "words": [
+   {
+    "text": "RIGHT",
+    "start": 3.962,
+    "end": 4.47
+   },
+   {
+    "text": "BESIDE",
+    "start": 4.47,
+    "end": 5.05
+   },
+   {
+    "text": "YOU.",
+    "start": 5.05,
+    "end": 5.486
+   }
+  ]
+ },
+ {
+  "start": 5.486,
+  "end": 6.502,
+  "words": [
+   {
+    "text": "SO",
+    "start": 5.486,
+    "end": 5.776
+   },
+   {
+    "text": "IS",
+    "start": 5.776,
+    "end": 6.066
+   },
+   {
+    "text": "YOUR",
+    "start": 6.066,
+    "end": 6.502
+   }
+  ]
+ },
+ {
+  "start": 6.502,
+  "end": 7.155,
+  "words": [
+   {
+    "text": "MOTHER.",
+    "start": 6.502,
+    "end": 7.155
+   }
+  ]
+ },
+ {
+  "start": 7.155,
+  "end": 8.243,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 7.155,
+    "end": 7.59
+   },
+   {
+    "text": "FATHER.",
+    "start": 7.59,
+    "end": 8.243
+   }
+  ]
+ },
+ {
+  "start": 8.243,
+  "end": 10.13,
+  "words": [
+   {
+    "text": "THREE",
+    "start": 8.243,
+    "end": 8.751
+   },
+   {
+    "text": "LITTLE",
+    "start": 8.751,
+    "end": 9.332
+   },
+   {
+    "text": "BROTHERS.",
+    "start": 9.332,
+    "end": 10.13
+   }
+  ]
+ },
+ {
+  "start": 10.13,
+  "end": 11.654,
+  "words": [
+   {
+    "text": "AND",
+    "start": 10.13,
+    "end": 10.493
+   },
+   {
+    "text": "A",
+    "start": 10.493,
+    "end": 10.71
+   },
+   {
+    "text": "GRANDMOTHER",
+    "start": 10.71,
+    "end": 11.654
+   }
+  ]
+ },
+ {
+  "start": 11.654,
+  "end": 12.887,
+  "words": [
+   {
+    "text": "WHO",
+    "start": 11.654,
+    "end": 12.016
+   },
+   {
+    "text": "HAS",
+    "start": 12.016,
+    "end": 12.379
+   },
+   {
+    "text": "NEVER",
+    "start": 12.379,
+    "end": 12.887
+   }
+  ]
+ },
+ {
+  "start": 12.887,
+  "end": 13.903,
+  "words": [
+   {
+    "text": "ONCE",
+    "start": 12.887,
+    "end": 13.323
+   },
+   {
+    "text": "SLEPT.",
+    "start": 13.323,
+    "end": 13.903
+   }
+  ]
+ },
+ {
+  "start": 14.403,
+  "end": 15.529,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 14.403,
+    "end": 14.872
+   },
+   {
+    "text": "ROOM.",
+    "start": 14.872,
+    "end": 15.529
+   }
+  ]
+ },
+ {
+  "start": 15.529,
+  "end": 17.125,
+  "words": [
+   {
+    "text": "ELEVEN",
+    "start": 15.529,
+    "end": 16.28
+   },
+   {
+    "text": "PEOPLE.",
+    "start": 16.28,
+    "end": 17.125
+   }
+  ]
+ },
+ {
+  "start": 17.125,
+  "end": 18.627,
+  "words": [
+   {
+    "text": "AND",
+    "start": 17.125,
+    "end": 17.595
+   },
+   {
+    "text": "YOU",
+    "start": 17.595,
+    "end": 18.064
+   },
+   {
+    "text": "NEED",
+    "start": 18.064,
+    "end": 18.627
+   }
+  ]
+ },
+ {
+  "start": 18.627,
+  "end": 20.786,
+  "words": [
+   {
+    "text": "FIVE",
+    "start": 18.627,
+    "end": 19.19
+   },
+   {
+    "text": "MINUTES",
+    "start": 19.19,
+    "end": 20.035
+   },
+   {
+    "text": "ALONE.",
+    "start": 20.035,
+    "end": 20.786
+   }
+  ]
+ },
+ {
+  "start": 21.286,
+  "end": 22.484,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 21.286,
+    "end": 21.714
+   },
+   {
+    "text": "HAVE",
+    "start": 21.714,
+    "end": 22.227
+   },
+   {
+    "text": "A",
+    "start": 22.227,
+    "end": 22.484
+   }
+  ]
+ },
+ {
+  "start": 22.484,
+  "end": 23.083,
+  "words": [
+   {
+    "text": "PLAN.",
+    "start": 22.484,
+    "end": 23.083
+   }
+  ]
+ },
+ {
+  "start": 23.083,
+  "end": 24.281,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 23.083,
+    "end": 23.596
+   },
+   {
+    "text": "A",
+    "start": 23.596,
+    "end": 23.853
+   },
+   {
+    "text": "BAD",
+    "start": 23.853,
+    "end": 24.281
+   }
+  ]
+ },
+ {
+  "start": 24.281,
+  "end": 24.88,
+  "words": [
+   {
+    "text": "PLAN.",
+    "start": 24.281,
+    "end": 24.88
+   }
+  ]
+ },
+ {
+  "start": 24.88,
+  "end": 26.078,
+  "words": [
+   {
+    "text": "BUT",
+    "start": 24.88,
+    "end": 25.308
+   },
+   {
+    "text": "IT'S",
+    "start": 25.308,
+    "end": 25.821
+   },
+   {
+    "text": "A",
+    "start": 25.821,
+    "end": 26.078
+   }
+  ]
+ },
+ {
+  "start": 26.078,
+  "end": 26.778,
+  "words": [
+   {
+    "text": "PLAN.",
+    "start": 26.078,
+    "end": 26.677
+   }
+  ]
+ },
+ {
+  "start": 27.177,
+  "end": 27.934,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 27.177,
+    "end": 27.631
+   },
+   {
+    "text": "A.",
+    "start": 27.631,
+    "end": 27.934
+   }
+  ]
+ },
+ {
+  "start": 27.934,
+  "end": 29.525,
+  "words": [
+   {
+    "text": "THE",
+    "start": 27.934,
+    "end": 28.313
+   },
+   {
+    "text": "VILLAGE",
+    "start": 28.313,
+    "end": 28.995
+   },
+   {
+    "text": "WALKS",
+    "start": 28.995,
+    "end": 29.525
+   }
+  ]
+ },
+ {
+  "start": 29.525,
+  "end": 30.661,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 29.525,
+    "end": 29.904
+   },
+   {
+    "text": "TO",
+    "start": 29.904,
+    "end": 30.206
+   },
+   {
+    "text": "BED.",
+    "start": 30.206,
+    "end": 30.661
+   }
+  ]
+ },
+ {
+  "start": 30.661,
+  "end": 32.1,
+  "words": [
+   {
+    "text": "IN",
+    "start": 30.661,
+    "end": 30.964
+   },
+   {
+    "text": "SOME",
+    "start": 30.964,
+    "end": 31.418
+   },
+   {
+    "text": "PLACES,",
+    "start": 31.418,
+    "end": 32.1
+   }
+  ]
+ },
+ {
+  "start": 32.1,
+  "end": 33.615,
+  "words": [
+   {
+    "text": "THAT'S",
+    "start": 32.1,
+    "end": 32.706
+   },
+   {
+    "text": "TRADITION:",
+    "start": 32.706,
+    "end": 33.615
+   }
+  ]
+ },
+ {
+  "start": 33.615,
+  "end": 34.372,
+  "words": [
+   {
+    "text": "CANDLES,",
+    "start": 33.615,
+    "end": 34.372
+   }
+  ]
+ },
+ {
+  "start": 34.372,
+  "end": 34.978,
+  "words": [
+   {
+    "text": "SONGS,",
+    "start": 34.372,
+    "end": 34.978
+   }
+  ]
+ },
+ {
+  "start": 34.978,
+  "end": 36.341,
+  "words": [
+   {
+    "text": "ADVICE",
+    "start": 34.978,
+    "end": 35.584
+   },
+   {
+    "text": "YOU",
+    "start": 35.584,
+    "end": 35.963
+   },
+   {
+    "text": "DID",
+    "start": 35.963,
+    "end": 36.341
+   }
+  ]
+ },
+ {
+  "start": 36.341,
+  "end": 37.553,
+  "words": [
+   {
+    "text": "NOT",
+    "start": 36.341,
+    "end": 36.72
+   },
+   {
+    "text": "ASK",
+    "start": 36.72,
+    "end": 37.099
+   },
+   {
+    "text": "FOR.",
+    "start": 37.099,
+    "end": 37.553
+   }
+  ]
+ },
+ {
+  "start": 38.053,
+  "end": 39.559,
+  "words": [
+   {
+    "text": "THE",
+    "start": 38.053,
+    "end": 38.471
+   },
+   {
+    "text": "LAST",
+    "start": 38.471,
+    "end": 38.973
+   },
+   {
+    "text": "GUEST",
+    "start": 38.973,
+    "end": 39.559
+   }
+  ]
+ },
+ {
+  "start": 39.559,
+  "end": 40.982,
+  "words": [
+   {
+    "text": "WINKS",
+    "start": 39.559,
+    "end": 40.145
+   },
+   {
+    "text": "AT",
+    "start": 40.145,
+    "end": 40.48
+   },
+   {
+    "text": "YOU.",
+    "start": 40.48,
+    "end": 40.982
+   }
+  ]
+ },
+ {
+  "start": 40.982,
+  "end": 42.488,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 40.982,
+    "end": 41.4
+   },
+   {
+    "text": "HAVE",
+    "start": 41.4,
+    "end": 41.902
+   },
+   {
+    "text": "NEVER",
+    "start": 41.902,
+    "end": 42.488
+   }
+  ]
+ },
+ {
+  "start": 42.488,
+  "end": 43.994,
+  "words": [
+   {
+    "text": "WANTED",
+    "start": 42.488,
+    "end": 43.157
+   },
+   {
+    "text": "TO",
+    "start": 43.157,
+    "end": 43.492
+   },
+   {
+    "text": "HURT",
+    "start": 43.492,
+    "end": 43.994
+   }
+  ]
+ },
+ {
+  "start": 43.994,
+  "end": 45.416,
+  "words": [
+   {
+    "text": "A",
+    "start": 43.994,
+    "end": 44.245
+   },
+   {
+    "text": "STRANGER",
+    "start": 44.245,
+    "end": 45.082
+   },
+   {
+    "text": "SO",
+    "start": 45.082,
+    "end": 45.416
+   }
+  ]
+ },
+ {
+  "start": 45.416,
+  "end": 46.116,
+  "words": [
+   {
+    "text": "MUCH.",
+    "start": 45.416,
+    "end": 46.002
+   }
+  ]
+ },
+ {
+  "start": 46.652,
+  "end": 47.928,
+  "words": [
+   {
+    "text": "THEY",
+    "start": 46.652,
+    "end": 47.035
+   },
+   {
+    "text": "FINALLY",
+    "start": 47.035,
+    "end": 47.609
+   },
+   {
+    "text": "GO.",
+    "start": 47.609,
+    "end": 47.928
+   }
+  ]
+ },
+ {
+  "start": 47.928,
+  "end": 49.14,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 47.928,
+    "end": 48.311
+   },
+   {
+    "text": "WIFE",
+    "start": 48.311,
+    "end": 48.694
+   },
+   {
+    "text": "LOOKS",
+    "start": 48.694,
+    "end": 49.14
+   }
+  ]
+ },
+ {
+  "start": 49.14,
+  "end": 49.779,
+  "words": [
+   {
+    "text": "AT",
+    "start": 49.14,
+    "end": 49.396
+   },
+   {
+    "text": "YOU.",
+    "start": 49.396,
+    "end": 49.779
+   }
+  ]
+ },
+ {
+  "start": 49.779,
+  "end": 50.736,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 49.779,
+    "end": 50.098
+   },
+   {
+    "text": "LOOK",
+    "start": 50.098,
+    "end": 50.48
+   },
+   {
+    "text": "AT",
+    "start": 50.48,
+    "end": 50.736
+   }
+  ]
+ },
+ {
+  "start": 50.736,
+  "end": 51.118,
+  "words": [
+   {
+    "text": "HER.",
+    "start": 50.736,
+    "end": 51.118
+   }
+  ]
+ },
+ {
+  "start": 51.118,
+  "end": 52.522,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 51.118,
+    "end": 51.501
+   },
+   {
+    "text": "MOTHER",
+    "start": 51.501,
+    "end": 52.012
+   },
+   {
+    "text": "CLEARS",
+    "start": 52.012,
+    "end": 52.522
+   }
+  ]
+ },
+ {
+  "start": 52.522,
+  "end": 53.735,
+  "words": [
+   {
+    "text": "HER",
+    "start": 52.522,
+    "end": 52.841
+   },
+   {
+    "text": "THROAT",
+    "start": 52.841,
+    "end": 53.352
+   },
+   {
+    "text": "FROM",
+    "start": 53.352,
+    "end": 53.735
+   }
+  ]
+ },
+ {
+  "start": 53.735,
+  "end": 54.564,
+  "words": [
+   {
+    "text": "THE",
+    "start": 53.735,
+    "end": 54.054
+   },
+   {
+    "text": "BENCH.",
+    "start": 54.054,
+    "end": 54.564
+   }
+  ]
+ },
+ {
+  "start": 55.214,
+  "end": 56.389,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 55.214,
+    "end": 55.756
+   },
+   {
+    "text": "A",
+    "start": 55.756,
+    "end": 56.028
+   },
+   {
+    "text": "IS",
+    "start": 56.028,
+    "end": 56.389
+   }
+  ]
+ },
+ {
+  "start": 56.389,
+  "end": 57.089,
+  "words": [
+   {
+    "text": "DEAD.",
+    "start": 56.389,
+    "end": 57.022
+   }
+  ]
+ },
+ {
+  "start": 57.722,
+  "end": 58.437,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 57.722,
+    "end": 58.151
+   },
+   {
+    "text": "B.",
+    "start": 58.151,
+    "end": 58.437
+   }
+  ]
+ },
+ {
+  "start": 58.437,
+  "end": 59.796,
+  "words": [
+   {
+    "text": "\"LET'S",
+    "start": 58.437,
+    "end": 59.009
+   },
+   {
+    "text": "GET",
+    "start": 59.009,
+    "end": 59.367
+   },
+   {
+    "text": "SOME",
+    "start": 59.367,
+    "end": 59.796
+   }
+  ]
+ },
+ {
+  "start": 59.796,
+  "end": 61.154,
+  "words": [
+   {
+    "text": "AIR.\"",
+    "start": 59.796,
+    "end": 60.296
+   },
+   {
+    "text": "YOUR",
+    "start": 60.296,
+    "end": 60.725
+   },
+   {
+    "text": "WIFE",
+    "start": 60.725,
+    "end": 61.154
+   }
+  ]
+ },
+ {
+  "start": 61.154,
+  "end": 62.513,
+  "words": [
+   {
+    "text": "TAKES",
+    "start": 61.154,
+    "end": 61.655
+   },
+   {
+    "text": "YOUR",
+    "start": 61.655,
+    "end": 62.084
+   },
+   {
+    "text": "HAND",
+    "start": 62.084,
+    "end": 62.513
+   }
+  ]
+ },
+ {
+  "start": 62.513,
+  "end": 63.657,
+  "words": [
+   {
+    "text": "AND",
+    "start": 62.513,
+    "end": 62.87
+   },
+   {
+    "text": "YOU",
+    "start": 62.87,
+    "end": 63.228
+   },
+   {
+    "text": "SLIP",
+    "start": 63.228,
+    "end": 63.657
+   }
+  ]
+ },
+ {
+  "start": 63.657,
+  "end": 64.801,
+  "words": [
+   {
+    "text": "OUT",
+    "start": 63.657,
+    "end": 64.014
+   },
+   {
+    "text": "INTO",
+    "start": 64.014,
+    "end": 64.443
+   },
+   {
+    "text": "THE",
+    "start": 64.443,
+    "end": 64.801
+   }
+  ]
+ },
+ {
+  "start": 64.801,
+  "end": 65.802,
+  "words": [
+   {
+    "text": "DARK",
+    "start": 64.801,
+    "end": 65.23
+   },
+   {
+    "text": "FIELD.",
+    "start": 65.23,
+    "end": 65.802
+   }
+  ]
+ },
+ {
+  "start": 66.302,
+  "end": 67.669,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 66.302,
+    "end": 66.888
+   },
+   {
+    "text": "QUIET.",
+    "start": 66.888,
+    "end": 67.669
+   }
+  ]
+ },
+ {
+  "start": 67.669,
+  "end": 68.939,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 67.669,
+    "end": 68.255
+   },
+   {
+    "text": "COLD.",
+    "start": 68.255,
+    "end": 68.939
+   }
+  ]
+ },
+ {
+  "start": 68.939,
+  "end": 70.501,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 68.939,
+    "end": 69.525
+   },
+   {
+    "text": "PERFECT.",
+    "start": 69.525,
+    "end": 70.501
+   }
+  ]
+ },
+ {
+  "start": 70.501,
+  "end": 72.259,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 70.501,
+    "end": 71.087
+   },
+   {
+    "text": "A",
+    "start": 71.087,
+    "end": 71.38
+   },
+   {
+    "text": "LANTERN",
+    "start": 71.38,
+    "end": 72.259
+   }
+  ]
+ },
+ {
+  "start": 72.259,
+  "end": 73.821,
+  "words": [
+   {
+    "text": "BOBS",
+    "start": 72.259,
+    "end": 72.845
+   },
+   {
+    "text": "UP",
+    "start": 72.845,
+    "end": 73.235
+   },
+   {
+    "text": "FROM",
+    "start": 73.235,
+    "end": 73.821
+   }
+  ]
+ },
+ {
+  "start": 73.821,
+  "end": 75.091,
+  "words": [
+   {
+    "text": "THE",
+    "start": 73.821,
+    "end": 74.31
+   },
+   {
+    "text": "HEDGE.",
+    "start": 74.31,
+    "end": 75.091
+   }
+  ]
+ },
+ {
+  "start": 75.091,
+  "end": 76.653,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 75.091,
+    "end": 75.677
+   },
+   {
+    "text": "ANOTHER.",
+    "start": 75.677,
+    "end": 76.653
+   }
+  ]
+ },
+ {
+  "start": 76.653,
+  "end": 77.825,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 76.653,
+    "end": 77.239
+   },
+   {
+    "text": "SIX.",
+    "start": 77.239,
+    "end": 77.825
+   }
+  ]
+ },
+ {
+  "start": 78.475,
+  "end": 79.365,
+  "words": [
+   {
+    "text": "TURNS",
+    "start": 78.475,
+    "end": 78.842
+   },
+   {
+    "text": "OUT",
+    "start": 78.842,
+    "end": 79.103
+   },
+   {
+    "text": "YOU",
+    "start": 79.103,
+    "end": 79.365
+   }
+  ]
+ },
+ {
+  "start": 79.365,
+  "end": 80.203,
+  "words": [
+   {
+    "text": "WERE",
+    "start": 79.365,
+    "end": 79.68
+   },
+   {
+    "text": "NOT",
+    "start": 79.68,
+    "end": 79.941
+   },
+   {
+    "text": "THE",
+    "start": 79.941,
+    "end": 80.203
+   }
+  ]
+ },
+ {
+  "start": 80.203,
+  "end": 81.355,
+  "words": [
+   {
+    "text": "FIRST",
+    "start": 80.203,
+    "end": 80.57
+   },
+   {
+    "text": "NEWLYWEDS",
+    "start": 80.57,
+    "end": 81.146
+   },
+   {
+    "text": "TO",
+    "start": 81.146,
+    "end": 81.355
+   }
+  ]
+ },
+ {
+  "start": 81.355,
+  "end": 82.193,
+  "words": [
+   {
+    "text": "ASK",
+    "start": 81.355,
+    "end": 81.617
+   },
+   {
+    "text": "FOR",
+    "start": 81.617,
+    "end": 81.879
+   },
+   {
+    "text": "SOME",
+    "start": 81.879,
+    "end": 82.193
+   }
+  ]
+ },
+ {
+  "start": 82.193,
+  "end": 82.508,
+  "words": [
+   {
+    "text": "AIR.",
+    "start": 82.193,
+    "end": 82.508
+   }
+  ]
+ },
+ {
+  "start": 82.508,
+  "end": 83.555,
+  "words": [
+   {
+    "text": "SOMEBODY'S",
+    "start": 82.508,
+    "end": 83.136
+   },
+   {
+    "text": "COUSIN",
+    "start": 83.136,
+    "end": 83.555
+   }
+  ]
+ },
+ {
+  "start": 83.555,
+  "end": 84.255,
+  "words": [
+   {
+    "text": "WAVES.",
+    "start": 83.555,
+    "end": 83.974
+   }
+  ]
+ },
+ {
+  "start": 84.474,
+  "end": 85.572,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 84.474,
+    "end": 84.981
+   },
+   {
+    "text": "B",
+    "start": 84.981,
+    "end": 85.234
+   },
+   {
+    "text": "IS",
+    "start": 85.234,
+    "end": 85.572
+   }
+  ]
+ },
+ {
+  "start": 85.572,
+  "end": 86.163,
+  "words": [
+   {
+    "text": "DEAD.",
+    "start": 85.572,
+    "end": 86.163
+   }
+  ]
+ },
+ {
+  "start": 86.163,
+  "end": 88.106,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 86.163,
+    "end": 86.67
+   },
+   {
+    "text": "ALSO",
+    "start": 86.67,
+    "end": 87.177
+   },
+   {
+    "text": "FREEZING.",
+    "start": 87.177,
+    "end": 88.106
+   }
+  ]
+ },
+ {
+  "start": 88.806,
+  "end": 89.811,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 88.806,
+    "end": 89.27
+   },
+   {
+    "text": "C",
+    "start": 89.27,
+    "end": 89.502
+   },
+   {
+    "text": "IS",
+    "start": 89.502,
+    "end": 89.811
+   }
+  ]
+ },
+ {
+  "start": 89.811,
+  "end": 90.739,
+  "words": [
+   {
+    "text": "AMBITIOUS.",
+    "start": 89.811,
+    "end": 90.739
+   }
+  ]
+ },
+ {
+  "start": 90.739,
+  "end": 92.363,
+  "words": [
+   {
+    "text": "THE",
+    "start": 90.739,
+    "end": 91.126
+   },
+   {
+    "text": "LORD'S",
+    "start": 91.126,
+    "end": 91.744
+   },
+   {
+    "text": "MANOR.",
+    "start": 91.744,
+    "end": 92.363
+   }
+  ]
+ },
+ {
+  "start": 92.363,
+  "end": 93.6,
+  "words": [
+   {
+    "text": "THE",
+    "start": 92.363,
+    "end": 92.749
+   },
+   {
+    "text": "RICH",
+    "start": 92.749,
+    "end": 93.213
+   },
+   {
+    "text": "HAD",
+    "start": 93.213,
+    "end": 93.6
+   }
+  ]
+ },
+ {
+  "start": 93.6,
+  "end": 94.837,
+  "words": [
+   {
+    "text": "PRIVATE",
+    "start": 93.6,
+    "end": 94.296
+   },
+   {
+    "text": "ROOMS",
+    "start": 94.296,
+    "end": 94.837
+   }
+  ]
+ },
+ {
+  "start": 94.837,
+  "end": 95.687,
+  "words": [
+   {
+    "text": "UPSTAIRS,",
+    "start": 94.837,
+    "end": 95.687
+   }
+  ]
+ },
+ {
+  "start": 95.687,
+  "end": 97.079,
+  "words": [
+   {
+    "text": "WITH",
+    "start": 95.687,
+    "end": 96.151
+   },
+   {
+    "text": "REAL",
+    "start": 96.151,
+    "end": 96.615
+   },
+   {
+    "text": "BEDS",
+    "start": 96.615,
+    "end": 97.079
+   }
+  ]
+ },
+ {
+  "start": 97.079,
+  "end": 98.78,
+  "words": [
+   {
+    "text": "AND",
+    "start": 97.079,
+    "end": 97.466
+   },
+   {
+    "text": "REAL",
+    "start": 97.466,
+    "end": 97.93
+   },
+   {
+    "text": "CURTAINS.",
+    "start": 97.93,
+    "end": 98.78
+   }
+  ]
+ },
+ {
+  "start": 99.28,
+  "end": 101.132,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 99.28,
+    "end": 99.825
+   },
+   {
+    "text": "TIPTOE",
+    "start": 99.825,
+    "end": 100.696
+   },
+   {
+    "text": "UP",
+    "start": 100.696,
+    "end": 101.132
+   }
+  ]
+ },
+ {
+  "start": 101.132,
+  "end": 102.657,
+  "words": [
+   {
+    "text": "THE",
+    "start": 101.132,
+    "end": 101.677
+   },
+   {
+    "text": "STAIRS.",
+    "start": 101.677,
+    "end": 102.657
+   }
+  ]
+ },
+ {
+  "start": 102.657,
+  "end": 104.291,
+  "words": [
+   {
+    "text": "A",
+    "start": 102.657,
+    "end": 102.984
+   },
+   {
+    "text": "SOFT",
+    "start": 102.984,
+    "end": 103.638
+   },
+   {
+    "text": "BED.",
+    "start": 103.638,
+    "end": 104.291
+   }
+  ]
+ },
+ {
+  "start": 104.291,
+  "end": 106.252,
+  "words": [
+   {
+    "text": "HEAVY",
+    "start": 104.291,
+    "end": 105.054
+   },
+   {
+    "text": "CURTAINS.",
+    "start": 105.054,
+    "end": 106.252
+   }
+  ]
+ },
+ {
+  "start": 106.252,
+  "end": 107.886,
+  "words": [
+   {
+    "text": "A",
+    "start": 106.252,
+    "end": 106.579
+   },
+   {
+    "text": "DOOR",
+    "start": 106.579,
+    "end": 107.233
+   },
+   {
+    "text": "THAT",
+    "start": 107.233,
+    "end": 107.886
+   }
+  ]
+ },
+ {
+  "start": 107.886,
+  "end": 108.758,
+  "words": [
+   {
+    "text": "SHUTS.",
+    "start": 107.886,
+    "end": 108.758
+   }
+  ]
+ },
+ {
+  "start": 108.758,
+  "end": 110.283,
+  "words": [
+   {
+    "text": "AND",
+    "start": 108.758,
+    "end": 109.302
+   },
+   {
+    "text": "A",
+    "start": 109.302,
+    "end": 109.629
+   },
+   {
+    "text": "VERY",
+    "start": 109.629,
+    "end": 110.283
+   }
+  ]
+ },
+ {
+  "start": 110.283,
+  "end": 112.571,
+  "words": [
+   {
+    "text": "LARGE",
+    "start": 110.283,
+    "end": 111.045
+   },
+   {
+    "text": "MAN",
+    "start": 111.045,
+    "end": 111.59
+   },
+   {
+    "text": "HOLDING",
+    "start": 111.59,
+    "end": 112.571
+   }
+  ]
+ },
+ {
+  "start": 112.571,
+  "end": 113.66,
+  "words": [
+   {
+    "text": "A",
+    "start": 112.571,
+    "end": 112.897
+   },
+   {
+    "text": "LAMP.",
+    "start": 112.897,
+    "end": 113.66
+   }
+  ]
+ },
+ {
+  "start": 114.31,
+  "end": 115.284,
+  "words": [
+   {
+    "text": "\"WHAT",
+    "start": 114.31,
+    "end": 114.711
+   },
+   {
+    "text": "ARE",
+    "start": 114.711,
+    "end": 114.997
+   },
+   {
+    "text": "YOU",
+    "start": 114.997,
+    "end": 115.284
+   }
+  ]
+ },
+ {
+  "start": 115.284,
+  "end": 116.2,
+  "words": [
+   {
+    "text": "DOING",
+    "start": 115.284,
+    "end": 115.685
+   },
+   {
+    "text": "IN",
+    "start": 115.685,
+    "end": 115.914
+   },
+   {
+    "text": "THE",
+    "start": 115.914,
+    "end": 116.2
+   }
+  ]
+ },
+ {
+  "start": 116.2,
+  "end": 117.289,
+  "words": [
+   {
+    "text": "LORD'S",
+    "start": 116.2,
+    "end": 116.659
+   },
+   {
+    "text": "BEDROOM?\"",
+    "start": 116.659,
+    "end": 117.289
+   }
+  ]
+ },
+ {
+  "start": 117.289,
+  "end": 118.778,
+  "words": [
+   {
+    "text": "\"LOOKING",
+    "start": 117.289,
+    "end": 117.862
+   },
+   {
+    "text": "AT",
+    "start": 117.862,
+    "end": 118.091
+   },
+   {
+    "text": "CURTAINS.\"",
+    "start": 118.091,
+    "end": 118.778
+   }
+  ]
+ },
+ {
+  "start": 118.778,
+  "end": 119.81,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 118.778,
+    "end": 119.122
+   },
+   {
+    "text": "WIFE",
+    "start": 119.122,
+    "end": 119.466
+   },
+   {
+    "text": "NODS",
+    "start": 119.466,
+    "end": 119.81
+   }
+  ]
+ },
+ {
+  "start": 119.81,
+  "end": 120.898,
+  "words": [
+   {
+    "text": "LIKE",
+    "start": 119.81,
+    "end": 120.153
+   },
+   {
+    "text": "AN",
+    "start": 120.153,
+    "end": 120.382
+   },
+   {
+    "text": "EXPERT.",
+    "start": 120.382,
+    "end": 120.898
+   }
+  ]
+ },
+ {
+  "start": 121.398,
+  "end": 122.639,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 121.398,
+    "end": 121.725
+   },
+   {
+    "text": "ARE",
+    "start": 121.725,
+    "end": 122.051
+   },
+   {
+    "text": "REMOVED",
+    "start": 122.051,
+    "end": 122.639
+   }
+  ]
+ },
+ {
+  "start": 122.639,
+  "end": 123.814,
+  "words": [
+   {
+    "text": "BY",
+    "start": 122.639,
+    "end": 122.9
+   },
+   {
+    "text": "THE",
+    "start": 122.9,
+    "end": 123.226
+   },
+   {
+    "text": "COLLAR.",
+    "start": 123.226,
+    "end": 123.814
+   }
+  ]
+ },
+ {
+  "start": 123.814,
+  "end": 124.533,
+  "words": [
+   {
+    "text": "CURTAINS,",
+    "start": 123.814,
+    "end": 124.533
+   }
+  ]
+ },
+ {
+  "start": 124.533,
+  "end": 125.643,
+  "words": [
+   {
+    "text": "IT",
+    "start": 124.533,
+    "end": 124.794
+   },
+   {
+    "text": "TURNS",
+    "start": 124.794,
+    "end": 125.251
+   },
+   {
+    "text": "OUT,",
+    "start": 125.251,
+    "end": 125.643
+   }
+  ]
+ },
+ {
+  "start": 125.643,
+  "end": 126.818,
+  "words": [
+   {
+    "text": "ARE",
+    "start": 125.643,
+    "end": 125.969
+   },
+   {
+    "text": "FOR",
+    "start": 125.969,
+    "end": 126.296
+   },
+   {
+    "text": "PEOPLE",
+    "start": 126.296,
+    "end": 126.818
+   }
+  ]
+ },
+ {
+  "start": 126.818,
+  "end": 127.798,
+  "words": [
+   {
+    "text": "WHO",
+    "start": 126.818,
+    "end": 127.145
+   },
+   {
+    "text": "OWN",
+    "start": 127.145,
+    "end": 127.471
+   },
+   {
+    "text": "THE",
+    "start": 127.471,
+    "end": 127.798
+   }
+  ]
+ },
+ {
+  "start": 127.798,
+  "end": 128.516,
+  "words": [
+   {
+    "text": "BUILDING.",
+    "start": 127.798,
+    "end": 128.516
+   }
+  ]
+ },
+ {
+  "start": 129.016,
+  "end": 130.105,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 129.016,
+    "end": 129.519
+   },
+   {
+    "text": "C",
+    "start": 129.519,
+    "end": 129.77
+   },
+   {
+    "text": "IS",
+    "start": 129.77,
+    "end": 130.105
+   }
+  ]
+ },
+ {
+  "start": 130.105,
+  "end": 130.805,
+  "words": [
+   {
+    "text": "DEAD.",
+    "start": 130.105,
+    "end": 130.692
+   }
+  ]
+ },
+ {
+  "start": 131.392,
+  "end": 132.32,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 131.392,
+    "end": 131.949
+   },
+   {
+    "text": "D.",
+    "start": 131.949,
+    "end": 132.32
+   }
+  ]
+ },
+ {
+  "start": 132.32,
+  "end": 132.97,
+  "words": [
+   {
+    "text": "WAIT.",
+    "start": 132.32,
+    "end": 132.97
+   }
+  ]
+ },
+ {
+  "start": 132.97,
+  "end": 134.64,
+  "words": [
+   {
+    "text": "EVERYONE",
+    "start": 132.97,
+    "end": 133.898
+   },
+   {
+    "text": "SLEEPS",
+    "start": 133.898,
+    "end": 134.64
+   }
+  ]
+ },
+ {
+  "start": 134.64,
+  "end": 135.847,
+  "words": [
+   {
+    "text": "EVENTUALLY.",
+    "start": 134.64,
+    "end": 135.847
+   }
+  ]
+ },
+ {
+  "start": 136.347,
+  "end": 137.88,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 136.347,
+    "end": 136.747
+   },
+   {
+    "text": "FATHER",
+    "start": 136.747,
+    "end": 137.28
+   },
+   {
+    "text": "SNORES.",
+    "start": 137.28,
+    "end": 137.88
+   }
+  ]
+ },
+ {
+  "start": 137.88,
+  "end": 139.413,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 137.88,
+    "end": 138.28
+   },
+   {
+    "text": "BROTHERS",
+    "start": 138.28,
+    "end": 138.946
+   },
+   {
+    "text": "SLEEP",
+    "start": 138.946,
+    "end": 139.413
+   }
+  ]
+ },
+ {
+  "start": 139.413,
+  "end": 140.346,
+  "words": [
+   {
+    "text": "IN",
+    "start": 139.413,
+    "end": 139.679
+   },
+   {
+    "text": "A",
+    "start": 139.679,
+    "end": 139.879
+   },
+   {
+    "text": "HEAP.",
+    "start": 139.879,
+    "end": 140.346
+   }
+  ]
+ },
+ {
+  "start": 140.346,
+  "end": 141.879,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 140.346,
+    "end": 140.746
+   },
+   {
+    "text": "MOTHER",
+    "start": 140.746,
+    "end": 141.279
+   },
+   {
+    "text": "FINALLY",
+    "start": 141.279,
+    "end": 141.879
+   }
+  ]
+ },
+ {
+  "start": 141.879,
+  "end": 142.812,
+  "words": [
+   {
+    "text": "TURNS",
+    "start": 141.879,
+    "end": 142.345
+   },
+   {
+    "text": "AWAY.",
+    "start": 142.345,
+    "end": 142.812
+   }
+  ]
+ },
+ {
+  "start": 142.812,
+  "end": 144.478,
+  "words": [
+   {
+    "text": "AND",
+    "start": 142.812,
+    "end": 143.145
+   },
+   {
+    "text": "THE",
+    "start": 143.145,
+    "end": 143.478
+   },
+   {
+    "text": "GRANDMOTHER'S",
+    "start": 143.478,
+    "end": 144.478
+   }
+  ]
+ },
+ {
+  "start": 144.478,
+  "end": 145.611,
+  "words": [
+   {
+    "text": "EYES",
+    "start": 144.478,
+    "end": 144.878
+   },
+   {
+    "text": "GLINT",
+    "start": 144.878,
+    "end": 145.345
+   },
+   {
+    "text": "IN",
+    "start": 145.345,
+    "end": 145.611
+   }
+  ]
+ },
+ {
+  "start": 145.611,
+  "end": 146.411,
+  "words": [
+   {
+    "text": "THE",
+    "start": 145.611,
+    "end": 145.944
+   },
+   {
+    "text": "DARK.",
+    "start": 145.944,
+    "end": 146.411
+   }
+  ]
+ },
+ {
+  "start": 147.061,
+  "end": 148.762,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 147.061,
+    "end": 147.598
+   },
+   {
+    "text": "WIFE",
+    "start": 147.598,
+    "end": 148.135
+   },
+   {
+    "text": "LEANS",
+    "start": 148.135,
+    "end": 148.762
+   }
+  ]
+ },
+ {
+  "start": 148.762,
+  "end": 150.462,
+  "words": [
+   {
+    "text": "IN",
+    "start": 148.762,
+    "end": 149.12
+   },
+   {
+    "text": "AND",
+    "start": 149.12,
+    "end": 149.567
+   },
+   {
+    "text": "WHISPERS",
+    "start": 149.567,
+    "end": 150.462
+   }
+  ]
+ },
+ {
+  "start": 150.462,
+  "end": 151.715,
+  "words": [
+   {
+    "text": "A",
+    "start": 150.462,
+    "end": 150.731
+   },
+   {
+    "text": "QUESTION.",
+    "start": 150.731,
+    "end": 151.715
+   }
+  ]
+ },
+ {
+  "start": 151.715,
+  "end": 153.058,
+  "words": [
+   {
+    "text": "WHAT",
+    "start": 151.715,
+    "end": 152.253
+   },
+   {
+    "text": "DAY",
+    "start": 152.253,
+    "end": 152.7
+   },
+   {
+    "text": "IS",
+    "start": 152.7,
+    "end": 153.058
+   }
+  ]
+ },
+ {
+  "start": 153.058,
+  "end": 153.506,
+  "words": [
+   {
+    "text": "IT?",
+    "start": 153.058,
+    "end": 153.506
+   }
+  ]
+ },
+ {
+  "start": 153.506,
+  "end": 155.027,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 153.506,
+    "end": 153.953
+   },
+   {
+    "text": "TELL",
+    "start": 153.953,
+    "end": 154.49
+   },
+   {
+    "text": "HER.",
+    "start": 154.49,
+    "end": 155.027
+   }
+  ]
+ },
+ {
+  "start": 155.027,
+  "end": 156.728,
+  "words": [
+   {
+    "text": "HER",
+    "start": 155.027,
+    "end": 155.475
+   },
+   {
+    "text": "FACE",
+    "start": 155.475,
+    "end": 156.012
+   },
+   {
+    "text": "FALLS.",
+    "start": 156.012,
+    "end": 156.728
+   }
+  ]
+ },
+ {
+  "start": 157.378,
+  "end": 158.885,
+  "words": [
+   {
+    "text": "A",
+    "start": 157.378,
+    "end": 157.575
+   },
+   {
+    "text": "CHURCH",
+    "start": 157.575,
+    "end": 158.099
+   },
+   {
+    "text": "TRADITION,",
+    "start": 158.099,
+    "end": 158.885
+   }
+  ]
+ },
+ {
+  "start": 158.885,
+  "end": 160.523,
+  "words": [
+   {
+    "text": "GOING",
+    "start": 158.885,
+    "end": 159.344
+   },
+   {
+    "text": "BACK",
+    "start": 159.344,
+    "end": 159.737
+   },
+   {
+    "text": "CENTURIES,",
+    "start": 159.737,
+    "end": 160.523
+   }
+  ]
+ },
+ {
+  "start": 160.523,
+  "end": 161.965,
+  "words": [
+   {
+    "text": "FROWNED",
+    "start": 160.523,
+    "end": 161.113
+   },
+   {
+    "text": "ON",
+    "start": 161.113,
+    "end": 161.375
+   },
+   {
+    "text": "COUPLES",
+    "start": 161.375,
+    "end": 161.965
+   }
+  ]
+ },
+ {
+  "start": 161.965,
+  "end": 163.341,
+  "words": [
+   {
+    "text": "BEING",
+    "start": 161.965,
+    "end": 162.424
+   },
+   {
+    "text": "TOGETHER",
+    "start": 162.424,
+    "end": 163.079
+   },
+   {
+    "text": "ON",
+    "start": 163.079,
+    "end": 163.341
+   }
+  ]
+ },
+ {
+  "start": 163.341,
+  "end": 164.389,
+  "words": [
+   {
+    "text": "CERTAIN",
+    "start": 163.341,
+    "end": 163.931
+   },
+   {
+    "text": "DAYS.",
+    "start": 163.931,
+    "end": 164.389
+   }
+  ]
+ },
+ {
+  "start": 164.389,
+  "end": 165.896,
+  "words": [
+   {
+    "text": "HOW",
+    "start": 164.389,
+    "end": 164.717
+   },
+   {
+    "text": "STRICTLY",
+    "start": 164.717,
+    "end": 165.372
+   },
+   {
+    "text": "PEOPLE",
+    "start": 165.372,
+    "end": 165.896
+   }
+  ]
+ },
+ {
+  "start": 165.896,
+  "end": 166.814,
+  "words": [
+   {
+    "text": "KEPT",
+    "start": 165.896,
+    "end": 166.29
+   },
+   {
+    "text": "IT",
+    "start": 166.29,
+    "end": 166.552
+   },
+   {
+    "text": "IS",
+    "start": 166.552,
+    "end": 166.814
+   }
+  ]
+ },
+ {
+  "start": 166.814,
+  "end": 167.469,
+  "words": [
+   {
+    "text": "DEBATED.",
+    "start": 166.814,
+    "end": 167.469
+   }
+  ]
+ },
+ {
+  "start": 167.469,
+  "end": 169.173,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 167.469,
+    "end": 167.862
+   },
+   {
+    "text": "GRANDMOTHER",
+    "start": 167.862,
+    "end": 168.714
+   },
+   {
+    "text": "KEEPS",
+    "start": 168.714,
+    "end": 169.173
+   }
+  ]
+ },
+ {
+  "start": 169.173,
+  "end": 170.156,
+  "words": [
+   {
+    "text": "IT",
+    "start": 169.173,
+    "end": 169.435
+   },
+   {
+    "text": "STRICTLY.",
+    "start": 169.435,
+    "end": 170.156
+   }
+  ]
+ },
+ {
+  "start": 170.156,
+  "end": 171.204,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 170.156,
+    "end": 170.483
+   },
+   {
+    "text": "EVERYONE.",
+    "start": 170.483,
+    "end": 171.204
+   }
+  ]
+ },
+ {
+  "start": 171.704,
+  "end": 172.575,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 171.704,
+    "end": 172.106
+   },
+   {
+    "text": "D",
+    "start": 172.106,
+    "end": 172.307
+   },
+   {
+    "text": "IS",
+    "start": 172.307,
+    "end": 172.575
+   }
+  ]
+ },
+ {
+  "start": 172.575,
+  "end": 173.043,
+  "words": [
+   {
+    "text": "DEAD.",
+    "start": 172.575,
+    "end": 173.043
+   }
+  ]
+ },
+ {
+  "start": 173.043,
+  "end": 174.517,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 173.043,
+    "end": 173.579
+   },
+   {
+    "text": "STARTING",
+    "start": 173.579,
+    "end": 174.249
+   },
+   {
+    "text": "TO",
+    "start": 174.249,
+    "end": 174.517
+   }
+  ]
+ },
+ {
+  "start": 174.517,
+  "end": 175.521,
+  "words": [
+   {
+    "text": "FEEL",
+    "start": 174.517,
+    "end": 174.918
+   },
+   {
+    "text": "LIKE",
+    "start": 174.918,
+    "end": 175.32
+   },
+   {
+    "text": "A",
+    "start": 175.32,
+    "end": 175.521
+   }
+  ]
+ },
+ {
+  "start": 175.521,
+  "end": 176.66,
+  "words": [
+   {
+    "text": "GUEST",
+    "start": 175.521,
+    "end": 175.99
+   },
+   {
+    "text": "IN",
+    "start": 175.99,
+    "end": 176.258
+   },
+   {
+    "text": "YOUR",
+    "start": 176.258,
+    "end": 176.66
+   }
+  ]
+ },
+ {
+  "start": 176.66,
+  "end": 177.731,
+  "words": [
+   {
+    "text": "OWN",
+    "start": 176.66,
+    "end": 176.994
+   },
+   {
+    "text": "MARRIAGE.",
+    "start": 176.994,
+    "end": 177.731
+   }
+  ]
+ },
+ {
+  "start": 178.431,
+  "end": 179.7,
+  "words": [
+   {
+    "text": "AND",
+    "start": 178.431,
+    "end": 178.765
+   },
+   {
+    "text": "THAT'S",
+    "start": 178.765,
+    "end": 179.299
+   },
+   {
+    "text": "WHEN",
+    "start": 179.299,
+    "end": 179.7
+   }
+  ]
+ },
+ {
+  "start": 179.7,
+  "end": 180.902,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 179.7,
+    "end": 180.1
+   },
+   {
+    "text": "WIFE",
+    "start": 180.1,
+    "end": 180.501
+   },
+   {
+    "text": "SAYS",
+    "start": 180.501,
+    "end": 180.902
+   }
+  ]
+ },
+ {
+  "start": 180.902,
+  "end": 181.236,
+  "words": [
+   {
+    "text": "IT.",
+    "start": 180.902,
+    "end": 181.236
+   }
+  ]
+ },
+ {
+  "start": 181.236,
+  "end": 182.705,
+  "words": [
+   {
+    "text": "\"THEN",
+    "start": 181.236,
+    "end": 181.703
+   },
+   {
+    "text": "STOP",
+    "start": 181.703,
+    "end": 182.104
+   },
+   {
+    "text": "LOOKING",
+    "start": 182.104,
+    "end": 182.705
+   }
+  ]
+ },
+ {
+  "start": 182.705,
+  "end": 183.773,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 182.705,
+    "end": 183.038
+   },
+   {
+    "text": "A",
+    "start": 183.038,
+    "end": 183.239
+   },
+   {
+    "text": "ROOM.\"",
+    "start": 183.239,
+    "end": 183.773
+   }
+  ]
+ },
+ {
+  "start": 184.423,
+  "end": 185.309,
+  "words": [
+   {
+    "text": "PLAN",
+    "start": 184.423,
+    "end": 184.954
+   },
+   {
+    "text": "E.",
+    "start": 184.954,
+    "end": 185.309
+   }
+  ]
+ },
+ {
+  "start": 185.309,
+  "end": 186.903,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 185.309,
+    "end": 185.752
+   },
+   {
+    "text": "BUILD",
+    "start": 185.752,
+    "end": 186.372
+   },
+   {
+    "text": "ONE.",
+    "start": 186.372,
+    "end": 186.903
+   }
+  ]
+ },
+ {
+  "start": 187.403,
+  "end": 188.06,
+  "words": [
+   {
+    "text": "PLANKS.",
+    "start": 187.403,
+    "end": 188.06
+   }
+  ]
+ },
+ {
+  "start": 188.06,
+  "end": 188.717,
+  "words": [
+   {
+    "text": "A",
+    "start": 188.06,
+    "end": 188.279
+   },
+   {
+    "text": "SAW.",
+    "start": 188.279,
+    "end": 188.717
+   }
+  ]
+ },
+ {
+  "start": 188.717,
+  "end": 190.25,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 188.717,
+    "end": 189.155
+   },
+   {
+    "text": "WIFE",
+    "start": 189.155,
+    "end": 189.593
+   },
+   {
+    "text": "HOLDING",
+    "start": 189.593,
+    "end": 190.25
+   }
+  ]
+ },
+ {
+  "start": 190.25,
+  "end": 191.199,
+  "words": [
+   {
+    "text": "THE",
+    "start": 190.25,
+    "end": 190.615
+   },
+   {
+    "text": "BOARD,",
+    "start": 190.615,
+    "end": 191.199
+   }
+  ]
+ },
+ {
+  "start": 191.199,
+  "end": 192.877,
+  "words": [
+   {
+    "text": "SAYING",
+    "start": 191.199,
+    "end": 191.783
+   },
+   {
+    "text": "YOU'RE",
+    "start": 191.783,
+    "end": 192.367
+   },
+   {
+    "text": "DOING",
+    "start": 192.367,
+    "end": 192.877
+   }
+  ]
+ },
+ {
+  "start": 192.877,
+  "end": 193.753,
+  "words": [
+   {
+    "text": "IT",
+    "start": 192.877,
+    "end": 193.169
+   },
+   {
+    "text": "WRONG.",
+    "start": 193.169,
+    "end": 193.753
+   }
+  ]
+ },
+ {
+  "start": 193.753,
+  "end": 194.775,
+  "words": [
+   {
+    "text": "A",
+    "start": 193.753,
+    "end": 193.972
+   },
+   {
+    "text": "BED",
+    "start": 193.972,
+    "end": 194.337
+   },
+   {
+    "text": "WITH",
+    "start": 194.337,
+    "end": 194.775
+   }
+  ]
+ },
+ {
+  "start": 194.775,
+  "end": 196.089,
+  "words": [
+   {
+    "text": "FOUR",
+    "start": 194.775,
+    "end": 195.213
+   },
+   {
+    "text": "WALLS",
+    "start": 195.213,
+    "end": 195.724
+   },
+   {
+    "text": "AND",
+    "start": 195.724,
+    "end": 196.089
+   }
+  ]
+ },
+ {
+  "start": 196.089,
+  "end": 197.038,
+  "words": [
+   {
+    "text": "A",
+    "start": 196.089,
+    "end": 196.308
+   },
+   {
+    "text": "DOOR",
+    "start": 196.308,
+    "end": 196.746
+   },
+   {
+    "text": "ON",
+    "start": 196.746,
+    "end": 197.038
+   }
+  ]
+ },
+ {
+  "start": 197.038,
+  "end": 197.987,
+  "words": [
+   {
+    "text": "THE",
+    "start": 197.038,
+    "end": 197.403
+   },
+   {
+    "text": "FRONT.",
+    "start": 197.403,
+    "end": 197.987
+   }
+  ]
+ },
+ {
+  "start": 198.487,
+  "end": 200.34,
+  "words": [
+   {
+    "text": "PEOPLE",
+    "start": 198.487,
+    "end": 199.193
+   },
+   {
+    "text": "REALLY",
+    "start": 199.193,
+    "end": 199.899
+   },
+   {
+    "text": "DID",
+    "start": 199.899,
+    "end": 200.34
+   }
+  ]
+ },
+ {
+  "start": 200.34,
+  "end": 200.958,
+  "words": [
+   {
+    "text": "THIS.",
+    "start": 200.34,
+    "end": 200.958
+   }
+  ]
+ },
+ {
+  "start": 200.958,
+  "end": 202.194,
+  "words": [
+   {
+    "text": "A",
+    "start": 200.958,
+    "end": 201.223
+   },
+   {
+    "text": "BED",
+    "start": 201.223,
+    "end": 201.664
+   },
+   {
+    "text": "WITH",
+    "start": 201.664,
+    "end": 202.194
+   }
+  ]
+ },
+ {
+  "start": 202.194,
+  "end": 203.517,
+  "words": [
+   {
+    "text": "WALLS",
+    "start": 202.194,
+    "end": 202.811
+   },
+   {
+    "text": "AND",
+    "start": 202.811,
+    "end": 203.253
+   },
+   {
+    "text": "A",
+    "start": 203.253,
+    "end": 203.517
+   }
+  ]
+ },
+ {
+  "start": 203.517,
+  "end": 204.135,
+  "words": [
+   {
+    "text": "DOOR,",
+    "start": 203.517,
+    "end": 204.135
+   }
+  ]
+ },
+ {
+  "start": 204.135,
+  "end": 205.547,
+  "words": [
+   {
+    "text": "A",
+    "start": 204.135,
+    "end": 204.4
+   },
+   {
+    "text": "TINY",
+    "start": 204.4,
+    "end": 204.93
+   },
+   {
+    "text": "HOUSE",
+    "start": 204.93,
+    "end": 205.547
+   }
+  ]
+ },
+ {
+  "start": 205.547,
+  "end": 207.401,
+  "words": [
+   {
+    "text": "INSIDE",
+    "start": 205.547,
+    "end": 206.253
+   },
+   {
+    "text": "THE",
+    "start": 206.253,
+    "end": 206.695
+   },
+   {
+    "text": "HOUSE.",
+    "start": 206.695,
+    "end": 207.401
+   }
+  ]
+ },
+ {
+  "start": 207.401,
+  "end": 209.342,
+  "words": [
+   {
+    "text": "THEY'RE",
+    "start": 207.401,
+    "end": 208.195
+   },
+   {
+    "text": "CALLED",
+    "start": 208.195,
+    "end": 208.901
+   },
+   {
+    "text": "BOX",
+    "start": 208.901,
+    "end": 209.342
+   }
+  ]
+ },
+ {
+  "start": 209.342,
+  "end": 210.042,
+  "words": [
+   {
+    "text": "BEDS.",
+    "start": 209.342,
+    "end": 209.96
+   }
+  ]
+ },
+ {
+  "start": 210.46,
+  "end": 211.492,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 210.46,
+    "end": 210.763
+   },
+   {
+    "text": "CLIMB",
+    "start": 210.763,
+    "end": 211.188
+   },
+   {
+    "text": "IN.",
+    "start": 211.188,
+    "end": 211.492
+   }
+  ]
+ },
+ {
+  "start": 211.492,
+  "end": 212.827,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 211.492,
+    "end": 211.856
+   },
+   {
+    "text": "WIFE",
+    "start": 211.856,
+    "end": 212.22
+   },
+   {
+    "text": "FOLLOWS,",
+    "start": 212.22,
+    "end": 212.827
+   }
+  ]
+ },
+ {
+  "start": 212.827,
+  "end": 214.102,
+  "words": [
+   {
+    "text": "LAUGHING",
+    "start": 212.827,
+    "end": 213.434
+   },
+   {
+    "text": "INTO",
+    "start": 213.434,
+    "end": 213.798
+   },
+   {
+    "text": "HER",
+    "start": 213.798,
+    "end": 214.102
+   }
+  ]
+ },
+ {
+  "start": 214.102,
+  "end": 215.315,
+  "words": [
+   {
+    "text": "SLEEVE",
+    "start": 214.102,
+    "end": 214.587
+   },
+   {
+    "text": "SO",
+    "start": 214.587,
+    "end": 214.83
+   },
+   {
+    "text": "NOBODY",
+    "start": 214.83,
+    "end": 215.315
+   }
+  ]
+ },
+ {
+  "start": 215.315,
+  "end": 216.015,
+  "words": [
+   {
+    "text": "HEARS.",
+    "start": 215.315,
+    "end": 215.801
+   }
+  ]
+ },
+ {
+  "start": 216.301,
+  "end": 217.564,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 216.301,
+    "end": 216.747
+   },
+   {
+    "text": "SMALL",
+    "start": 216.747,
+    "end": 217.267
+   },
+   {
+    "text": "IN",
+    "start": 217.267,
+    "end": 217.564
+   }
+  ]
+ },
+ {
+  "start": 217.564,
+  "end": 218.158,
+  "words": [
+   {
+    "text": "THERE.",
+    "start": 217.564,
+    "end": 218.158
+   }
+  ]
+ },
+ {
+  "start": 218.158,
+  "end": 219.941,
+  "words": [
+   {
+    "text": "HER",
+    "start": 218.158,
+    "end": 218.529
+   },
+   {
+    "text": "SHOULDER",
+    "start": 218.529,
+    "end": 219.272
+   },
+   {
+    "text": "AGAINST",
+    "start": 219.272,
+    "end": 219.941
+   }
+  ]
+ },
+ {
+  "start": 219.941,
+  "end": 220.535,
+  "words": [
+   {
+    "text": "YOURS.",
+    "start": 219.941,
+    "end": 220.535
+   }
+  ]
+ },
+ {
+  "start": 220.535,
+  "end": 221.797,
+  "words": [
+   {
+    "text": "HER",
+    "start": 220.535,
+    "end": 220.906
+   },
+   {
+    "text": "BREATH",
+    "start": 220.906,
+    "end": 221.5
+   },
+   {
+    "text": "AN",
+    "start": 221.5,
+    "end": 221.797
+   }
+  ]
+ },
+ {
+  "start": 221.797,
+  "end": 223.134,
+  "words": [
+   {
+    "text": "INCH",
+    "start": 221.797,
+    "end": 222.243
+   },
+   {
+    "text": "FROM",
+    "start": 222.243,
+    "end": 222.689
+   },
+   {
+    "text": "YOUR",
+    "start": 222.689,
+    "end": 223.134
+   }
+  ]
+ },
+ {
+  "start": 223.134,
+  "end": 223.834,
+  "words": [
+   {
+    "text": "EAR.",
+    "start": 223.134,
+    "end": 223.58
+   }
+  ]
+ },
+ {
+  "start": 224.08,
+  "end": 225.066,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 224.08,
+    "end": 224.409
+   },
+   {
+    "text": "INCH",
+    "start": 224.409,
+    "end": 224.803
+   },
+   {
+    "text": "OF",
+    "start": 224.803,
+    "end": 225.066
+   }
+  ]
+ },
+ {
+  "start": 225.066,
+  "end": 225.92,
+  "words": [
+   {
+    "text": "WOOD",
+    "start": 225.066,
+    "end": 225.46
+   },
+   {
+    "text": "AWAY,",
+    "start": 225.46,
+    "end": 225.92
+   }
+  ]
+ },
+ {
+  "start": 225.92,
+  "end": 227.431,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 225.92,
+    "end": 226.314
+   },
+   {
+    "text": "FATHER",
+    "start": 226.314,
+    "end": 226.84
+   },
+   {
+    "text": "COUGHS.",
+    "start": 226.84,
+    "end": 227.431
+   }
+  ]
+ },
+ {
+  "start": 227.431,
+  "end": 229.14,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 227.431,
+    "end": 227.826
+   },
+   {
+    "text": "GRANDMOTHER",
+    "start": 227.826,
+    "end": 228.68
+   },
+   {
+    "text": "TURNS",
+    "start": 228.68,
+    "end": 229.14
+   }
+  ]
+ },
+ {
+  "start": 229.14,
+  "end": 229.6,
+  "words": [
+   {
+    "text": "OVER,",
+    "start": 229.14,
+    "end": 229.6
+   }
+  ]
+ },
+ {
+  "start": 229.6,
+  "end": 230.783,
+  "words": [
+   {
+    "text": "VERY",
+    "start": 229.6,
+    "end": 229.994
+   },
+   {
+    "text": "POINTEDLY.",
+    "start": 229.994,
+    "end": 230.783
+   }
+  ]
+ },
+ {
+  "start": 231.433,
+  "end": 232.595,
+  "words": [
+   {
+    "text": "SO",
+    "start": 231.433,
+    "end": 231.724
+   },
+   {
+    "text": "YOU",
+    "start": 231.724,
+    "end": 232.087
+   },
+   {
+    "text": "LEARN",
+    "start": 232.087,
+    "end": 232.595
+   }
+  ]
+ },
+ {
+  "start": 232.595,
+  "end": 233.903,
+  "words": [
+   {
+    "text": "THE",
+    "start": 232.595,
+    "end": 232.958
+   },
+   {
+    "text": "FIRST",
+    "start": 232.958,
+    "end": 233.467
+   },
+   {
+    "text": "RULE",
+    "start": 233.467,
+    "end": 233.903
+   }
+  ]
+ },
+ {
+  "start": 233.903,
+  "end": 235.21,
+  "words": [
+   {
+    "text": "OF",
+    "start": 233.903,
+    "end": 234.193
+   },
+   {
+    "text": "MARRIAGE",
+    "start": 234.193,
+    "end": 234.92
+   },
+   {
+    "text": "IN",
+    "start": 234.92,
+    "end": 235.21
+   }
+  ]
+ },
+ {
+  "start": 235.21,
+  "end": 236.736,
+  "words": [
+   {
+    "text": "A",
+    "start": 235.21,
+    "end": 235.428
+   },
+   {
+    "text": "ONE-ROOM",
+    "start": 235.428,
+    "end": 236.155
+   },
+   {
+    "text": "HOUSE.",
+    "start": 236.155,
+    "end": 236.736
+   }
+  ]
+ },
+ {
+  "start": 236.736,
+  "end": 237.753,
+  "words": [
+   {
+    "text": "QUIET",
+    "start": 236.736,
+    "end": 237.244
+   },
+   {
+    "text": "IS",
+    "start": 237.244,
+    "end": 237.535
+   },
+   {
+    "text": "A",
+    "start": 237.535,
+    "end": 237.753
+   }
+  ]
+ },
+ {
+  "start": 237.753,
+  "end": 238.453,
+  "words": [
+   {
+    "text": "SKILL.",
+    "start": 237.753,
+    "end": 238.334
+   }
+  ]
+ },
+ {
+  "start": 238.984,
+  "end": 240.008,
+  "words": [
+   {
+    "text": "SHE",
+    "start": 238.984,
+    "end": 239.268
+   },
+   {
+    "text": "FINDS",
+    "start": 239.268,
+    "end": 239.667
+   },
+   {
+    "text": "YOUR",
+    "start": 239.667,
+    "end": 240.008
+   }
+  ]
+ },
+ {
+  "start": 240.008,
+  "end": 240.862,
+  "words": [
+   {
+    "text": "HAND",
+    "start": 240.008,
+    "end": 240.35
+   },
+   {
+    "text": "IN",
+    "start": 240.35,
+    "end": 240.577
+   },
+   {
+    "text": "THE",
+    "start": 240.577,
+    "end": 240.862
+   }
+  ]
+ },
+ {
+  "start": 240.862,
+  "end": 241.26,
+  "words": [
+   {
+    "text": "DARK.",
+    "start": 240.862,
+    "end": 241.26
+   }
+  ]
+ },
+ {
+  "start": 241.26,
+  "end": 242.17,
+  "words": [
+   {
+    "text": "AND",
+    "start": 241.26,
+    "end": 241.544
+   },
+   {
+    "text": "YOU",
+    "start": 241.544,
+    "end": 241.829
+   },
+   {
+    "text": "FIND",
+    "start": 241.829,
+    "end": 242.17
+   }
+  ]
+ },
+ {
+  "start": 242.17,
+  "end": 243.194,
+  "words": [
+   {
+    "text": "OUT",
+    "start": 242.17,
+    "end": 242.455
+   },
+   {
+    "text": "SHE'S",
+    "start": 242.455,
+    "end": 242.853
+   },
+   {
+    "text": "BEEN",
+    "start": 242.853,
+    "end": 243.194
+   }
+  ]
+ },
+ {
+  "start": 243.194,
+  "end": 244.674,
+  "words": [
+   {
+    "text": "PRACTICING",
+    "start": 243.194,
+    "end": 243.877
+   },
+   {
+    "text": "LONGER",
+    "start": 243.877,
+    "end": 244.332
+   },
+   {
+    "text": "THAN",
+    "start": 244.332,
+    "end": 244.674
+   }
+  ]
+ },
+ {
+  "start": 244.674,
+  "end": 245.374,
+  "words": [
+   {
+    "text": "YOU.",
+    "start": 244.674,
+    "end": 245.015
+   }
+  ]
+ },
+ {
+  "start": 245.515,
+  "end": 247.103,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 245.515,
+    "end": 246.011
+   },
+   {
+    "text": "PULL",
+    "start": 246.011,
+    "end": 246.607
+   },
+   {
+    "text": "THE",
+    "start": 246.607,
+    "end": 247.103
+   }
+  ]
+ },
+ {
+  "start": 247.103,
+  "end": 247.798,
+  "words": [
+   {
+    "text": "DOOR.",
+    "start": 247.103,
+    "end": 247.798
+   }
+  ]
+ },
+ {
+  "start": 247.798,
+  "end": 249.088,
+  "words": [
+   {
+    "text": "IT",
+    "start": 247.798,
+    "end": 248.195
+   },
+   {
+    "text": "STICKS.",
+    "start": 248.195,
+    "end": 249.088
+   }
+  ]
+ },
+ {
+  "start": 249.088,
+  "end": 250.875,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 249.088,
+    "end": 249.684
+   },
+   {
+    "text": "IT",
+    "start": 249.684,
+    "end": 250.081
+   },
+   {
+    "text": "SHUTS.",
+    "start": 250.081,
+    "end": 250.875
+   }
+  ]
+ },
+ {
+  "start": 251.525,
+  "end": 253.355,
+  "words": [
+   {
+    "text": "THE",
+    "start": 251.525,
+    "end": 251.891
+   },
+   {
+    "text": "FIRELIGHT",
+    "start": 251.891,
+    "end": 252.696
+   },
+   {
+    "text": "SHRINKS",
+    "start": 252.696,
+    "end": 253.355
+   }
+  ]
+ },
+ {
+  "start": 253.355,
+  "end": 254.454,
+  "words": [
+   {
+    "text": "TO",
+    "start": 253.355,
+    "end": 253.648
+   },
+   {
+    "text": "ONE",
+    "start": 253.648,
+    "end": 254.014
+   },
+   {
+    "text": "THIN",
+    "start": 254.014,
+    "end": 254.454
+   }
+  ]
+ },
+ {
+  "start": 254.454,
+  "end": 255.405,
+  "words": [
+   {
+    "text": "GOLD",
+    "start": 254.454,
+    "end": 254.893
+   },
+   {
+    "text": "LINE.",
+    "start": 254.893,
+    "end": 255.405
+   }
+  ]
+ },
+ {
+  "start": 255.405,
+  "end": 256.796,
+  "words": [
+   {
+    "text": "THE",
+    "start": 255.405,
+    "end": 255.771
+   },
+   {
+    "text": "HOUSE",
+    "start": 255.771,
+    "end": 256.284
+   },
+   {
+    "text": "FALLS",
+    "start": 256.284,
+    "end": 256.796
+   }
+  ]
+ },
+ {
+  "start": 256.796,
+  "end": 257.496,
+  "words": [
+   {
+    "text": "AWAY.",
+    "start": 256.796,
+    "end": 257.309
+   }
+  ]
+ },
+ {
+  "start": 257.809,
+  "end": 259.035,
+  "words": [
+   {
+    "text": "FOR",
+    "start": 257.809,
+    "end": 258.17
+   },
+   {
+    "text": "THE",
+    "start": 258.17,
+    "end": 258.53
+   },
+   {
+    "text": "FIRST",
+    "start": 258.53,
+    "end": 259.035
+   }
+  ]
+ },
+ {
+  "start": 259.035,
+  "end": 260.262,
+  "words": [
+   {
+    "text": "TIME",
+    "start": 259.035,
+    "end": 259.468
+   },
+   {
+    "text": "ALL",
+    "start": 259.468,
+    "end": 259.829
+   },
+   {
+    "text": "DAY,",
+    "start": 259.829,
+    "end": 260.262
+   }
+  ]
+ },
+ {
+  "start": 260.262,
+  "end": 261.921,
+  "words": [
+   {
+    "text": "NOBODY",
+    "start": 260.262,
+    "end": 260.839
+   },
+   {
+    "text": "IS",
+    "start": 260.839,
+    "end": 261.127
+   },
+   {
+    "text": "WATCHING.",
+    "start": 261.127,
+    "end": 261.921
+   }
+  ]
+ },
+ {
+  "start": 262.421,
+  "end": 263.246,
+  "words": [
+   {
+    "text": "IT",
+    "start": 262.421,
+    "end": 262.604
+   },
+   {
+    "text": "WASN'T",
+    "start": 262.604,
+    "end": 262.971
+   },
+   {
+    "text": "MUCH",
+    "start": 262.971,
+    "end": 263.246
+   }
+  ]
+ },
+ {
+  "start": 263.246,
+  "end": 263.946,
+  "words": [
+   {
+    "text": "OF",
+    "start": 263.246,
+    "end": 263.429
+   },
+   {
+    "text": "A",
+    "start": 263.429,
+    "end": 263.566
+   },
+   {
+    "text": "DOOR.",
+    "start": 263.566,
+    "end": 263.887
+   }
+  ]
+ },
+ {
+  "start": 264.387,
+  "end": 264.955,
+  "words": [
+   {
+    "text": "IT",
+    "start": 264.387,
+    "end": 264.549
+   },
+   {
+    "text": "WAS",
+    "start": 264.549,
+    "end": 264.752
+   },
+   {
+    "text": "THE",
+    "start": 264.752,
+    "end": 264.955
+   }
+  ]
+ },
+ {
+  "start": 264.955,
+  "end": 265.563,
+  "words": [
+   {
+    "text": "ONLY",
+    "start": 264.955,
+    "end": 265.198
+   },
+   {
+    "text": "ONE",
+    "start": 265.198,
+    "end": 265.401
+   },
+   {
+    "text": "IN",
+    "start": 265.401,
+    "end": 265.563
+   }
+  ]
+ },
+ {
+  "start": 265.563,
+  "end": 266.09,
+  "words": [
+   {
+    "text": "THE",
+    "start": 265.563,
+    "end": 265.765
+   },
+   {
+    "text": "HOUSE,",
+    "start": 265.765,
+    "end": 266.09
+   }
+  ]
+ },
+ {
+  "start": 266.09,
+  "end": 266.779,
+  "words": [
+   {
+    "text": "AND",
+    "start": 266.09,
+    "end": 266.292
+   },
+   {
+    "text": "YOU",
+    "start": 266.292,
+    "end": 266.495
+   },
+   {
+    "text": "BUILT",
+    "start": 266.495,
+    "end": 266.779
+   }
+  ]
+ },
+ {
+  "start": 266.779,
+  "end": 267.479,
+  "words": [
+   {
+    "text": "IT",
+    "start": 266.779,
+    "end": 266.941
+   },
+   {
+    "text": "YOURSELF.",
+    "start": 266.941,
+    "end": 267.387
+   }
+  ]
+ }
+]

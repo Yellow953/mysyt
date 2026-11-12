@@ -1,0 +1,92 @@
+[
+ {
+  "text": "You're the sultan's little brother.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Dad died.",
+  "tag": "deadpan",
+  "pause": 0.3,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Lose the race to Istanbul, get a polite visit.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "First to Istanbul usually wins.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "In 1481, your brother Bayezid beat you to Istanbul.",
+  "tag": "matter-of-fact",
+  "pause": 0.3,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "You flee abroad. Smart.",
+  "tag": "deadpan",
+  "pause": 0.6,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "For a while.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "The Conqueror's law: brothers can be removed. Officially, for order.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "In 1595, your brother Mehmed the Third takes the throne. You're one of nineteen.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Basically day one.",
+  "tag": "deadpan",
+  "pause": 0.6,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Ahmed the First spares his brother.",
+  "tag": "warm",
+  "pause": 0.3,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "Later, sultans mostly cage brothers instead.",
+  "tag": "matter-of-fact",
+  "pause": 0.4,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "Free rooms. No exit.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "Honestly? Usually, take the cage.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "14.mp3"
+ },
+ {
+  "text": "Run, or take the cage?",
+  "tag": "curious",
+  "pause": 0,
+  "clip": "15.mp3"
+ }
+]

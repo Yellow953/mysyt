@@ -1,0 +1,1517 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.114,
+  "words": [
+   {
+    "text": "EVERY",
+    "start": 0.0,
+    "end": 0.433
+   },
+   {
+    "text": "LEVEL",
+    "start": 0.433,
+    "end": 0.866
+   },
+   {
+    "text": "OF",
+    "start": 0.866,
+    "end": 1.114
+   }
+  ]
+ },
+ {
+  "start": 1.114,
+  "end": 2.598,
+  "words": [
+   {
+    "text": "BEING",
+    "start": 1.114,
+    "end": 1.547
+   },
+   {
+    "text": "A",
+    "start": 1.547,
+    "end": 1.732
+   },
+   {
+    "text": "BUSINESSMAN.",
+    "start": 1.732,
+    "end": 2.598
+   }
+  ]
+ },
+ {
+  "start": 2.598,
+  "end": 3.836,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 2.598,
+    "end": 2.97
+   },
+   {
+    "text": "MAKING",
+    "start": 2.97,
+    "end": 3.464
+   },
+   {
+    "text": "YOUR",
+    "start": 3.464,
+    "end": 3.836
+   }
+  ]
+ },
+ {
+  "start": 3.836,
+  "end": 5.258,
+  "words": [
+   {
+    "text": "FIRST",
+    "start": 3.836,
+    "end": 4.269
+   },
+   {
+    "text": "FIVE",
+    "start": 4.269,
+    "end": 4.64
+   },
+   {
+    "text": "DOLLARS\u2026",
+    "start": 4.64,
+    "end": 5.258
+   }
+  ]
+ },
+ {
+  "start": 5.258,
+  "end": 6.186,
+  "words": [
+   {
+    "text": "TO",
+    "start": 5.258,
+    "end": 5.506
+   },
+   {
+    "text": "OWNING",
+    "start": 5.506,
+    "end": 6.001
+   },
+   {
+    "text": "A",
+    "start": 6.001,
+    "end": 6.186
+   }
+  ]
+ },
+ {
+  "start": 6.186,
+  "end": 7.547,
+  "words": [
+   {
+    "text": "COMPANY",
+    "start": 6.186,
+    "end": 6.743
+   },
+   {
+    "text": "THAT",
+    "start": 6.743,
+    "end": 7.114
+   },
+   {
+    "text": "MAKES",
+    "start": 7.114,
+    "end": 7.547
+   }
+  ]
+ },
+ {
+  "start": 7.547,
+  "end": 8.247,
+  "words": [
+   {
+    "text": "MILLIONS.",
+    "start": 7.547,
+    "end": 8.228
+   }
+  ]
+ },
+ {
+  "start": 8.728,
+  "end": 9.71,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 8.728,
+    "end": 9.257
+   },
+   {
+    "text": "ONE:",
+    "start": 9.257,
+    "end": 9.71
+   }
+  ]
+ },
+ {
+  "start": 9.71,
+  "end": 10.843,
+  "words": [
+   {
+    "text": "THE",
+    "start": 9.71,
+    "end": 10.088
+   },
+   {
+    "text": "HUSTLER.",
+    "start": 10.088,
+    "end": 10.843
+   }
+  ]
+ },
+ {
+  "start": 10.843,
+  "end": 12.429,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 10.843,
+    "end": 11.221
+   },
+   {
+    "text": "SELL",
+    "start": 11.221,
+    "end": 11.674
+   },
+   {
+    "text": "ANYTHING",
+    "start": 11.674,
+    "end": 12.429
+   }
+  ]
+ },
+ {
+  "start": 12.429,
+  "end": 13.714,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 12.429,
+    "end": 12.807
+   },
+   {
+    "text": "CAN",
+    "start": 12.807,
+    "end": 13.185
+   },
+   {
+    "text": "FIND.",
+    "start": 13.185,
+    "end": 13.714
+   }
+  ]
+ },
+ {
+  "start": 13.714,
+  "end": 14.771,
+  "words": [
+   {
+    "text": "OLD",
+    "start": 13.714,
+    "end": 14.091
+   },
+   {
+    "text": "PHONES,",
+    "start": 14.091,
+    "end": 14.771
+   }
+  ]
+ },
+ {
+  "start": 14.771,
+  "end": 15.602,
+  "words": [
+   {
+    "text": "SNEAKERS,",
+    "start": 14.771,
+    "end": 15.602
+   }
+  ]
+ },
+ {
+  "start": 15.602,
+  "end": 17.188,
+  "words": [
+   {
+    "text": "RANDOM",
+    "start": 15.602,
+    "end": 16.206
+   },
+   {
+    "text": "STUFF",
+    "start": 16.206,
+    "end": 16.735
+   },
+   {
+    "text": "FROM",
+    "start": 16.735,
+    "end": 17.188
+   }
+  ]
+ },
+ {
+  "start": 17.188,
+  "end": 18.397,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 17.188,
+    "end": 17.641
+   },
+   {
+    "text": "BEDROOM.",
+    "start": 17.641,
+    "end": 18.397
+   }
+  ]
+ },
+ {
+  "start": 18.397,
+  "end": 20.285,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 18.397,
+    "end": 18.85
+   },
+   {
+    "text": "STARTUP",
+    "start": 18.85,
+    "end": 19.53
+   },
+   {
+    "text": "CAPITAL?",
+    "start": 19.53,
+    "end": 20.285
+   }
+  ]
+ },
+ {
+  "start": 20.285,
+  "end": 21.645,
+  "words": [
+   {
+    "text": "BASICALLY",
+    "start": 20.285,
+    "end": 21.116
+   },
+   {
+    "text": "ZERO.",
+    "start": 21.116,
+    "end": 21.645
+   }
+  ]
+ },
+ {
+  "start": 22.045,
+  "end": 22.987,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 22.045,
+    "end": 22.552
+   },
+   {
+    "text": "TWO:",
+    "start": 22.552,
+    "end": 22.987
+   }
+  ]
+ },
+ {
+  "start": 22.987,
+  "end": 23.929,
+  "words": [
+   {
+    "text": "FREELANCER.",
+    "start": 22.987,
+    "end": 23.929
+   }
+  ]
+ },
+ {
+  "start": 23.929,
+  "end": 25.378,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 23.929,
+    "end": 24.291
+   },
+   {
+    "text": "FINALLY",
+    "start": 24.291,
+    "end": 24.943
+   },
+   {
+    "text": "MAKE",
+    "start": 24.943,
+    "end": 25.378
+   }
+  ]
+ },
+ {
+  "start": 25.378,
+  "end": 26.755,
+  "words": [
+   {
+    "text": "MONEY",
+    "start": 25.378,
+    "end": 25.885
+   },
+   {
+    "text": "FROM",
+    "start": 25.885,
+    "end": 26.32
+   },
+   {
+    "text": "YOUR",
+    "start": 26.32,
+    "end": 26.755
+   }
+  ]
+ },
+ {
+  "start": 26.755,
+  "end": 27.407,
+  "words": [
+   {
+    "text": "SKILLS.",
+    "start": 26.755,
+    "end": 27.407
+   }
+  ]
+ },
+ {
+  "start": 27.407,
+  "end": 28.856,
+  "words": [
+   {
+    "text": "THERE'S",
+    "start": 27.407,
+    "end": 28.059
+   },
+   {
+    "text": "JUST",
+    "start": 28.059,
+    "end": 28.494
+   },
+   {
+    "text": "ONE",
+    "start": 28.494,
+    "end": 28.856
+   }
+  ]
+ },
+ {
+  "start": 28.856,
+  "end": 29.581,
+  "words": [
+   {
+    "text": "PROBLEM:",
+    "start": 28.856,
+    "end": 29.581
+   }
+  ]
+ },
+ {
+  "start": 29.581,
+  "end": 30.668,
+  "words": [
+   {
+    "text": "IF",
+    "start": 29.581,
+    "end": 29.871
+   },
+   {
+    "text": "YOU",
+    "start": 29.871,
+    "end": 30.233
+   },
+   {
+    "text": "STOP",
+    "start": 30.233,
+    "end": 30.668
+   }
+  ]
+ },
+ {
+  "start": 30.668,
+  "end": 31.392,
+  "words": [
+   {
+    "text": "WORKING,",
+    "start": 30.668,
+    "end": 31.392
+   }
+  ]
+ },
+ {
+  "start": 31.392,
+  "end": 32.769,
+  "words": [
+   {
+    "text": "THE",
+    "start": 31.392,
+    "end": 31.754
+   },
+   {
+    "text": "MONEY",
+    "start": 31.754,
+    "end": 32.262
+   },
+   {
+    "text": "STOPS",
+    "start": 32.262,
+    "end": 32.769
+   }
+  ]
+ },
+ {
+  "start": 32.769,
+  "end": 33.469,
+  "words": [
+   {
+    "text": "COMING.",
+    "start": 32.769,
+    "end": 33.421
+   }
+  ]
+ },
+ {
+  "start": 33.821,
+  "end": 34.848,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 33.821,
+    "end": 34.3
+   },
+   {
+    "text": "THREE:",
+    "start": 34.3,
+    "end": 34.848
+   }
+  ]
+ },
+ {
+  "start": 34.848,
+  "end": 36.15,
+  "words": [
+   {
+    "text": "STARTUP",
+    "start": 34.848,
+    "end": 35.465
+   },
+   {
+    "text": "FOUNDER.",
+    "start": 35.465,
+    "end": 36.15
+   }
+  ]
+ },
+ {
+  "start": 36.15,
+  "end": 37.177,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 36.15,
+    "end": 36.492
+   },
+   {
+    "text": "HAVE",
+    "start": 36.492,
+    "end": 36.903
+   },
+   {
+    "text": "AN",
+    "start": 36.903,
+    "end": 37.177
+   }
+  ]
+ },
+ {
+  "start": 37.177,
+  "end": 37.657,
+  "words": [
+   {
+    "text": "IDEA,",
+    "start": 37.177,
+    "end": 37.657
+   }
+  ]
+ },
+ {
+  "start": 37.657,
+  "end": 38.341,
+  "words": [
+   {
+    "text": "A",
+    "start": 37.657,
+    "end": 37.862
+   },
+   {
+    "text": "LOGO,",
+    "start": 37.862,
+    "end": 38.341
+   }
+  ]
+ },
+ {
+  "start": 38.341,
+  "end": 39.78,
+  "words": [
+   {
+    "text": "AND",
+    "start": 38.341,
+    "end": 38.684
+   },
+   {
+    "text": "ABSOLUTELY",
+    "start": 38.684,
+    "end": 39.506
+   },
+   {
+    "text": "NO",
+    "start": 39.506,
+    "end": 39.78
+   }
+  ]
+ },
+ {
+  "start": 39.78,
+  "end": 40.602,
+  "words": [
+   {
+    "text": "CUSTOMERS.",
+    "start": 39.78,
+    "end": 40.602
+   }
+  ]
+ },
+ {
+  "start": 40.602,
+  "end": 41.971,
+  "words": [
+   {
+    "text": "BUT",
+    "start": 40.602,
+    "end": 40.944
+   },
+   {
+    "text": "DON'T",
+    "start": 40.944,
+    "end": 41.424
+   },
+   {
+    "text": "WORRY.",
+    "start": 41.424,
+    "end": 41.971
+   }
+  ]
+ },
+ {
+  "start": 41.971,
+  "end": 43.273,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 41.971,
+    "end": 42.382
+   },
+   {
+    "text": "PITCH",
+    "start": 42.382,
+    "end": 42.862
+   },
+   {
+    "text": "DECK",
+    "start": 42.862,
+    "end": 43.273
+   }
+  ]
+ },
+ {
+  "start": 43.273,
+  "end": 44.917,
+  "words": [
+   {
+    "text": "SAYS",
+    "start": 43.273,
+    "end": 43.684
+   },
+   {
+    "text": "YOU'RE",
+    "start": 43.684,
+    "end": 44.232
+   },
+   {
+    "text": "CHANGING",
+    "start": 44.232,
+    "end": 44.917
+   }
+  ]
+ },
+ {
+  "start": 44.917,
+  "end": 45.807,
+  "words": [
+   {
+    "text": "THE",
+    "start": 44.917,
+    "end": 45.259
+   },
+   {
+    "text": "WORLD.",
+    "start": 45.259,
+    "end": 45.807
+   }
+  ]
+ },
+ {
+  "start": 46.207,
+  "end": 47.321,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 46.207,
+    "end": 46.764
+   },
+   {
+    "text": "FOUR:",
+    "start": 46.764,
+    "end": 47.321
+   }
+  ]
+ },
+ {
+  "start": 47.321,
+  "end": 48.754,
+  "words": [
+   {
+    "text": "BUSINESS",
+    "start": 47.321,
+    "end": 48.117
+   },
+   {
+    "text": "OWNER.",
+    "start": 48.117,
+    "end": 48.754
+   }
+  ]
+ },
+ {
+  "start": 48.754,
+  "end": 50.743,
+  "words": [
+   {
+    "text": "CUSTOMERS",
+    "start": 48.754,
+    "end": 49.629
+   },
+   {
+    "text": "ARE",
+    "start": 49.629,
+    "end": 50.027
+   },
+   {
+    "text": "FINALLY",
+    "start": 50.027,
+    "end": 50.743
+   }
+  ]
+ },
+ {
+  "start": 50.743,
+  "end": 51.459,
+  "words": [
+   {
+    "text": "PAYING.",
+    "start": 50.743,
+    "end": 51.459
+   }
+  ]
+ },
+ {
+  "start": 51.459,
+  "end": 53.29,
+  "words": [
+   {
+    "text": "NOW",
+    "start": 51.459,
+    "end": 51.857
+   },
+   {
+    "text": "YOU'RE",
+    "start": 51.857,
+    "end": 52.494
+   },
+   {
+    "text": "MANAGING",
+    "start": 52.494,
+    "end": 53.29
+   }
+  ]
+ },
+ {
+  "start": 53.29,
+  "end": 54.245,
+  "words": [
+   {
+    "text": "EMPLOYEES,",
+    "start": 53.29,
+    "end": 54.245
+   }
+  ]
+ },
+ {
+  "start": 54.245,
+  "end": 55.12,
+  "words": [
+   {
+    "text": "INVOICES,",
+    "start": 54.245,
+    "end": 55.12
+   }
+  ]
+ },
+ {
+  "start": 55.12,
+  "end": 56.394,
+  "words": [
+   {
+    "text": "ANGRY",
+    "start": 55.12,
+    "end": 55.677
+   },
+   {
+    "text": "EMAILS,",
+    "start": 55.677,
+    "end": 56.394
+   }
+  ]
+ },
+ {
+  "start": 56.394,
+  "end": 57.428,
+  "words": [
+   {
+    "text": "AND",
+    "start": 56.394,
+    "end": 56.792
+   },
+   {
+    "text": "TAXES.",
+    "start": 56.792,
+    "end": 57.428
+   }
+  ]
+ },
+ {
+  "start": 57.428,
+  "end": 58.861,
+  "words": [
+   {
+    "text": "CONGRATULATIONS.",
+    "start": 57.428,
+    "end": 58.861
+   }
+  ]
+ },
+ {
+  "start": 58.861,
+  "end": 60.771,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 58.861,
+    "end": 59.259
+   },
+   {
+    "text": "CREATED",
+    "start": 59.259,
+    "end": 59.975
+   },
+   {
+    "text": "YOURSELF",
+    "start": 59.975,
+    "end": 60.771
+   }
+  ]
+ },
+ {
+  "start": 60.771,
+  "end": 61.487,
+  "words": [
+   {
+    "text": "A",
+    "start": 60.771,
+    "end": 61.01
+   },
+   {
+    "text": "JOB.",
+    "start": 61.01,
+    "end": 61.487
+   }
+  ]
+ },
+ {
+  "start": 61.887,
+  "end": 62.94,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 61.887,
+    "end": 62.413
+   },
+   {
+    "text": "FIVE:",
+    "start": 62.413,
+    "end": 62.94
+   }
+  ]
+ },
+ {
+  "start": 62.94,
+  "end": 63.391,
+  "words": [
+   {
+    "text": "CEO.",
+    "start": 62.94,
+    "end": 63.391
+   }
+  ]
+ },
+ {
+  "start": 63.391,
+  "end": 64.444,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 63.391,
+    "end": 63.767
+   },
+   {
+    "text": "HAVE",
+    "start": 63.767,
+    "end": 64.218
+   },
+   {
+    "text": "A",
+    "start": 64.218,
+    "end": 64.444
+   }
+  ]
+ },
+ {
+  "start": 64.444,
+  "end": 64.97,
+  "words": [
+   {
+    "text": "TEAM,",
+    "start": 64.444,
+    "end": 64.97
+   }
+  ]
+ },
+ {
+  "start": 64.97,
+  "end": 66.173,
+  "words": [
+   {
+    "text": "REAL",
+    "start": 64.97,
+    "end": 65.421
+   },
+   {
+    "text": "REVENUE,",
+    "start": 65.421,
+    "end": 66.173
+   }
+  ]
+ },
+ {
+  "start": 66.173,
+  "end": 67.452,
+  "words": [
+   {
+    "text": "AND",
+    "start": 66.173,
+    "end": 66.549
+   },
+   {
+    "text": "AN",
+    "start": 66.549,
+    "end": 66.85
+   },
+   {
+    "text": "ACTUAL",
+    "start": 66.85,
+    "end": 67.452
+   }
+  ]
+ },
+ {
+  "start": 67.452,
+  "end": 68.128,
+  "words": [
+   {
+    "text": "OFFICE.",
+    "start": 67.452,
+    "end": 68.128
+   }
+  ]
+ },
+ {
+  "start": 68.128,
+  "end": 69.407,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 68.128,
+    "end": 68.504
+   },
+   {
+    "text": "NO",
+    "start": 68.504,
+    "end": 68.805
+   },
+   {
+    "text": "LONGER",
+    "start": 68.805,
+    "end": 69.407
+   }
+  ]
+ },
+ {
+  "start": 69.407,
+  "end": 70.61,
+  "words": [
+   {
+    "text": "DO",
+    "start": 69.407,
+    "end": 69.707
+   },
+   {
+    "text": "EVERYTHING",
+    "start": 69.707,
+    "end": 70.61
+   }
+  ]
+ },
+ {
+  "start": 70.61,
+  "end": 71.437,
+  "words": [
+   {
+    "text": "YOURSELF.",
+    "start": 70.61,
+    "end": 71.437
+   }
+  ]
+ },
+ {
+  "start": 71.437,
+  "end": 72.189,
+  "words": [
+   {
+    "text": "INSTEAD,",
+    "start": 71.437,
+    "end": 72.189
+   }
+  ]
+ },
+ {
+  "start": 72.189,
+  "end": 73.918,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 72.189,
+    "end": 72.565
+   },
+   {
+    "text": "ATTEND",
+    "start": 72.565,
+    "end": 73.166
+   },
+   {
+    "text": "MEETINGS",
+    "start": 73.166,
+    "end": 73.918
+   }
+  ]
+ },
+ {
+  "start": 73.918,
+  "end": 75.272,
+  "words": [
+   {
+    "text": "ABOUT",
+    "start": 73.918,
+    "end": 74.445
+   },
+   {
+    "text": "MEETINGS.",
+    "start": 74.445,
+    "end": 75.272
+   }
+  ]
+ },
+ {
+  "start": 75.672,
+  "end": 76.481,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 75.672,
+    "end": 76.108
+   },
+   {
+    "text": "SIX:",
+    "start": 76.108,
+    "end": 76.481
+   }
+  ]
+ },
+ {
+  "start": 76.481,
+  "end": 77.914,
+  "words": [
+   {
+    "text": "SERIAL",
+    "start": 76.481,
+    "end": 76.98
+   },
+   {
+    "text": "ENTREPRENEUR.",
+    "start": 76.98,
+    "end": 77.914
+   }
+  ]
+ },
+ {
+  "start": 77.914,
+  "end": 79.47,
+  "words": [
+   {
+    "text": "YOU'VE",
+    "start": 77.914,
+    "end": 78.412
+   },
+   {
+    "text": "BUILT",
+    "start": 78.412,
+    "end": 78.848
+   },
+   {
+    "text": "MULTIPLE",
+    "start": 78.848,
+    "end": 79.47
+   }
+  ]
+ },
+ {
+  "start": 79.47,
+  "end": 80.28,
+  "words": [
+   {
+    "text": "BUSINESSES.",
+    "start": 79.47,
+    "end": 80.28
+   }
+  ]
+ },
+ {
+  "start": 80.28,
+  "end": 81.463,
+  "words": [
+   {
+    "text": "MONEY",
+    "start": 80.28,
+    "end": 80.716
+   },
+   {
+    "text": "IS",
+    "start": 80.716,
+    "end": 80.965
+   },
+   {
+    "text": "COMING",
+    "start": 80.965,
+    "end": 81.463
+   }
+  ]
+ },
+ {
+  "start": 81.463,
+  "end": 82.521,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 81.463,
+    "end": 81.837
+   },
+   {
+    "text": "DIFFERENT",
+    "start": 81.837,
+    "end": 82.521
+   }
+  ]
+ },
+ {
+  "start": 82.521,
+  "end": 83.331,
+  "words": [
+   {
+    "text": "DIRECTIONS,",
+    "start": 82.521,
+    "end": 83.331
+   }
+  ]
+ },
+ {
+  "start": 83.331,
+  "end": 84.639,
+  "words": [
+   {
+    "text": "AND",
+    "start": 83.331,
+    "end": 83.642
+   },
+   {
+    "text": "YOUR",
+    "start": 83.642,
+    "end": 84.016
+   },
+   {
+    "text": "CALENDAR",
+    "start": 84.016,
+    "end": 84.639
+   }
+  ]
+ },
+ {
+  "start": 84.639,
+  "end": 86.258,
+  "words": [
+   {
+    "text": "LOOKS",
+    "start": 84.639,
+    "end": 85.074
+   },
+   {
+    "text": "MORE",
+    "start": 85.074,
+    "end": 85.448
+   },
+   {
+    "text": "COMPLICATED",
+    "start": 85.448,
+    "end": 86.258
+   }
+  ]
+ },
+ {
+  "start": 86.258,
+  "end": 87.192,
+  "words": [
+   {
+    "text": "THAN",
+    "start": 86.258,
+    "end": 86.631
+   },
+   {
+    "text": "A",
+    "start": 86.631,
+    "end": 86.818
+   },
+   {
+    "text": "NASA",
+    "start": 86.818,
+    "end": 87.192
+   }
+  ]
+ },
+ {
+  "start": 87.192,
+  "end": 87.892,
+  "words": [
+   {
+    "text": "LAUNCH.",
+    "start": 87.192,
+    "end": 87.752
+   }
+  ]
+ },
+ {
+  "start": 88.152,
+  "end": 89.171,
+  "words": [
+   {
+    "text": "FINAL",
+    "start": 88.152,
+    "end": 88.628
+   },
+   {
+    "text": "LEVEL:",
+    "start": 88.628,
+    "end": 89.171
+   }
+  ]
+ },
+ {
+  "start": 89.171,
+  "end": 90.463,
+  "words": [
+   {
+    "text": "BUSINESS",
+    "start": 89.171,
+    "end": 89.851
+   },
+   {
+    "text": "EMPIRE.",
+    "start": 89.851,
+    "end": 90.463
+   }
+  ]
+ },
+ {
+  "start": 90.463,
+  "end": 91.958,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 90.463,
+    "end": 90.87
+   },
+   {
+    "text": "COMPANIES",
+    "start": 90.87,
+    "end": 91.618
+   },
+   {
+    "text": "RUN",
+    "start": 91.618,
+    "end": 91.958
+   }
+  ]
+ },
+ {
+  "start": 91.958,
+  "end": 93.725,
+  "words": [
+   {
+    "text": "WITH",
+    "start": 91.958,
+    "end": 92.366
+   },
+   {
+    "text": "ENTIRE",
+    "start": 92.366,
+    "end": 92.909
+   },
+   {
+    "text": "LEADERSHIP",
+    "start": 92.909,
+    "end": 93.725
+   }
+  ]
+ },
+ {
+  "start": 93.725,
+  "end": 94.269,
+  "words": [
+   {
+    "text": "TEAMS.",
+    "start": 93.725,
+    "end": 94.269
+   }
+  ]
+ },
+ {
+  "start": 94.269,
+  "end": 95.424,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 94.269,
+    "end": 94.608
+   },
+   {
+    "text": "MAKE",
+    "start": 94.608,
+    "end": 95.016
+   },
+   {
+    "text": "HUGE",
+    "start": 95.016,
+    "end": 95.424
+   }
+  ]
+ },
+ {
+  "start": 95.424,
+  "end": 96.239,
+  "words": [
+   {
+    "text": "DECISIONS,",
+    "start": 95.424,
+    "end": 96.239
+   }
+  ]
+ },
+ {
+  "start": 96.239,
+  "end": 97.531,
+  "words": [
+   {
+    "text": "INVEST",
+    "start": 96.239,
+    "end": 96.783
+   },
+   {
+    "text": "MILLIONS,",
+    "start": 96.783,
+    "end": 97.531
+   }
+  ]
+ },
+ {
+  "start": 97.531,
+  "end": 98.958,
+  "words": [
+   {
+    "text": "AND",
+    "start": 97.531,
+    "end": 97.87
+   },
+   {
+    "text": "SOMEHOW",
+    "start": 97.87,
+    "end": 98.482
+   },
+   {
+    "text": "STILL",
+    "start": 98.482,
+    "end": 98.958
+   }
+  ]
+ },
+ {
+  "start": 98.958,
+  "end": 100.453,
+  "words": [
+   {
+    "text": "ASK",
+    "start": 98.958,
+    "end": 99.298
+   },
+   {
+    "text": "YOUR",
+    "start": 99.298,
+    "end": 99.705
+   },
+   {
+    "text": "ASSISTANT",
+    "start": 99.705,
+    "end": 100.453
+   }
+  ]
+ },
+ {
+  "start": 100.453,
+  "end": 101.744,
+  "words": [
+   {
+    "text": "WHERE",
+    "start": 100.453,
+    "end": 100.929
+   },
+   {
+    "text": "YOUR",
+    "start": 100.929,
+    "end": 101.336
+   },
+   {
+    "text": "KEYS",
+    "start": 101.336,
+    "end": 101.744
+   }
+  ]
+ },
+ {
+  "start": 101.744,
+  "end": 102.444,
+  "words": [
+   {
+    "text": "ARE.",
+    "start": 101.744,
+    "end": 102.152
+   }
+  ]
+ },
+ {
+  "start": 102.652,
+  "end": 103.536,
+  "words": [
+   {
+    "text": "WHICH",
+    "start": 102.652,
+    "end": 102.978
+   },
+   {
+    "text": "LEVEL",
+    "start": 102.978,
+    "end": 103.303
+   },
+   {
+    "text": "ARE",
+    "start": 103.303,
+    "end": 103.536
+   }
+  ]
+ },
+ {
+  "start": 103.536,
+  "end": 104.28,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 103.536,
+    "end": 103.768
+   },
+   {
+    "text": "AT",
+    "start": 103.768,
+    "end": 103.954
+   },
+   {
+    "text": "RIGHT",
+    "start": 103.954,
+    "end": 104.28
+   }
+  ]
+ },
+ {
+  "start": 104.28,
+  "end": 104.98,
+  "words": [
+   {
+    "text": "NOW?",
+    "start": 104.28,
+    "end": 104.559
+   }
+  ]
+ }
+]

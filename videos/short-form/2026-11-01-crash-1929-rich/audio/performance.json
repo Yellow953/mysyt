@@ -1,0 +1,68 @@
+[
+ {
+  "text": "It's September 3, 1929. Wall Street has never been higher.",
+  "tag": "narrator",
+  "pause": 0.3,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Everyone's rich. You know it ends in seven weeks.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "So you bet against the market.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "October 24. The floor disappears.",
+  "tag": "narrator",
+  "pause": 0.3,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "By November, stocks are down almost half. You're rich.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Cash out. Don't buy the dip yet.",
+  "tag": "curious",
+  "pause": 0.3,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Stocks bounce nearly fifty percent. Everyone says it's over. It isn't.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "You wait almost three years. July 8, 1932. The Dow is down eighty-nine percent.",
+  "tag": "somber",
+  "pause": 0.3,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Now you buy everything.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "It takes until 1954 to climb back. Your money grows about nine times.",
+  "tag": "narrator",
+  "pause": 0.3,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Predicting the crash was easy. Waiting was the hard part.",
+  "tag": "deadpan",
+  "pause": 0,
+  "clip": "11.mp3"
+ }
+]

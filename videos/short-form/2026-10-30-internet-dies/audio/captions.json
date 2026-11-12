@@ -1,0 +1,759 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.055,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 0.0,
+    "end": 0.33
+   },
+   {
+    "text": "WAKE",
+    "start": 0.33,
+    "end": 0.726
+   },
+   {
+    "text": "UP.",
+    "start": 0.726,
+    "end": 1.055
+   }
+  ]
+ },
+ {
+  "start": 1.055,
+  "end": 2.441,
+  "words": [
+   {
+    "text": "THE",
+    "start": 1.055,
+    "end": 1.385
+   },
+   {
+    "text": "WHOLE",
+    "start": 1.385,
+    "end": 1.847
+   },
+   {
+    "text": "WORLD'S",
+    "start": 1.847,
+    "end": 2.441
+   }
+  ]
+ },
+ {
+  "start": 2.441,
+  "end": 3.826,
+  "words": [
+   {
+    "text": "INTERNET",
+    "start": 2.441,
+    "end": 3.1
+   },
+   {
+    "text": "IS",
+    "start": 3.1,
+    "end": 3.364
+   },
+   {
+    "text": "GONE.",
+    "start": 3.364,
+    "end": 3.826
+   }
+  ]
+ },
+ {
+  "start": 4.626,
+  "end": 5.583,
+  "words": [
+   {
+    "text": "NO",
+    "start": 4.626,
+    "end": 4.945
+   },
+   {
+    "text": "EMAIL.",
+    "start": 4.945,
+    "end": 5.583
+   }
+  ]
+ },
+ {
+  "start": 5.583,
+  "end": 6.86,
+  "words": [
+   {
+    "text": "NO",
+    "start": 5.583,
+    "end": 5.902
+   },
+   {
+    "text": "STREAMING.",
+    "start": 5.902,
+    "end": 6.86
+   }
+  ]
+ },
+ {
+  "start": 6.86,
+  "end": 8.295,
+  "words": [
+   {
+    "text": "NO",
+    "start": 6.86,
+    "end": 7.179
+   },
+   {
+    "text": "CAT",
+    "start": 7.179,
+    "end": 7.577
+   },
+   {
+    "text": "VIDEOS.",
+    "start": 7.577,
+    "end": 8.295
+   }
+  ]
+ },
+ {
+  "start": 8.295,
+  "end": 9.811,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 8.295,
+    "end": 8.774
+   },
+   {
+    "text": "BOSS",
+    "start": 8.774,
+    "end": 9.253
+   },
+   {
+    "text": "CAN'T",
+    "start": 9.253,
+    "end": 9.811
+   }
+  ]
+ },
+ {
+  "start": 9.811,
+  "end": 10.848,
+  "words": [
+   {
+    "text": "REACH",
+    "start": 9.811,
+    "end": 10.369
+   },
+   {
+    "text": "YOU,",
+    "start": 10.369,
+    "end": 10.848
+   }
+  ]
+ },
+ {
+  "start": 10.848,
+  "end": 11.566,
+  "words": [
+   {
+    "text": "THOUGH.",
+    "start": 10.848,
+    "end": 11.566
+   }
+  ]
+ },
+ {
+  "start": 12.066,
+  "end": 13.367,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 12.066,
+    "end": 12.456
+   },
+   {
+    "text": "PHONE",
+    "start": 12.456,
+    "end": 12.912
+   },
+   {
+    "text": "FEELS",
+    "start": 12.912,
+    "end": 13.367
+   }
+  ]
+ },
+ {
+  "start": 13.367,
+  "end": 14.473,
+  "words": [
+   {
+    "text": "LIKE",
+    "start": 13.367,
+    "end": 13.757
+   },
+   {
+    "text": "A",
+    "start": 13.757,
+    "end": 13.952
+   },
+   {
+    "text": "BRICK.",
+    "start": 13.952,
+    "end": 14.473
+   }
+  ]
+ },
+ {
+  "start": 14.473,
+  "end": 15.253,
+  "words": [
+   {
+    "text": "IT",
+    "start": 14.473,
+    "end": 14.733
+   },
+   {
+    "text": "ISN'T.",
+    "start": 14.733,
+    "end": 15.253
+   }
+  ]
+ },
+ {
+  "start": 15.753,
+  "end": 16.893,
+  "words": [
+   {
+    "text": "GPS",
+    "start": 15.753,
+    "end": 16.038
+   },
+   {
+    "text": "STILL",
+    "start": 16.038,
+    "end": 16.437
+   },
+   {
+    "text": "WORKS.",
+    "start": 16.437,
+    "end": 16.893
+   }
+  ]
+ },
+ {
+  "start": 16.893,
+  "end": 18.374,
+  "words": [
+   {
+    "text": "THOSE",
+    "start": 16.893,
+    "end": 17.292
+   },
+   {
+    "text": "SATELLITES",
+    "start": 17.292,
+    "end": 17.975
+   },
+   {
+    "text": "DON'T",
+    "start": 17.975,
+    "end": 18.374
+   }
+  ]
+ },
+ {
+  "start": 18.374,
+  "end": 19.628,
+  "words": [
+   {
+    "text": "NEED",
+    "start": 18.374,
+    "end": 18.716
+   },
+   {
+    "text": "THE",
+    "start": 18.716,
+    "end": 19.001
+   },
+   {
+    "text": "INTERNET.",
+    "start": 19.001,
+    "end": 19.628
+   }
+  ]
+ },
+ {
+  "start": 20.028,
+  "end": 21.246,
+  "words": [
+   {
+    "text": "SAVED",
+    "start": 20.028,
+    "end": 20.596
+   },
+   {
+    "text": "A",
+    "start": 20.596,
+    "end": 20.84
+   },
+   {
+    "text": "MAP",
+    "start": 20.84,
+    "end": 21.246
+   }
+  ]
+ },
+ {
+  "start": 21.246,
+  "end": 22.058,
+  "words": [
+   {
+    "text": "EARLIER?",
+    "start": 21.246,
+    "end": 22.058
+   }
+  ]
+ },
+ {
+  "start": 22.058,
+  "end": 23.601,
+  "words": [
+   {
+    "text": "IT",
+    "start": 22.058,
+    "end": 22.383
+   },
+   {
+    "text": "STILL",
+    "start": 22.383,
+    "end": 22.951
+   },
+   {
+    "text": "GUIDES",
+    "start": 22.951,
+    "end": 23.601
+   }
+  ]
+ },
+ {
+  "start": 23.601,
+  "end": 24.575,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 23.601,
+    "end": 24.007
+   },
+   {
+    "text": "HOME.",
+    "start": 24.007,
+    "end": 24.575
+   }
+  ]
+ },
+ {
+  "start": 24.575,
+  "end": 26.037,
+  "words": [
+   {
+    "text": "NOBODY",
+    "start": 24.575,
+    "end": 25.225
+   },
+   {
+    "text": "SAVED",
+    "start": 25.225,
+    "end": 25.793
+   },
+   {
+    "text": "A",
+    "start": 25.793,
+    "end": 26.037
+   }
+  ]
+ },
+ {
+  "start": 26.037,
+  "end": 27.255,
+  "words": [
+   {
+    "text": "MAP",
+    "start": 26.037,
+    "end": 26.443
+   },
+   {
+    "text": "EARLIER.",
+    "start": 26.443,
+    "end": 27.255
+   }
+  ]
+ },
+ {
+  "start": 27.655,
+  "end": 28.745,
+  "words": [
+   {
+    "text": "AN",
+    "start": 27.655,
+    "end": 27.897
+   },
+   {
+    "text": "OLD",
+    "start": 27.897,
+    "end": 28.2
+   },
+   {
+    "text": "BATTERY",
+    "start": 28.2,
+    "end": 28.745
+   }
+  ]
+ },
+ {
+  "start": 28.745,
+  "end": 30.016,
+  "words": [
+   {
+    "text": "RADIO",
+    "start": 28.745,
+    "end": 29.169
+   },
+   {
+    "text": "STILL",
+    "start": 29.169,
+    "end": 29.593
+   },
+   {
+    "text": "PLAYS",
+    "start": 29.593,
+    "end": 30.016
+   }
+  ]
+ },
+ {
+  "start": 30.016,
+  "end": 30.985,
+  "words": [
+   {
+    "text": "THE",
+    "start": 30.016,
+    "end": 30.319
+   },
+   {
+    "text": "NEWS",
+    "start": 30.319,
+    "end": 30.683
+   },
+   {
+    "text": "AND",
+    "start": 30.683,
+    "end": 30.985
+   }
+  ]
+ },
+ {
+  "start": 30.985,
+  "end": 32.196,
+  "words": [
+   {
+    "text": "EMERGENCY",
+    "start": 30.985,
+    "end": 31.651
+   },
+   {
+    "text": "ALERTS.",
+    "start": 31.651,
+    "end": 32.196
+   }
+  ]
+ },
+ {
+  "start": 32.196,
+  "end": 32.56,
+  "words": [
+   {
+    "text": "YES,",
+    "start": 32.196,
+    "end": 32.56
+   }
+  ]
+ },
+ {
+  "start": 32.56,
+  "end": 33.407,
+  "words": [
+   {
+    "text": "THE",
+    "start": 32.56,
+    "end": 32.862
+   },
+   {
+    "text": "ONE",
+    "start": 32.862,
+    "end": 33.165
+   },
+   {
+    "text": "IN",
+    "start": 33.165,
+    "end": 33.407
+   }
+  ]
+ },
+ {
+  "start": 33.407,
+  "end": 34.255,
+  "words": [
+   {
+    "text": "THE",
+    "start": 33.407,
+    "end": 33.71
+   },
+   {
+    "text": "DRAWER.",
+    "start": 33.71,
+    "end": 34.255
+   }
+  ]
+ },
+ {
+  "start": 34.655,
+  "end": 35.843,
+  "words": [
+   {
+    "text": "CALLS",
+    "start": 34.655,
+    "end": 35.071
+   },
+   {
+    "text": "AND",
+    "start": 35.071,
+    "end": 35.368
+   },
+   {
+    "text": "TEXTS?",
+    "start": 35.368,
+    "end": 35.843
+   }
+  ]
+ },
+ {
+  "start": 35.843,
+  "end": 36.318,
+  "words": [
+   {
+    "text": "MAYBE.",
+    "start": 35.843,
+    "end": 36.318
+   }
+  ]
+ },
+ {
+  "start": 36.318,
+  "end": 37.446,
+  "words": [
+   {
+    "text": "DEPENDS",
+    "start": 36.318,
+    "end": 36.852
+   },
+   {
+    "text": "ON",
+    "start": 36.852,
+    "end": 37.09
+   },
+   {
+    "text": "YOUR",
+    "start": 37.09,
+    "end": 37.446
+   }
+  ]
+ },
+ {
+  "start": 37.446,
+  "end": 38.146,
+  "words": [
+   {
+    "text": "CARRIER.",
+    "start": 37.446,
+    "end": 38.04
+   }
+  ]
+ },
+ {
+  "start": 38.54,
+  "end": 39.837,
+  "words": [
+   {
+    "text": "THE",
+    "start": 38.54,
+    "end": 38.922
+   },
+   {
+    "text": "BAD",
+    "start": 38.922,
+    "end": 39.303
+   },
+   {
+    "text": "NEWS:",
+    "start": 39.303,
+    "end": 39.837
+   }
+  ]
+ },
+ {
+  "start": 39.837,
+  "end": 41.287,
+  "words": [
+   {
+    "text": "ALMOST",
+    "start": 39.837,
+    "end": 40.448
+   },
+   {
+    "text": "ALL",
+    "start": 40.448,
+    "end": 40.829
+   },
+   {
+    "text": "DATA",
+    "start": 40.829,
+    "end": 41.287
+   }
+  ]
+ },
+ {
+  "start": 41.287,
+  "end": 42.89,
+  "words": [
+   {
+    "text": "BETWEEN",
+    "start": 41.287,
+    "end": 41.974
+   },
+   {
+    "text": "CONTINENTS",
+    "start": 41.974,
+    "end": 42.89
+   }
+  ]
+ },
+ {
+  "start": 42.89,
+  "end": 44.798,
+  "words": [
+   {
+    "text": "RUNS",
+    "start": 42.89,
+    "end": 43.348
+   },
+   {
+    "text": "THROUGH",
+    "start": 43.348,
+    "end": 44.035
+   },
+   {
+    "text": "UNDERSEA",
+    "start": 44.035,
+    "end": 44.798
+   }
+  ]
+ },
+ {
+  "start": 44.798,
+  "end": 45.485,
+  "words": [
+   {
+    "text": "CABLES.",
+    "start": 44.798,
+    "end": 45.485
+   }
+  ]
+ },
+ {
+  "start": 45.485,
+  "end": 46.935,
+  "words": [
+   {
+    "text": "THE",
+    "start": 45.485,
+    "end": 45.866
+   },
+   {
+    "text": "INTERNET",
+    "start": 45.866,
+    "end": 46.629
+   },
+   {
+    "text": "IS",
+    "start": 46.629,
+    "end": 46.935
+   }
+  ]
+ },
+ {
+  "start": 46.935,
+  "end": 48.232,
+  "words": [
+   {
+    "text": "BASICALLY",
+    "start": 46.935,
+    "end": 47.774
+   },
+   {
+    "text": "WET.",
+    "start": 47.774,
+    "end": 48.232
+   }
+  ]
+ },
+ {
+  "start": 48.732,
+  "end": 49.17,
+  "words": [
+   {
+    "text": "SO,",
+    "start": 48.732,
+    "end": 49.17
+   }
+  ]
+ },
+ {
+  "start": 49.17,
+  "end": 50.747,
+  "words": [
+   {
+    "text": "WHAT",
+    "start": 49.17,
+    "end": 49.696
+   },
+   {
+    "text": "WOULD",
+    "start": 49.696,
+    "end": 50.309
+   },
+   {
+    "text": "YOU",
+    "start": 50.309,
+    "end": 50.747
+   }
+  ]
+ },
+ {
+  "start": 50.747,
+  "end": 51.799,
+  "words": [
+   {
+    "text": "DO",
+    "start": 50.747,
+    "end": 51.098
+   },
+   {
+    "text": "FIRST?",
+    "start": 51.098,
+    "end": 51.799
+   }
+  ]
+ }
+]

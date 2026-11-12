@@ -1,0 +1,104 @@
+{
+  "slug": "2026-10-27-ancient-free-time",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "It's noon. Your whole workday is over. Now what?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic fast asleep on a big warm rock in the midday sun with a small Zzz and a small basket of roots beside him, far away in the distance a huge cartoon woolly mammoth wanders past and ignores him, wide open golden savanna. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Spoiler: you still do it every night.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic sitting up on the rock with a sly knowing grin and a finger raised to his lips toward the viewer, a pale moon already rising behind him and a tiny campfire glowing far away in the distance. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 3,
+      "text": "Modern Kalahari foragers found food in a few hours a day. Chores came extra.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic casually digging up a root with a stick and dropping it into a small basket, a high sun, a relaxed smile, lots of open golden grassland and a few other tiny stick figures foraging far away. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 4,
+      "text": "So you nap. Fix a spear. Gossip.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic dozing against a tree trunk with a small Zzz, one tiny stick-figure person sharpening a spear with a stone nearby and two others chatting, open savanna, warm afternoon light. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 5,
+      "text": "Your hobby: other people.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic peeking around a tree trunk with wide eyes at two small stick figures chatting and whispering in the distance, a curious sly face, golden afternoon light. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 6,
+      "text": "By evening, the fire comes out.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic sitting by a crackling campfire at dusk with a delighted grin, sparks floating up into a starry sky, tiny stick-figure friends gathering in the background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. Night scenes use soft deep blue and indigo washes with a warm orange firelight glow, calm and uncluttered. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 7,
+      "text": "By day they argued about food, land, drama.",
+      "image_prompt": "a stick-figure anthropologist with round glasses and a notebook at the edge of a small group of stick-figure foragers in daylight arguing and pointing at each other with angry little scribbles above their heads, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic rolling his eyes, open savanna. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 8,
+      "text": "By night, eighty-one percent of long chats were stories.",
+      "image_prompt": "a circle of ten stick-figure foragers around a night campfire, eight of them glowing warmly lit and leaning in to listen to a storyteller waving his arms while two sit in grey shadow looking bored, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic at the front with wide delighted eyes. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. Night scenes use soft deep blue and indigo washes with a warm orange firelight glow, calm and uncluttered. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 13,
+      "text": "Mostly about people they knew.",
+      "image_prompt": "a circle of ten stick-figure foragers around a night campfire, eight of them glowing warmly lit and leaning in to listen to a storyteller waving his arms while two sit in grey shadow looking bored, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic at the front with wide delighted eyes. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. Night scenes use soft deep blue and indigo washes with a warm orange firelight glow, calm and uncluttered. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_out",
+      "note": "same image as scene 8, different camera move"
+    },
+    {
+      "id": 9,
+      "text": "Ancient reality TV. Starring your neighbors.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic eating popcorn from a small basket and watching two stick figures acting out a funny story by the campfire at night like a stage show, delighted deadpan face, firelight glow. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. Night scenes use soft deep blue and indigo washes with a warm orange firelight glow, calm and uncluttered. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 10,
+      "text": "Your group chat is basically a campfire.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in modern clothes sitting in a circle with a few stick-figure friends on a couch, everyone's faces lit blue by their phones glowing in the middle like a campfire, a smug deadpan face, a dim living room. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 11,
+      "text": "Not cavemen. But maybe boredom built culture.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic telling a story to a circle of tiny stick-figure children by a warm campfire at night with sparkles rising and an expressive smile, a few small glowing sparks above them like ideas. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. Night scenes use soft deep blue and indigo washes with a warm orange firelight glow, calm and uncluttered. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 12,
+      "text": "What would you do after lunch? Tell me below.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a simple brown fur tunic lying back in a hammock between two trees in the afternoon sun looking straight at the viewer with a half smile and one eyebrow raised, open golden grassland. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "slug": "mcdonalds-landlord",
+  "format": "long",
+  "aspect": "16:9",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "music": "Country Music - Hugh Mitchel.mp3",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "In 2025, McDonald's collected over ten billion dollars in rent. From restaurants other people run.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf lounging on a hill, looking down at a small red-and-white burger stand with a blank sign; a thin stream of teal coins runs up a pipe out of the ground toward a cartoon moneybag, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "image_note": "Joe 2026-11-04: hook image = thumbnail art (mascot pointing down at the restaurant, coins underground, real logo on the sign). Old hill image kept as images/scene_01_old_hill.png"
+    },
+    {
+      "id": 2,
+      "text": "At a regular McDonald's franchise, the owner doesn't own the ground. The owner rents it. From McDonald's. That idea came from a finance man named Harry Sonneborn, who asked a question the burger business wasn't asking.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a paper hat behind the blank-sign counter of a red-and-white burger stand, his head in the upper middle; below the floor a small stick-figure company man holds a blank-labelled key; stick-figure Harry Sonneborn in a plain suit with a ledger stands apart while paper-hat stick figures flip burgers. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_right",
+      "moves": [
+        "pan_right",
+        "zoom_out"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Not 'how many burgers can we sell?' But, in effect, 'who owns the ground?'",
+      "image_prompt": "Split screen: left, tiny stick figures counting burgers with a red X through them; right, stick-figure Harry Sonneborn in a plain suit pointing down at the dirt under a red-and-white stand, the ground glowing teal. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 4,
+      "text": "Years later, he quit. And almost nobody remembers him.",
+      "image_prompt": "Stick-figure Harry Sonneborn in a plain suit walks out of a door carrying a cardboard box; one stick-figure bystander waves while the others keep their backs turned. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_left",
+      "moves": [
+        "pan_left",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "To see why it mattered, start with the man who needed it.",
+      "image_prompt": "A stick-figure salesman, Ray Kroc, with a briefcase, walks a long dusty road toward a row of tiny red-and-white stands with blank signs, green hills and a bright sky. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "shake"
+    },
+    {
+      "id": 6,
+      "text": "Ray Kroc, 1954. He sold franchises for the McDonald brothers.",
+      "image_prompt": "Stick-figure Ray Kroc with a briefcase shakes hands with a stick-figure owner in front of a red-and-white stand with a blank sign; two stick-figure brothers in plain shirts stand behind a counter. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 7,
+      "text": "A franchise is the right to open a McDonald's under its name. The owner pays for it.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in the corner, mouth making a small 'ohh' shape, watching a stick-figure owner hand a small coin bag to a stick-figure Ray Kroc with a briefcase, in front of a red-and-white stand with a blank sign. Only the main character wears a scarf. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 8,
+      "text": "By most accounts, the fee was about 1.9% of sales, and half a percent of sales went to the brothers.",
+      "image_prompt": "A tall pile of silver coins; a thin slice slides toward a stick-figure Ray Kroc, a thinner slice splits off toward two stick-figure brothers behind a counter. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 9,
+      "text": "By most accounts, that left his company very little. You sell all day, you get a tip.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Stick-figure Ray Kroc sweating at a desk covered in paperwork, holding a coin the size of a button; Mr. Yellow Scarf watches from the side with eyebrows raised. Only the main character wears a scarf. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 10,
+      "text": "Enter Sonneborn, who joined in the mid-1950s and became president in 1959. The company needed money to expand. A tip wasn't going to do it.",
+      "image_prompt": "Stick-figure Harry Sonneborn in a plain suit steps into a spotlight beside a stick-figure Ray Kroc's desk, calendar pages flipping in the background, warm dramatic light. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "I couldn't find a reliable account of how he pitched it. The idea is clear.",
+      "image_prompt": "Stick-figure Harry Sonneborn in a plain suit stands still, a blank thought bubble above his head slowly filling with a plain house icon on a square of ground. No other people. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 12,
+      "text": "The company gets hold of a plot, by renting or buying, then rents it to the restaurant owner.",
+      "image_prompt": "A simple three-step diagram: a stick-figure landowner, a stick-figure company man and a stick-figure restaurant owner, each handing a large key to the next, on a plain background; a red-and-white restaurant with a blank sign in the corner. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_right"
+    },
+    {
+      "id": 13,
+      "text": "By most accounts, around 1956, a company was set up just for that: Franchise Realty.",
+      "image_prompt": "A tiny office door with a blank plaque; a stick figure hangs the plaque on the door, a small white building on a green lot. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 15,
+      "text": "Say your restaurant sells a million dollars a year. The old deal pays the company twenty thousand.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a paper hat behind the counter of a red-and-white restaurant, a coin pile on the counter behind him, a small clear jar beside a stick-figure Ray Kroc filling with a thin stack of coins. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 16,
+      "text": "Now the landlord way. Say the company rents the site itself, and pays its own landlord sixty thousand.",
+      "image_prompt": "A stick-figure company man hands a stack of silver coins to a generic stick-figure landowner in a round hat and plain suit, a blank stack label and a bracket; a red-and-white restaurant with a blank sign behind them. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 17,
+      "text": "It charges you a hundred and five. The company keeps the gap. Add the fee, and it keeps sixty-five.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a paper hat hands a bigger stack of silver coins to a stick-figure company man; a bracket circles a gap, and a small stack of teal coins joins it. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 18,
+      "text": "Now double your sales. Your rent rises with them. In our example, their cost for the ground stays put. That's how the company's sixty-five becomes a hundred and fifteen.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a paper hat, eyebrows raised, beside a tall blank counter display, a growing stack of teal coins rising beside a stack of silver coins. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "You pay far more than before. But you didn't have to find the land.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a paper hat looks at a stack of bills, then at a ready-built red-and-white stand with a blank sign, and shrugs; warm soft light. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 20,
+      "text": "And since the company controls the site, an owner who breaks the rules has a lot to lose.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> A generic stick-figure landlord in a round hat and plain suit holds a blank lease paper at a distance, while Mr. Yellow Scarf in a paper hat mops the floor with the wrong mop. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 21,
+      "text": "Every burger runs through the tollbooth. At a regular McDonald's franchise, you pay rent. You pay the fee, which has a name: royalty. Both. Congratulations.",
+      "image_prompt": "A pipe of teal coins runs from a red-and-white stand through an unmanned red-and-white tollbooth with a blank sign, splitting into two bins with blank tags; playful composition. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_right",
+      "moves": [
+        "pan_right",
+        "zoom_out"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Kroc still answered to the McDonald brothers.",
+      "image_prompt": "Two stick-figure McDonald brothers in plain shirts sit behind a tall counter above a stick-figure Ray Kroc, who looks up. 1950s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 23,
+      "text": "In 1961, he bought them out for two point seven million dollars. Sonneborn is credited with arranging the money.",
+      "image_prompt": "A blank check changes hands between a stick-figure company man and a stick-figure seller; a stick-figure Harry Sonneborn in a plain suit stands behind Ray Kroc holding a thick folder. The check is blank with no digits. 1960s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 24,
+      "text": "That question put the company in the landlord's chair. In 2025 the rent it collected came to about ten point four billion, against about six billion in royalties.",
+      "image_prompt": "Two piggy banks with blank labels, the rent piggy bank swelling larger than the royalty piggy bank, coins tinkling, plain background. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ],
+      "logo": "mcdonalds"
+    },
+    {
+      "id": 25,
+      "text": "McDonald's annual report doesn't say which earns more profit. Rent is revenue, before the company pays its own costs for those sites. It only shows which brings in more.",
+      "image_prompt": "A large magnifying glass over a blank document with two lines blurred out, plain background. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_left",
+      "moves": [
+        "pan_left",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "And in its biggest markets, McDonald's owns about 56% of the land.",
+      "image_prompt": "A simple bar filling up to about half of a plot of land, under tiny red-and-white stands with blank signs; no digits. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_out",
+      "logo": "mcdonalds"
+    },
+    {
+      "id": 27,
+      "text": "That famous line, 'you're in the real estate business'? That one's from a movie, The Founder.",
+      "image_prompt": "A film-poster-shaped frame with a blank title, a stick-figure actor in a plain suit standing in it, a soft projector beam behind. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_right"
+    },
+    {
+      "id": 28,
+      "text": "A similar line is widely attributed to Sonneborn himself. Whether he said it, I couldn't find. The movie just gave it a famous voice.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf shuffling through a pile of paper, finding nothing, shrugging; a movie-poster-shaped frame glows softly behind him. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "June 1967. Sonneborn resigns.",
+      "image_prompt": "A blank calendar page; stick-figure Harry Sonneborn in a plain suit clears his desk into a cardboard box. Mournful, muted scene. 1960s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 30,
+      "text": "One account says Kroc wanted to keep expanding. Sonneborn expected a recession and wanted to stop building.",
+      "image_prompt": "Two stick figures tugging on opposite ends of a blueprint on a table, tense pose, a small red-and-white stand in the background. 1960s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_left"
+    },
+    {
+      "id": 31,
+      "text": "By that account, the man behind the question quit over how fast to build. The franchises stayed, and the rent still comes in.",
+      "image_prompt": "A row of red-and-white stands with blank signs, a coin stream under each; a tiny stick-figure Harry Sonneborn walks away down a road. 1960s America, no computers or modern objects. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "pan_right",
+      "moves": [
+        "pan_right",
+        "zoom_out"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "He died in 1992, remembered by few, and best known today for a movie line with his name on it.",
+      "image_prompt": "Stick-figure Harry Sonneborn at the end of a long road, with a movie-poster-shaped frame glowing in the sky behind him, soft evening light. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": false,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_left"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Next time you pass one, don't count the burgers. Whoever runs it, ask who owns the ground.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf strolls past a red-and-white stand with a blank sign, counting on his fingers, then stops. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 34,
+      "text": "Look down.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf points down at the dirt, a teal coin pipe running underneath the ground; his head in the upper middle. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "logo": "mcdonalds"
+    },
+    {
+      "id": 35,
+      "text": "Subscribe. It's the one deal here with no rent.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf shrugs in front of a blank subscribe-button panel, a tollbooth behind him with its barrier raised. Only the main character wears a scarf. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 16:9 horizontal, bold simple composition readable at phone size. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. All signs, trays, boxes and blackboards are blank plain white. Restaurants are red and white; coins are teal, silver or white; no yellow props or yellow light sources. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic. Keep faces and heads in the upper-middle of the frame; the lower third stays calm for captions.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    }
+  ]
+}

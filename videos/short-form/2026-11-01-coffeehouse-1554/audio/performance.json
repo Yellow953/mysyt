@@ -1,0 +1,62 @@
+[
+ {
+  "text": "It's 1554. You're opening a Starbucks in Istanbul.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "No Wi-Fi. No logo. Just coffee, backgammon, and comfy cushions.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Poets show up. Then scholars. People call it the School of the Wise.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "You sell one coffee. They stay five hours.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Soon the whole city copies you. Hundreds of coffeehouses.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Then the Sultan checks who's inside. Soldiers. Plotting.",
+  "tag": "somber",
+  "pause": 0.5,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "In 1633, Murad IV shuts every coffeehouse in Istanbul.",
+  "tag": "narrator",
+  "pause": 0.5,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "You built a place so good at getting people talking, it scared an empire.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Later, the coffeehouses come back.",
+  "tag": "hopeful",
+  "pause": 0.5,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Your Starbucks lasted seventy-nine years. The idea? Still open.",
+  "tag": "dry",
+  "pause": 0,
+  "clip": "10.mp3"
+ }
+]

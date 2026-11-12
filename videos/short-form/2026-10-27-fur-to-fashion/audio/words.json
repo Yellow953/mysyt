@@ -1,0 +1,462 @@
+[
+ {
+  "word": "Other",
+  "start": 0.0,
+  "end": 0.392
+ },
+ {
+  "word": "apes",
+  "start": 0.392,
+  "end": 0.727
+ },
+ {
+  "word": "wake",
+  "start": 0.727,
+  "end": 1.063
+ },
+ {
+  "word": "up",
+  "start": 1.063,
+  "end": 1.287
+ },
+ {
+  "word": "dressed.",
+  "start": 1.287,
+  "end": 1.846
+ },
+ {
+  "word": "You",
+  "start": 2.246,
+  "end": 2.457
+ },
+ {
+  "word": "lost",
+  "start": 2.457,
+  "end": 2.71
+ },
+ {
+  "word": "your",
+  "start": 2.71,
+  "end": 2.964
+ },
+ {
+  "word": "fur.",
+  "start": 2.964,
+  "end": 3.217
+ },
+ {
+  "word": "Scientists",
+  "start": 3.617,
+  "end": 4.548
+ },
+ {
+  "word": "still",
+  "start": 4.548,
+  "end": 5.091
+ },
+ {
+  "word": "argue",
+  "start": 5.091,
+  "end": 5.634
+ },
+ {
+  "word": "why.",
+  "start": 5.634,
+  "end": 6.1
+ },
+ {
+  "word": "Around",
+  "start": 6.6,
+  "end": 7.055
+ },
+ {
+  "word": "one",
+  "start": 7.055,
+  "end": 7.339
+ },
+ {
+  "word": "to",
+  "start": 7.339,
+  "end": 7.566
+ },
+ {
+  "word": "two",
+  "start": 7.566,
+  "end": 7.85
+ },
+ {
+  "word": "million",
+  "start": 7.85,
+  "end": 8.362
+ },
+ {
+  "word": "years",
+  "start": 8.362,
+  "end": 8.76
+ },
+ {
+  "word": "ago,",
+  "start": 8.76,
+  "end": 9.101
+ },
+ {
+  "word": "we",
+  "start": 9.101,
+  "end": 9.328
+ },
+ {
+  "word": "shed",
+  "start": 9.328,
+  "end": 9.669
+ },
+ {
+  "word": "most",
+  "start": 9.669,
+  "end": 10.01
+ },
+ {
+  "word": "of",
+  "start": 10.01,
+  "end": 10.238
+ },
+ {
+  "word": "it.",
+  "start": 10.238,
+  "end": 10.522
+ },
+ {
+  "word": "Maybe",
+  "start": 11.022,
+  "end": 11.511
+ },
+ {
+  "word": "sweating.",
+  "start": 11.511,
+  "end": 12.279
+ },
+ {
+  "word": "Maybe",
+  "start": 12.279,
+  "end": 12.768
+ },
+ {
+  "word": "parasites.",
+  "start": 12.768,
+  "end": 13.606
+ },
+ {
+  "word": "Nobody",
+  "start": 13.606,
+  "end": 14.165
+ },
+ {
+  "word": "wrote",
+  "start": 14.165,
+  "end": 14.654
+ },
+ {
+  "word": "it",
+  "start": 14.654,
+  "end": 14.933
+ },
+ {
+  "word": "down.",
+  "start": 14.933,
+  "end": 15.422
+ },
+ {
+  "word": "Then",
+  "start": 15.872,
+  "end": 16.349
+ },
+ {
+  "word": "winter",
+  "start": 16.349,
+  "end": 16.984
+ },
+ {
+  "word": "happened.",
+  "start": 16.984,
+  "end": 17.858
+ },
+ {
+  "word": "By",
+  "start": 18.408,
+  "end": 18.668
+ },
+ {
+  "word": "four",
+  "start": 18.668,
+  "end": 19.059
+ },
+ {
+  "word": "hundred",
+  "start": 19.059,
+  "end": 19.645
+ },
+ {
+  "word": "thousand",
+  "start": 19.645,
+  "end": 20.296
+ },
+ {
+  "word": "years",
+  "start": 20.296,
+  "end": 20.752
+ },
+ {
+  "word": "ago,",
+  "start": 20.752,
+  "end": 21.143
+ },
+ {
+  "word": "someone",
+  "start": 21.143,
+  "end": 21.729
+ },
+ {
+  "word": "was",
+  "start": 21.729,
+  "end": 22.054
+ },
+ {
+  "word": "scraping",
+  "start": 22.054,
+  "end": 22.705
+ },
+ {
+  "word": "hides.",
+  "start": 22.705,
+  "end": 23.226
+ },
+ {
+  "word": "Not",
+  "start": 23.526,
+  "end": 23.87
+ },
+ {
+  "word": "me.",
+  "start": 23.87,
+  "end": 24.215
+ },
+ {
+  "word": "Lice",
+  "start": 25.015,
+  "end": 25.366
+ },
+ {
+  "word": "DNA",
+  "start": 25.366,
+  "end": 25.659
+ },
+ {
+  "word": "hints",
+  "start": 25.659,
+  "end": 26.069
+ },
+ {
+  "word": "clothes",
+  "start": 26.069,
+  "end": 26.595
+ },
+ {
+  "word": "existed",
+  "start": 26.595,
+  "end": 27.122
+ },
+ {
+  "word": "by",
+  "start": 27.122,
+  "end": 27.356
+ },
+ {
+  "word": "about",
+  "start": 27.356,
+  "end": 27.766
+ },
+ {
+  "word": "a",
+  "start": 27.766,
+  "end": 27.942
+ },
+ {
+  "word": "hundred",
+  "start": 27.942,
+  "end": 28.469
+ },
+ {
+  "word": "thousand",
+  "start": 28.469,
+  "end": 29.054
+ },
+ {
+  "word": "years",
+  "start": 29.054,
+  "end": 29.464
+ },
+ {
+  "word": "ago.",
+  "start": 29.464,
+  "end": 29.815
+ },
+ {
+  "word": "The",
+  "start": 30.215,
+  "end": 30.72
+ },
+ {
+  "word": "lice",
+  "start": 30.72,
+  "end": 31.325
+ },
+ {
+  "word": "moved",
+  "start": 31.325,
+  "end": 32.032
+ },
+ {
+  "word": "in.",
+  "start": 32.032,
+  "end": 32.537
+ },
+ {
+  "word": "Rent-free.",
+  "start": 32.537,
+  "end": 33.748
+ },
+ {
+  "word": "A",
+  "start": 34.298,
+  "end": 34.53
+ },
+ {
+  "word": "2024",
+  "start": 34.53,
+  "end": 34.995
+ },
+ {
+  "word": "study",
+  "start": 34.995,
+  "end": 35.538
+ },
+ {
+  "word": "links",
+  "start": 35.538,
+  "end": 36.08
+ },
+ {
+  "word": "eyed",
+  "start": 36.08,
+  "end": 36.545
+ },
+ {
+  "word": "needles",
+  "start": 36.545,
+  "end": 37.242
+ },
+ {
+  "word": "to",
+  "start": 37.242,
+  "end": 37.552
+ },
+ {
+  "word": "fitted,",
+  "start": 37.552,
+  "end": 38.25
+ },
+ {
+  "word": "decorated",
+  "start": 38.25,
+  "end": 39.102
+ },
+ {
+  "word": "clothes.",
+  "start": 39.102,
+  "end": 39.877
+ },
+ {
+  "word": "Survival",
+  "start": 40.377,
+  "end": 41.108
+ },
+ {
+  "word": "gear",
+  "start": 41.108,
+  "end": 41.547
+ },
+ {
+  "word": "became",
+  "start": 41.547,
+  "end": 42.131
+ },
+ {
+  "word": "a",
+  "start": 42.131,
+  "end": 42.351
+ },
+ {
+  "word": "statement.",
+  "start": 42.351,
+  "end": 43.228
+ },
+ {
+  "word": "Mine",
+  "start": 43.578,
+  "end": 44.088
+ },
+ {
+  "word": "says:",
+  "start": 44.088,
+  "end": 44.682
+ },
+ {
+  "word": "tired.",
+  "start": 44.682,
+  "end": 45.362
+ },
+ {
+  "word": "Would",
+  "start": 45.912,
+  "end": 46.314
+ },
+ {
+  "word": "you",
+  "start": 46.314,
+  "end": 46.602
+ },
+ {
+  "word": "take",
+  "start": 46.602,
+  "end": 46.947
+ },
+ {
+  "word": "the",
+  "start": 46.947,
+  "end": 47.234
+ },
+ {
+  "word": "fur",
+  "start": 47.234,
+  "end": 47.522
+ },
+ {
+  "word": "back?",
+  "start": 47.522,
+  "end": 47.924
+ },
+ {
+  "word": "Tell",
+  "start": 48.274,
+  "end": 48.551
+ },
+ {
+  "word": "me",
+  "start": 48.551,
+  "end": 48.736
+ },
+ {
+  "word": "below.",
+  "start": 48.736,
+  "end": 49.105
+ }
+]

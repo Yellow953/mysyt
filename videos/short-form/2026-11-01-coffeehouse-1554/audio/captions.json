@@ -1,0 +1,719 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.035,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 0.0,
+    "end": 0.478
+   },
+   {
+    "text": "1554.",
+    "start": 0.478,
+    "end": 1.035
+   }
+  ]
+ },
+ {
+  "start": 1.035,
+  "end": 2.627,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 1.035,
+    "end": 1.671
+   },
+   {
+    "text": "OPENING",
+    "start": 1.671,
+    "end": 2.388
+   },
+   {
+    "text": "A",
+    "start": 2.388,
+    "end": 2.627
+   }
+  ]
+ },
+ {
+  "start": 2.627,
+  "end": 4.696,
+  "words": [
+   {
+    "text": "STARBUCKS",
+    "start": 2.627,
+    "end": 3.502
+   },
+   {
+    "text": "IN",
+    "start": 3.502,
+    "end": 3.82
+   },
+   {
+    "text": "ISTANBUL.",
+    "start": 3.82,
+    "end": 4.696
+   }
+  ]
+ },
+ {
+  "start": 5.196,
+  "end": 6.238,
+  "words": [
+   {
+    "text": "NO",
+    "start": 5.196,
+    "end": 5.543
+   },
+   {
+    "text": "WI-FI.",
+    "start": 5.543,
+    "end": 6.238
+   }
+  ]
+ },
+ {
+  "start": 6.238,
+  "end": 7.194,
+  "words": [
+   {
+    "text": "NO",
+    "start": 6.238,
+    "end": 6.586
+   },
+   {
+    "text": "LOGO.",
+    "start": 6.586,
+    "end": 7.194
+   }
+  ]
+ },
+ {
+  "start": 7.194,
+  "end": 8.497,
+  "words": [
+   {
+    "text": "JUST",
+    "start": 7.194,
+    "end": 7.715
+   },
+   {
+    "text": "COFFEE,",
+    "start": 7.715,
+    "end": 8.497
+   }
+  ]
+ },
+ {
+  "start": 8.497,
+  "end": 9.626,
+  "words": [
+   {
+    "text": "BACKGAMMON,",
+    "start": 8.497,
+    "end": 9.626
+   }
+  ]
+ },
+ {
+  "start": 9.626,
+  "end": 11.624,
+  "words": [
+   {
+    "text": "AND",
+    "start": 9.626,
+    "end": 10.06
+   },
+   {
+    "text": "COMFY",
+    "start": 10.06,
+    "end": 10.668
+   },
+   {
+    "text": "CUSHIONS.",
+    "start": 10.668,
+    "end": 11.624
+   }
+  ]
+ },
+ {
+  "start": 12.024,
+  "end": 13.345,
+  "words": [
+   {
+    "text": "POETS",
+    "start": 12.024,
+    "end": 12.538
+   },
+   {
+    "text": "SHOW",
+    "start": 12.538,
+    "end": 12.978
+   },
+   {
+    "text": "UP.",
+    "start": 12.978,
+    "end": 13.345
+   }
+  ]
+ },
+ {
+  "start": 13.345,
+  "end": 14.593,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 13.345,
+    "end": 13.786
+   },
+   {
+    "text": "SCHOLARS.",
+    "start": 13.786,
+    "end": 14.593
+   }
+  ]
+ },
+ {
+  "start": 14.593,
+  "end": 15.914,
+  "words": [
+   {
+    "text": "PEOPLE",
+    "start": 14.593,
+    "end": 15.18
+   },
+   {
+    "text": "CALL",
+    "start": 15.18,
+    "end": 15.621
+   },
+   {
+    "text": "IT",
+    "start": 15.621,
+    "end": 15.914
+   }
+  ]
+ },
+ {
+  "start": 15.914,
+  "end": 17.162,
+  "words": [
+   {
+    "text": "THE",
+    "start": 15.914,
+    "end": 16.281
+   },
+   {
+    "text": "SCHOOL",
+    "start": 16.281,
+    "end": 16.869
+   },
+   {
+    "text": "OF",
+    "start": 16.869,
+    "end": 17.162
+   }
+  ]
+ },
+ {
+  "start": 17.162,
+  "end": 18.043,
+  "words": [
+   {
+    "text": "THE",
+    "start": 17.162,
+    "end": 17.529
+   },
+   {
+    "text": "WISE.",
+    "start": 17.529,
+    "end": 18.043
+   }
+  ]
+ },
+ {
+  "start": 18.443,
+  "end": 19.475,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 18.443,
+    "end": 18.766
+   },
+   {
+    "text": "SELL",
+    "start": 18.766,
+    "end": 19.153
+   },
+   {
+    "text": "ONE",
+    "start": 19.153,
+    "end": 19.475
+   }
+  ]
+ },
+ {
+  "start": 19.475,
+  "end": 20.056,
+  "words": [
+   {
+    "text": "COFFEE.",
+    "start": 19.475,
+    "end": 20.056
+   }
+  ]
+ },
+ {
+  "start": 20.056,
+  "end": 21.218,
+  "words": [
+   {
+    "text": "THEY",
+    "start": 20.056,
+    "end": 20.443
+   },
+   {
+    "text": "STAY",
+    "start": 20.443,
+    "end": 20.831
+   },
+   {
+    "text": "FIVE",
+    "start": 20.831,
+    "end": 21.218
+   }
+  ]
+ },
+ {
+  "start": 21.218,
+  "end": 21.918,
+  "words": [
+   {
+    "text": "HOURS.",
+    "start": 21.218,
+    "end": 21.734
+   }
+  ]
+ },
+ {
+  "start": 22.234,
+  "end": 23.446,
+  "words": [
+   {
+    "text": "SOON",
+    "start": 22.234,
+    "end": 22.638
+   },
+   {
+    "text": "THE",
+    "start": 22.638,
+    "end": 22.975
+   },
+   {
+    "text": "WHOLE",
+    "start": 22.975,
+    "end": 23.446
+   }
+  ]
+ },
+ {
+  "start": 23.446,
+  "end": 24.792,
+  "words": [
+   {
+    "text": "CITY",
+    "start": 23.446,
+    "end": 23.85
+   },
+   {
+    "text": "COPIES",
+    "start": 23.85,
+    "end": 24.389
+   },
+   {
+    "text": "YOU.",
+    "start": 24.389,
+    "end": 24.792
+   }
+  ]
+ },
+ {
+  "start": 24.792,
+  "end": 25.735,
+  "words": [
+   {
+    "text": "HUNDREDS",
+    "start": 24.792,
+    "end": 25.466
+   },
+   {
+    "text": "OF",
+    "start": 25.466,
+    "end": 25.735
+   }
+  ]
+ },
+ {
+  "start": 25.735,
+  "end": 26.745,
+  "words": [
+   {
+    "text": "COFFEEHOUSES.",
+    "start": 25.735,
+    "end": 26.745
+   }
+  ]
+ },
+ {
+  "start": 27.145,
+  "end": 28.614,
+  "words": [
+   {
+    "text": "THEN",
+    "start": 27.145,
+    "end": 27.609
+   },
+   {
+    "text": "THE",
+    "start": 27.609,
+    "end": 27.995
+   },
+   {
+    "text": "SULTAN",
+    "start": 27.995,
+    "end": 28.614
+   }
+  ]
+ },
+ {
+  "start": 28.614,
+  "end": 30.469,
+  "words": [
+   {
+    "text": "CHECKS",
+    "start": 28.614,
+    "end": 29.232
+   },
+   {
+    "text": "WHO'S",
+    "start": 29.232,
+    "end": 29.773
+   },
+   {
+    "text": "INSIDE.",
+    "start": 29.773,
+    "end": 30.469
+   }
+  ]
+ },
+ {
+  "start": 30.469,
+  "end": 31.319,
+  "words": [
+   {
+    "text": "SOLDIERS.",
+    "start": 30.469,
+    "end": 31.319
+   }
+  ]
+ },
+ {
+  "start": 31.319,
+  "end": 32.169,
+  "words": [
+   {
+    "text": "PLOTTING.",
+    "start": 31.319,
+    "end": 32.169
+   }
+  ]
+ },
+ {
+  "start": 32.669,
+  "end": 33.635,
+  "words": [
+   {
+    "text": "IN",
+    "start": 32.669,
+    "end": 33.02
+   },
+   {
+    "text": "1633,",
+    "start": 33.02,
+    "end": 33.635
+   }
+  ]
+ },
+ {
+  "start": 33.635,
+  "end": 35.216,
+  "words": [
+   {
+    "text": "MURAD",
+    "start": 33.635,
+    "end": 34.25
+   },
+   {
+    "text": "IV",
+    "start": 34.25,
+    "end": 34.601
+   },
+   {
+    "text": "SHUTS",
+    "start": 34.601,
+    "end": 35.216
+   }
+  ]
+ },
+ {
+  "start": 35.216,
+  "end": 37.324,
+  "words": [
+   {
+    "text": "EVERY",
+    "start": 35.216,
+    "end": 35.831
+   },
+   {
+    "text": "COFFEEHOUSE",
+    "start": 35.831,
+    "end": 36.973
+   },
+   {
+    "text": "IN",
+    "start": 36.973,
+    "end": 37.324
+   }
+  ]
+ },
+ {
+  "start": 37.324,
+  "end": 38.29,
+  "words": [
+   {
+    "text": "ISTANBUL.",
+    "start": 37.324,
+    "end": 38.29
+   }
+  ]
+ },
+ {
+  "start": 38.79,
+  "end": 39.709,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 38.79,
+    "end": 39.096
+   },
+   {
+    "text": "BUILT",
+    "start": 39.096,
+    "end": 39.525
+   },
+   {
+    "text": "A",
+    "start": 39.525,
+    "end": 39.709
+   }
+  ]
+ },
+ {
+  "start": 39.709,
+  "end": 40.75,
+  "words": [
+   {
+    "text": "PLACE",
+    "start": 39.709,
+    "end": 40.138
+   },
+   {
+    "text": "SO",
+    "start": 40.138,
+    "end": 40.383
+   },
+   {
+    "text": "GOOD",
+    "start": 40.383,
+    "end": 40.75
+   }
+  ]
+ },
+ {
+  "start": 40.75,
+  "end": 42.037,
+  "words": [
+   {
+    "text": "AT",
+    "start": 40.75,
+    "end": 40.995
+   },
+   {
+    "text": "GETTING",
+    "start": 40.995,
+    "end": 41.547
+   },
+   {
+    "text": "PEOPLE",
+    "start": 41.547,
+    "end": 42.037
+   }
+  ]
+ },
+ {
+  "start": 42.037,
+  "end": 42.649,
+  "words": [
+   {
+    "text": "TALKING,",
+    "start": 42.037,
+    "end": 42.649
+   }
+  ]
+ },
+ {
+  "start": 42.649,
+  "end": 43.63,
+  "words": [
+   {
+    "text": "IT",
+    "start": 42.649,
+    "end": 42.895
+   },
+   {
+    "text": "SCARED",
+    "start": 42.895,
+    "end": 43.385
+   },
+   {
+    "text": "AN",
+    "start": 43.385,
+    "end": 43.63
+   }
+  ]
+ },
+ {
+  "start": 43.63,
+  "end": 44.33,
+  "words": [
+   {
+    "text": "EMPIRE.",
+    "start": 43.63,
+    "end": 44.181
+   }
+  ]
+ },
+ {
+  "start": 44.781,
+  "end": 45.265,
+  "words": [
+   {
+    "text": "LATER,",
+    "start": 44.781,
+    "end": 45.265
+   }
+  ]
+ },
+ {
+  "start": 45.265,
+  "end": 46.779,
+  "words": [
+   {
+    "text": "THE",
+    "start": 45.265,
+    "end": 45.568
+   },
+   {
+    "text": "COFFEEHOUSES",
+    "start": 45.568,
+    "end": 46.416
+   },
+   {
+    "text": "COME",
+    "start": 46.416,
+    "end": 46.779
+   }
+  ]
+ },
+ {
+  "start": 46.779,
+  "end": 47.479,
+  "words": [
+   {
+    "text": "BACK.",
+    "start": 46.779,
+    "end": 47.203
+   }
+  ]
+ },
+ {
+  "start": 47.703,
+  "end": 49.95,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 47.703,
+    "end": 48.242
+   },
+   {
+    "text": "STARBUCKS",
+    "start": 48.242,
+    "end": 49.231
+   },
+   {
+    "text": "LASTED",
+    "start": 49.231,
+    "end": 49.95
+   }
+  ]
+ },
+ {
+  "start": 49.95,
+  "end": 51.927,
+  "words": [
+   {
+    "text": "SEVENTY-NINE",
+    "start": 49.95,
+    "end": 51.208
+   },
+   {
+    "text": "YEARS.",
+    "start": 51.208,
+    "end": 51.927
+   }
+  ]
+ },
+ {
+  "start": 51.927,
+  "end": 53.005,
+  "words": [
+   {
+    "text": "THE",
+    "start": 51.927,
+    "end": 52.376
+   },
+   {
+    "text": "IDEA?",
+    "start": 52.376,
+    "end": 53.005
+   }
+  ]
+ },
+ {
+  "start": 53.005,
+  "end": 54.263,
+  "words": [
+   {
+    "text": "STILL",
+    "start": 53.005,
+    "end": 53.634
+   },
+   {
+    "text": "OPEN.",
+    "start": 53.634,
+    "end": 54.263
+   }
+  ]
+ }
+]

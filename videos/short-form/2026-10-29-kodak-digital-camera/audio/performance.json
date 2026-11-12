@@ -1,0 +1,74 @@
+[
+ {
+  "text": "You're a Kodak engineer. It's 1975.",
+  "tag": "dry",
+  "pause": 0.35,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "You just built the camera that will help sink your company.",
+  "tag": "excited",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Your bosses are not thrilled.",
+  "tag": "deadpan",
+  "pause": 0.7,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "The first handheld digital camera. Eight pounds.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "A hundred by a hundred pixels. Your phone has a thousand times more.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Twenty-three seconds to save one picture. Time for a nap.",
+  "tag": "lazy",
+  "pause": 0.5,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Kodak sold film. Your camera needs none.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Kodak's own 1979 report predicted digital by 2010.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "They were right.",
+  "tag": "flat",
+  "pause": 0.7,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "January 2012: Kodak files for bankruptcy.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "It did make digital cameras. Even No. 1 in the US by 2005.",
+  "tag": "deadpan",
+  "pause": 0.7,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "Film or digital, engineer? Your call.",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "12.mp3"
+ }
+]

@@ -1,0 +1,819 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.662,
+  "words": [
+   {
+    "text": "THINK",
+    "start": 0.0,
+    "end": 0.506
+   },
+   {
+    "text": "PIRATES",
+    "start": 0.506,
+    "end": 1.156
+   },
+   {
+    "text": "SPENT",
+    "start": 1.156,
+    "end": 1.662
+   }
+  ]
+ },
+ {
+  "start": 1.662,
+  "end": 3.18,
+  "words": [
+   {
+    "text": "ALL",
+    "start": 1.662,
+    "end": 2.024
+   },
+   {
+    "text": "DAY",
+    "start": 2.024,
+    "end": 2.385
+   },
+   {
+    "text": "FIGHTING,",
+    "start": 2.385,
+    "end": 3.18
+   }
+  ]
+ },
+ {
+  "start": 3.18,
+  "end": 4.698,
+  "words": [
+   {
+    "text": "STEALING",
+    "start": 3.18,
+    "end": 3.903
+   },
+   {
+    "text": "TREASURE,",
+    "start": 3.903,
+    "end": 4.698
+   }
+  ]
+ },
+ {
+  "start": 4.698,
+  "end": 6.216,
+  "words": [
+   {
+    "text": "AND",
+    "start": 4.698,
+    "end": 5.06
+   },
+   {
+    "text": "DRINKING",
+    "start": 5.06,
+    "end": 5.782
+   },
+   {
+    "text": "RUM?",
+    "start": 5.782,
+    "end": 6.216
+   }
+  ]
+ },
+ {
+  "start": 6.216,
+  "end": 6.867,
+  "words": [
+   {
+    "text": "YEAH...",
+    "start": 6.216,
+    "end": 6.867
+   }
+  ]
+ },
+ {
+  "start": 6.867,
+  "end": 8.24,
+  "words": [
+   {
+    "text": "NOT",
+    "start": 6.867,
+    "end": 7.228
+   },
+   {
+    "text": "EVEN",
+    "start": 7.228,
+    "end": 7.662
+   },
+   {
+    "text": "CLOSE.",
+    "start": 7.662,
+    "end": 8.24
+   }
+  ]
+ },
+ {
+  "start": 8.64,
+  "end": 9.505,
+  "words": [
+   {
+    "text": "MOST",
+    "start": 8.64,
+    "end": 8.986
+   },
+   {
+    "text": "OF",
+    "start": 8.986,
+    "end": 9.216
+   },
+   {
+    "text": "THE",
+    "start": 9.216,
+    "end": 9.505
+   }
+  ]
+ },
+ {
+  "start": 9.505,
+  "end": 9.908,
+  "words": [
+   {
+    "text": "TIME,",
+    "start": 9.505,
+    "end": 9.908
+   }
+  ]
+ },
+ {
+  "start": 9.908,
+  "end": 10.946,
+  "words": [
+   {
+    "text": "BEING",
+    "start": 9.908,
+    "end": 10.312
+   },
+   {
+    "text": "A",
+    "start": 10.312,
+    "end": 10.484
+   },
+   {
+    "text": "PIRATE",
+    "start": 10.484,
+    "end": 10.946
+   }
+  ]
+ },
+ {
+  "start": 10.946,
+  "end": 12.156,
+  "words": [
+   {
+    "text": "WAS",
+    "start": 10.946,
+    "end": 11.234
+   },
+   {
+    "text": "BASICALLY",
+    "start": 11.234,
+    "end": 11.868
+   },
+   {
+    "text": "THE",
+    "start": 11.868,
+    "end": 12.156
+   }
+  ]
+ },
+ {
+  "start": 12.156,
+  "end": 13.078,
+  "words": [
+   {
+    "text": "WORST",
+    "start": 12.156,
+    "end": 12.559
+   },
+   {
+    "text": "JOB",
+    "start": 12.559,
+    "end": 12.848
+   },
+   {
+    "text": "AT",
+    "start": 12.848,
+    "end": 13.078
+   }
+  ]
+ },
+ {
+  "start": 13.078,
+  "end": 13.778,
+  "words": [
+   {
+    "text": "SEA.",
+    "start": 13.078,
+    "end": 13.424
+   }
+  ]
+ },
+ {
+  "start": 13.824,
+  "end": 15.227,
+  "words": [
+   {
+    "text": "THEY",
+    "start": 13.824,
+    "end": 14.225
+   },
+   {
+    "text": "HAULED",
+    "start": 14.225,
+    "end": 14.759
+   },
+   {
+    "text": "ROPES",
+    "start": 14.759,
+    "end": 15.227
+   }
+  ]
+ },
+ {
+  "start": 15.227,
+  "end": 16.629,
+  "words": [
+   {
+    "text": "AND",
+    "start": 15.227,
+    "end": 15.561
+   },
+   {
+    "text": "MENDED",
+    "start": 15.561,
+    "end": 16.095
+   },
+   {
+    "text": "SAILS.",
+    "start": 16.095,
+    "end": 16.629
+   }
+  ]
+ },
+ {
+  "start": 16.629,
+  "end": 17.965,
+  "words": [
+   {
+    "text": "MISS",
+    "start": 16.629,
+    "end": 17.03
+   },
+   {
+    "text": "YOUR",
+    "start": 17.03,
+    "end": 17.431
+   },
+   {
+    "text": "SHIFT?",
+    "start": 17.431,
+    "end": 17.965
+   }
+  ]
+ },
+ {
+  "start": 17.965,
+  "end": 19.167,
+  "words": [
+   {
+    "text": "CONGRATULATIONS.",
+    "start": 17.965,
+    "end": 19.167
+   }
+  ]
+ },
+ {
+  "start": 19.167,
+  "end": 20.503,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 19.167,
+    "end": 19.702
+   },
+   {
+    "text": "EVERYONE'S",
+    "start": 19.702,
+    "end": 20.503
+   }
+  ]
+ },
+ {
+  "start": 20.503,
+  "end": 22.24,
+  "words": [
+   {
+    "text": "LEAST",
+    "start": 20.503,
+    "end": 20.971
+   },
+   {
+    "text": "FAVORITE",
+    "start": 20.971,
+    "end": 21.639
+   },
+   {
+    "text": "PIRATE.",
+    "start": 21.639,
+    "end": 22.24
+   }
+  ]
+ },
+ {
+  "start": 22.64,
+  "end": 23.814,
+  "words": [
+   {
+    "text": "AND",
+    "start": 22.64,
+    "end": 22.985
+   },
+   {
+    "text": "THE",
+    "start": 22.985,
+    "end": 23.331
+   },
+   {
+    "text": "FOOD?",
+    "start": 23.331,
+    "end": 23.814
+   }
+  ]
+ },
+ {
+  "start": 23.814,
+  "end": 24.988,
+  "words": [
+   {
+    "text": "HARD",
+    "start": 23.814,
+    "end": 24.228
+   },
+   {
+    "text": "BISCUITS.",
+    "start": 24.228,
+    "end": 24.988
+   }
+  ]
+ },
+ {
+  "start": 24.988,
+  "end": 26.024,
+  "words": [
+   {
+    "text": "FRESH",
+    "start": 24.988,
+    "end": 25.471
+   },
+   {
+    "text": "FRUIT?",
+    "start": 25.471,
+    "end": 26.024
+   }
+  ]
+ },
+ {
+  "start": 26.024,
+  "end": 27.612,
+  "words": [
+   {
+    "text": "BASICALLY",
+    "start": 26.024,
+    "end": 26.783
+   },
+   {
+    "text": "A",
+    "start": 26.783,
+    "end": 26.99
+   },
+   {
+    "text": "LUXURY.",
+    "start": 26.99,
+    "end": 27.612
+   }
+  ]
+ },
+ {
+  "start": 28.012,
+  "end": 29.049,
+  "words": [
+   {
+    "text": "BUT",
+    "start": 28.012,
+    "end": 28.317
+   },
+   {
+    "text": "WHEN",
+    "start": 28.317,
+    "end": 28.683
+   },
+   {
+    "text": "THEY",
+    "start": 28.683,
+    "end": 29.049
+   }
+  ]
+ },
+ {
+  "start": 29.049,
+  "end": 30.392,
+  "words": [
+   {
+    "text": "SPOTTED",
+    "start": 29.049,
+    "end": 29.598
+   },
+   {
+    "text": "A",
+    "start": 29.598,
+    "end": 29.781
+   },
+   {
+    "text": "MERCHANT",
+    "start": 29.781,
+    "end": 30.392
+   }
+  ]
+ },
+ {
+  "start": 30.392,
+  "end": 30.819,
+  "words": [
+   {
+    "text": "SHIP?",
+    "start": 30.392,
+    "end": 30.819
+   }
+  ]
+ },
+ {
+  "start": 30.819,
+  "end": 32.161,
+  "words": [
+   {
+    "text": "EVERYTHING",
+    "start": 30.819,
+    "end": 31.551
+   },
+   {
+    "text": "CHANGED.",
+    "start": 31.551,
+    "end": 32.161
+   }
+  ]
+ },
+ {
+  "start": 32.161,
+  "end": 33.076,
+  "words": [
+   {
+    "text": "WEAPONS",
+    "start": 32.161,
+    "end": 32.71
+   },
+   {
+    "text": "OUT,",
+    "start": 32.71,
+    "end": 33.076
+   }
+  ]
+ },
+ {
+  "start": 33.076,
+  "end": 34.297,
+  "words": [
+   {
+    "text": "HOPING",
+    "start": 33.076,
+    "end": 33.564
+   },
+   {
+    "text": "THE",
+    "start": 33.564,
+    "end": 33.87
+   },
+   {
+    "text": "OTHER",
+    "start": 33.87,
+    "end": 34.297
+   }
+  ]
+ },
+ {
+  "start": 34.297,
+  "end": 35.517,
+  "words": [
+   {
+    "text": "SHIP",
+    "start": 34.297,
+    "end": 34.663
+   },
+   {
+    "text": "SURRENDERED.",
+    "start": 34.663,
+    "end": 35.517
+   }
+  ]
+ },
+ {
+  "start": 35.917,
+  "end": 36.405,
+  "words": [
+   {
+    "text": "WIN,",
+    "start": 35.917,
+    "end": 36.405
+   }
+  ]
+ },
+ {
+  "start": 36.405,
+  "end": 37.707,
+  "words": [
+   {
+    "text": "AND",
+    "start": 36.405,
+    "end": 36.812
+   },
+   {
+    "text": "THEY",
+    "start": 36.812,
+    "end": 37.3
+   },
+   {
+    "text": "GOT",
+    "start": 37.3,
+    "end": 37.707
+   }
+  ]
+ },
+ {
+  "start": 37.707,
+  "end": 38.358,
+  "words": [
+   {
+    "text": "MONEY,",
+    "start": 37.707,
+    "end": 38.358
+   }
+  ]
+ },
+ {
+  "start": 38.358,
+  "end": 39.253,
+  "words": [
+   {
+    "text": "SUPPLIES,",
+    "start": 38.358,
+    "end": 39.253
+   }
+  ]
+ },
+ {
+  "start": 39.253,
+  "end": 40.311,
+  "words": [
+   {
+    "text": "AND",
+    "start": 39.253,
+    "end": 39.66
+   },
+   {
+    "text": "CARGO.",
+    "start": 39.66,
+    "end": 40.311
+   }
+  ]
+ },
+ {
+  "start": 40.311,
+  "end": 40.88,
+  "words": [
+   {
+    "text": "LOSE,",
+    "start": 40.311,
+    "end": 40.88
+   }
+  ]
+ },
+ {
+  "start": 40.88,
+  "end": 42.507,
+  "words": [
+   {
+    "text": "AND",
+    "start": 40.88,
+    "end": 41.287
+   },
+   {
+    "text": "THEIR",
+    "start": 41.287,
+    "end": 41.856
+   },
+   {
+    "text": "CAREER",
+    "start": 41.856,
+    "end": 42.507
+   }
+  ]
+ },
+ {
+  "start": 42.507,
+  "end": 44.216,
+  "words": [
+   {
+    "text": "ENDED",
+    "start": 42.507,
+    "end": 43.077
+   },
+   {
+    "text": "VERY",
+    "start": 43.077,
+    "end": 43.565
+   },
+   {
+    "text": "BADLY.",
+    "start": 43.565,
+    "end": 44.216
+   }
+  ]
+ },
+ {
+  "start": 44.616,
+  "end": 45.385,
+  "words": [
+   {
+    "text": "SO",
+    "start": 44.616,
+    "end": 44.895
+   },
+   {
+    "text": "YEAH,",
+    "start": 44.895,
+    "end": 45.385
+   }
+  ]
+ },
+ {
+  "start": 45.385,
+  "end": 46.922,
+  "words": [
+   {
+    "text": "PIRATE",
+    "start": 45.385,
+    "end": 45.943
+   },
+   {
+    "text": "LIFE",
+    "start": 45.943,
+    "end": 46.363
+   },
+   {
+    "text": "WASN'T",
+    "start": 46.363,
+    "end": 46.922
+   }
+  ]
+ },
+ {
+  "start": 46.922,
+  "end": 48.249,
+  "words": [
+   {
+    "text": "NONSTOP",
+    "start": 46.922,
+    "end": 47.55
+   },
+   {
+    "text": "TREASURE",
+    "start": 47.55,
+    "end": 48.249
+   }
+  ]
+ },
+ {
+  "start": 48.249,
+  "end": 48.948,
+  "words": [
+   {
+    "text": "HUNTING.",
+    "start": 48.249,
+    "end": 48.948
+   }
+  ]
+ },
+ {
+  "start": 48.948,
+  "end": 50.135,
+  "words": [
+   {
+    "text": "IT",
+    "start": 48.948,
+    "end": 49.227
+   },
+   {
+    "text": "WAS",
+    "start": 49.227,
+    "end": 49.576
+   },
+   {
+    "text": "MOSTLY",
+    "start": 49.576,
+    "end": 50.135
+   }
+  ]
+ },
+ {
+  "start": 50.135,
+  "end": 51.253,
+  "words": [
+   {
+    "text": "SEA",
+    "start": 50.135,
+    "end": 50.485
+   },
+   {
+    "text": "CHORES...",
+    "start": 50.485,
+    "end": 51.253
+   }
+  ]
+ },
+ {
+  "start": 51.253,
+  "end": 53.07,
+  "words": [
+   {
+    "text": "WITH",
+    "start": 51.253,
+    "end": 51.672
+   },
+   {
+    "text": "OCCASIONAL",
+    "start": 51.672,
+    "end": 52.511
+   },
+   {
+    "text": "MURDER",
+    "start": 52.511,
+    "end": 53.07
+   }
+  ]
+ },
+ {
+  "start": 53.07,
+  "end": 53.838,
+  "words": [
+   {
+    "text": "ATTEMPTS.",
+    "start": 53.07,
+    "end": 53.838
+   }
+  ]
+ },
+ {
+  "start": 54.238,
+  "end": 55.004,
+  "words": [
+   {
+    "text": "STILL",
+    "start": 54.238,
+    "end": 54.536
+   },
+   {
+    "text": "WANNA",
+    "start": 54.536,
+    "end": 54.834
+   },
+   {
+    "text": "BE",
+    "start": 54.834,
+    "end": 55.004
+   }
+  ]
+ },
+ {
+  "start": 55.004,
+  "end": 55.704,
+  "words": [
+   {
+    "text": "A",
+    "start": 55.004,
+    "end": 55.132
+   },
+   {
+    "text": "PIRATE?",
+    "start": 55.132,
+    "end": 55.515
+   }
+  ]
+ }
+]

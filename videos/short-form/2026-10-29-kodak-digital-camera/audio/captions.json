@@ -1,0 +1,717 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.662,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 0.0,
+    "end": 0.739
+   },
+   {
+    "text": "A",
+    "start": 0.739,
+    "end": 1.016
+   },
+   {
+    "text": "KODAK",
+    "start": 1.016,
+    "end": 1.662
+   }
+  ]
+ },
+ {
+  "start": 1.662,
+  "end": 2.678,
+  "words": [
+   {
+    "text": "ENGINEER.",
+    "start": 1.662,
+    "end": 2.678
+   }
+  ]
+ },
+ {
+  "start": 2.678,
+  "end": 3.879,
+  "words": [
+   {
+    "text": "IT'S",
+    "start": 2.678,
+    "end": 3.232
+   },
+   {
+    "text": "1975.",
+    "start": 3.232,
+    "end": 3.879
+   }
+  ]
+ },
+ {
+  "start": 4.229,
+  "end": 5.223,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 4.229,
+    "end": 4.505
+   },
+   {
+    "text": "JUST",
+    "start": 4.505,
+    "end": 4.836
+   },
+   {
+    "text": "BUILT",
+    "start": 4.836,
+    "end": 5.223
+   }
+  ]
+ },
+ {
+  "start": 5.223,
+  "end": 6.272,
+  "words": [
+   {
+    "text": "THE",
+    "start": 5.223,
+    "end": 5.499
+   },
+   {
+    "text": "CAMERA",
+    "start": 5.499,
+    "end": 5.941
+   },
+   {
+    "text": "THAT",
+    "start": 5.941,
+    "end": 6.272
+   }
+  ]
+ },
+ {
+  "start": 6.272,
+  "end": 7.266,
+  "words": [
+   {
+    "text": "WILL",
+    "start": 6.272,
+    "end": 6.604
+   },
+   {
+    "text": "HELP",
+    "start": 6.604,
+    "end": 6.935
+   },
+   {
+    "text": "SINK",
+    "start": 6.935,
+    "end": 7.266
+   }
+  ]
+ },
+ {
+  "start": 7.266,
+  "end": 8.15,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 7.266,
+    "end": 7.598
+   },
+   {
+    "text": "COMPANY.",
+    "start": 7.598,
+    "end": 8.15
+   }
+  ]
+ },
+ {
+  "start": 8.65,
+  "end": 9.73,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 8.65,
+    "end": 8.991
+   },
+   {
+    "text": "BOSSES",
+    "start": 8.991,
+    "end": 9.446
+   },
+   {
+    "text": "ARE",
+    "start": 9.446,
+    "end": 9.73
+   }
+  ]
+ },
+ {
+  "start": 9.73,
+  "end": 10.64,
+  "words": [
+   {
+    "text": "NOT",
+    "start": 9.73,
+    "end": 10.015
+   },
+   {
+    "text": "THRILLED.",
+    "start": 10.015,
+    "end": 10.64
+   }
+  ]
+ },
+ {
+  "start": 11.34,
+  "end": 13.044,
+  "words": [
+   {
+    "text": "THE",
+    "start": 11.34,
+    "end": 11.727
+   },
+   {
+    "text": "FIRST",
+    "start": 11.727,
+    "end": 12.269
+   },
+   {
+    "text": "HANDHELD",
+    "start": 12.269,
+    "end": 13.044
+   }
+  ]
+ },
+ {
+  "start": 13.044,
+  "end": 14.438,
+  "words": [
+   {
+    "text": "DIGITAL",
+    "start": 13.044,
+    "end": 13.741
+   },
+   {
+    "text": "CAMERA.",
+    "start": 13.741,
+    "end": 14.438
+   }
+  ]
+ },
+ {
+  "start": 14.438,
+  "end": 15.677,
+  "words": [
+   {
+    "text": "EIGHT",
+    "start": 14.438,
+    "end": 14.98
+   },
+   {
+    "text": "POUNDS.",
+    "start": 14.98,
+    "end": 15.677
+   }
+  ]
+ },
+ {
+  "start": 16.077,
+  "end": 17.217,
+  "words": [
+   {
+    "text": "A",
+    "start": 16.077,
+    "end": 16.291
+   },
+   {
+    "text": "HUNDRED",
+    "start": 16.291,
+    "end": 16.932
+   },
+   {
+    "text": "BY",
+    "start": 16.932,
+    "end": 17.217
+   }
+  ]
+ },
+ {
+  "start": 17.217,
+  "end": 18.712,
+  "words": [
+   {
+    "text": "A",
+    "start": 17.217,
+    "end": 17.43
+   },
+   {
+    "text": "HUNDRED",
+    "start": 17.43,
+    "end": 18.071
+   },
+   {
+    "text": "PIXELS.",
+    "start": 18.071,
+    "end": 18.712
+   }
+  ]
+ },
+ {
+  "start": 18.712,
+  "end": 19.994,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 18.712,
+    "end": 19.139
+   },
+   {
+    "text": "PHONE",
+    "start": 19.139,
+    "end": 19.638
+   },
+   {
+    "text": "HAS",
+    "start": 19.638,
+    "end": 19.994
+   }
+  ]
+ },
+ {
+  "start": 19.994,
+  "end": 21.418,
+  "words": [
+   {
+    "text": "A",
+    "start": 19.994,
+    "end": 20.208
+   },
+   {
+    "text": "THOUSAND",
+    "start": 20.208,
+    "end": 20.92
+   },
+   {
+    "text": "TIMES",
+    "start": 20.92,
+    "end": 21.418
+   }
+  ]
+ },
+ {
+  "start": 21.418,
+  "end": 22.118,
+  "words": [
+   {
+    "text": "MORE.",
+    "start": 21.418,
+    "end": 21.917
+   }
+  ]
+ },
+ {
+  "start": 22.417,
+  "end": 23.95,
+  "words": [
+   {
+    "text": "TWENTY-THREE",
+    "start": 22.417,
+    "end": 23.35
+   },
+   {
+    "text": "SECONDS",
+    "start": 23.35,
+    "end": 23.95
+   }
+  ]
+ },
+ {
+  "start": 23.95,
+  "end": 24.95,
+  "words": [
+   {
+    "text": "TO",
+    "start": 23.95,
+    "end": 24.216
+   },
+   {
+    "text": "SAVE",
+    "start": 24.216,
+    "end": 24.616
+   },
+   {
+    "text": "ONE",
+    "start": 24.616,
+    "end": 24.95
+   }
+  ]
+ },
+ {
+  "start": 24.95,
+  "end": 25.616,
+  "words": [
+   {
+    "text": "PICTURE.",
+    "start": 24.95,
+    "end": 25.616
+   }
+  ]
+ },
+ {
+  "start": 25.616,
+  "end": 26.549,
+  "words": [
+   {
+    "text": "TIME",
+    "start": 25.616,
+    "end": 26.016
+   },
+   {
+    "text": "FOR",
+    "start": 26.016,
+    "end": 26.349
+   },
+   {
+    "text": "A",
+    "start": 26.349,
+    "end": 26.549
+   }
+  ]
+ },
+ {
+  "start": 26.549,
+  "end": 27.249,
+  "words": [
+   {
+    "text": "NAP.",
+    "start": 26.549,
+    "end": 26.949
+   }
+  ]
+ },
+ {
+  "start": 27.449,
+  "end": 29.024,
+  "words": [
+   {
+    "text": "KODAK",
+    "start": 27.449,
+    "end": 28.0
+   },
+   {
+    "text": "SOLD",
+    "start": 28.0,
+    "end": 28.472
+   },
+   {
+    "text": "FILM.",
+    "start": 28.472,
+    "end": 29.024
+   }
+  ]
+ },
+ {
+  "start": 29.024,
+  "end": 30.677,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 29.024,
+    "end": 29.496
+   },
+   {
+    "text": "CAMERA",
+    "start": 29.496,
+    "end": 30.126
+   },
+   {
+    "text": "NEEDS",
+    "start": 30.126,
+    "end": 30.677
+   }
+  ]
+ },
+ {
+  "start": 30.677,
+  "end": 31.377,
+  "words": [
+   {
+    "text": "NONE.",
+    "start": 30.677,
+    "end": 31.228
+   }
+  ]
+ },
+ {
+  "start": 31.828,
+  "end": 33.553,
+  "words": [
+   {
+    "text": "KODAK'S",
+    "start": 31.828,
+    "end": 32.604
+   },
+   {
+    "text": "OWN",
+    "start": 32.604,
+    "end": 33.036
+   },
+   {
+    "text": "1979",
+    "start": 33.036,
+    "end": 33.553
+   }
+  ]
+ },
+ {
+  "start": 33.553,
+  "end": 35.192,
+  "words": [
+   {
+    "text": "REPORT",
+    "start": 33.553,
+    "end": 34.243
+   },
+   {
+    "text": "PREDICTED",
+    "start": 34.243,
+    "end": 35.192
+   }
+  ]
+ },
+ {
+  "start": 35.192,
+  "end": 36.917,
+  "words": [
+   {
+    "text": "DIGITAL",
+    "start": 35.192,
+    "end": 35.968
+   },
+   {
+    "text": "BY",
+    "start": 35.968,
+    "end": 36.313
+   },
+   {
+    "text": "2010.",
+    "start": 36.313,
+    "end": 36.917
+   }
+  ]
+ },
+ {
+  "start": 37.317,
+  "end": 38.146,
+  "words": [
+   {
+    "text": "THEY",
+    "start": 37.317,
+    "end": 37.566
+   },
+   {
+    "text": "WERE",
+    "start": 37.566,
+    "end": 37.814
+   },
+   {
+    "text": "RIGHT.",
+    "start": 37.814,
+    "end": 38.146
+   }
+  ]
+ },
+ {
+  "start": 38.846,
+  "end": 40.168,
+  "words": [
+   {
+    "text": "JANUARY",
+    "start": 38.846,
+    "end": 39.59
+   },
+   {
+    "text": "2012:",
+    "start": 39.59,
+    "end": 40.168
+   }
+  ]
+ },
+ {
+  "start": 40.168,
+  "end": 41.739,
+  "words": [
+   {
+    "text": "KODAK",
+    "start": 40.168,
+    "end": 40.747
+   },
+   {
+    "text": "FILES",
+    "start": 40.747,
+    "end": 41.325
+   },
+   {
+    "text": "FOR",
+    "start": 41.325,
+    "end": 41.739
+   }
+  ]
+ },
+ {
+  "start": 41.739,
+  "end": 42.813,
+  "words": [
+   {
+    "text": "BANKRUPTCY.",
+    "start": 41.739,
+    "end": 42.813
+   }
+  ]
+ },
+ {
+  "start": 43.313,
+  "end": 44.4,
+  "words": [
+   {
+    "text": "IT",
+    "start": 43.313,
+    "end": 43.603
+   },
+   {
+    "text": "DID",
+    "start": 43.603,
+    "end": 43.965
+   },
+   {
+    "text": "MAKE",
+    "start": 43.965,
+    "end": 44.4
+   }
+  ]
+ },
+ {
+  "start": 44.4,
+  "end": 45.777,
+  "words": [
+   {
+    "text": "DIGITAL",
+    "start": 44.4,
+    "end": 45.052
+   },
+   {
+    "text": "CAMERAS.",
+    "start": 45.052,
+    "end": 45.777
+   }
+  ]
+ },
+ {
+  "start": 45.777,
+  "end": 46.574,
+  "words": [
+   {
+    "text": "EVEN",
+    "start": 45.777,
+    "end": 46.211
+   },
+   {
+    "text": "NO.",
+    "start": 46.211,
+    "end": 46.574
+   }
+  ]
+ },
+ {
+  "start": 46.574,
+  "end": 47.443,
+  "words": [
+   {
+    "text": "1",
+    "start": 46.574,
+    "end": 46.791
+   },
+   {
+    "text": "IN",
+    "start": 46.791,
+    "end": 47.081
+   },
+   {
+    "text": "THE",
+    "start": 47.081,
+    "end": 47.443
+   }
+  ]
+ },
+ {
+  "start": 47.443,
+  "end": 48.53,
+  "words": [
+   {
+    "text": "US",
+    "start": 47.443,
+    "end": 47.733
+   },
+   {
+    "text": "BY",
+    "start": 47.733,
+    "end": 48.023
+   },
+   {
+    "text": "2005.",
+    "start": 48.023,
+    "end": 48.53
+   }
+  ]
+ },
+ {
+  "start": 49.23,
+  "end": 50.642,
+  "words": [
+   {
+    "text": "FILM",
+    "start": 49.23,
+    "end": 49.654
+   },
+   {
+    "text": "OR",
+    "start": 49.654,
+    "end": 49.936
+   },
+   {
+    "text": "DIGITAL,",
+    "start": 49.936,
+    "end": 50.642
+   }
+  ]
+ },
+ {
+  "start": 50.642,
+  "end": 51.418,
+  "words": [
+   {
+    "text": "ENGINEER?",
+    "start": 50.642,
+    "end": 51.418
+   }
+  ]
+ },
+ {
+  "start": 51.418,
+  "end": 52.336,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 51.418,
+    "end": 51.842
+   },
+   {
+    "text": "CALL.",
+    "start": 51.842,
+    "end": 52.336
+   }
+  ]
+ }
+]

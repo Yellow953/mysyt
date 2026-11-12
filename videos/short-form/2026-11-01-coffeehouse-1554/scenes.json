@@ -1,0 +1,93 @@
+{
+ "slug": "2026-11-01-coffeehouse-1554",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Country Music - Hugh Mitchel.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "It's 1554. You're opening a Starbucks in Istanbul.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> proudly standing behind a wooden counter wearing a plain green apron, arms spread wide, steaming copper cups in front of him, turquoise-tiled wall and a stone Ottoman arch behind him, his head in the upper middle of the frame. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "ISTANBUL 1554",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "No Wi-Fi. No logo. Just coffee, backgammon, and comfy cushions.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting small on a red floor cushion in a cozy Ottoman room with low tables, a backgammon board, steaming cups, hanging lanterns and three tiny stick-figure customers relaxing, wide shot. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "pan_right"
+  },
+  {
+   "id": 3,
+   "text": "Poets show up. Then scholars. People call it the School of the Wise.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> polishing a cup with a smug grin behind a counter while a stick-figure poet in a purple robe reads from a scroll on a cushion and stick-figure scholars in tall turbans listen with delight, warm lantern glow. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 4,
+   "text": "You sell one coffee. They stay five hours.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> slumped bored behind the counter with a single coin in a cash bowl, while a long row of stick-figure customers lounge on cushions behind him chatting and not leaving, no clocks or text, his head in the upper middle. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "5 HOURS",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 5,
+   "text": "Soon the whole city copies you. Hundreds of coffeehouses.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing wide-eyed and shocked in the lower foreground of a sunny Istanbul street lined with many small colorful coffeehouses with steaming chimneys and awnings, domes and minarets far behind, blank awnings. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_out"
+  },
+  {
+   "id": 6,
+   "text": "Then the Sultan checks who's inside. Soldiers. Plotting.",
+   "image_prompt": "A stick-figure Sultan in a big white turban and purple robe peeks nervously through a doorway at a group of stick-figure soldiers in tall white hats whispering together around a low table, dramatic red and orange lantern light, no scarf on anyone. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. Keep the whole picture away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 7,
+   "text": "In 1633, Murad IV shuts every coffeehouse in Istanbul.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing sadly in front of a coffeehouse door sealed with crossed wooden planks, a coffee pot with a sealed lid on the ground beside him, dusk purple sky. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "1633",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 8,
+   "text": "You built a place so good at getting people talking, it scared an empire.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> tiny in the lower middle of the frame with a flat deadpan face, a huge dark purple shadow of a turbaned Sultan looming over a small steaming coffee cup beside him, cover-style composition, his head about 35 percent from the top. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 9,
+   "text": "Later, the coffeehouses come back.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> peeking out with relief from behind a counter as the coffeehouse door swings open, steam rising from cups, stick-figure customers happily filing back in, bright warm morning light. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_out"
+  },
+  {
+   "id": 10,
+   "text": "Your Starbucks lasted seventy-nine years. The idea? Still open.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> waving cheerfully holding a coffee cup with a little pennant flag stuck in it, scarf flapping in the wind, bright sunny Istanbul rooftops and the Bosphorus behind him, no text on the flag. Style: vibrant hand-drawn ink illustration with bold saturated watercolor fills, thin wobbly black pen outlines with slight sketchy line variation, rich lively colors: warm orange, coral, teal, turquoise, grass green, royal purple, sky blue and deep red, warm golden-hour light with glowing highlights, cheerful detailed but uncluttered background with a few charming details, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf; the scarf is the only yellow in the picture, so keep every other object, wall and light away from yellow. Anatomy check: every human figure has exactly two arms and two hands, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "79 YEARS",
+   "motion": "zoom_in"
+  }
+ ]
+}

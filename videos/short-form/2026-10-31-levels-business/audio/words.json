@@ -1,0 +1,977 @@
+[
+ {
+  "word": "Every",
+  "start": 0.0,
+  "end": 0.433
+ },
+ {
+  "word": "level",
+  "start": 0.433,
+  "end": 0.866
+ },
+ {
+  "word": "of",
+  "start": 0.866,
+  "end": 1.114
+ },
+ {
+  "word": "being",
+  "start": 1.114,
+  "end": 1.547
+ },
+ {
+  "word": "a",
+  "start": 1.547,
+  "end": 1.732
+ },
+ {
+  "word": "businessman.",
+  "start": 1.732,
+  "end": 2.598
+ },
+ {
+  "word": "From",
+  "start": 2.598,
+  "end": 2.97
+ },
+ {
+  "word": "making",
+  "start": 2.97,
+  "end": 3.464
+ },
+ {
+  "word": "your",
+  "start": 3.464,
+  "end": 3.836
+ },
+ {
+  "word": "first",
+  "start": 3.836,
+  "end": 4.269
+ },
+ {
+  "word": "five",
+  "start": 4.269,
+  "end": 4.64
+ },
+ {
+  "word": "dollars\u2026",
+  "start": 4.64,
+  "end": 5.258
+ },
+ {
+  "word": "to",
+  "start": 5.258,
+  "end": 5.506
+ },
+ {
+  "word": "owning",
+  "start": 5.506,
+  "end": 6.001
+ },
+ {
+  "word": "a",
+  "start": 6.001,
+  "end": 6.186
+ },
+ {
+  "word": "company",
+  "start": 6.186,
+  "end": 6.743
+ },
+ {
+  "word": "that",
+  "start": 6.743,
+  "end": 7.114
+ },
+ {
+  "word": "makes",
+  "start": 7.114,
+  "end": 7.547
+ },
+ {
+  "word": "millions.",
+  "start": 7.547,
+  "end": 8.228
+ },
+ {
+  "word": "Level",
+  "start": 8.728,
+  "end": 9.257
+ },
+ {
+  "word": "one:",
+  "start": 9.257,
+  "end": 9.71
+ },
+ {
+  "word": "The",
+  "start": 9.71,
+  "end": 10.088
+ },
+ {
+  "word": "Hustler.",
+  "start": 10.088,
+  "end": 10.843
+ },
+ {
+  "word": "You",
+  "start": 10.843,
+  "end": 11.221
+ },
+ {
+  "word": "sell",
+  "start": 11.221,
+  "end": 11.674
+ },
+ {
+  "word": "anything",
+  "start": 11.674,
+  "end": 12.429
+ },
+ {
+  "word": "you",
+  "start": 12.429,
+  "end": 12.807
+ },
+ {
+  "word": "can",
+  "start": 12.807,
+  "end": 13.185
+ },
+ {
+  "word": "find.",
+  "start": 13.185,
+  "end": 13.714
+ },
+ {
+  "word": "Old",
+  "start": 13.714,
+  "end": 14.091
+ },
+ {
+  "word": "phones,",
+  "start": 14.091,
+  "end": 14.771
+ },
+ {
+  "word": "sneakers,",
+  "start": 14.771,
+  "end": 15.602
+ },
+ {
+  "word": "random",
+  "start": 15.602,
+  "end": 16.206
+ },
+ {
+  "word": "stuff",
+  "start": 16.206,
+  "end": 16.735
+ },
+ {
+  "word": "from",
+  "start": 16.735,
+  "end": 17.188
+ },
+ {
+  "word": "your",
+  "start": 17.188,
+  "end": 17.641
+ },
+ {
+  "word": "bedroom.",
+  "start": 17.641,
+  "end": 18.397
+ },
+ {
+  "word": "Your",
+  "start": 18.397,
+  "end": 18.85
+ },
+ {
+  "word": "startup",
+  "start": 18.85,
+  "end": 19.53
+ },
+ {
+  "word": "capital?",
+  "start": 19.53,
+  "end": 20.285
+ },
+ {
+  "word": "Basically",
+  "start": 20.285,
+  "end": 21.116
+ },
+ {
+  "word": "zero.",
+  "start": 21.116,
+  "end": 21.645
+ },
+ {
+  "word": "Level",
+  "start": 22.045,
+  "end": 22.552
+ },
+ {
+  "word": "two:",
+  "start": 22.552,
+  "end": 22.987
+ },
+ {
+  "word": "Freelancer.",
+  "start": 22.987,
+  "end": 23.929
+ },
+ {
+  "word": "You",
+  "start": 23.929,
+  "end": 24.291
+ },
+ {
+  "word": "finally",
+  "start": 24.291,
+  "end": 24.943
+ },
+ {
+  "word": "make",
+  "start": 24.943,
+  "end": 25.378
+ },
+ {
+  "word": "money",
+  "start": 25.378,
+  "end": 25.885
+ },
+ {
+  "word": "from",
+  "start": 25.885,
+  "end": 26.32
+ },
+ {
+  "word": "your",
+  "start": 26.32,
+  "end": 26.755
+ },
+ {
+  "word": "skills.",
+  "start": 26.755,
+  "end": 27.407
+ },
+ {
+  "word": "There's",
+  "start": 27.407,
+  "end": 28.059
+ },
+ {
+  "word": "just",
+  "start": 28.059,
+  "end": 28.494
+ },
+ {
+  "word": "one",
+  "start": 28.494,
+  "end": 28.856
+ },
+ {
+  "word": "problem:",
+  "start": 28.856,
+  "end": 29.581
+ },
+ {
+  "word": "if",
+  "start": 29.581,
+  "end": 29.871
+ },
+ {
+  "word": "you",
+  "start": 29.871,
+  "end": 30.233
+ },
+ {
+  "word": "stop",
+  "start": 30.233,
+  "end": 30.668
+ },
+ {
+  "word": "working,",
+  "start": 30.668,
+  "end": 31.392
+ },
+ {
+  "word": "the",
+  "start": 31.392,
+  "end": 31.754
+ },
+ {
+  "word": "money",
+  "start": 31.754,
+  "end": 32.262
+ },
+ {
+  "word": "stops",
+  "start": 32.262,
+  "end": 32.769
+ },
+ {
+  "word": "coming.",
+  "start": 32.769,
+  "end": 33.421
+ },
+ {
+  "word": "Level",
+  "start": 33.821,
+  "end": 34.3
+ },
+ {
+  "word": "three:",
+  "start": 34.3,
+  "end": 34.848
+ },
+ {
+  "word": "Startup",
+  "start": 34.848,
+  "end": 35.465
+ },
+ {
+  "word": "Founder.",
+  "start": 35.465,
+  "end": 36.15
+ },
+ {
+  "word": "You",
+  "start": 36.15,
+  "end": 36.492
+ },
+ {
+  "word": "have",
+  "start": 36.492,
+  "end": 36.903
+ },
+ {
+  "word": "an",
+  "start": 36.903,
+  "end": 37.177
+ },
+ {
+  "word": "idea,",
+  "start": 37.177,
+  "end": 37.657
+ },
+ {
+  "word": "a",
+  "start": 37.657,
+  "end": 37.862
+ },
+ {
+  "word": "logo,",
+  "start": 37.862,
+  "end": 38.341
+ },
+ {
+  "word": "and",
+  "start": 38.341,
+  "end": 38.684
+ },
+ {
+  "word": "absolutely",
+  "start": 38.684,
+  "end": 39.506
+ },
+ {
+  "word": "no",
+  "start": 39.506,
+  "end": 39.78
+ },
+ {
+  "word": "customers.",
+  "start": 39.78,
+  "end": 40.602
+ },
+ {
+  "word": "But",
+  "start": 40.602,
+  "end": 40.944
+ },
+ {
+  "word": "don't",
+  "start": 40.944,
+  "end": 41.424
+ },
+ {
+  "word": "worry.",
+  "start": 41.424,
+  "end": 41.971
+ },
+ {
+  "word": "Your",
+  "start": 41.971,
+  "end": 42.382
+ },
+ {
+  "word": "pitch",
+  "start": 42.382,
+  "end": 42.862
+ },
+ {
+  "word": "deck",
+  "start": 42.862,
+  "end": 43.273
+ },
+ {
+  "word": "says",
+  "start": 43.273,
+  "end": 43.684
+ },
+ {
+  "word": "you're",
+  "start": 43.684,
+  "end": 44.232
+ },
+ {
+  "word": "changing",
+  "start": 44.232,
+  "end": 44.917
+ },
+ {
+  "word": "the",
+  "start": 44.917,
+  "end": 45.259
+ },
+ {
+  "word": "world.",
+  "start": 45.259,
+  "end": 45.807
+ },
+ {
+  "word": "Level",
+  "start": 46.207,
+  "end": 46.764
+ },
+ {
+  "word": "four:",
+  "start": 46.764,
+  "end": 47.321
+ },
+ {
+  "word": "Business",
+  "start": 47.321,
+  "end": 48.117
+ },
+ {
+  "word": "Owner.",
+  "start": 48.117,
+  "end": 48.754
+ },
+ {
+  "word": "Customers",
+  "start": 48.754,
+  "end": 49.629
+ },
+ {
+  "word": "are",
+  "start": 49.629,
+  "end": 50.027
+ },
+ {
+  "word": "finally",
+  "start": 50.027,
+  "end": 50.743
+ },
+ {
+  "word": "paying.",
+  "start": 50.743,
+  "end": 51.459
+ },
+ {
+  "word": "Now",
+  "start": 51.459,
+  "end": 51.857
+ },
+ {
+  "word": "you're",
+  "start": 51.857,
+  "end": 52.494
+ },
+ {
+  "word": "managing",
+  "start": 52.494,
+  "end": 53.29
+ },
+ {
+  "word": "employees,",
+  "start": 53.29,
+  "end": 54.245
+ },
+ {
+  "word": "invoices,",
+  "start": 54.245,
+  "end": 55.12
+ },
+ {
+  "word": "angry",
+  "start": 55.12,
+  "end": 55.677
+ },
+ {
+  "word": "emails,",
+  "start": 55.677,
+  "end": 56.394
+ },
+ {
+  "word": "and",
+  "start": 56.394,
+  "end": 56.792
+ },
+ {
+  "word": "taxes.",
+  "start": 56.792,
+  "end": 57.428
+ },
+ {
+  "word": "Congratulations.",
+  "start": 57.428,
+  "end": 58.861
+ },
+ {
+  "word": "You",
+  "start": 58.861,
+  "end": 59.259
+ },
+ {
+  "word": "created",
+  "start": 59.259,
+  "end": 59.975
+ },
+ {
+  "word": "yourself",
+  "start": 59.975,
+  "end": 60.771
+ },
+ {
+  "word": "a",
+  "start": 60.771,
+  "end": 61.01
+ },
+ {
+  "word": "job.",
+  "start": 61.01,
+  "end": 61.487
+ },
+ {
+  "word": "Level",
+  "start": 61.887,
+  "end": 62.413
+ },
+ {
+  "word": "five:",
+  "start": 62.413,
+  "end": 62.94
+ },
+ {
+  "word": "CEO.",
+  "start": 62.94,
+  "end": 63.391
+ },
+ {
+  "word": "You",
+  "start": 63.391,
+  "end": 63.767
+ },
+ {
+  "word": "have",
+  "start": 63.767,
+  "end": 64.218
+ },
+ {
+  "word": "a",
+  "start": 64.218,
+  "end": 64.444
+ },
+ {
+  "word": "team,",
+  "start": 64.444,
+  "end": 64.97
+ },
+ {
+  "word": "real",
+  "start": 64.97,
+  "end": 65.421
+ },
+ {
+  "word": "revenue,",
+  "start": 65.421,
+  "end": 66.173
+ },
+ {
+  "word": "and",
+  "start": 66.173,
+  "end": 66.549
+ },
+ {
+  "word": "an",
+  "start": 66.549,
+  "end": 66.85
+ },
+ {
+  "word": "actual",
+  "start": 66.85,
+  "end": 67.452
+ },
+ {
+  "word": "office.",
+  "start": 67.452,
+  "end": 68.128
+ },
+ {
+  "word": "You",
+  "start": 68.128,
+  "end": 68.504
+ },
+ {
+  "word": "no",
+  "start": 68.504,
+  "end": 68.805
+ },
+ {
+  "word": "longer",
+  "start": 68.805,
+  "end": 69.407
+ },
+ {
+  "word": "do",
+  "start": 69.407,
+  "end": 69.707
+ },
+ {
+  "word": "everything",
+  "start": 69.707,
+  "end": 70.61
+ },
+ {
+  "word": "yourself.",
+  "start": 70.61,
+  "end": 71.437
+ },
+ {
+  "word": "Instead,",
+  "start": 71.437,
+  "end": 72.189
+ },
+ {
+  "word": "you",
+  "start": 72.189,
+  "end": 72.565
+ },
+ {
+  "word": "attend",
+  "start": 72.565,
+  "end": 73.166
+ },
+ {
+  "word": "meetings",
+  "start": 73.166,
+  "end": 73.918
+ },
+ {
+  "word": "about",
+  "start": 73.918,
+  "end": 74.445
+ },
+ {
+  "word": "meetings.",
+  "start": 74.445,
+  "end": 75.272
+ },
+ {
+  "word": "Level",
+  "start": 75.672,
+  "end": 76.108
+ },
+ {
+  "word": "six:",
+  "start": 76.108,
+  "end": 76.481
+ },
+ {
+  "word": "Serial",
+  "start": 76.481,
+  "end": 76.98
+ },
+ {
+  "word": "Entrepreneur.",
+  "start": 76.98,
+  "end": 77.914
+ },
+ {
+  "word": "You've",
+  "start": 77.914,
+  "end": 78.412
+ },
+ {
+  "word": "built",
+  "start": 78.412,
+  "end": 78.848
+ },
+ {
+  "word": "multiple",
+  "start": 78.848,
+  "end": 79.47
+ },
+ {
+  "word": "businesses.",
+  "start": 79.47,
+  "end": 80.28
+ },
+ {
+  "word": "Money",
+  "start": 80.28,
+  "end": 80.716
+ },
+ {
+  "word": "is",
+  "start": 80.716,
+  "end": 80.965
+ },
+ {
+  "word": "coming",
+  "start": 80.965,
+  "end": 81.463
+ },
+ {
+  "word": "from",
+  "start": 81.463,
+  "end": 81.837
+ },
+ {
+  "word": "different",
+  "start": 81.837,
+  "end": 82.521
+ },
+ {
+  "word": "directions,",
+  "start": 82.521,
+  "end": 83.331
+ },
+ {
+  "word": "and",
+  "start": 83.331,
+  "end": 83.642
+ },
+ {
+  "word": "your",
+  "start": 83.642,
+  "end": 84.016
+ },
+ {
+  "word": "calendar",
+  "start": 84.016,
+  "end": 84.639
+ },
+ {
+  "word": "looks",
+  "start": 84.639,
+  "end": 85.074
+ },
+ {
+  "word": "more",
+  "start": 85.074,
+  "end": 85.448
+ },
+ {
+  "word": "complicated",
+  "start": 85.448,
+  "end": 86.258
+ },
+ {
+  "word": "than",
+  "start": 86.258,
+  "end": 86.631
+ },
+ {
+  "word": "a",
+  "start": 86.631,
+  "end": 86.818
+ },
+ {
+  "word": "NASA",
+  "start": 86.818,
+  "end": 87.192
+ },
+ {
+  "word": "launch.",
+  "start": 87.192,
+  "end": 87.752
+ },
+ {
+  "word": "Final",
+  "start": 88.152,
+  "end": 88.628
+ },
+ {
+  "word": "level:",
+  "start": 88.628,
+  "end": 89.171
+ },
+ {
+  "word": "Business",
+  "start": 89.171,
+  "end": 89.851
+ },
+ {
+  "word": "Empire.",
+  "start": 89.851,
+  "end": 90.463
+ },
+ {
+  "word": "Your",
+  "start": 90.463,
+  "end": 90.87
+ },
+ {
+  "word": "companies",
+  "start": 90.87,
+  "end": 91.618
+ },
+ {
+  "word": "run",
+  "start": 91.618,
+  "end": 91.958
+ },
+ {
+  "word": "with",
+  "start": 91.958,
+  "end": 92.366
+ },
+ {
+  "word": "entire",
+  "start": 92.366,
+  "end": 92.909
+ },
+ {
+  "word": "leadership",
+  "start": 92.909,
+  "end": 93.725
+ },
+ {
+  "word": "teams.",
+  "start": 93.725,
+  "end": 94.269
+ },
+ {
+  "word": "You",
+  "start": 94.269,
+  "end": 94.608
+ },
+ {
+  "word": "make",
+  "start": 94.608,
+  "end": 95.016
+ },
+ {
+  "word": "huge",
+  "start": 95.016,
+  "end": 95.424
+ },
+ {
+  "word": "decisions,",
+  "start": 95.424,
+  "end": 96.239
+ },
+ {
+  "word": "invest",
+  "start": 96.239,
+  "end": 96.783
+ },
+ {
+  "word": "millions,",
+  "start": 96.783,
+  "end": 97.531
+ },
+ {
+  "word": "and",
+  "start": 97.531,
+  "end": 97.87
+ },
+ {
+  "word": "somehow",
+  "start": 97.87,
+  "end": 98.482
+ },
+ {
+  "word": "still",
+  "start": 98.482,
+  "end": 98.958
+ },
+ {
+  "word": "ask",
+  "start": 98.958,
+  "end": 99.298
+ },
+ {
+  "word": "your",
+  "start": 99.298,
+  "end": 99.705
+ },
+ {
+  "word": "assistant",
+  "start": 99.705,
+  "end": 100.453
+ },
+ {
+  "word": "where",
+  "start": 100.453,
+  "end": 100.929
+ },
+ {
+  "word": "your",
+  "start": 100.929,
+  "end": 101.336
+ },
+ {
+  "word": "keys",
+  "start": 101.336,
+  "end": 101.744
+ },
+ {
+  "word": "are.",
+  "start": 101.744,
+  "end": 102.152
+ },
+ {
+  "word": "Which",
+  "start": 102.652,
+  "end": 102.978
+ },
+ {
+  "word": "level",
+  "start": 102.978,
+  "end": 103.303
+ },
+ {
+  "word": "are",
+  "start": 103.303,
+  "end": 103.536
+ },
+ {
+  "word": "you",
+  "start": 103.536,
+  "end": 103.768
+ },
+ {
+  "word": "at",
+  "start": 103.768,
+  "end": 103.954
+ },
+ {
+  "word": "right",
+  "start": 103.954,
+  "end": 104.28
+ },
+ {
+  "word": "now?",
+  "start": 104.28,
+  "end": 104.559
+ }
+]

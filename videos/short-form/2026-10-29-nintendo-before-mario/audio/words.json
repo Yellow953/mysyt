@@ -1,0 +1,512 @@
+[
+ {
+  "word": "Before",
+  "start": 0.0,
+  "end": 0.553
+ },
+ {
+  "word": "Mario,",
+  "start": 0.553,
+  "end": 1.107
+ },
+ {
+  "word": "Nintendo",
+  "start": 1.107,
+  "end": 1.799
+ },
+ {
+  "word": "ran",
+  "start": 1.799,
+  "end": 2.145
+ },
+ {
+  "word": "a",
+  "start": 2.145,
+  "end": 2.352
+ },
+ {
+  "word": "taxi",
+  "start": 2.352,
+  "end": 2.767
+ },
+ {
+  "word": "company.",
+  "start": 2.767,
+  "end": 3.459
+ },
+ {
+  "word": "Also",
+  "start": 3.859,
+  "end": 4.357
+ },
+ {
+  "word": "instant",
+  "start": 4.357,
+  "end": 5.105
+ },
+ {
+  "word": "rice.",
+  "start": 5.105,
+  "end": 5.687
+ },
+ {
+  "word": "Also",
+  "start": 5.687,
+  "end": 6.185
+ },
+ {
+  "word": "a",
+  "start": 6.185,
+  "end": 6.435
+ },
+ {
+  "word": "vacuum",
+  "start": 6.435,
+  "end": 7.099
+ },
+ {
+  "word": "cleaner.",
+  "start": 7.099,
+  "end": 7.93
+ },
+ {
+  "word": "Then",
+  "start": 8.43,
+  "end": 8.757
+ },
+ {
+  "word": "its",
+  "start": 8.757,
+  "end": 9.03
+ },
+ {
+  "word": "share",
+  "start": 9.03,
+  "end": 9.411
+ },
+ {
+  "word": "price",
+  "start": 9.411,
+  "end": 9.793
+ },
+ {
+  "word": "fell",
+  "start": 9.793,
+  "end": 10.12
+ },
+ {
+  "word": "from",
+  "start": 10.12,
+  "end": 10.447
+ },
+ {
+  "word": "nine",
+  "start": 10.447,
+  "end": 10.774
+ },
+ {
+  "word": "hundred",
+  "start": 10.774,
+  "end": 11.264
+ },
+ {
+  "word": "yen",
+  "start": 11.264,
+  "end": 11.537
+ },
+ {
+  "word": "to",
+  "start": 11.537,
+  "end": 11.755
+ },
+ {
+  "word": "sixty.",
+  "start": 11.755,
+  "end": 12.191
+ },
+ {
+  "word": "So",
+  "start": 12.691,
+  "end": 12.908
+ },
+ {
+  "word": "how",
+  "start": 12.908,
+  "end": 13.18
+ },
+ {
+  "word": "did",
+  "start": 13.18,
+  "end": 13.451
+ },
+ {
+  "word": "this",
+  "start": 13.451,
+  "end": 13.777
+ },
+ {
+  "word": "mess",
+  "start": 13.777,
+  "end": 14.103
+ },
+ {
+  "word": "end",
+  "start": 14.103,
+  "end": 14.374
+ },
+ {
+  "word": "up",
+  "start": 14.374,
+  "end": 14.591
+ },
+ {
+  "word": "making",
+  "start": 14.591,
+  "end": 15.026
+ },
+ {
+  "word": "your",
+  "start": 15.026,
+  "end": 15.351
+ },
+ {
+  "word": "childhood?",
+  "start": 15.351,
+  "end": 16.003
+ },
+ {
+  "word": "It",
+  "start": 16.503,
+  "end": 16.842
+ },
+ {
+  "word": "started",
+  "start": 16.842,
+  "end": 17.606
+ },
+ {
+  "word": "with",
+  "start": 17.606,
+  "end": 18.114
+ },
+ {
+  "word": "flower",
+  "start": 18.114,
+  "end": 18.793
+ },
+ {
+  "word": "cards.",
+  "start": 18.793,
+  "end": 19.471
+ },
+ {
+  "word": "Yes,",
+  "start": 19.471,
+  "end": 19.98
+ },
+ {
+  "word": "cards.",
+  "start": 19.98,
+  "end": 20.659
+ },
+ {
+  "word": "1889,",
+  "start": 20.659,
+  "end": 21.253
+ },
+ {
+  "word": "by",
+  "start": 21.253,
+  "end": 21.592
+ },
+ {
+  "word": "their",
+  "start": 21.592,
+  "end": 22.185
+ },
+ {
+  "word": "own",
+  "start": 22.185,
+  "end": 22.61
+ },
+ {
+  "word": "count.",
+  "start": 22.61,
+  "end": 23.288
+ },
+ {
+  "word": "Then",
+  "start": 23.788,
+  "end": 24.191
+ },
+ {
+  "word": "Disney",
+  "start": 24.191,
+  "end": 24.727
+ },
+ {
+  "word": "cards",
+  "start": 24.727,
+  "end": 25.197
+ },
+ {
+  "word": "sold",
+  "start": 25.197,
+  "end": 25.6
+ },
+ {
+  "word": "at",
+  "start": 25.6,
+  "end": 25.868
+ },
+ {
+  "word": "least",
+  "start": 25.868,
+  "end": 26.338
+ },
+ {
+  "word": "six",
+  "start": 26.338,
+  "end": 26.673
+ },
+ {
+  "word": "hundred",
+  "start": 26.673,
+  "end": 27.277
+ },
+ {
+  "word": "thousand",
+  "start": 27.277,
+  "end": 27.948
+ },
+ {
+  "word": "packs.",
+  "start": 27.948,
+  "end": 28.485
+ },
+ {
+  "word": "You'd",
+  "start": 28.485,
+  "end": 28.954
+ },
+ {
+  "word": "have",
+  "start": 28.954,
+  "end": 29.357
+ },
+ {
+  "word": "retired.",
+  "start": 29.357,
+  "end": 30.028
+ },
+ {
+  "word": "Instead,",
+  "start": 30.378,
+  "end": 31.44
+ },
+ {
+  "word": "in",
+  "start": 31.44,
+  "end": 31.864
+ },
+ {
+  "word": "the",
+  "start": 31.864,
+  "end": 32.395
+ },
+ {
+  "word": "1960s:",
+  "start": 32.395,
+  "end": 33.245
+ },
+ {
+  "word": "taxis.",
+  "start": 33.245,
+  "end": 34.094
+ },
+ {
+  "word": "Union",
+  "start": 34.094,
+  "end": 34.837
+ },
+ {
+  "word": "trouble.",
+  "start": 34.837,
+  "end": 35.899
+ },
+ {
+  "word": "Sold.",
+  "start": 35.899,
+  "end": 36.642
+ },
+ {
+  "word": "Then",
+  "start": 36.942,
+  "end": 37.323
+ },
+ {
+  "word": "a",
+  "start": 37.323,
+  "end": 37.513
+ },
+ {
+  "word": "maintenance",
+  "start": 37.513,
+  "end": 38.338
+ },
+ {
+  "word": "guy",
+  "start": 38.338,
+  "end": 38.656
+ },
+ {
+  "word": "built",
+  "start": 38.656,
+  "end": 39.1
+ },
+ {
+  "word": "a",
+  "start": 39.1,
+  "end": 39.29
+ },
+ {
+  "word": "toy",
+  "start": 39.29,
+  "end": 39.607
+ },
+ {
+  "word": "arm",
+  "start": 39.607,
+  "end": 39.925
+ },
+ {
+  "word": "for",
+  "start": 39.925,
+  "end": 40.242
+ },
+ {
+  "word": "fun.",
+  "start": 40.242,
+  "end": 40.623
+ },
+ {
+  "word": "It",
+  "start": 40.623,
+  "end": 40.877
+ },
+ {
+  "word": "sold.",
+  "start": 40.877,
+  "end": 41.321
+ },
+ {
+  "word": "Fifteen",
+  "start": 41.721,
+  "end": 42.404
+ },
+ {
+  "word": "years",
+  "start": 42.404,
+  "end": 42.935
+ },
+ {
+  "word": "later,",
+  "start": 42.935,
+  "end": 43.542
+ },
+ {
+  "word": "same",
+  "start": 43.542,
+  "end": 43.997
+ },
+ {
+  "word": "company:",
+  "start": 43.997,
+  "end": 44.756
+ },
+ {
+  "word": "Donkey",
+  "start": 44.756,
+  "end": 45.363
+ },
+ {
+  "word": "Kong.",
+  "start": 45.363,
+  "end": 45.894
+ },
+ {
+  "word": "Mario's",
+  "start": 45.894,
+  "end": 46.577
+ },
+ {
+  "word": "debut.",
+  "start": 46.577,
+  "end": 47.184
+ },
+ {
+  "word": "You'd",
+  "start": 47.184,
+  "end": 47.716
+ },
+ {
+  "word": "still",
+  "start": 47.716,
+  "end": 48.247
+ },
+ {
+  "word": "be",
+  "start": 48.247,
+  "end": 48.55
+ },
+ {
+  "word": "driving",
+  "start": 48.55,
+  "end": 49.233
+ },
+ {
+  "word": "a",
+  "start": 49.233,
+  "end": 49.461
+ },
+ {
+  "word": "taxi.",
+  "start": 49.461,
+  "end": 49.992
+ },
+ {
+  "word": "Which",
+  "start": 50.492,
+  "end": 50.825
+ },
+ {
+  "word": "side",
+  "start": 50.825,
+  "end": 51.11
+ },
+ {
+  "word": "hustle",
+  "start": 51.11,
+  "end": 51.49
+ },
+ {
+  "word": "would",
+  "start": 51.49,
+  "end": 51.822
+ },
+ {
+  "word": "you",
+  "start": 51.822,
+  "end": 52.06
+ },
+ {
+  "word": "have",
+  "start": 52.06,
+  "end": 52.345
+ },
+ {
+  "word": "tried?",
+  "start": 52.345,
+  "end": 52.725
+ }
+]

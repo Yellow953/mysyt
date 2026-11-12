@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-27-fur-to-fashion",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Other apes wake up dressed. You lost your fur. Scientists still argue why.",
+      "image_prompt": "split-screen image divided by a thin vertical line: on the left <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> fully dressed in a hoodie and jeans tugging at his sleeve with a tired face in a plain bedroom, on the right a big calm stick-figure ape lounging in a green jungle clearing covered head to toe in thick brown fur, looking cozy and smug. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Around one to two million years ago, we shed most of it.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a plain sand-colored long-johns suit covering torso, arms and legs with tufts of brown fur poofing out of his sleeves and collar and a shocked wide-eyed face, standing mid-frame in a sunny clearing, a small calm furry ape sitting on a low rock at mid-right looking smug, big empty pale sky across the top third of the image, the bottom right corner of the image empty grass. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true
+    },
+    {
+      "id": 3,
+      "text": "Maybe sweating. Maybe parasites. Nobody wrote it down.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a plain sand-colored long-johns suit covering torso, arms and legs peeking over a big rock with sweat drops flying off his head and a tiny cartoon bug hopping away, two small thought bubbles above him with a sweat drop and a bug, a flat deadpan face, open golden savanna. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 4,
+      "text": "Then winter happened. By four hundred thousand years ago, someone was scraping hides.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wrapped in a ragged animal hide lounging on a rock in a snowy landscape with a flat half-lidded lazy face and a few shiver lines, behind him a small stick-figure forager sweating while scraping an animal hide stretched on a wooden frame with a flat stone tool, a pale cold sky. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 5,
+      "text": "Not me.",
+      "image_prompt": "(reuses scene 4's image with a different camera move)",
+      "uses_character": true,
+      "motion": "zoom_out",
+      "reuse_image_of": 4
+    },
+    {
+      "id": 6,
+      "text": "Lice DNA hints clothes existed by about a hundred thousand years ago.",
+      "image_prompt": "a stick-figure scientist with round glasses pointing at a simple family-tree drawing of two branches splitting apart with a tiny louse at the end of each branch, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wrapped in an animal hide watching with raised eyebrows, plain pale background, no writing. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 7,
+      "text": "The lice moved in. Rent-free.",
+      "image_prompt": "a line of tiny cartoon lice carrying tiny suitcases and climbing up onto the shoulder of a character with a flat deadpan face wearing a simple animal-hide tunic, open savanna, the character is <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>>. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 8,
+      "text": "A 2024 study links eyed needles to fitted, decorated clothes.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> proudly holding up a small bone needle with an eye next to a neatly stitched hide tunic decorated with a few shell beads and one feather, a few tiny stick figures admiring it in a small camp, a confident smug face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 9,
+      "text": "Survival gear became a statement. Mine says: tired.",
+      "image_prompt": "split-screen image divided by a thin diagonal line: on the left <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wrapped in a ragged hide shivering in snow, on the right <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a stylish modern jacket posing on a city sidewalk with one hand on his hip but a tired deadpan half-lidded face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 10,
+      "text": "Would you take the fur back? Tell me below.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a modern hoodie standing in front of a full-length mirror looking straight at the viewer with a half smile and one raised eyebrow, the mirror reflection is a cozy smug furry ape, a simple bedroom. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: the main character is always fully covered by clothes, a plain sand-colored long-johns suit, fur or a hide, never nude.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

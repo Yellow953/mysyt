@@ -1,0 +1,502 @@
+[
+ {
+  "word": "Think",
+  "start": 0.0,
+  "end": 0.52
+ },
+ {
+  "word": "knights",
+  "start": 0.52,
+  "end": 1.19
+ },
+ {
+  "word": "spent",
+  "start": 1.19,
+  "end": 1.71
+ },
+ {
+  "word": "all",
+  "start": 1.71,
+  "end": 2.082
+ },
+ {
+  "word": "day",
+  "start": 2.082,
+  "end": 2.453
+ },
+ {
+  "word": "jousting,",
+  "start": 2.453,
+  "end": 3.271
+ },
+ {
+  "word": "rescuing",
+  "start": 3.271,
+  "end": 4.015
+ },
+ {
+  "word": "princesses,",
+  "start": 4.015,
+  "end": 4.981
+ },
+ {
+  "word": "and",
+  "start": 4.981,
+  "end": 5.353
+ },
+ {
+  "word": "slaying",
+  "start": 5.353,
+  "end": 6.022
+ },
+ {
+  "word": "dragons?",
+  "start": 6.022,
+  "end": 6.765
+ },
+ {
+  "word": "Yeah...",
+  "start": 6.765,
+  "end": 7.434
+ },
+ {
+  "word": "not",
+  "start": 7.434,
+  "end": 7.806
+ },
+ {
+  "word": "even",
+  "start": 7.806,
+  "end": 8.252
+ },
+ {
+  "word": "close.",
+  "start": 8.252,
+  "end": 8.847
+ },
+ {
+  "word": "Most",
+  "start": 9.247,
+  "end": 9.555
+ },
+ {
+  "word": "of",
+  "start": 9.555,
+  "end": 9.76
+ },
+ {
+  "word": "the",
+  "start": 9.76,
+  "end": 10.016
+ },
+ {
+  "word": "time,",
+  "start": 10.016,
+  "end": 10.375
+ },
+ {
+  "word": "being",
+  "start": 10.375,
+  "end": 10.734
+ },
+ {
+  "word": "a",
+  "start": 10.734,
+  "end": 10.888
+ },
+ {
+  "word": "knight",
+  "start": 10.888,
+  "end": 11.298
+ },
+ {
+  "word": "was",
+  "start": 11.298,
+  "end": 11.554
+ },
+ {
+  "word": "mostly",
+  "start": 11.554,
+  "end": 11.965
+ },
+ {
+  "word": "heavy",
+  "start": 11.965,
+  "end": 12.323
+ },
+ {
+  "word": "armor",
+  "start": 12.323,
+  "end": 12.682
+ },
+ {
+  "word": "and",
+  "start": 12.682,
+  "end": 12.939
+ },
+ {
+  "word": "paperwork.",
+  "start": 12.939,
+  "end": 13.554
+ },
+ {
+  "word": "They",
+  "start": 13.954,
+  "end": 14.369
+ },
+ {
+  "word": "trained",
+  "start": 14.369,
+  "end": 14.993
+ },
+ {
+  "word": "for",
+  "start": 14.993,
+  "end": 15.339
+ },
+ {
+  "word": "years,",
+  "start": 15.339,
+  "end": 15.893
+ },
+ {
+  "word": "getting",
+  "start": 15.893,
+  "end": 16.516
+ },
+ {
+  "word": "whacked",
+  "start": 16.516,
+  "end": 17.139
+ },
+ {
+  "word": "with",
+  "start": 17.139,
+  "end": 17.554
+ },
+ {
+  "word": "sticks.",
+  "start": 17.554,
+  "end": 18.178
+ },
+ {
+  "word": "Mess",
+  "start": 18.178,
+  "end": 18.593
+ },
+ {
+  "word": "up?",
+  "start": 18.593,
+  "end": 18.939
+ },
+ {
+  "word": "Congratulations.",
+  "start": 18.939,
+  "end": 20.186
+ },
+ {
+  "word": "You're",
+  "start": 20.186,
+  "end": 20.739
+ },
+ {
+  "word": "the",
+  "start": 20.739,
+  "end": 21.086
+ },
+ {
+  "word": "stable",
+  "start": 21.086,
+  "end": 21.64
+ },
+ {
+  "word": "boy.",
+  "start": 21.64,
+  "end": 22.055
+ },
+ {
+  "word": "And",
+  "start": 22.455,
+  "end": 22.857
+ },
+ {
+  "word": "the",
+  "start": 22.857,
+  "end": 23.259
+ },
+ {
+  "word": "armor?",
+  "start": 23.259,
+  "end": 23.902
+ },
+ {
+  "word": "Twenty-five",
+  "start": 23.902,
+  "end": 24.947
+ },
+ {
+  "word": "kilos",
+  "start": 24.947,
+  "end": 25.509
+ },
+ {
+  "word": "of",
+  "start": 25.509,
+  "end": 25.831
+ },
+ {
+  "word": "steel.",
+  "start": 25.831,
+  "end": 26.474
+ },
+ {
+  "word": "Bathroom",
+  "start": 26.474,
+  "end": 27.278
+ },
+ {
+  "word": "breaks?",
+  "start": 27.278,
+  "end": 28.001
+ },
+ {
+  "word": "Don't",
+  "start": 28.001,
+  "end": 28.564
+ },
+ {
+  "word": "ask.",
+  "start": 28.564,
+  "end": 29.046
+ },
+ {
+  "word": "But",
+  "start": 29.446,
+  "end": 29.854
+ },
+ {
+  "word": "when",
+  "start": 29.854,
+  "end": 30.345
+ },
+ {
+  "word": "war",
+  "start": 30.345,
+  "end": 30.753
+ },
+ {
+  "word": "came?",
+  "start": 30.753,
+  "end": 31.325
+ },
+ {
+  "word": "EVERYTHING",
+  "start": 31.325,
+  "end": 32.305
+ },
+ {
+  "word": "changed.",
+  "start": 32.305,
+  "end": 33.122
+ },
+ {
+  "word": "Lances",
+  "start": 33.122,
+  "end": 33.776
+ },
+ {
+  "word": "down,",
+  "start": 33.776,
+  "end": 34.348
+ },
+ {
+  "word": "horses",
+  "start": 34.348,
+  "end": 35.001
+ },
+ {
+  "word": "charging,",
+  "start": 35.001,
+  "end": 35.9
+ },
+ {
+  "word": "hoping",
+  "start": 35.9,
+  "end": 36.554
+ },
+ {
+  "word": "the",
+  "start": 36.554,
+  "end": 36.962
+ },
+ {
+  "word": "armor",
+  "start": 36.962,
+  "end": 37.534
+ },
+ {
+  "word": "held.",
+  "start": 37.534,
+  "end": 38.106
+ },
+ {
+  "word": "Win,",
+  "start": 38.506,
+  "end": 39.002
+ },
+ {
+  "word": "and",
+  "start": 39.002,
+  "end": 39.416
+ },
+ {
+  "word": "they",
+  "start": 39.416,
+  "end": 39.912
+ },
+ {
+  "word": "got",
+  "start": 39.912,
+  "end": 40.326
+ },
+ {
+  "word": "loot,",
+  "start": 40.326,
+  "end": 40.905
+ },
+ {
+  "word": "land,",
+  "start": 40.905,
+  "end": 41.484
+ },
+ {
+  "word": "and",
+  "start": 41.484,
+  "end": 41.898
+ },
+ {
+  "word": "ransom.",
+  "start": 41.898,
+  "end": 42.642
+ },
+ {
+  "word": "Lose,",
+  "start": 42.642,
+  "end": 43.221
+ },
+ {
+  "word": "and",
+  "start": 43.221,
+  "end": 43.635
+ },
+ {
+  "word": "it",
+  "start": 43.635,
+  "end": 43.966
+ },
+ {
+  "word": "ended",
+  "start": 43.966,
+  "end": 44.545
+ },
+ {
+  "word": "VERY",
+  "start": 44.545,
+  "end": 45.041
+ },
+ {
+  "word": "badly.",
+  "start": 45.041,
+  "end": 45.703
+ },
+ {
+  "word": "So",
+  "start": 46.103,
+  "end": 46.424
+ },
+ {
+  "word": "yeah,",
+  "start": 46.424,
+  "end": 46.986
+ },
+ {
+  "word": "knight",
+  "start": 46.986,
+  "end": 47.629
+ },
+ {
+  "word": "life",
+  "start": 47.629,
+  "end": 48.111
+ },
+ {
+  "word": "was",
+  "start": 48.111,
+  "end": 48.512
+ },
+ {
+  "word": "mostly",
+  "start": 48.512,
+  "end": 49.154
+ },
+ {
+  "word": "training,",
+  "start": 49.154,
+  "end": 50.038
+ },
+ {
+  "word": "hunting,",
+  "start": 50.038,
+  "end": 50.841
+ },
+ {
+  "word": "and",
+  "start": 50.841,
+  "end": 51.242
+ },
+ {
+  "word": "paperwork...",
+  "start": 51.242,
+  "end": 52.367
+ },
+ {
+  "word": "with",
+  "start": 52.367,
+  "end": 52.848
+ },
+ {
+  "word": "occasional",
+  "start": 52.848,
+  "end": 53.812
+ },
+ {
+  "word": "battles.",
+  "start": 53.812,
+  "end": 54.615
+ },
+ {
+  "word": "Still",
+  "start": 55.015,
+  "end": 55.281
+ },
+ {
+  "word": "wanna",
+  "start": 55.281,
+  "end": 55.547
+ },
+ {
+  "word": "be",
+  "start": 55.547,
+  "end": 55.699
+ },
+ {
+  "word": "a",
+  "start": 55.699,
+  "end": 55.813
+ },
+ {
+  "word": "knight?",
+  "start": 55.813,
+  "end": 56.155
+ }
+]

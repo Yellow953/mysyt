@@ -1,0 +1,261 @@
+[
+{
+"text": "Stranded. Ocean in every direction. A cup of it in your hand. Why can't you just drink the sea?",
+"tag": "low",
+"pause": 0.7,
+"clip": "01.mp3",
+"row": 1
+},
+{
+"text": "Free refills, you figure. Next to you sits a dented pot. So you take a sip. Big mistake.",
+"tag": "dry",
+"pause": 0.6,
+"clip": "02.mp3",
+"row": 2
+},
+{
+"text": "Seawater is roughly 3.5 percent salt. Your blood is under 1 percent. You spit it out, in slow motion, like a sports replay.",
+"tag": "wry",
+"pause": 0.5,
+"clip": "03.mp3",
+"row": 3
+},
+{
+"text": "Your kidneys can concentrate urine only a little beyond seawater's saltiness. And they also have to flush out your body's own waste.",
+"tag": "curious",
+"pause": 0.5,
+"clip": "04.mp3",
+"row": 4
+},
+{
+"text": "Drinking seawater means you lose more water than you take in. Congratulations. You're thirstier.",
+"tag": "dry",
+"pause": 0.6,
+"clip": "05.mp3",
+"row": 5
+},
+{
+"text": "Small sips won't save you. The sea is not a drink.",
+"tag": "low",
+"pause": 0.7,
+"clip": "06.mp3",
+"row": 6
+},
+{
+"text": "In 1943, a British lab tested seawater, mixed with fresh water, on a group of men.",
+"tag": "curious",
+"pause": 0.5,
+"clip": "07.mp3",
+"row": 7
+},
+{
+"text": "Imagine you're one of them. By one account, the gain was small.",
+"tag": "deadpan",
+"pause": 0.5,
+"clip": "08.mp3",
+"row": 8
+},
+{
+"text": "So how do people get fresh water when the sea won't do?",
+"tag": "dry",
+"pause": 0.6,
+"clip": "09.mp3",
+"row": 9
+},
+{
+"text": "Take the Gulf. Hot, and short on rain: most of it gets around 120 millimeters a year, or less.",
+"tag": "warm",
+"pause": 0.5,
+"clip": "10.mp3",
+"row": 10
+},
+{
+"text": "Early on, the answer was a boat. In the early 1900s, Kuwaiti boats carried fresh water from the Shatt al-Arab in Iraq.",
+"tag": "wry",
+"pause": 0.5,
+"clip": "11.mp3",
+"row": 11
+},
+{
+"text": "Imagine you're the buyer on the dock, with one coin.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "12.mp3",
+"row": 12
+},
+{
+"text": "Imagine the jar leaks before it reaches you. You still pay for the full jar. Worst deal in history.",
+"tag": "wry",
+"pause": 0.6,
+"clip": "13.mp3",
+"row": 13
+},
+{
+"text": "Oil made the money. Oil also powered the plants.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "14.mp3",
+"row": 14
+},
+{
+"text": "So how do you make the sea drinkable yourself? Two tricks.",
+"tag": "curious",
+"pause": 0.5,
+"clip": "15.mp3",
+"row": 15
+},
+{
+"text": "Trick one: boil the sea, catch the steam, and leave the salt behind. It works. It also needs a lot of fuel.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "16.mp3",
+"row": 16
+},
+{
+"text": "Trick two. Squeeze seawater through a membrane that lets water through and blocks salt.",
+"tag": "curious",
+"pause": 0.5,
+"clip": "17.mp3",
+"row": 17
+},
+{
+"text": "You try it with your cup. The pump wins, and you fly across the dock. Your tap sputters, then goes quiet.",
+"tag": "deadpan",
+"pause": 0.6,
+"clip": "18.mp3",
+"row": 18
+},
+{
+"text": "By 2019, reverse osmosis was about half of Saudi Arabia's desalination capacity, per the IEA.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "19.mp3",
+"row": 19
+},
+{
+"text": "Boiling still ruled. In 2019, about two-thirds of the region's seawater output was thermal, meaning boiled.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "20.mp3",
+"row": 20
+},
+{
+"text": "By one 2026 analysis, desalination supplies about 99 percent of Qatar's drinking water.",
+"tag": "warm",
+"pause": 0.5,
+"clip": "21.mp3",
+"row": 21
+},
+{
+"text": "Across the Middle East, desalination was only 3 percent of water in 2016. It took 5 percent of the region's energy.",
+"tag": "dry",
+"pause": 0.6,
+"clip": "22.mp3",
+"row": 22
+},
+{
+"text": "So you pedal a bike wired to a pump. It stalls, and you fly over the handlebars.",
+"tag": "deadpan",
+"pause": 0.5,
+"clip": "23.mp3",
+"row": 23
+},
+{
+"text": "Real plants run on fuel and power, not your legs.",
+"tag": "dry",
+"pause": 0.6,
+"clip": "24.mp3",
+"row": 24
+},
+{
+"text": "Brine, the leftover, can harm the sea. Saudi Arabia, the UAE, Kuwait and Qatar make more than half the world's brine, by a 2019 study.",
+"tag": "curious",
+"pause": 0.5,
+"clip": "25.mp3",
+"row": 25
+},
+{
+"text": "Then the sea fought back. In 2008 and 2009, a toxic algae bloom spread across the Gulf of Oman and the Arabian Gulf.",
+"tag": "low",
+"pause": 0.6,
+"clip": "26.mp3",
+"row": 26
+},
+{
+"text": "The algae clogged intake filters. By one trade report, at least five UAE plants went offline.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "27.mp3",
+"row": 27
+},
+{
+"text": "Back at your tap, it coughs. Nothing comes out but gurgle.",
+"tag": "deadpan",
+"pause": 0.6,
+"clip": "28.mp3",
+"row": 28
+},
+{
+"text": "In 1991, during the Gulf War, a black oil slick threatened to clog desalination intakes.",
+"tag": "low",
+"pause": 0.5,
+"clip": "29.mp3",
+"row": 29
+},
+{
+"text": "Crews rushed booms around the intakes. Estimates vary, but the spill was millions of barrels.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "30.mp3",
+"row": 30
+},
+{
+"text": "You get handed the end of the rope. It's the wrong end.",
+"tag": "wry",
+"pause": 0.7,
+"clip": "31.mp3",
+"row": 31
+},
+{
+"text": "So can you drink the sea? Yes. But the sea fights back: it takes a very big plant and a lot of fuel.",
+"tag": "curious",
+"pause": 0.7,
+"clip": "32.mp3",
+"row": 32
+},
+{
+"text": "Back on your rock, with the same cup and the same dented pot.",
+"tag": "warm",
+"pause": 0.5,
+"clip": "33.mp3",
+"row": 33
+},
+{
+"text": "The lid catches the steam, and one drip lands on your forehead. The salt stays in the pot.",
+"tag": "dry",
+"pause": 0.5,
+"clip": "34.mp3",
+"row": 34
+},
+{
+"text": "Many big plants do the same thing, just with a fuel bill.",
+"tag": "wry",
+"pause": 0.6,
+"clip": "35.mp3",
+"row": 35
+},
+{
+"text": "Best deal you've had all week. Free refills, technically.",
+"tag": "warm",
+"pause": 0.5,
+"clip": "36.mp3",
+"row": 36
+},
+{
+"text": "Subscribe for the next one. Just don't drink the sea.",
+"tag": "warm",
+"pause": 0.5,
+"clip": "37.mp3",
+"row": 37
+}
+]

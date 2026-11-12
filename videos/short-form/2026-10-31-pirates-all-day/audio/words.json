@@ -1,0 +1,537 @@
+[
+ {
+  "word": "Think",
+  "start": 0.0,
+  "end": 0.506
+ },
+ {
+  "word": "pirates",
+  "start": 0.506,
+  "end": 1.156
+ },
+ {
+  "word": "spent",
+  "start": 1.156,
+  "end": 1.662
+ },
+ {
+  "word": "all",
+  "start": 1.662,
+  "end": 2.024
+ },
+ {
+  "word": "day",
+  "start": 2.024,
+  "end": 2.385
+ },
+ {
+  "word": "fighting,",
+  "start": 2.385,
+  "end": 3.18
+ },
+ {
+  "word": "stealing",
+  "start": 3.18,
+  "end": 3.903
+ },
+ {
+  "word": "treasure,",
+  "start": 3.903,
+  "end": 4.698
+ },
+ {
+  "word": "and",
+  "start": 4.698,
+  "end": 5.06
+ },
+ {
+  "word": "drinking",
+  "start": 5.06,
+  "end": 5.782
+ },
+ {
+  "word": "rum?",
+  "start": 5.782,
+  "end": 6.216
+ },
+ {
+  "word": "Yeah...",
+  "start": 6.216,
+  "end": 6.867
+ },
+ {
+  "word": "not",
+  "start": 6.867,
+  "end": 7.228
+ },
+ {
+  "word": "even",
+  "start": 7.228,
+  "end": 7.662
+ },
+ {
+  "word": "close.",
+  "start": 7.662,
+  "end": 8.24
+ },
+ {
+  "word": "Most",
+  "start": 8.64,
+  "end": 8.986
+ },
+ {
+  "word": "of",
+  "start": 8.986,
+  "end": 9.216
+ },
+ {
+  "word": "the",
+  "start": 9.216,
+  "end": 9.505
+ },
+ {
+  "word": "time,",
+  "start": 9.505,
+  "end": 9.908
+ },
+ {
+  "word": "being",
+  "start": 9.908,
+  "end": 10.312
+ },
+ {
+  "word": "a",
+  "start": 10.312,
+  "end": 10.484
+ },
+ {
+  "word": "pirate",
+  "start": 10.484,
+  "end": 10.946
+ },
+ {
+  "word": "was",
+  "start": 10.946,
+  "end": 11.234
+ },
+ {
+  "word": "basically",
+  "start": 11.234,
+  "end": 11.868
+ },
+ {
+  "word": "the",
+  "start": 11.868,
+  "end": 12.156
+ },
+ {
+  "word": "worst",
+  "start": 12.156,
+  "end": 12.559
+ },
+ {
+  "word": "job",
+  "start": 12.559,
+  "end": 12.848
+ },
+ {
+  "word": "at",
+  "start": 12.848,
+  "end": 13.078
+ },
+ {
+  "word": "sea.",
+  "start": 13.078,
+  "end": 13.424
+ },
+ {
+  "word": "They",
+  "start": 13.824,
+  "end": 14.225
+ },
+ {
+  "word": "hauled",
+  "start": 14.225,
+  "end": 14.759
+ },
+ {
+  "word": "ropes",
+  "start": 14.759,
+  "end": 15.227
+ },
+ {
+  "word": "and",
+  "start": 15.227,
+  "end": 15.561
+ },
+ {
+  "word": "mended",
+  "start": 15.561,
+  "end": 16.095
+ },
+ {
+  "word": "sails.",
+  "start": 16.095,
+  "end": 16.629
+ },
+ {
+  "word": "Miss",
+  "start": 16.629,
+  "end": 17.03
+ },
+ {
+  "word": "your",
+  "start": 17.03,
+  "end": 17.431
+ },
+ {
+  "word": "shift?",
+  "start": 17.431,
+  "end": 17.965
+ },
+ {
+  "word": "Congratulations.",
+  "start": 17.965,
+  "end": 19.167
+ },
+ {
+  "word": "You're",
+  "start": 19.167,
+  "end": 19.702
+ },
+ {
+  "word": "everyone's",
+  "start": 19.702,
+  "end": 20.503
+ },
+ {
+  "word": "least",
+  "start": 20.503,
+  "end": 20.971
+ },
+ {
+  "word": "favorite",
+  "start": 20.971,
+  "end": 21.639
+ },
+ {
+  "word": "pirate.",
+  "start": 21.639,
+  "end": 22.24
+ },
+ {
+  "word": "And",
+  "start": 22.64,
+  "end": 22.985
+ },
+ {
+  "word": "the",
+  "start": 22.985,
+  "end": 23.331
+ },
+ {
+  "word": "food?",
+  "start": 23.331,
+  "end": 23.814
+ },
+ {
+  "word": "Hard",
+  "start": 23.814,
+  "end": 24.228
+ },
+ {
+  "word": "biscuits.",
+  "start": 24.228,
+  "end": 24.988
+ },
+ {
+  "word": "Fresh",
+  "start": 24.988,
+  "end": 25.471
+ },
+ {
+  "word": "fruit?",
+  "start": 25.471,
+  "end": 26.024
+ },
+ {
+  "word": "Basically",
+  "start": 26.024,
+  "end": 26.783
+ },
+ {
+  "word": "a",
+  "start": 26.783,
+  "end": 26.99
+ },
+ {
+  "word": "luxury.",
+  "start": 26.99,
+  "end": 27.612
+ },
+ {
+  "word": "But",
+  "start": 28.012,
+  "end": 28.317
+ },
+ {
+  "word": "when",
+  "start": 28.317,
+  "end": 28.683
+ },
+ {
+  "word": "they",
+  "start": 28.683,
+  "end": 29.049
+ },
+ {
+  "word": "spotted",
+  "start": 29.049,
+  "end": 29.598
+ },
+ {
+  "word": "a",
+  "start": 29.598,
+  "end": 29.781
+ },
+ {
+  "word": "merchant",
+  "start": 29.781,
+  "end": 30.392
+ },
+ {
+  "word": "ship?",
+  "start": 30.392,
+  "end": 30.819
+ },
+ {
+  "word": "EVERYTHING",
+  "start": 30.819,
+  "end": 31.551
+ },
+ {
+  "word": "changed.",
+  "start": 31.551,
+  "end": 32.161
+ },
+ {
+  "word": "Weapons",
+  "start": 32.161,
+  "end": 32.71
+ },
+ {
+  "word": "out,",
+  "start": 32.71,
+  "end": 33.076
+ },
+ {
+  "word": "hoping",
+  "start": 33.076,
+  "end": 33.564
+ },
+ {
+  "word": "the",
+  "start": 33.564,
+  "end": 33.87
+ },
+ {
+  "word": "other",
+  "start": 33.87,
+  "end": 34.297
+ },
+ {
+  "word": "ship",
+  "start": 34.297,
+  "end": 34.663
+ },
+ {
+  "word": "surrendered.",
+  "start": 34.663,
+  "end": 35.517
+ },
+ {
+  "word": "Win,",
+  "start": 35.917,
+  "end": 36.405
+ },
+ {
+  "word": "and",
+  "start": 36.405,
+  "end": 36.812
+ },
+ {
+  "word": "they",
+  "start": 36.812,
+  "end": 37.3
+ },
+ {
+  "word": "got",
+  "start": 37.3,
+  "end": 37.707
+ },
+ {
+  "word": "money,",
+  "start": 37.707,
+  "end": 38.358
+ },
+ {
+  "word": "supplies,",
+  "start": 38.358,
+  "end": 39.253
+ },
+ {
+  "word": "and",
+  "start": 39.253,
+  "end": 39.66
+ },
+ {
+  "word": "cargo.",
+  "start": 39.66,
+  "end": 40.311
+ },
+ {
+  "word": "Lose,",
+  "start": 40.311,
+  "end": 40.88
+ },
+ {
+  "word": "and",
+  "start": 40.88,
+  "end": 41.287
+ },
+ {
+  "word": "their",
+  "start": 41.287,
+  "end": 41.856
+ },
+ {
+  "word": "career",
+  "start": 41.856,
+  "end": 42.507
+ },
+ {
+  "word": "ended",
+  "start": 42.507,
+  "end": 43.077
+ },
+ {
+  "word": "VERY",
+  "start": 43.077,
+  "end": 43.565
+ },
+ {
+  "word": "badly.",
+  "start": 43.565,
+  "end": 44.216
+ },
+ {
+  "word": "So",
+  "start": 44.616,
+  "end": 44.895
+ },
+ {
+  "word": "yeah,",
+  "start": 44.895,
+  "end": 45.385
+ },
+ {
+  "word": "pirate",
+  "start": 45.385,
+  "end": 45.943
+ },
+ {
+  "word": "life",
+  "start": 45.943,
+  "end": 46.363
+ },
+ {
+  "word": "wasn't",
+  "start": 46.363,
+  "end": 46.922
+ },
+ {
+  "word": "nonstop",
+  "start": 46.922,
+  "end": 47.55
+ },
+ {
+  "word": "treasure",
+  "start": 47.55,
+  "end": 48.249
+ },
+ {
+  "word": "hunting.",
+  "start": 48.249,
+  "end": 48.948
+ },
+ {
+  "word": "It",
+  "start": 48.948,
+  "end": 49.227
+ },
+ {
+  "word": "was",
+  "start": 49.227,
+  "end": 49.576
+ },
+ {
+  "word": "mostly",
+  "start": 49.576,
+  "end": 50.135
+ },
+ {
+  "word": "sea",
+  "start": 50.135,
+  "end": 50.485
+ },
+ {
+  "word": "chores...",
+  "start": 50.485,
+  "end": 51.253
+ },
+ {
+  "word": "with",
+  "start": 51.253,
+  "end": 51.672
+ },
+ {
+  "word": "occasional",
+  "start": 51.672,
+  "end": 52.511
+ },
+ {
+  "word": "murder",
+  "start": 52.511,
+  "end": 53.07
+ },
+ {
+  "word": "attempts.",
+  "start": 53.07,
+  "end": 53.838
+ },
+ {
+  "word": "Still",
+  "start": 54.238,
+  "end": 54.536
+ },
+ {
+  "word": "wanna",
+  "start": 54.536,
+  "end": 54.834
+ },
+ {
+  "word": "be",
+  "start": 54.834,
+  "end": 55.004
+ },
+ {
+  "word": "a",
+  "start": 55.004,
+  "end": 55.132
+ },
+ {
+  "word": "pirate?",
+  "start": 55.132,
+  "end": 55.515
+ }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Think knights spent all day jousting, rescuing princesses, and slaying dragons? Yeah... not even close.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "01.mp3"
+  },
+  {
+    "text": "Most of the time, being a knight was mostly heavy armor and paperwork.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "02.mp3"
+  },
+  {
+    "text": "They trained for years, getting whacked with sticks. Mess up? Congratulations. You're the stable boy.",
+    "tag": "lazy",
+    "pause": 0.4,
+    "clip": "03.mp3"
+  },
+  {
+    "text": "And the armor? Twenty-five kilos of steel. Bathroom breaks? Don't ask.",
+    "tag": "flat",
+    "pause": 0.4,
+    "clip": "04.mp3"
+  },
+  {
+    "text": "But when war came? EVERYTHING changed. Lances down, horses charging, hoping the armor held.",
+    "tag": "excited",
+    "pause": 0.4,
+    "clip": "05.mp3"
+  },
+  {
+    "text": "Win, and they got loot, land, and ransom. Lose, and it ended VERY badly.",
+    "tag": "deadpan",
+    "pause": 0.4,
+    "clip": "06.mp3"
+  },
+  {
+    "text": "So yeah, knight life was mostly training, hunting, and paperwork... with occasional battles.",
+    "tag": "dry",
+    "pause": 0.4,
+    "clip": "07.mp3"
+  },
+  {
+    "text": "Still wanna be a knight?",
+    "tag": "curious",
+    "pause": 0.0,
+    "clip": "08.mp3"
+  }
+]

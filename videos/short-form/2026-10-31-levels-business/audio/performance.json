@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Every level of being a businessman. From making your first five dollars… to owning a company that makes millions.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Level one: The Hustler. You sell anything you can find. Old phones, sneakers, random stuff from your bedroom. Your startup capital? Basically zero.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Level two: Freelancer. You finally make money from your skills. There's just one problem: if you stop working, the money stops coming.",
+  "tag": "lazy",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "Level three: Startup Founder. You have an idea, a logo, and absolutely no customers. But don't worry. Your pitch deck says you're changing the world.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Level four: Business Owner. Customers are finally paying. Now you're managing employees, invoices, angry emails, and taxes. Congratulations. You created yourself a job.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Level five: CEO. You have a team, real revenue, and an actual office. You no longer do everything yourself. Instead, you attend meetings about meetings.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Level six: Serial Entrepreneur. You've built multiple businesses. Money is coming from different directions, and your calendar looks more complicated than a NASA launch.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Final level: Business Empire. Your companies run with entire leadership teams. You make huge decisions, invest millions, and somehow still ask your assistant where your keys are.",
+  "tag": "excited",
+  "pause": 0.5,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Which level are you at right now?",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "09.mp3"
+ }
+]

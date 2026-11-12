@@ -1,0 +1,62 @@
+[
+ {
+  "text": "You wake up and the Sun is gone.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Funny thing. It's about ninety-three million miles away, so nobody notices for eight minutes.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "That's how long sunlight takes to reach us.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "So you eat breakfast under a perfectly bright sky.",
+  "tag": "lazy",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Gravity is just as slow. So Earth keeps circling a Sun that isn't there,",
+  "tag": "deadpan",
+  "pause": 0.3,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "like a dog chasing a ball you only pretended to throw.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Then, at the exact same moment, the sky goes black and Earth lets go.",
+  "tag": "flat",
+  "pause": 0.5,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "It flies off in a straight line.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Then it gets cold. Your coffee goes first.",
+  "tag": "lazy",
+  "pause": 0.5,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "What would you do with your last eight minutes?",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "10.mp3"
+ }
+]

@@ -1,0 +1,13 @@
+[
+{"text":"Why can't we just drink seawater?","tag":"curious","pause":0.4,"clip":"01.mp3"},
+{"text":"There's water everywhere. Free refills.","tag":"dry","pause":0.4,"clip":"02.mp3"},
+{"text":"But seawater has over three times the salt of your blood.","tag":"deadpan","pause":0.4,"clip":"03.mp3"},
+{"text":"Your kidneys can't make pee saltier than the sea, so flushing the salt costs more water than you drank.","tag":"dry","pause":0.45,"clip":"04.mp3"},
+{"text":"Congratulations. You're thirstier.","tag":"deadpan","pause":0.6,"clip":"05.mp3"},
+{"text":"The Gulf is hot desert with almost no rain, so it uses the sea anyway.","tag":"dry","pause":0.4,"clip":"06.mp3"},
+{"text":"Desalination plants boil seawater and catch the steam, or push it through filters too fine for salt.","tag":"dry","pause":0.4,"clip":"07.mp3"},
+{"text":"One Saudi plant makes a million cubic meters a day. About four hundred Olympic pools.","tag":"deadpan","pause":0.4,"clip":"08.mp3"},
+{"text":"The Gulf holds a third of the world's desalination capacity. Kuwait relies on it almost completely.","tag":"dry","pause":0.4,"clip":"09.mp3"},
+{"text":"The catch? It burns lots of energy, and the leftover brine can hurt the sea.","tag":"deadpan","pause":0.45,"clip":"10.mp3"},
+{"text":"So yes, you can drink the sea. You just need a very big plant.","tag":"dry","pause":0.0,"clip":"11.mp3"}
+]

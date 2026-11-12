@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Everyone's gone. It's you and one stranger. Can you restart humanity?",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Easy math. Kids, grandkids, eight billion.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Except your kids only have each other.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "And we all carry hidden bad genes.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Spain's Habsburg kings kept marrying relatives. Half their children died before ten.",
+  "tag": "somber",
+  "pause": 0.5,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "But it's been tried. A typhoon leaves about twenty survivors on a Pacific island.",
+  "tag": "hopeful",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "One carried a hidden gene. Today, up to one in ten can't see color.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Pitcairn, 1790. Twenty-seven settlers.",
+  "tag": "narrator",
+  "pause": 0.3,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Ten years later, almost every man was dead. Killed by each other, not by genes.",
+  "tag": "somber",
+  "pause": 0.5,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Two people? Almost certainly not. Twenty did it. Find eighteen more. And get along.",
+  "tag": "dry",
+  "pause": 0.0,
+  "clip": "10.mp3"
+ }
+]

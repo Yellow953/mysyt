@@ -1,0 +1,93 @@
+{
+ "slug": "2026-10-31-two-people-restart",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "text": "Everyone's gone. It's you and one stranger. Can you restart humanity?",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing at an empty city crosswalk next to a stylish confident woman with long wavy brown hair, eyelashes, rosy cheeks and a chic casual outfit, only the main character wears a scarf, both holding takeaway coffee cups, both staring wide-eyed and worried down a completely empty street of pale buildings with no cars and no people, the two of them small in the lower middle of the frame with open sky above. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "CAN 2 PEOPLE RESTART HUMANITY?",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Easy math. Kids, grandkids, eight billion.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> giving an overconfident thumbs-up in front of a big family tree drawn like a growing plant whose branches carry many tiny stick-figure children, beside a stylish confident woman with long wavy brown hair, eyelashes, rosy cheeks and a chic casual outfit, only the main character wears a scarf who has crossed arms and a skeptical raised eyebrow, only the main character wears a scarf, exactly two arms and two hands each. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "pan_right"
+  },
+  {
+   "id": 3,
+   "text": "Except your kids only have each other.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> and a stylish confident woman with long wavy brown hair, eyelashes, rosy cheeks and a chic casual outfit, only the main character wears a scarf standing awkwardly side by side looking up at a family tree whose branches bend around and loop back into a closed circle, both with uneasy flat faces, only the main character wears a scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 4,
+   "text": "And we all carry hidden bad genes.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> peeking nervously at his own chest where a small sealed gift box with a tiny worried face is visible inside a see-through outline of his body, cartoon x-ray feel, wide worried eyes, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 5,
+   "text": "Spain's Habsburg kings kept marrying relatives. Half their children died before ten.",
+   "image_prompt": "A single lonely stick-figure king with a big gold crown sitting on a plain throne in a dim pale palace hall, an empty wooden cradle beside the throne, sad drooping face, muted sage and sand colors, no scarf on anyone, no main character. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "1700",
+   "motion": "zoom_out"
+  },
+  {
+   "id": 6,
+   "text": "But it's been tried. A typhoon leaves about twenty survivors on a Pacific island.",
+   "image_prompt": "A small huddle of about twenty tiny stick figures on a sandy beach after a storm, broken palm trees, dark storm clouds clearing at the horizon with a ray of light, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> watching from the edge of the group with hopeful eyes, only the main character wears a scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "1770s \u2014 ABOUT 20 SURVIVORS",
+   "motion": "pan_left"
+  },
+  {
+   "id": 7,
+   "text": "One carried a hidden gene. Today, up to one in ten can't see color.",
+   "image_prompt": "A friendly tropical island village scene with a few islander stick figures, one islander squinting in confusion at a bright pile of red, green and blue fruit while everything around him looks pale grey, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing beside him, only the main character wears a scarf, exactly two arms and two hands each. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 8,
+   "text": "Pitcairn, 1790. Twenty-seven settlers.",
+   "image_prompt": "A small wooden rowboat on a calm shore with about a dozen tiny stick figures stepping onto a green volcanic island beach with palm trees, a burning ship far behind on the horizon, calm sea, no main character, no scarf on anyone. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "1790",
+   "motion": "pan_right"
+  },
+  {
+   "id": 9,
+   "text": "Ten years later, almost every man was dead. Killed by each other, not by genes.",
+   "image_prompt": "The same quiet beach, now nearly empty: one lone stick-figure man standing with a small crowd of women and children, many sets of footprints leading away in the sand, a few simple wooden crosses on a hill, muted sad light, non-graphic, no main character, no scarf on anyone. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": false,
+   "overlay_text": "1800",
+   "motion": "zoom_in"
+  },
+  {
+   "id": 10,
+   "text": "Two people? Almost certainly not. Twenty did it. Find eighteen more. And get along.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> handing a takeaway coffee cup to a stylish confident woman with long wavy brown hair, eyelashes, rosy cheeks and a chic casual outfit, only the main character wears a scarf on the same empty city street, both giving a small shrug, in the far distance on the horizon a crowd of tiny stick figures walking toward them, hopeful warm morning light, only the main character wears a scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "overlay_text": "",
+   "motion": "zoom_out"
+  }
+ ],
+ "music": "Resolution Or Reflection - The Grey Room, Clark Sims.mp3"
+}

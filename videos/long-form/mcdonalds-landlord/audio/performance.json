@@ -1,0 +1,410 @@
+[
+ {
+  "text": "In 2025, McDonald's collected over ten billion dollars in rent.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "73.mp3"
+ },
+ {
+  "text": "From restaurants other people run.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "74.mp3"
+ },
+ {
+  "text": "At a regular McDonald's franchise, the owner doesn't own the ground.",
+  "tag": "curious",
+  "pause": 0.3,
+  "clip": "75.mp3"
+ },
+ {
+  "text": "The owner rents it. From McDonald's.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "76.mp3"
+ },
+ {
+  "text": "That idea came from a finance man named Harry Sonneborn, who asked a question the burger business wasn't asking.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "77.mp3"
+ },
+ {
+  "text": "Not 'how many burgers can we sell?'",
+  "tag": "slow",
+  "pause": 0.3,
+  "clip": "78.mp3"
+ },
+ {
+  "text": "But, in effect, 'who owns the ground?'",
+  "tag": "slow",
+  "pause": 0.6,
+  "clip": "79.mp3"
+ },
+ {
+  "text": "Years later, he quit.",
+  "tag": "hushed",
+  "pause": 0.6,
+  "clip": "80.mp3"
+ },
+ {
+  "text": "And almost nobody remembers him.",
+  "tag": "hushed",
+  "pause": 1.0,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "To see why it mattered, start with the man who needed it.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Ray Kroc, 1954.",
+  "tag": "quick",
+  "pause": 0.15,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "He sold franchises for the McDonald brothers.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "A franchise is the right to open a McDonald's under its name.",
+  "tag": "amused",
+  "pause": 0.3,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "The owner pays for it.",
+  "tag": "amused",
+  "pause": 0.6,
+  "clip": "14.mp3"
+ },
+ {
+  "text": "By most accounts, the fee was about 1.9% of sales,",
+  "tag": "curious",
+  "pause": 0.3,
+  "clip": "15.mp3"
+ },
+ {
+  "text": "and half a percent of sales went to the brothers.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "16.mp3"
+ },
+ {
+  "text": "By most accounts, that left his company very little.",
+  "tag": "wry",
+  "pause": 0.3,
+  "clip": "17.mp3"
+ },
+ {
+  "text": "You sell all day, you get a tip.",
+  "tag": "wry",
+  "pause": 0.6,
+  "clip": "18.mp3"
+ },
+ {
+  "text": "Enter Sonneborn, who joined in the mid-1950s and became president in 1959.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "19.mp3"
+ },
+ {
+  "text": "The company needed money to expand.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "20.mp3"
+ },
+ {
+  "text": "A tip wasn't going to do it.",
+  "tag": "excited",
+  "pause": 0.6,
+  "clip": "21.mp3"
+ },
+ {
+  "text": "I couldn't find a reliable account of how he pitched it.",
+  "tag": "serious",
+  "pause": 0.3,
+  "clip": "22.mp3"
+ },
+ {
+  "text": "The idea is clear.",
+  "tag": "serious",
+  "pause": 0.6,
+  "clip": "23.mp3"
+ },
+ {
+  "text": "The company gets hold of a plot, by renting or buying,",
+  "tag": "playful",
+  "pause": 0.3,
+  "clip": "24.mp3"
+ },
+ {
+  "text": "then rents it to the restaurant owner.",
+  "tag": "playful",
+  "pause": 0.6,
+  "clip": "25.mp3"
+ },
+ {
+  "text": "By most accounts, around 1956, a company was set up just for that: Franchise Realty.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "26.mp3"
+ },
+ {
+  "text": "Say your restaurant sells a million dollars a year.",
+  "tag": "wry",
+  "pause": 0.3,
+  "clip": "72.mp3"
+ },
+ {
+  "text": "The old deal pays the company twenty thousand.",
+  "tag": "wry",
+  "pause": 0.6,
+  "clip": "31.mp3"
+ },
+ {
+  "text": "Now the landlord way.",
+  "tag": "curious",
+  "pause": 0.3,
+  "clip": "32.mp3"
+ },
+ {
+  "text": "Say the company rents the site itself, and pays its own landlord sixty thousand.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "33.mp3"
+ },
+ {
+  "text": "It charges you a hundred and five.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "34.mp3"
+ },
+ {
+  "text": "The company keeps the gap.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "35.mp3"
+ },
+ {
+  "text": "Add the fee, and it keeps sixty-five.",
+  "tag": "excited",
+  "pause": 0.6,
+  "clip": "36.mp3"
+ },
+ {
+  "text": "Now double your sales.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "37.mp3"
+ },
+ {
+  "text": "Your rent rises with them. In our example, their cost for the ground stays put.",
+  "tag": "excited",
+  "pause": 0.3,
+  "clip": "38.mp3"
+ },
+ {
+  "text": "That's how the company's sixty-five becomes a hundred and fifteen.",
+  "tag": "excited",
+  "pause": 0.6,
+  "clip": "39.mp3"
+ },
+ {
+  "text": "You pay far more than before.",
+  "tag": "serious",
+  "pause": 0.3,
+  "clip": "40.mp3"
+ },
+ {
+  "text": "But you didn't have to find the land.",
+  "tag": "serious",
+  "pause": 0.6,
+  "clip": "41.mp3"
+ },
+ {
+  "text": "And since the company controls the site, an owner who breaks the rules has a lot to lose.",
+  "tag": "deadpan",
+  "pause": 0.6,
+  "clip": "42.mp3"
+ },
+ {
+  "text": "Every burger runs through the tollbooth.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "43.mp3"
+ },
+ {
+  "text": "At a regular McDonald's franchise, you pay rent.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "44.mp3"
+ },
+ {
+  "text": "You pay the fee, which has a name: royalty.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "45.mp3"
+ },
+ {
+  "text": "Both. Congratulations.",
+  "tag": "quick",
+  "pause": 0.6,
+  "clip": "46.mp3"
+ },
+ {
+  "text": "Kroc still answered to the McDonald brothers.",
+  "tag": "hushed",
+  "pause": 0.6,
+  "clip": "47.mp3"
+ },
+ {
+  "text": "In 1961, he bought them out for two point seven million dollars.",
+  "tag": "serious",
+  "pause": 0.3,
+  "clip": "48.mp3"
+ },
+ {
+  "text": "Sonneborn is credited with arranging the money.",
+  "tag": "serious",
+  "pause": 0.6,
+  "clip": "49.mp3"
+ },
+ {
+  "text": "That question put the company in the landlord's chair.",
+  "tag": "curious",
+  "pause": 0.3,
+  "clip": "50.mp3"
+ },
+ {
+  "text": "In 2025 the rent it collected came to about ten point four billion, against about six billion in royalties.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "51.mp3"
+ },
+ {
+  "text": "McDonald's annual report doesn't say which earns more profit.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "52.mp3"
+ },
+ {
+  "text": "Rent is revenue, before the company pays its own costs for those sites.",
+  "tag": "dry",
+  "pause": 0.3,
+  "clip": "53.mp3"
+ },
+ {
+  "text": "It only shows which brings in more.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "54.mp3"
+ },
+ {
+  "text": "And in its biggest markets, McDonald's owns about 56% of the land.",
+  "tag": "curious",
+  "pause": 0.6,
+  "clip": "55.mp3"
+ },
+ {
+  "text": "That famous line, 'you're in the real estate business'?",
+  "tag": "playful",
+  "pause": 0.3,
+  "clip": "56.mp3"
+ },
+ {
+  "text": "That one's from a movie, The Founder.",
+  "tag": "playful",
+  "pause": 0.6,
+  "clip": "57.mp3"
+ },
+ {
+  "text": "A similar line is widely attributed to Sonneborn himself.",
+  "tag": "hushed",
+  "pause": 0.3,
+  "clip": "58.mp3"
+ },
+ {
+  "text": "Whether he said it, I couldn't find.",
+  "tag": "hushed",
+  "pause": 0.3,
+  "clip": "59.mp3"
+ },
+ {
+  "text": "The movie just gave it a famous voice.",
+  "tag": "hushed",
+  "pause": 0.6,
+  "clip": "60.mp3"
+ },
+ {
+  "text": "June 1967.",
+  "tag": "serious",
+  "pause": 0.3,
+  "clip": "61.mp3"
+ },
+ {
+  "text": "Sonneborn resigns.",
+  "tag": "serious",
+  "pause": 0.6,
+  "clip": "62.mp3"
+ },
+ {
+  "text": "One account says Kroc wanted to keep expanding.",
+  "tag": "slow",
+  "pause": 0.3,
+  "clip": "63.mp3"
+ },
+ {
+  "text": "Sonneborn expected a recession and wanted to stop building.",
+  "tag": "slow",
+  "pause": 0.6,
+  "clip": "64.mp3"
+ },
+ {
+  "text": "By that account, the man behind the question quit over how fast to build.",
+  "tag": "warm",
+  "pause": 0.3,
+  "clip": "65.mp3"
+ },
+ {
+  "text": "The franchises stayed, and the rent still comes in.",
+  "tag": "warm",
+  "pause": 0.6,
+  "clip": "66.mp3"
+ },
+ {
+  "text": "He died in 1992, remembered by few, and best known today for a movie line with his name on it.",
+  "tag": "warm",
+  "pause": 1.0,
+  "clip": "67.mp3"
+ },
+ {
+  "text": "Next time you pass one, don't count the burgers.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "68.mp3"
+ },
+ {
+  "text": "Whoever runs it, ask who owns the ground.",
+  "tag": "quick",
+  "pause": 0.3,
+  "clip": "69.mp3"
+ },
+ {
+  "text": "Look down.",
+  "tag": "slow",
+  "pause": 0.6,
+  "clip": "70.mp3"
+ },
+ {
+  "text": "Subscribe. It's the one deal here with no rent.",
+  "tag": "wry",
+  "pause": 0.6,
+  "clip": "71.mp3"
+ }
+]

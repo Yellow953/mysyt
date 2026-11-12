@@ -1,0 +1,9 @@
+[
+ {"text":"Why don't we just fill a rocket with our trash and dump it in the Sun?","pause":0.55,"clip":"01.mp3"},
+ {"text":"The Sun is huge. Hard to miss.","pause":0.5,"clip":"02.mp3"},
+ {"text":"But Earth moves sideways at thirty kilometers a second, and the rocket keeps that speed.","pause":0.3,"clip":"03.mp3"},
+ {"text":"So it misses, and circles the Sun.","pause":0.55,"clip":"04.mp3"},
+ {"text":"To actually hit it, you have to cancel that speed. That takes fifty-five times more energy than going to Mars.","pause":0.5,"clip":"05.mp3"},
+ {"text":"And we make over two billion tonnes of trash a year. That's at least eighty million full rockets. Every year.","pause":0.75,"clip":"06.mp3"},
+ {"text":"So, recycle.","pause":0.4,"clip":"07.mp3"}
+]

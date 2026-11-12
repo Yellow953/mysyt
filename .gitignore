@@ -1,0 +1,33 @@
+# Secrets (OAuth tokens) - never commit
+secrets/
+*.env
+.env*
+
+# Local environments and dependencies
+.venv/
+remotion/node_modules/
+__pycache__/
+*.pyc
+.claude/settings.local.json
+
+# Rendered / generated media (too big for git; regenerate from scenes.json)
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.png
+videos/**/*.jpg
+videos/**/*.jpeg
+videos/**/*.webp
+videos/**/*.wav
+videos/**/*.mp3
+videos/**/*.m4a
+remotion/public/
+remotion/out/
+
+# Licensed music (YouTube Audio Library): keep local, re-download on a new device
+assets/music/*.mp3
+assets/music/*.wav
+
+# Junk
+.DS_Store
+*.log
+*.bak

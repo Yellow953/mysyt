@@ -1,0 +1,62 @@
+[
+ {
+  "text": "It's April 1848. Nobody knows about the gold yet. You do.",
+  "tag": "narrator",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Everyone's about to dig. You hate digging.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "So you buy every pan you can find. Twenty cents each.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "May 12. You sprint through San Francisco, waving a bottle of gold dust.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Gold! Gold from the American River!",
+  "tag": "excited",
+  "pause": 0.5,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Pans now cost fifteen dollars. That's seventy-five times what you paid.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "The miners dig for years. Most never get rich.",
+  "tag": "somber",
+  "pause": 0.4,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "You never touch a shovel. You just count.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "A man named Sam Brannan really did this. California's first millionaire.",
+  "tag": "narrator",
+  "pause": 0.5,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Then he lost it all. You read ahead.",
+  "tag": "dry",
+  "pause": 0,
+  "clip": "10.mp3"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "text": "You're crossing the Taklamakan.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Its name is often said to mean: go in, don't come out.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Pack water. It won't be enough.",
+  "tag": "flat",
+  "pause": 0.5,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "One weather station in the middle gets about one inch of rain. A year.",
+  "tag": "matter-of-fact",
+  "pause": 0.6,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Dunes move. So does the trail.",
+  "tag": "deadpan",
+  "pause": 0.55,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "A monk crossing next door wrote that bones marked the way.",
+  "tag": "matter-of-fact",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Reassuring.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Summer can top a hundred degrees. Winter can fall below zero.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Pack sunscreen. Also a parka.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Smart traders hugged the edge, oasis to oasis.",
+  "tag": "matter-of-fact",
+  "pause": 0.4,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "Camels carried the water. You are not a camel.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "Marco Polo's book says spirits call your name.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "Don't answer.",
+  "tag": "deadpan",
+  "pause": 0.6,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "Would you go in?",
+  "tag": "curious",
+  "pause": 0,
+  "clip": "14.mp3"
+ }
+]

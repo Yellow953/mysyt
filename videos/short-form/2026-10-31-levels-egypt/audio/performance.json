@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Every level of life in ancient Egypt. From having absolutely nothing… to being worshipped as a god.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Level one: Enslaved person. You have little control over your life, and your daily reality depends heavily on who controls your labor. This is survival mode.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Level two: Farmer. You work the land, grow food, and hope the Nile floods at the right time. Your boss is basically the weather.",
+  "tag": "lazy",
+  "pause": 0.4,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "Level three: Skilled craftsman. You can make pottery, furniture, or beautiful objects. Congratulations! You have a valuable skill… and still have bills to pay.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Level four: Scribe. You learned to read and write hieroglyphic and other Egyptian scripts. Suddenly, the government needs you to keep track of absolutely everything.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Level five: High official. You manage resources, oversee workers, and stand close to the people running the kingdom. Your sandals are probably nicer now.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Level six: Noble. You have wealth, land, influence, and a much more comfortable life. Meanwhile, everyone else is wondering how you got that house.",
+  "tag": "deadpan",
+  "pause": 0.4,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Final level: Pharaoh. You rule the kingdom, command enormous resources, and are treated as a divine ruler. Your biggest problem? Making sure the entire country keeps running.",
+  "tag": "excited",
+  "pause": 0.5,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Which level would you choose? Personally, I'd take the palace.",
+  "tag": "curious",
+  "pause": 0.0,
+  "clip": "09.mp3"
+ }
+]

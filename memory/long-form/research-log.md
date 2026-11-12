@@ -1,0 +1,10 @@
+# Research log (long-form)
+One line per run: date | what | method/evidence level | what it could NOT show.
+
+2026-11-03 | system built; no research run yet | n/a | n/a
+2026-11-03 | Stage 1 scout: refreshed norms for 8 channels (OminiAM 6.28K, Arnie 165K, Ink Story 8.89K, Relic 19.3K, Ranks 30.7K, Monk Mode 25.9K, Day One 86.7K, Quill 2.12K), 6 outlier videos analysed, 10 idea cards | METADATA only (descriptions, chapters, top comments); no WATCHED | SARAAB not opened; thumbnails not seen (lazy-load blank); Farmer comments did not load; Ink/Relic hooks from older memory; no new channel found
+2026-11-03 | smoke test: a subagent (Haiku) used Chrome read-only on youtube.com/@OminiAM/videos: tab create, navigate, page text, close all worked | METADATA (page text) | @OminiAM 6.28K subs, 26 videos (seen 11-03); no analysis done
+2026-11-03 | discovery v2: 4 deep WATCHES (captions read, 5 videos, partial) + 3 story hunters (24 stories) + 6 verified + sell sheets + critic | WATCHED partial (competitor-watch-v2.md); sources in research/long-form/_verify-*.md | no full-video watches, no books/primary texts opened, YouTube saturation from search pages only
+2026-11-04 | McDonald's: fact-check, script v1-v3, packaging, critic x2, 10-K note read directly (Chrome) | primary (10-K) + secondary history | brothers/Sonneborn history from secondary sources; no books opened
+2026-11-04 | McDonald's long-form uploaded private https://youtu.be/0nhg2B2Wk4A | n/a | no stats yet
+2026-11-07 | Human Origins "How Did Ancient Humans Get Any Privacy?" (362K views vs 996 subs): full caption read at 2x muted, beat list, thumbnail + 3 frames; note research/long-form/2026-11-07-human-origins-privacy-watch.md; competitor-intelligence Row 7 | WATCHED (captions, auto-caption errors possible; ~3 frames sampled) | scene-change rate, chapter list, traffic source, retention, full comment review; full narration not reproduced (copyright)

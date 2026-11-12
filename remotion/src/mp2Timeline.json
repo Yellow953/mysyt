@@ -1,0 +1,592 @@
+{
+ "total": 46.5,
+ "segs": [
+  {
+   "start": 0.0,
+   "end": 4.181,
+   "words": [
+    {
+     "text": "MEDIEVAL",
+     "start": 0.0,
+     "end": 0.46
+    },
+    {
+     "text": "WEDDING",
+     "start": 0.46,
+     "end": 0.66
+    },
+    {
+     "text": "NIGHT.",
+     "start": 0.66,
+     "end": 1.02
+    },
+    {
+     "text": "ONE",
+     "start": 1.5,
+     "end": 1.88
+    },
+    {
+     "text": "ROOM.",
+     "start": 1.88,
+     "end": 2.22
+    },
+    {
+     "text": "EIGHT",
+     "start": 2.84,
+     "end": 3.16
+    },
+    {
+     "text": "FAMILY",
+     "start": 3.16,
+     "end": 3.64
+    },
+    {
+     "text": "MEMBERS.",
+     "start": 3.64,
+     "end": 4.02
+    }
+   ]
+  },
+  {
+   "start": 4.461,
+   "end": 6.529,
+   "words": [
+    {
+     "text": "YOU",
+     "start": 4.5,
+     "end": 4.6
+    },
+    {
+     "text": "NEED",
+     "start": 4.6,
+     "end": 4.74
+    },
+    {
+     "text": "FIVE",
+     "start": 4.74,
+     "end": 5.04
+    },
+    {
+     "text": "MINUTES",
+     "start": 5.04,
+     "end": 5.36
+    },
+    {
+     "text": "ALONE",
+     "start": 5.36,
+     "end": 5.74
+    },
+    {
+     "text": "WITH",
+     "start": 5.74,
+     "end": 5.98
+    },
+    {
+     "text": "YOUR",
+     "start": 5.98,
+     "end": 6.12
+    },
+    {
+     "text": "WIFE.",
+     "start": 6.12,
+     "end": 6.38
+    }
+   ]
+  },
+  {
+   "start": 6.829,
+   "end": 9.578,
+   "words": [
+    {
+     "text": "PLAN",
+     "start": 6.88,
+     "end": 7.16
+    },
+    {
+     "text": "ONE.",
+     "start": 7.16,
+     "end": 7.58
+    },
+    {
+     "text": "SNEAK",
+     "start": 8.44,
+     "end": 8.8
+    },
+    {
+     "text": "OUT",
+     "start": 8.8,
+     "end": 8.92
+    },
+    {
+     "text": "TO",
+     "start": 8.92,
+     "end": 9.06
+    },
+    {
+     "text": "THE",
+     "start": 9.06,
+     "end": 9.16
+    },
+    {
+     "text": "FIELD.",
+     "start": 9.16,
+     "end": 9.48
+    }
+   ]
+  },
+  {
+   "start": 9.878,
+   "end": 13.22,
+   "words": [
+    {
+     "text": "SURPRISE.",
+     "start": 9.92,
+     "end": 10.26
+    },
+    {
+     "text": "SIX",
+     "start": 11.2,
+     "end": 11.44
+    },
+    {
+     "text": "OTHER",
+     "start": 11.44,
+     "end": 11.76
+    },
+    {
+     "text": "COUPLES",
+     "start": 11.76,
+     "end": 12.1
+    },
+    {
+     "text": "HAD",
+     "start": 12.1,
+     "end": 12.4
+    },
+    {
+     "text": "THE",
+     "start": 12.4,
+     "end": 12.52
+    },
+    {
+     "text": "SAME",
+     "start": 12.52,
+     "end": 12.8
+    },
+    {
+     "text": "IDEA.",
+     "start": 12.8,
+     "end": 13.1
+    }
+   ]
+  },
+  {
+   "start": 13.62,
+   "end": 16.787,
+   "words": [
+    {
+     "text": "PLAN",
+     "start": 13.66,
+     "end": 13.88
+    },
+    {
+     "text": "TWO.",
+     "start": 13.88,
+     "end": 14.22
+    },
+    {
+     "text": "WAIT",
+     "start": 15.06,
+     "end": 15.24
+    },
+    {
+     "text": "UNTIL",
+     "start": 15.24,
+     "end": 15.52
+    },
+    {
+     "text": "EVERYONE",
+     "start": 15.52,
+     "end": 15.82
+    },
+    {
+     "text": "FALLS",
+     "start": 15.82,
+     "end": 16.14
+    },
+    {
+     "text": "ASLEEP.",
+     "start": 16.14,
+     "end": 16.58
+    }
+   ]
+  },
+  {
+   "start": 17.087,
+   "end": 20.326,
+   "words": [
+    {
+     "text": "YOUR",
+     "start": 17.1,
+     "end": 17.24
+    },
+    {
+     "text": "GRANDMOTHER",
+     "start": 17.24,
+     "end": 17.66
+    },
+    {
+     "text": "HAS",
+     "start": 17.66,
+     "end": 18.0
+    },
+    {
+     "text": "NEVER",
+     "start": 18.0,
+     "end": 18.32
+    },
+    {
+     "text": "SLEPT.",
+     "start": 18.32,
+     "end": 18.8
+    },
+    {
+     "text": "NOT",
+     "start": 19.52,
+     "end": 19.92
+    },
+    {
+     "text": "ONCE.",
+     "start": 19.92,
+     "end": 20.18
+    }
+   ]
+  },
+  {
+   "start": 20.726,
+   "end": 23.874,
+   "words": [
+    {
+     "text": "PLAN",
+     "start": 20.8,
+     "end": 20.98
+    },
+    {
+     "text": "THREE.",
+     "start": 20.98,
+     "end": 21.34
+    },
+    {
+     "text": "SNEAK",
+     "start": 22.28,
+     "end": 22.52
+    },
+    {
+     "text": "INTO",
+     "start": 22.52,
+     "end": 22.78
+    },
+    {
+     "text": "THE",
+     "start": 22.78,
+     "end": 22.96
+    },
+    {
+     "text": "LORD'S",
+     "start": 22.96,
+     "end": 23.36
+    },
+    {
+     "text": "BEDROOM.",
+     "start": 23.36,
+     "end": 23.72
+    }
+   ]
+  },
+  {
+   "start": 24.174,
+   "end": 25.755,
+   "words": [
+    {
+     "text": "YOU",
+     "start": 24.14,
+     "end": 24.32
+    },
+    {
+     "text": "ARE",
+     "start": 24.32,
+     "end": 24.44
+    },
+    {
+     "text": "THROWN",
+     "start": 24.44,
+     "end": 24.72
+    },
+    {
+     "text": "OUT",
+     "start": 24.72,
+     "end": 25.0
+    },
+    {
+     "text": "BY",
+     "start": 25.0,
+     "end": 25.22
+    },
+    {
+     "text": "THE",
+     "start": 25.22,
+     "end": 25.34
+    },
+    {
+     "text": "COLLAR.",
+     "start": 25.34,
+     "end": 25.62
+    }
+   ]
+  },
+  {
+   "start": 26.155,
+   "end": 28.849,
+   "words": [
+    {
+     "text": "PLAN",
+     "start": 26.18,
+     "end": 26.44
+    },
+    {
+     "text": "FOUR.",
+     "start": 26.44,
+     "end": 26.86
+    },
+    {
+     "text": "BUILD",
+     "start": 27.46,
+     "end": 27.78
+    },
+    {
+     "text": "YOUR",
+     "start": 27.78,
+     "end": 28.08
+    },
+    {
+     "text": "OWN",
+     "start": 28.08,
+     "end": 28.36
+    },
+    {
+     "text": "DOOR.",
+     "start": 28.36,
+     "end": 28.7
+    }
+   ]
+  },
+  {
+   "start": 29.129,
+   "end": 37.068,
+   "words": [
+    {
+     "text": "YES.",
+     "start": 29.12,
+     "end": 29.36
+    },
+    {
+     "text": "A",
+     "start": 30.16,
+     "end": 30.3
+    },
+    {
+     "text": "REAL",
+     "start": 30.3,
+     "end": 30.64
+    },
+    {
+     "text": "THING.",
+     "start": 30.64,
+     "end": 31.22
+    },
+    {
+     "text": "A",
+     "start": 32.0,
+     "end": 32.12
+    },
+    {
+     "text": "BED",
+     "start": 32.12,
+     "end": 32.36
+    },
+    {
+     "text": "WITH",
+     "start": 32.36,
+     "end": 32.72
+    },
+    {
+     "text": "WALLS",
+     "start": 32.72,
+     "end": 33.08
+    },
+    {
+     "text": "AND",
+     "start": 33.08,
+     "end": 33.48
+    },
+    {
+     "text": "A",
+     "start": 33.48,
+     "end": 33.6
+    },
+    {
+     "text": "DOOR.",
+     "start": 33.6,
+     "end": 33.82
+    },
+    {
+     "text": "A",
+     "start": 34.56,
+     "end": 34.72
+    },
+    {
+     "text": "TINY",
+     "start": 34.72,
+     "end": 35.04
+    },
+    {
+     "text": "HOUSE",
+     "start": 35.04,
+     "end": 35.52
+    },
+    {
+     "text": "INSIDE",
+     "start": 35.52,
+     "end": 36.02
+    },
+    {
+     "text": "THE",
+     "start": 36.02,
+     "end": 36.66
+    },
+    {
+     "text": "HOUSE.",
+     "start": 36.66,
+     "end": 36.96
+    }
+   ]
+  },
+  {
+   "start": 37.468,
+   "end": 41.626,
+   "words": [
+    {
+     "text": "YOU",
+     "start": 37.44,
+     "end": 37.58
+    },
+    {
+     "text": "CLIMB",
+     "start": 37.58,
+     "end": 37.76
+    },
+    {
+     "text": "IN.",
+     "start": 37.76,
+     "end": 38.02
+    },
+    {
+     "text": "SHE",
+     "start": 38.46,
+     "end": 38.54
+    },
+    {
+     "text": "FOLLOWS,",
+     "start": 38.54,
+     "end": 38.86
+    },
+    {
+     "text": "LAUGHING",
+     "start": 39.14,
+     "end": 39.4
+    },
+    {
+     "text": "QUIETLY.",
+     "start": 39.4,
+     "end": 39.74
+    },
+    {
+     "text": "YOU",
+     "start": 40.68,
+     "end": 40.8
+    },
+    {
+     "text": "PULL",
+     "start": 40.8,
+     "end": 41.0
+    },
+    {
+     "text": "THE",
+     "start": 41.0,
+     "end": 41.12
+    },
+    {
+     "text": "DOOR",
+     "start": 41.12,
+     "end": 41.32
+    },
+    {
+     "text": "SHUT.",
+     "start": 41.32,
+     "end": 41.58
+    }
+   ]
+  },
+  {
+   "start": 42.026,
+   "end": 45.605,
+   "words": [
+    {
+     "text": "FOR",
+     "start": 42.0,
+     "end": 42.16
+    },
+    {
+     "text": "THE",
+     "start": 42.16,
+     "end": 42.28
+    },
+    {
+     "text": "FIRST",
+     "start": 42.28,
+     "end": 42.56
+    },
+    {
+     "text": "TIME",
+     "start": 42.56,
+     "end": 42.92
+    },
+    {
+     "text": "ALL",
+     "start": 42.92,
+     "end": 43.24
+    },
+    {
+     "text": "DAY...",
+     "start": 43.24,
+     "end": 43.6
+    },
+    {
+     "text": "NOBODY",
+     "start": 44.3,
+     "end": 44.7
+    },
+    {
+     "text": "IS",
+     "start": 44.7,
+     "end": 45.24
+    },
+    {
+     "text": "WATCHING.",
+     "start": 45.24,
+     "end": 45.48
+    }
+   ]
+  }
+ ]
+}

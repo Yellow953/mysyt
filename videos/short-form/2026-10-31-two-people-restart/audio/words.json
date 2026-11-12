@@ -1,0 +1,522 @@
+[
+ {
+  "word": "Everyone's",
+  "start": 0.0,
+  "end": 0.971
+ },
+ {
+  "word": "gone.",
+  "start": 0.971,
+  "end": 1.537
+ },
+ {
+  "word": "It's",
+  "start": 1.537,
+  "end": 2.022
+ },
+ {
+  "word": "you",
+  "start": 2.022,
+  "end": 2.427
+ },
+ {
+  "word": "and",
+  "start": 2.427,
+  "end": 2.831
+ },
+ {
+  "word": "one",
+  "start": 2.831,
+  "end": 3.236
+ },
+ {
+  "word": "stranger.",
+  "start": 3.236,
+  "end": 4.125
+ },
+ {
+  "word": "Can",
+  "start": 4.125,
+  "end": 4.53
+ },
+ {
+  "word": "you",
+  "start": 4.53,
+  "end": 4.934
+ },
+ {
+  "word": "restart",
+  "start": 4.934,
+  "end": 5.662
+ },
+ {
+  "word": "humanity?",
+  "start": 5.662,
+  "end": 6.552
+ },
+ {
+  "word": "Easy",
+  "start": 7.052,
+  "end": 7.588
+ },
+ {
+  "word": "math.",
+  "start": 7.588,
+  "end": 8.214
+ },
+ {
+  "word": "Kids,",
+  "start": 8.214,
+  "end": 8.839
+ },
+ {
+  "word": "grandkids,",
+  "start": 8.839,
+  "end": 9.911
+ },
+ {
+  "word": "eight",
+  "start": 9.911,
+  "end": 10.537
+ },
+ {
+  "word": "billion.",
+  "start": 10.537,
+  "end": 11.43
+ },
+ {
+  "word": "Except",
+  "start": 11.73,
+  "end": 12.11
+ },
+ {
+  "word": "your",
+  "start": 12.11,
+  "end": 12.395
+ },
+ {
+  "word": "kids",
+  "start": 12.395,
+  "end": 12.68
+ },
+ {
+  "word": "only",
+  "start": 12.68,
+  "end": 12.965
+ },
+ {
+  "word": "have",
+  "start": 12.965,
+  "end": 13.25
+ },
+ {
+  "word": "each",
+  "start": 13.25,
+  "end": 13.535
+ },
+ {
+  "word": "other.",
+  "start": 13.535,
+  "end": 13.915
+ },
+ {
+  "word": "And",
+  "start": 14.315,
+  "end": 14.64
+ },
+ {
+  "word": "we",
+  "start": 14.64,
+  "end": 14.899
+ },
+ {
+  "word": "all",
+  "start": 14.899,
+  "end": 15.224
+ },
+ {
+  "word": "carry",
+  "start": 15.224,
+  "end": 15.678
+ },
+ {
+  "word": "hidden",
+  "start": 15.678,
+  "end": 16.198
+ },
+ {
+  "word": "bad",
+  "start": 16.198,
+  "end": 16.523
+ },
+ {
+  "word": "genes.",
+  "start": 16.523,
+  "end": 17.042
+ },
+ {
+  "word": "Spain's",
+  "start": 17.542,
+  "end": 18.18
+ },
+ {
+  "word": "Habsburg",
+  "start": 18.18,
+  "end": 18.89
+ },
+ {
+  "word": "kings",
+  "start": 18.89,
+  "end": 19.386
+ },
+ {
+  "word": "kept",
+  "start": 19.386,
+  "end": 19.812
+ },
+ {
+  "word": "marrying",
+  "start": 19.812,
+  "end": 20.521
+ },
+ {
+  "word": "relatives.",
+  "start": 20.521,
+  "end": 21.373
+ },
+ {
+  "word": "Half",
+  "start": 21.373,
+  "end": 21.798
+ },
+ {
+  "word": "their",
+  "start": 21.798,
+  "end": 22.295
+ },
+ {
+  "word": "children",
+  "start": 22.295,
+  "end": 23.004
+ },
+ {
+  "word": "died",
+  "start": 23.004,
+  "end": 23.43
+ },
+ {
+  "word": "before",
+  "start": 23.43,
+  "end": 23.997
+ },
+ {
+  "word": "ten.",
+  "start": 23.997,
+  "end": 24.423
+ },
+ {
+  "word": "But",
+  "start": 24.923,
+  "end": 25.188
+ },
+ {
+  "word": "it's",
+  "start": 25.188,
+  "end": 25.506
+ },
+ {
+  "word": "been",
+  "start": 25.506,
+  "end": 25.824
+ },
+ {
+  "word": "tried.",
+  "start": 25.824,
+  "end": 26.247
+ },
+ {
+  "word": "A",
+  "start": 26.247,
+  "end": 26.406
+ },
+ {
+  "word": "typhoon",
+  "start": 26.406,
+  "end": 26.883
+ },
+ {
+  "word": "leaves",
+  "start": 26.883,
+  "end": 27.307
+ },
+ {
+  "word": "about",
+  "start": 27.307,
+  "end": 27.678
+ },
+ {
+  "word": "twenty",
+  "start": 27.678,
+  "end": 28.102
+ },
+ {
+  "word": "survivors",
+  "start": 28.102,
+  "end": 28.685
+ },
+ {
+  "word": "on",
+  "start": 28.685,
+  "end": 28.896
+ },
+ {
+  "word": "a",
+  "start": 28.896,
+  "end": 29.055
+ },
+ {
+  "word": "Pacific",
+  "start": 29.055,
+  "end": 29.532
+ },
+ {
+  "word": "island.",
+  "start": 29.532,
+  "end": 30.009
+ },
+ {
+  "word": "One",
+  "start": 30.409,
+  "end": 30.793
+ },
+ {
+  "word": "carried",
+  "start": 30.793,
+  "end": 31.485
+ },
+ {
+  "word": "a",
+  "start": 31.485,
+  "end": 31.715
+ },
+ {
+  "word": "hidden",
+  "start": 31.715,
+  "end": 32.33
+ },
+ {
+  "word": "gene.",
+  "start": 32.33,
+  "end": 32.868
+ },
+ {
+  "word": "Today,",
+  "start": 32.868,
+  "end": 33.483
+ },
+ {
+  "word": "up",
+  "start": 33.483,
+  "end": 33.79
+ },
+ {
+  "word": "to",
+  "start": 33.79,
+  "end": 34.097
+ },
+ {
+  "word": "one",
+  "start": 34.097,
+  "end": 34.482
+ },
+ {
+  "word": "in",
+  "start": 34.482,
+  "end": 34.789
+ },
+ {
+  "word": "ten",
+  "start": 34.789,
+  "end": 35.173
+ },
+ {
+  "word": "can't",
+  "start": 35.173,
+  "end": 35.711
+ },
+ {
+  "word": "see",
+  "start": 35.711,
+  "end": 36.095
+ },
+ {
+  "word": "color.",
+  "start": 36.095,
+  "end": 36.71
+ },
+ {
+  "word": "Pitcairn,",
+  "start": 37.11,
+  "end": 38.21
+ },
+ {
+  "word": "1790.",
+  "start": 38.21,
+  "end": 38.91
+ },
+ {
+  "word": "Twenty-seven",
+  "start": 38.91,
+  "end": 40.31
+ },
+ {
+  "word": "settlers.",
+  "start": 40.31,
+  "end": 41.41
+ },
+ {
+  "word": "Ten",
+  "start": 41.71,
+  "end": 42.12
+ },
+ {
+  "word": "years",
+  "start": 42.12,
+  "end": 42.694
+ },
+ {
+  "word": "later,",
+  "start": 42.694,
+  "end": 43.35
+ },
+ {
+  "word": "almost",
+  "start": 43.35,
+  "end": 44.006
+ },
+ {
+  "word": "every",
+  "start": 44.006,
+  "end": 44.58
+ },
+ {
+  "word": "man",
+  "start": 44.58,
+  "end": 44.99
+ },
+ {
+  "word": "was",
+  "start": 44.99,
+  "end": 45.4
+ },
+ {
+  "word": "dead.",
+  "start": 45.4,
+  "end": 45.974
+ },
+ {
+  "word": "Killed",
+  "start": 45.974,
+  "end": 46.63
+ },
+ {
+  "word": "by",
+  "start": 46.63,
+  "end": 46.958
+ },
+ {
+  "word": "each",
+  "start": 46.958,
+  "end": 47.45
+ },
+ {
+  "word": "other,",
+  "start": 47.45,
+  "end": 48.106
+ },
+ {
+  "word": "not",
+  "start": 48.106,
+  "end": 48.516
+ },
+ {
+  "word": "by",
+  "start": 48.516,
+  "end": 48.844
+ },
+ {
+  "word": "genes.",
+  "start": 48.844,
+  "end": 49.5
+ },
+ {
+  "word": "Two",
+  "start": 50.0,
+  "end": 50.443
+ },
+ {
+  "word": "people?",
+  "start": 50.443,
+  "end": 51.239
+ },
+ {
+  "word": "Almost",
+  "start": 51.239,
+  "end": 51.947
+ },
+ {
+  "word": "certainly",
+  "start": 51.947,
+  "end": 52.921
+ },
+ {
+  "word": "not.",
+  "start": 52.921,
+  "end": 53.452
+ },
+ {
+  "word": "Twenty",
+  "start": 53.452,
+  "end": 54.16
+ },
+ {
+  "word": "did",
+  "start": 54.16,
+  "end": 54.603
+ },
+ {
+  "word": "it.",
+  "start": 54.603,
+  "end": 55.045
+ },
+ {
+  "word": "Find",
+  "start": 55.045,
+  "end": 55.576
+ },
+ {
+  "word": "eighteen",
+  "start": 55.576,
+  "end": 56.461
+ },
+ {
+  "word": "more.",
+  "start": 56.461,
+  "end": 57.081
+ },
+ {
+  "word": "And",
+  "start": 57.081,
+  "end": 57.523
+ },
+ {
+  "word": "get",
+  "start": 57.523,
+  "end": 57.966
+ },
+ {
+  "word": "along.",
+  "start": 57.966,
+  "end": 58.674
+ }
+]

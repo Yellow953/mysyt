@@ -1,0 +1,310 @@
+[
+{
+"start": 0.0,
+"end": 2.475,
+"words": [
+{
+"text": "Your",
+"start": 0.0,
+"end": 0.45
+},
+{
+"text": "boss",
+"start": 0.45,
+"end": 0.9
+},
+{
+"text": "says,",
+"start": 0.9,
+"end": 1.35
+},
+{
+"text": "\"Can",
+"start": 1.35,
+"end": 1.725
+},
+{
+"text": "we",
+"start": 1.725,
+"end": 2.025
+},
+{
+"text": "talk?\"",
+"start": 2.025,
+"end": 2.475
+}
+]
+},
+{
+"start": 2.825,
+"end": 3.963,
+"words": [
+{
+"text": "And",
+"start": 2.825,
+"end": 3.062
+},
+{
+"text": "closes",
+"start": 3.062,
+"end": 3.441
+},
+{
+"text": "the",
+"start": 3.441,
+"end": 3.679
+},
+{
+"text": "door.",
+"start": 3.679,
+"end": 3.963
+}
+]
+},
+{
+"start": 4.463,
+"end": 8.383,
+"words": [
+{
+"text": "Closes.",
+"start": 4.483,
+"end": 5.453
+},
+{
+"text": "The.",
+"start": 6.373,
+"end": 6.863
+},
+{
+"text": "Door.",
+"start": 7.923,
+"end": 8.383
+}
+]
+},
+{
+"start": 9.083,
+"end": 14.39,
+"words": [
+{
+"text": "Your",
+"start": 9.083,
+"end": 9.471
+},
+{
+"text": "brain",
+"start": 9.471,
+"end": 9.924
+},
+{
+"text": "opens",
+"start": 9.924,
+"end": 10.377
+},
+{
+"text": "every",
+"start": 10.377,
+"end": 10.83
+},
+{
+"text": "email",
+"start": 10.83,
+"end": 11.283
+},
+{
+"text": "you",
+"start": 11.283,
+"end": 11.607
+},
+{
+"text": "ever",
+"start": 11.607,
+"end": 11.995
+},
+{
+"text": "sent.",
+"start": 11.995,
+"end": 12.384
+},
+{
+"text": "Every",
+"start": 12.384,
+"end": 12.837
+},
+{
+"text": "\"per",
+"start": 12.837,
+"end": 13.16
+},
+{
+"text": "my",
+"start": 13.16,
+"end": 13.419
+},
+{
+"text": "last",
+"start": 13.419,
+"end": 13.808
+},
+{
+"text": "message\".",
+"start": 13.808,
+"end": 14.39
+}
+]
+},
+{
+"start": 14.99,
+"end": 19.061,
+"words": [
+{
+"text": "You",
+"start": 14.99,
+"end": 15.647
+},
+{
+"text": "sit.",
+"start": 15.647,
+"end": 16.303
+},
+{
+"text": "He",
+"start": 16.303,
+"end": 16.829
+},
+{
+"text": "sits.",
+"start": 16.829,
+"end": 17.616
+},
+{
+"text": "He",
+"start": 17.616,
+"end": 18.142
+},
+{
+"text": "sighs.",
+"start": 18.142,
+"end": 19.061
+}
+]
+},
+{
+"start": 19.661,
+"end": 22.035,
+"words": [
+{
+"text": "He",
+"start": 19.661,
+"end": 19.911
+},
+{
+"text": "says,",
+"start": 19.911,
+"end": 20.286
+},
+{
+"text": "\"I'll",
+"start": 20.286,
+"end": 20.598
+},
+{
+"text": "be",
+"start": 20.598,
+"end": 20.848
+},
+{
+"text": "honest",
+"start": 20.848,
+"end": 21.348
+},
+{
+"text": "with",
+"start": 21.348,
+"end": 21.723
+},
+{
+"text": "you.\"",
+"start": 21.723,
+"end": 22.035
+}
+]
+},
+{
+"start": 22.835,
+"end": 25.167,
+"words": [
+{
+"text": "And",
+"start": 22.835,
+"end": 23.15
+},
+{
+"text": "your",
+"start": 23.15,
+"end": 23.528
+},
+{
+"text": "soul",
+"start": 23.528,
+"end": 23.906
+},
+{
+"text": "leaves",
+"start": 23.906,
+"end": 24.411
+},
+{
+"text": "your",
+"start": 24.411,
+"end": 24.789
+},
+{
+"text": "body.",
+"start": 24.789,
+"end": 25.167
+}
+]
+},
+{
+"start": 25.867,
+"end": 28.251,
+"words": [
+{
+"text": "\"We're",
+"start": 25.867,
+"end": 26.178
+},
+{
+"text": "replacing",
+"start": 26.178,
+"end": 26.748
+},
+{
+"text": "your",
+"start": 26.748,
+"end": 27.059
+},
+{
+"text": "chair.",
+"start": 27.059,
+"end": 27.422
+},
+{
+"text": "Is",
+"start": 27.422,
+"end": 27.629
+},
+{
+"text": "that",
+"start": 27.629,
+"end": 27.94
+},
+{
+"text": "okay?\"",
+"start": 27.94,
+"end": 28.251
+}
+]
+}
+]

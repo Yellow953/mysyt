@@ -1,0 +1,507 @@
+[
+ {
+  "word": "You're",
+  "start": 0.0,
+  "end": 0.432
+ },
+ {
+  "word": "crossing",
+  "start": 0.432,
+  "end": 0.972
+ },
+ {
+  "word": "the",
+  "start": 0.972,
+  "end": 1.243
+ },
+ {
+  "word": "Taklamakan.",
+  "start": 1.243,
+  "end": 1.945
+ },
+ {
+  "word": "Its",
+  "start": 2.345,
+  "end": 2.724
+ },
+ {
+  "word": "name",
+  "start": 2.724,
+  "end": 3.179
+ },
+ {
+  "word": "is",
+  "start": 3.179,
+  "end": 3.483
+ },
+ {
+  "word": "often",
+  "start": 3.483,
+  "end": 4.013
+ },
+ {
+  "word": "said",
+  "start": 4.013,
+  "end": 4.468
+ },
+ {
+  "word": "to",
+  "start": 4.468,
+  "end": 4.772
+ },
+ {
+  "word": "mean:",
+  "start": 4.772,
+  "end": 5.303
+ },
+ {
+  "word": "go",
+  "start": 5.303,
+  "end": 5.606
+ },
+ {
+  "word": "in,",
+  "start": 5.606,
+  "end": 5.985
+ },
+ {
+  "word": "don't",
+  "start": 5.985,
+  "end": 6.516
+ },
+ {
+  "word": "come",
+  "start": 6.516,
+  "end": 6.971
+ },
+ {
+  "word": "out.",
+  "start": 6.971,
+  "end": 7.426
+ },
+ {
+  "word": "Pack",
+  "start": 7.926,
+  "end": 8.328
+ },
+ {
+  "word": "water.",
+  "start": 8.328,
+  "end": 8.864
+ },
+ {
+  "word": "It",
+  "start": 8.864,
+  "end": 9.132
+ },
+ {
+  "word": "won't",
+  "start": 9.132,
+  "end": 9.6
+ },
+ {
+  "word": "be",
+  "start": 9.6,
+  "end": 9.868
+ },
+ {
+  "word": "enough.",
+  "start": 9.868,
+  "end": 10.471
+ },
+ {
+  "word": "One",
+  "start": 10.971,
+  "end": 11.315
+ },
+ {
+  "word": "weather",
+  "start": 11.315,
+  "end": 11.936
+ },
+ {
+  "word": "station",
+  "start": 11.936,
+  "end": 12.556
+ },
+ {
+  "word": "in",
+  "start": 12.556,
+  "end": 12.831
+ },
+ {
+  "word": "the",
+  "start": 12.831,
+  "end": 13.176
+ },
+ {
+  "word": "middle",
+  "start": 13.176,
+  "end": 13.727
+ },
+ {
+  "word": "gets",
+  "start": 13.727,
+  "end": 14.14
+ },
+ {
+  "word": "about",
+  "start": 14.14,
+  "end": 14.622
+ },
+ {
+  "word": "one",
+  "start": 14.622,
+  "end": 14.967
+ },
+ {
+  "word": "inch",
+  "start": 14.967,
+  "end": 15.38
+ },
+ {
+  "word": "of",
+  "start": 15.38,
+  "end": 15.656
+ },
+ {
+  "word": "rain.",
+  "start": 15.656,
+  "end": 16.138
+ },
+ {
+  "word": "A",
+  "start": 16.138,
+  "end": 16.345
+ },
+ {
+  "word": "year.",
+  "start": 16.345,
+  "end": 16.827
+ },
+ {
+  "word": "Dunes",
+  "start": 17.427,
+  "end": 17.942
+ },
+ {
+  "word": "move.",
+  "start": 17.942,
+  "end": 18.457
+ },
+ {
+  "word": "So",
+  "start": 18.457,
+  "end": 18.751
+ },
+ {
+  "word": "does",
+  "start": 18.751,
+  "end": 19.192
+ },
+ {
+  "word": "the",
+  "start": 19.192,
+  "end": 19.56
+ },
+ {
+  "word": "trail.",
+  "start": 19.56,
+  "end": 20.148
+ },
+ {
+  "word": "A",
+  "start": 20.698,
+  "end": 20.873
+ },
+ {
+  "word": "monk",
+  "start": 20.873,
+  "end": 21.223
+ },
+ {
+  "word": "crossing",
+  "start": 21.223,
+  "end": 21.805
+ },
+ {
+  "word": "next",
+  "start": 21.805,
+  "end": 22.155
+ },
+ {
+  "word": "door",
+  "start": 22.155,
+  "end": 22.505
+ },
+ {
+  "word": "wrote",
+  "start": 22.505,
+  "end": 22.913
+ },
+ {
+  "word": "that",
+  "start": 22.913,
+  "end": 23.263
+ },
+ {
+  "word": "bones",
+  "start": 23.263,
+  "end": 23.671
+ },
+ {
+  "word": "marked",
+  "start": 23.671,
+  "end": 24.137
+ },
+ {
+  "word": "the",
+  "start": 24.137,
+  "end": 24.428
+ },
+ {
+  "word": "way.",
+  "start": 24.428,
+  "end": 24.778
+ },
+ {
+  "word": "Reassuring.",
+  "start": 25.178,
+  "end": 26.938
+ },
+ {
+  "word": "Summer",
+  "start": 27.438,
+  "end": 27.973
+ },
+ {
+  "word": "can",
+  "start": 27.973,
+  "end": 28.307
+ },
+ {
+  "word": "top",
+  "start": 28.307,
+  "end": 28.641
+ },
+ {
+  "word": "a",
+  "start": 28.641,
+  "end": 28.842
+ },
+ {
+  "word": "hundred",
+  "start": 28.842,
+  "end": 29.443
+ },
+ {
+  "word": "degrees.",
+  "start": 29.443,
+  "end": 30.112
+ },
+ {
+  "word": "Winter",
+  "start": 30.112,
+  "end": 30.647
+ },
+ {
+  "word": "can",
+  "start": 30.647,
+  "end": 30.981
+ },
+ {
+  "word": "fall",
+  "start": 30.981,
+  "end": 31.382
+ },
+ {
+  "word": "below",
+  "start": 31.382,
+  "end": 31.85
+ },
+ {
+  "word": "zero.",
+  "start": 31.85,
+  "end": 32.318
+ },
+ {
+  "word": "Pack",
+  "start": 32.718,
+  "end": 33.23
+ },
+ {
+  "word": "sunscreen.",
+  "start": 33.23,
+  "end": 34.253
+ },
+ {
+  "word": "Also",
+  "start": 34.253,
+  "end": 34.765
+ },
+ {
+  "word": "a",
+  "start": 34.765,
+  "end": 35.021
+ },
+ {
+  "word": "parka.",
+  "start": 35.021,
+  "end": 35.703
+ },
+ {
+  "word": "Smart",
+  "start": 36.303,
+  "end": 36.859
+ },
+ {
+  "word": "traders",
+  "start": 36.859,
+  "end": 37.573
+ },
+ {
+  "word": "hugged",
+  "start": 37.573,
+  "end": 38.209
+ },
+ {
+  "word": "the",
+  "start": 38.209,
+  "end": 38.606
+ },
+ {
+  "word": "edge,",
+  "start": 38.606,
+  "end": 39.161
+ },
+ {
+  "word": "oasis",
+  "start": 39.161,
+  "end": 39.717
+ },
+ {
+  "word": "to",
+  "start": 39.717,
+  "end": 40.035
+ },
+ {
+  "word": "oasis.",
+  "start": 40.035,
+  "end": 40.67
+ },
+ {
+  "word": "Camels",
+  "start": 41.07,
+  "end": 41.621
+ },
+ {
+  "word": "carried",
+  "start": 41.621,
+  "end": 42.241
+ },
+ {
+  "word": "the",
+  "start": 42.241,
+  "end": 42.585
+ },
+ {
+  "word": "water.",
+  "start": 42.585,
+  "end": 43.136
+ },
+ {
+  "word": "You",
+  "start": 43.136,
+  "end": 43.48
+ },
+ {
+  "word": "are",
+  "start": 43.48,
+  "end": 43.824
+ },
+ {
+  "word": "not",
+  "start": 43.824,
+  "end": 44.169
+ },
+ {
+  "word": "a",
+  "start": 44.169,
+  "end": 44.375
+ },
+ {
+  "word": "camel.",
+  "start": 44.375,
+  "end": 44.926
+ },
+ {
+  "word": "Marco",
+  "start": 45.426,
+  "end": 45.905
+ },
+ {
+  "word": "Polo's",
+  "start": 45.905,
+  "end": 46.451
+ },
+ {
+  "word": "book",
+  "start": 46.451,
+  "end": 46.862
+ },
+ {
+  "word": "says",
+  "start": 46.862,
+  "end": 47.272
+ },
+ {
+  "word": "spirits",
+  "start": 47.272,
+  "end": 47.887
+ },
+ {
+  "word": "call",
+  "start": 47.887,
+  "end": 48.297
+ },
+ {
+  "word": "your",
+  "start": 48.297,
+  "end": 48.707
+ },
+ {
+  "word": "name.",
+  "start": 48.707,
+  "end": 49.186
+ },
+ {
+  "word": "Don't",
+  "start": 49.636,
+  "end": 49.967
+ },
+ {
+  "word": "answer.",
+  "start": 49.967,
+  "end": 50.393
+ },
+ {
+  "word": "Would",
+  "start": 50.993,
+  "end": 51.314
+ },
+ {
+  "word": "you",
+  "start": 51.314,
+  "end": 51.543
+ },
+ {
+  "word": "go",
+  "start": 51.543,
+  "end": 51.727
+ },
+ {
+  "word": "in?",
+  "start": 51.727,
+  "end": 51.956
+ }
+]

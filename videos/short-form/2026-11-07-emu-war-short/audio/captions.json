@@ -1,0 +1,679 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.986,
+  "words": [
+   {
+    "text": "IN",
+    "start": 0.0,
+    "end": 0.359
+   },
+   {
+    "text": "1932,",
+    "start": 0.359,
+    "end": 0.986
+   }
+  ]
+ },
+ {
+  "start": 0.986,
+  "end": 2.868,
+  "words": [
+   {
+    "text": "AUSTRALIA",
+    "start": 0.986,
+    "end": 1.972
+   },
+   {
+    "text": "WENT",
+    "start": 1.972,
+    "end": 2.51
+   },
+   {
+    "text": "TO",
+    "start": 2.51,
+    "end": 2.868
+   }
+  ]
+ },
+ {
+  "start": 2.868,
+  "end": 4.482,
+  "words": [
+   {
+    "text": "WAR",
+    "start": 2.868,
+    "end": 3.317
+   },
+   {
+    "text": "WITH",
+    "start": 3.317,
+    "end": 3.855
+   },
+   {
+    "text": "EMUS.",
+    "start": 3.855,
+    "end": 4.482
+   }
+  ]
+ },
+ {
+  "start": 4.932,
+  "end": 5.935,
+  "words": [
+   {
+    "text": "SOLDIERS.",
+    "start": 4.932,
+    "end": 5.935
+   }
+  ]
+ },
+ {
+  "start": 5.935,
+  "end": 7.394,
+  "words": [
+   {
+    "text": "MACHINE",
+    "start": 5.935,
+    "end": 6.756
+   },
+   {
+    "text": "GUNS.",
+    "start": 6.756,
+    "end": 7.394
+   }
+  ]
+ },
+ {
+  "start": 7.394,
+  "end": 9.674,
+  "words": [
+   {
+    "text": "TEN",
+    "start": 7.394,
+    "end": 7.85
+   },
+   {
+    "text": "THOUSAND",
+    "start": 7.85,
+    "end": 8.762
+   },
+   {
+    "text": "BULLETS.",
+    "start": 8.762,
+    "end": 9.674
+   }
+  ]
+ },
+ {
+  "start": 9.674,
+  "end": 11.407,
+  "words": [
+   {
+    "text": "AND",
+    "start": 9.674,
+    "end": 10.13
+   },
+   {
+    "text": "THE",
+    "start": 10.13,
+    "end": 10.586
+   },
+   {
+    "text": "FARMERS",
+    "start": 10.586,
+    "end": 11.407
+   }
+  ]
+ },
+ {
+  "start": 11.407,
+  "end": 12.866,
+  "words": [
+   {
+    "text": "PAID",
+    "start": 11.407,
+    "end": 11.954
+   },
+   {
+    "text": "FOR",
+    "start": 11.954,
+    "end": 12.41
+   },
+   {
+    "text": "THE",
+    "start": 12.41,
+    "end": 12.866
+   }
+  ]
+ },
+ {
+  "start": 12.866,
+  "end": 13.778,
+  "words": [
+   {
+    "text": "BULLETS.",
+    "start": 12.866,
+    "end": 13.778
+   }
+  ]
+ },
+ {
+  "start": 14.228,
+  "end": 15.711,
+  "words": [
+   {
+    "text": "THE",
+    "start": 14.228,
+    "end": 14.618
+   },
+   {
+    "text": "GUN",
+    "start": 14.618,
+    "end": 15.009
+   },
+   {
+    "text": "JAMMED.",
+    "start": 15.009,
+    "end": 15.711
+   }
+  ]
+ },
+ {
+  "start": 15.711,
+  "end": 17.35,
+  "words": [
+   {
+    "text": "A",
+    "start": 15.711,
+    "end": 15.945
+   },
+   {
+    "text": "POLITICIAN",
+    "start": 15.945,
+    "end": 16.882
+   },
+   {
+    "text": "SAID",
+    "start": 16.882,
+    "end": 17.35
+   }
+  ]
+ },
+ {
+  "start": 17.35,
+  "end": 18.989,
+  "words": [
+   {
+    "text": "THE",
+    "start": 17.35,
+    "end": 17.74
+   },
+   {
+    "text": "EMUS",
+    "start": 17.74,
+    "end": 18.209
+   },
+   {
+    "text": "DESERVED",
+    "start": 18.209,
+    "end": 18.989
+   }
+  ]
+ },
+ {
+  "start": 18.989,
+  "end": 19.692,
+  "words": [
+   {
+    "text": "MEDALS.",
+    "start": 18.989,
+    "end": 19.692
+   }
+  ]
+ },
+ {
+  "start": 19.692,
+  "end": 21.175,
+  "words": [
+   {
+    "text": "THE",
+    "start": 19.692,
+    "end": 20.082
+   },
+   {
+    "text": "ARMY",
+    "start": 20.082,
+    "end": 20.55
+   },
+   {
+    "text": "PULLED",
+    "start": 20.55,
+    "end": 21.175
+   }
+  ]
+ },
+ {
+  "start": 21.175,
+  "end": 21.875,
+  "words": [
+   {
+    "text": "OUT.",
+    "start": 21.175,
+    "end": 21.643
+   }
+  ]
+ },
+ {
+  "start": 22.093,
+  "end": 23.592,
+  "words": [
+   {
+    "text": "BY",
+    "start": 22.093,
+    "end": 22.379
+   },
+   {
+    "text": "THE",
+    "start": 22.379,
+    "end": 22.735
+   },
+   {
+    "text": "HEADLINES,",
+    "start": 22.735,
+    "end": 23.592
+   }
+  ]
+ },
+ {
+  "start": 23.592,
+  "end": 25.02,
+  "words": [
+   {
+    "text": "AUSTRALIA",
+    "start": 23.592,
+    "end": 24.377
+   },
+   {
+    "text": "LOST",
+    "start": 24.377,
+    "end": 24.805
+   },
+   {
+    "text": "A",
+    "start": 24.805,
+    "end": 25.02
+   }
+  ]
+ },
+ {
+  "start": 25.02,
+  "end": 26.233,
+  "words": [
+   {
+    "text": "WAR",
+    "start": 25.02,
+    "end": 25.376
+   },
+   {
+    "text": "TO",
+    "start": 25.376,
+    "end": 25.662
+   },
+   {
+    "text": "BIRDS.",
+    "start": 25.662,
+    "end": 26.233
+   }
+  ]
+ },
+ {
+  "start": 26.683,
+  "end": 27.9,
+  "words": [
+   {
+    "text": "SO",
+    "start": 26.683,
+    "end": 26.953
+   },
+   {
+    "text": "THE",
+    "start": 26.953,
+    "end": 27.292
+   },
+   {
+    "text": "FARMERS",
+    "start": 27.292,
+    "end": 27.9
+   }
+  ]
+ },
+ {
+  "start": 27.9,
+  "end": 28.779,
+  "words": [
+   {
+    "text": "TOOK",
+    "start": 27.9,
+    "end": 28.306
+   },
+   {
+    "text": "OVER.",
+    "start": 28.306,
+    "end": 28.779
+   }
+  ]
+ },
+ {
+  "start": 28.779,
+  "end": 30.334,
+  "words": [
+   {
+    "text": "THE",
+    "start": 28.779,
+    "end": 29.117
+   },
+   {
+    "text": "GOVERNMENT",
+    "start": 29.117,
+    "end": 29.929
+   },
+   {
+    "text": "PAID",
+    "start": 29.929,
+    "end": 30.334
+   }
+  ]
+ },
+ {
+  "start": 30.334,
+  "end": 31.416,
+  "words": [
+   {
+    "text": "A",
+    "start": 30.334,
+    "end": 30.537
+   },
+   {
+    "text": "BOUNTY",
+    "start": 30.537,
+    "end": 31.078
+   },
+   {
+    "text": "FOR",
+    "start": 31.078,
+    "end": 31.416
+   }
+  ]
+ },
+ {
+  "start": 31.416,
+  "end": 32.363,
+  "words": [
+   {
+    "text": "EVERY",
+    "start": 31.416,
+    "end": 31.89
+   },
+   {
+    "text": "BEAK.",
+    "start": 31.89,
+    "end": 32.363
+   }
+  ]
+ },
+ {
+  "start": 32.813,
+  "end": 34.234,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 32.813,
+    "end": 33.208
+   },
+   {
+    "text": "COUNT",
+    "start": 33.208,
+    "end": 33.761
+   },
+   {
+    "text": "SAYS",
+    "start": 33.761,
+    "end": 34.234
+   }
+  ]
+ },
+ {
+  "start": 34.234,
+  "end": 35.735,
+  "words": [
+   {
+    "text": "OVER",
+    "start": 34.234,
+    "end": 34.708
+   },
+   {
+    "text": "FIFTY-SEVEN",
+    "start": 34.708,
+    "end": 35.735
+   }
+  ]
+ },
+ {
+  "start": 35.735,
+  "end": 37.077,
+  "words": [
+   {
+    "text": "THOUSAND",
+    "start": 35.735,
+    "end": 36.524
+   },
+   {
+    "text": "EMUS,",
+    "start": 36.524,
+    "end": 37.077
+   }
+  ]
+ },
+ {
+  "start": 37.077,
+  "end": 38.261,
+  "words": [
+   {
+    "text": "IN",
+    "start": 37.077,
+    "end": 37.393
+   },
+   {
+    "text": "A",
+    "start": 37.393,
+    "end": 37.63
+   },
+   {
+    "text": "SINGLE",
+    "start": 37.63,
+    "end": 38.261
+   }
+  ]
+ },
+ {
+  "start": 38.261,
+  "end": 38.972,
+  "words": [
+   {
+    "text": "SEASON.",
+    "start": 38.261,
+    "end": 38.972
+   }
+  ]
+ },
+ {
+  "start": 39.422,
+  "end": 40.387,
+  "words": [
+   {
+    "text": "THE",
+    "start": 39.422,
+    "end": 39.663
+   },
+   {
+    "text": "ARMY",
+    "start": 39.663,
+    "end": 39.953
+   },
+   {
+    "text": "MANAGED",
+    "start": 39.953,
+    "end": 40.387
+   }
+  ]
+ },
+ {
+  "start": 40.387,
+  "end": 41.4,
+  "words": [
+   {
+    "text": "UNDER",
+    "start": 40.387,
+    "end": 40.724
+   },
+   {
+    "text": "A",
+    "start": 40.724,
+    "end": 40.869
+   },
+   {
+    "text": "THOUSAND,",
+    "start": 40.869,
+    "end": 41.4
+   }
+  ]
+ },
+ {
+  "start": 41.4,
+  "end": 42.075,
+  "words": [
+   {
+    "text": "BY",
+    "start": 41.4,
+    "end": 41.593
+   },
+   {
+    "text": "ITS",
+    "start": 41.593,
+    "end": 41.834
+   },
+   {
+    "text": "OWN",
+    "start": 41.834,
+    "end": 42.075
+   }
+  ]
+ },
+ {
+  "start": 42.075,
+  "end": 42.775,
+  "words": [
+   {
+    "text": "COUNT.",
+    "start": 42.075,
+    "end": 42.461
+   }
+  ]
+ },
+ {
+  "start": 42.911,
+  "end": 44.326,
+  "words": [
+   {
+    "text": "THE",
+    "start": 42.911,
+    "end": 43.232
+   },
+   {
+    "text": "WINNING",
+    "start": 43.232,
+    "end": 43.811
+   },
+   {
+    "text": "WEAPON",
+    "start": 43.811,
+    "end": 44.326
+   }
+  ]
+ },
+ {
+  "start": 44.326,
+  "end": 45.611,
+  "words": [
+   {
+    "text": "WASN'T",
+    "start": 44.326,
+    "end": 44.84
+   },
+   {
+    "text": "A",
+    "start": 44.84,
+    "end": 45.033
+   },
+   {
+    "text": "MACHINE",
+    "start": 45.033,
+    "end": 45.611
+   }
+  ]
+ },
+ {
+  "start": 45.611,
+  "end": 45.997,
+  "words": [
+   {
+    "text": "GUN.",
+    "start": 45.611,
+    "end": 45.997
+   }
+  ]
+ },
+ {
+  "start": 45.997,
+  "end": 46.769,
+  "words": [
+   {
+    "text": "IT",
+    "start": 45.997,
+    "end": 46.254
+   },
+   {
+    "text": "WAS",
+    "start": 46.254,
+    "end": 46.576
+   },
+   {
+    "text": "A",
+    "start": 46.576,
+    "end": 46.769
+   }
+  ]
+ },
+ {
+  "start": 46.769,
+  "end": 48.119,
+  "words": [
+   {
+    "text": "PAYMENT",
+    "start": 46.769,
+    "end": 47.347
+   },
+   {
+    "text": "PER",
+    "start": 47.347,
+    "end": 47.669
+   },
+   {
+    "text": "BEAK.",
+    "start": 47.669,
+    "end": 48.119
+   }
+  ]
+ }
+]

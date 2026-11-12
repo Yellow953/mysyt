@@ -1,0 +1,492 @@
+[
+ {
+  "word": "It's",
+  "start": 0.0,
+  "end": 0.44
+ },
+ {
+  "word": "noon.",
+  "start": 0.44,
+  "end": 0.954
+ },
+ {
+  "word": "Your",
+  "start": 0.954,
+  "end": 1.395
+ },
+ {
+  "word": "whole",
+  "start": 1.395,
+  "end": 1.909
+ },
+ {
+  "word": "workday",
+  "start": 1.909,
+  "end": 2.569
+ },
+ {
+  "word": "is",
+  "start": 2.569,
+  "end": 2.863
+ },
+ {
+  "word": "over.",
+  "start": 2.863,
+  "end": 3.377
+ },
+ {
+  "word": "Now",
+  "start": 3.777,
+  "end": 4.069
+ },
+ {
+  "word": "what?",
+  "start": 4.069,
+  "end": 4.477
+ },
+ {
+  "word": "Spoiler:",
+  "start": 4.977,
+  "end": 5.617
+ },
+ {
+  "word": "you",
+  "start": 5.617,
+  "end": 5.937
+ },
+ {
+  "word": "still",
+  "start": 5.937,
+  "end": 6.385
+ },
+ {
+  "word": "do",
+  "start": 6.385,
+  "end": 6.641
+ },
+ {
+  "word": "it",
+  "start": 6.641,
+  "end": 6.897
+ },
+ {
+  "word": "every",
+  "start": 6.897,
+  "end": 7.345
+ },
+ {
+  "word": "night.",
+  "start": 7.345,
+  "end": 7.857
+ },
+ {
+  "word": "Modern",
+  "start": 8.407,
+  "end": 8.927
+ },
+ {
+  "word": "Kalahari",
+  "start": 8.927,
+  "end": 9.578
+ },
+ {
+  "word": "foragers",
+  "start": 9.578,
+  "end": 10.229
+ },
+ {
+  "word": "found",
+  "start": 10.229,
+  "end": 10.684
+ },
+ {
+  "word": "food",
+  "start": 10.684,
+  "end": 11.074
+ },
+ {
+  "word": "in",
+  "start": 11.074,
+  "end": 11.334
+ },
+ {
+  "word": "a",
+  "start": 11.334,
+  "end": 11.53
+ },
+ {
+  "word": "few",
+  "start": 11.53,
+  "end": 11.855
+ },
+ {
+  "word": "hours",
+  "start": 11.855,
+  "end": 12.31
+ },
+ {
+  "word": "a",
+  "start": 12.31,
+  "end": 12.505
+ },
+ {
+  "word": "day.",
+  "start": 12.505,
+  "end": 12.896
+ },
+ {
+  "word": "Chores",
+  "start": 12.896,
+  "end": 13.416
+ },
+ {
+  "word": "came",
+  "start": 13.416,
+  "end": 13.807
+ },
+ {
+  "word": "extra.",
+  "start": 13.807,
+  "end": 14.327
+ },
+ {
+  "word": "So",
+  "start": 14.727,
+  "end": 15.153
+ },
+ {
+  "word": "you",
+  "start": 15.153,
+  "end": 15.686
+ },
+ {
+  "word": "nap.",
+  "start": 15.686,
+  "end": 16.325
+ },
+ {
+  "word": "Fix",
+  "start": 16.325,
+  "end": 16.857
+ },
+ {
+  "word": "a",
+  "start": 16.857,
+  "end": 17.177
+ },
+ {
+  "word": "spear.",
+  "start": 17.177,
+  "end": 18.029
+ },
+ {
+  "word": "Gossip.",
+  "start": 18.029,
+  "end": 18.988
+ },
+ {
+  "word": "Your",
+  "start": 19.338,
+  "end": 19.735
+ },
+ {
+  "word": "hobby:",
+  "start": 19.735,
+  "end": 20.263
+ },
+ {
+  "word": "other",
+  "start": 20.263,
+  "end": 20.726
+ },
+ {
+  "word": "people.",
+  "start": 20.726,
+  "end": 21.321
+ },
+ {
+  "word": "By",
+  "start": 21.87,
+  "end": 22.132
+ },
+ {
+  "word": "evening,",
+  "start": 22.132,
+  "end": 22.788
+ },
+ {
+  "word": "the",
+  "start": 22.788,
+  "end": 23.116
+ },
+ {
+  "word": "fire",
+  "start": 23.116,
+  "end": 23.51
+ },
+ {
+  "word": "comes",
+  "start": 23.51,
+  "end": 23.969
+ },
+ {
+  "word": "out.",
+  "start": 23.969,
+  "end": 24.363
+ },
+ {
+  "word": "By",
+  "start": 24.813,
+  "end": 25.097
+ },
+ {
+  "word": "day",
+  "start": 25.097,
+  "end": 25.452
+ },
+ {
+  "word": "they",
+  "start": 25.452,
+  "end": 25.877
+ },
+ {
+  "word": "argued",
+  "start": 25.877,
+  "end": 26.445
+ },
+ {
+  "word": "about",
+  "start": 26.445,
+  "end": 26.942
+ },
+ {
+  "word": "food,",
+  "start": 26.942,
+  "end": 27.439
+ },
+ {
+  "word": "land,",
+  "start": 27.439,
+  "end": 27.935
+ },
+ {
+  "word": "drama.",
+  "start": 27.935,
+  "end": 28.503
+ },
+ {
+  "word": "By",
+  "start": 28.953,
+  "end": 29.298
+ },
+ {
+  "word": "night,",
+  "start": 29.298,
+  "end": 29.988
+ },
+ {
+  "word": "eighty-one",
+  "start": 29.988,
+  "end": 31.023
+ },
+ {
+  "word": "percent",
+  "start": 31.023,
+  "end": 31.799
+ },
+ {
+  "word": "of",
+  "start": 31.799,
+  "end": 32.144
+ },
+ {
+  "word": "long",
+  "start": 32.144,
+  "end": 32.661
+ },
+ {
+  "word": "chats",
+  "start": 32.661,
+  "end": 33.265
+ },
+ {
+  "word": "were",
+  "start": 33.265,
+  "end": 33.783
+ },
+ {
+  "word": "stories.",
+  "start": 33.783,
+  "end": 34.645
+ },
+ {
+  "word": "Mostly",
+  "start": 35.045,
+  "end": 35.453
+ },
+ {
+  "word": "about",
+  "start": 35.453,
+  "end": 35.81
+ },
+ {
+  "word": "people",
+  "start": 35.81,
+  "end": 36.218
+ },
+ {
+  "word": "they",
+  "start": 36.218,
+  "end": 36.524
+ },
+ {
+  "word": "knew.",
+  "start": 36.524,
+  "end": 36.881
+ },
+ {
+  "word": "Ancient",
+  "start": 37.231,
+  "end": 37.99
+ },
+ {
+  "word": "reality",
+  "start": 37.99,
+  "end": 38.748
+ },
+ {
+  "word": "TV.",
+  "start": 38.748,
+  "end": 39.17
+ },
+ {
+  "word": "Starring",
+  "start": 39.52,
+  "end": 40.091
+ },
+ {
+  "word": "your",
+  "start": 40.091,
+  "end": 40.434
+ },
+ {
+  "word": "neighbors.",
+  "start": 40.434,
+  "end": 41.12
+ },
+ {
+  "word": "Your",
+  "start": 41.57,
+  "end": 41.893
+ },
+ {
+  "word": "group",
+  "start": 41.893,
+  "end": 42.269
+ },
+ {
+  "word": "chat",
+  "start": 42.269,
+  "end": 42.592
+ },
+ {
+  "word": "is",
+  "start": 42.592,
+  "end": 42.807
+ },
+ {
+  "word": "basically",
+  "start": 42.807,
+  "end": 43.398
+ },
+ {
+  "word": "a",
+  "start": 43.398,
+  "end": 43.56
+ },
+ {
+  "word": "campfire.",
+  "start": 43.56,
+  "end": 44.151
+ },
+ {
+  "word": "Not",
+  "start": 44.701,
+  "end": 45.184
+ },
+ {
+  "word": "cavemen.",
+  "start": 45.184,
+  "end": 46.151
+ },
+ {
+  "word": "But",
+  "start": 46.151,
+  "end": 46.635
+ },
+ {
+  "word": "maybe",
+  "start": 46.635,
+  "end": 47.311
+ },
+ {
+  "word": "boredom",
+  "start": 47.311,
+  "end": 48.181
+ },
+ {
+  "word": "built",
+  "start": 48.181,
+  "end": 48.858
+ },
+ {
+  "word": "culture.",
+  "start": 48.858,
+  "end": 49.825
+ },
+ {
+  "word": "What",
+  "start": 50.325,
+  "end": 50.668
+ },
+ {
+  "word": "would",
+  "start": 50.668,
+  "end": 51.068
+ },
+ {
+  "word": "you",
+  "start": 51.068,
+  "end": 51.353
+ },
+ {
+  "word": "do",
+  "start": 51.353,
+  "end": 51.582
+ },
+ {
+  "word": "after",
+  "start": 51.582,
+  "end": 51.982
+ },
+ {
+  "word": "lunch?",
+  "start": 51.982,
+  "end": 52.439
+ },
+ {
+  "word": "Tell",
+  "start": 52.789,
+  "end": 53.051
+ },
+ {
+  "word": "me",
+  "start": 53.051,
+  "end": 53.226
+ },
+ {
+  "word": "below.",
+  "start": 53.226,
+  "end": 53.576
+ }
+]

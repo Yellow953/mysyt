@@ -1,0 +1,96 @@
+{
+ "slug": "2026-10-31-levels-navy",
+ "format": "short",
+ "aspect": "9:16",
+ "voice": {
+  "voice": "Grady",
+  "engine": "higgsfield text2speech_v2 elevenlabs",
+  "mode": "phrase clips (audio/performance.json)"
+ },
+ "music": "Trudging Along - Godmode.mp3",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "Every level in the Royal Navy. From getting yelled at by an instructor… to commanding an entire aircraft carrier.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> A nervous small sailor-cap-wearing character standing stiffly at attention in a plain parade yard while a giant stick-figure officer with a huge angry mouth screams in his face, scarf blowing, wide scared eyes, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in"
+  },
+  {
+   "id": 2,
+   "text": "Level one: Recruit. You can't even fold your own bed properly. Your entire personality is now shouting 'YES, SIR!'",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a tiny sailor cap struggling to make a bunk bed with a lumpy blanket in a plain barracks, a stern stick-figure instructor beside him shaking his head, defeated face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_left",
+   "overlay_text": "LEVEL 1 — RECRUIT"
+  },
+  {
+   "id": 3,
+   "text": "Level two: Able Seaman. You finally know how to work on a ship. Unfortunately, you're still the guy doing the jobs nobody wants.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf in a sailor uniform scrubbing a grey ship deck with a brush, another stick-figure sailor pointing at a giant pile of ropes beside him, tired lazy face, blue sea behind, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "LEVEL 2 — ABLE SEAMAN"
+  },
+  {
+   "id": 4,
+   "text": "Level three: Petty Officer. Congratulations! You can now yell at recruits instead of being yelled at. Your back hurts, and your patience is gone.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a petty officer in a peaked cap holding a clipboard and yelling at three exhausted stick-figure recruits in a row, hand on his sore back, grey ship deck, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "moves": [
+    "pan_right",
+    "pan_left"
+   ],
+   "overlay_text": "LEVEL 3 — PETTY OFFICER"
+  },
+  {
+   "id": 5,
+   "text": "Level four: Lieutenant. You're an officer now. You have actual authority, important decisions, and approximately seventeen new ways to get blamed.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a young naval officer in a smart jacket standing in a ship's corridor surrounded by piles of paperwork while flashing alarm lights glow behind him, overwhelmed face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "overlay_text": "LEVEL 4 — LIEUTENANT"
+  },
+  {
+   "id": 6,
+   "text": "Level five: Commander. You're running a ship or a major department. When something goes wrong, everyone suddenly knows your name.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a commander in uniform standing on a warship bridge while stick-figure crew point at a smoking radar screen, everyone turning to look at him, nervous face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "overlay_text": "LEVEL 5 — COMMANDER"
+  },
+  {
+   "id": 7,
+   "text": "Level six: Captain. You command an entire warship. Hundreds of sailors depend on your decisions. One mistake could turn a very bad day into a national headline.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a captain in a gold-trimmed hat on the bridge of a massive grey warship, staring at a glowing tactical map table, heavy serious face, tiny newspaper-shaped headline blank cloud above him, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_in",
+   "moves": [
+    "zoom_in",
+    "zoom_out"
+   ],
+   "overlay_text": "LEVEL 6 — CAPTAIN"
+  },
+  {
+   "id": 8,
+   "text": "Final level: Commanding a Royal Navy aircraft carrier. You're responsible for a floating city, more than a thousand people, and aircraft worth millions. Your parking space? The ocean.",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Tiny Mr. Yellow Scarf in a captain's hat standing proudly on a harbour dock in front of a gigantic grey aircraft carrier covered in small fighter jets, huge proud smile, open blue ocean behind, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "zoom_out",
+   "moves": [
+    "zoom_out",
+    "zoom_in"
+   ],
+   "overlay_text": "FINAL LEVEL — AIRCRAFT CARRIER COMMAND"
+  },
+  {
+   "id": 9,
+   "text": "Would you survive level one… or quit before breakfast?",
+   "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> Mr. Yellow Scarf as a recruit dropping his duffel bag and running away fast across a parade yard, speed lines, panicked face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+   "uses_character": true,
+   "motion": "pan_right",
+   "overlay_text": "BE HONEST."
+  }
+ ]
+}

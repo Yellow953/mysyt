@@ -1,0 +1,5 @@
+# Review: 2026-10-29-blockbuster-netflix
+## Round 1: REVISE. Scores: Idea 7, Hook 7, Retention 6, Titles 8, Thumbnail 7, Promise 8, Voice 7, Facts 7 (2M-subscriber line unsourced), Production 7.
+Fixes adopted in v2: hook rewritten (laugh in the offer), 2M line cut, Oregon "last store" added (CBS 2019), scene 3 merged, scene 10 two moves, awning and doors prompts changed, CTA "Be honest. You'd have said no too?", cover text "LOL. NO.".
+## Round 2: REVISE (Retention 7, others 8). Fixes in v3: Netflix named in line 2, "Your no was just expensive.", museum joke on Oregon line, title "You Passed on Buying Netflix for $50 Million", cover text "NO. LOL.", description note on Antioco/Chapter 11.
+## Round 3 (max rounds reached): REVISE with minor fixes, all applied in v4 (no 4th review run; changes are line-level and were prescribed by the reviewer). Blockbuster: Production 7 -> split the 2019 beat into two phrases + two camera moves. Kodak: Retention/Production 7 -> bankruptcy beat split into two phrases + two moves. Nintendo: Hook/Retention 7 -> second-person "your childhood" line, "Yes, cards." beat. Facts all 8.

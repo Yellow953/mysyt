@@ -1,0 +1,759 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.243,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 0.0,
+    "end": 0.432
+   },
+   {
+    "text": "CROSSING",
+    "start": 0.432,
+    "end": 0.972
+   },
+   {
+    "text": "THE",
+    "start": 0.972,
+    "end": 1.243
+   }
+  ]
+ },
+ {
+  "start": 1.243,
+  "end": 1.945,
+  "words": [
+   {
+    "text": "TAKLAMAKAN.",
+    "start": 1.243,
+    "end": 1.945
+   }
+  ]
+ },
+ {
+  "start": 2.345,
+  "end": 3.483,
+  "words": [
+   {
+    "text": "ITS",
+    "start": 2.345,
+    "end": 2.724
+   },
+   {
+    "text": "NAME",
+    "start": 2.724,
+    "end": 3.179
+   },
+   {
+    "text": "IS",
+    "start": 3.179,
+    "end": 3.483
+   }
+  ]
+ },
+ {
+  "start": 3.483,
+  "end": 4.772,
+  "words": [
+   {
+    "text": "OFTEN",
+    "start": 3.483,
+    "end": 4.013
+   },
+   {
+    "text": "SAID",
+    "start": 4.013,
+    "end": 4.468
+   },
+   {
+    "text": "TO",
+    "start": 4.468,
+    "end": 4.772
+   }
+  ]
+ },
+ {
+  "start": 4.772,
+  "end": 5.303,
+  "words": [
+   {
+    "text": "MEAN:",
+    "start": 4.772,
+    "end": 5.303
+   }
+  ]
+ },
+ {
+  "start": 5.303,
+  "end": 5.985,
+  "words": [
+   {
+    "text": "GO",
+    "start": 5.303,
+    "end": 5.606
+   },
+   {
+    "text": "IN,",
+    "start": 5.606,
+    "end": 5.985
+   }
+  ]
+ },
+ {
+  "start": 5.985,
+  "end": 7.426,
+  "words": [
+   {
+    "text": "DON'T",
+    "start": 5.985,
+    "end": 6.516
+   },
+   {
+    "text": "COME",
+    "start": 6.516,
+    "end": 6.971
+   },
+   {
+    "text": "OUT.",
+    "start": 6.971,
+    "end": 7.426
+   }
+  ]
+ },
+ {
+  "start": 7.926,
+  "end": 8.864,
+  "words": [
+   {
+    "text": "PACK",
+    "start": 7.926,
+    "end": 8.328
+   },
+   {
+    "text": "WATER.",
+    "start": 8.328,
+    "end": 8.864
+   }
+  ]
+ },
+ {
+  "start": 8.864,
+  "end": 9.868,
+  "words": [
+   {
+    "text": "IT",
+    "start": 8.864,
+    "end": 9.132
+   },
+   {
+    "text": "WON'T",
+    "start": 9.132,
+    "end": 9.6
+   },
+   {
+    "text": "BE",
+    "start": 9.6,
+    "end": 9.868
+   }
+  ]
+ },
+ {
+  "start": 9.868,
+  "end": 10.568,
+  "words": [
+   {
+    "text": "ENOUGH.",
+    "start": 9.868,
+    "end": 10.471
+   }
+  ]
+ },
+ {
+  "start": 10.971,
+  "end": 12.556,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 10.971,
+    "end": 11.315
+   },
+   {
+    "text": "WEATHER",
+    "start": 11.315,
+    "end": 11.936
+   },
+   {
+    "text": "STATION",
+    "start": 11.936,
+    "end": 12.556
+   }
+  ]
+ },
+ {
+  "start": 12.556,
+  "end": 13.727,
+  "words": [
+   {
+    "text": "IN",
+    "start": 12.556,
+    "end": 12.831
+   },
+   {
+    "text": "THE",
+    "start": 12.831,
+    "end": 13.176
+   },
+   {
+    "text": "MIDDLE",
+    "start": 13.176,
+    "end": 13.727
+   }
+  ]
+ },
+ {
+  "start": 13.727,
+  "end": 14.967,
+  "words": [
+   {
+    "text": "GETS",
+    "start": 13.727,
+    "end": 14.14
+   },
+   {
+    "text": "ABOUT",
+    "start": 14.14,
+    "end": 14.622
+   },
+   {
+    "text": "ONE",
+    "start": 14.622,
+    "end": 14.967
+   }
+  ]
+ },
+ {
+  "start": 14.967,
+  "end": 16.138,
+  "words": [
+   {
+    "text": "INCH",
+    "start": 14.967,
+    "end": 15.38
+   },
+   {
+    "text": "OF",
+    "start": 15.38,
+    "end": 15.656
+   },
+   {
+    "text": "RAIN.",
+    "start": 15.656,
+    "end": 16.138
+   }
+  ]
+ },
+ {
+  "start": 16.138,
+  "end": 16.838,
+  "words": [
+   {
+    "text": "A",
+    "start": 16.138,
+    "end": 16.345
+   },
+   {
+    "text": "YEAR.",
+    "start": 16.345,
+    "end": 16.827
+   }
+  ]
+ },
+ {
+  "start": 17.427,
+  "end": 18.457,
+  "words": [
+   {
+    "text": "DUNES",
+    "start": 17.427,
+    "end": 17.942
+   },
+   {
+    "text": "MOVE.",
+    "start": 17.942,
+    "end": 18.457
+   }
+  ]
+ },
+ {
+  "start": 18.457,
+  "end": 19.56,
+  "words": [
+   {
+    "text": "SO",
+    "start": 18.457,
+    "end": 18.751
+   },
+   {
+    "text": "DOES",
+    "start": 18.751,
+    "end": 19.192
+   },
+   {
+    "text": "THE",
+    "start": 19.192,
+    "end": 19.56
+   }
+  ]
+ },
+ {
+  "start": 19.56,
+  "end": 20.26,
+  "words": [
+   {
+    "text": "TRAIL.",
+    "start": 19.56,
+    "end": 20.148
+   }
+  ]
+ },
+ {
+  "start": 20.698,
+  "end": 21.805,
+  "words": [
+   {
+    "text": "A",
+    "start": 20.698,
+    "end": 20.873
+   },
+   {
+    "text": "MONK",
+    "start": 20.873,
+    "end": 21.223
+   },
+   {
+    "text": "CROSSING",
+    "start": 21.223,
+    "end": 21.805
+   }
+  ]
+ },
+ {
+  "start": 21.805,
+  "end": 22.913,
+  "words": [
+   {
+    "text": "NEXT",
+    "start": 21.805,
+    "end": 22.155
+   },
+   {
+    "text": "DOOR",
+    "start": 22.155,
+    "end": 22.505
+   },
+   {
+    "text": "WROTE",
+    "start": 22.505,
+    "end": 22.913
+   }
+  ]
+ },
+ {
+  "start": 22.913,
+  "end": 24.137,
+  "words": [
+   {
+    "text": "THAT",
+    "start": 22.913,
+    "end": 23.263
+   },
+   {
+    "text": "BONES",
+    "start": 23.263,
+    "end": 23.671
+   },
+   {
+    "text": "MARKED",
+    "start": 23.671,
+    "end": 24.137
+   }
+  ]
+ },
+ {
+  "start": 24.137,
+  "end": 24.837,
+  "words": [
+   {
+    "text": "THE",
+    "start": 24.137,
+    "end": 24.428
+   },
+   {
+    "text": "WAY.",
+    "start": 24.428,
+    "end": 24.778
+   }
+  ]
+ },
+ {
+  "start": 25.178,
+  "end": 26.938,
+  "words": [
+   {
+    "text": "REASSURING.",
+    "start": 25.178,
+    "end": 26.938
+   }
+  ]
+ },
+ {
+  "start": 27.438,
+  "end": 28.641,
+  "words": [
+   {
+    "text": "SUMMER",
+    "start": 27.438,
+    "end": 27.973
+   },
+   {
+    "text": "CAN",
+    "start": 27.973,
+    "end": 28.307
+   },
+   {
+    "text": "TOP",
+    "start": 28.307,
+    "end": 28.641
+   }
+  ]
+ },
+ {
+  "start": 28.641,
+  "end": 30.112,
+  "words": [
+   {
+    "text": "A",
+    "start": 28.641,
+    "end": 28.842
+   },
+   {
+    "text": "HUNDRED",
+    "start": 28.842,
+    "end": 29.443
+   },
+   {
+    "text": "DEGREES.",
+    "start": 29.443,
+    "end": 30.112
+   }
+  ]
+ },
+ {
+  "start": 30.112,
+  "end": 31.382,
+  "words": [
+   {
+    "text": "WINTER",
+    "start": 30.112,
+    "end": 30.647
+   },
+   {
+    "text": "CAN",
+    "start": 30.647,
+    "end": 30.981
+   },
+   {
+    "text": "FALL",
+    "start": 30.981,
+    "end": 31.382
+   }
+  ]
+ },
+ {
+  "start": 31.382,
+  "end": 32.318,
+  "words": [
+   {
+    "text": "BELOW",
+    "start": 31.382,
+    "end": 31.85
+   },
+   {
+    "text": "ZERO.",
+    "start": 31.85,
+    "end": 32.318
+   }
+  ]
+ },
+ {
+  "start": 32.718,
+  "end": 34.253,
+  "words": [
+   {
+    "text": "PACK",
+    "start": 32.718,
+    "end": 33.23
+   },
+   {
+    "text": "SUNSCREEN.",
+    "start": 33.23,
+    "end": 34.253
+   }
+  ]
+ },
+ {
+  "start": 34.253,
+  "end": 35.703,
+  "words": [
+   {
+    "text": "ALSO",
+    "start": 34.253,
+    "end": 34.765
+   },
+   {
+    "text": "A",
+    "start": 34.765,
+    "end": 35.021
+   },
+   {
+    "text": "PARKA.",
+    "start": 35.021,
+    "end": 35.703
+   }
+  ]
+ },
+ {
+  "start": 36.303,
+  "end": 38.209,
+  "words": [
+   {
+    "text": "SMART",
+    "start": 36.303,
+    "end": 36.859
+   },
+   {
+    "text": "TRADERS",
+    "start": 36.859,
+    "end": 37.573
+   },
+   {
+    "text": "HUGGED",
+    "start": 37.573,
+    "end": 38.209
+   }
+  ]
+ },
+ {
+  "start": 38.209,
+  "end": 39.161,
+  "words": [
+   {
+    "text": "THE",
+    "start": 38.209,
+    "end": 38.606
+   },
+   {
+    "text": "EDGE,",
+    "start": 38.606,
+    "end": 39.161
+   }
+  ]
+ },
+ {
+  "start": 39.161,
+  "end": 40.67,
+  "words": [
+   {
+    "text": "OASIS",
+    "start": 39.161,
+    "end": 39.717
+   },
+   {
+    "text": "TO",
+    "start": 39.717,
+    "end": 40.035
+   },
+   {
+    "text": "OASIS.",
+    "start": 40.035,
+    "end": 40.67
+   }
+  ]
+ },
+ {
+  "start": 41.07,
+  "end": 42.585,
+  "words": [
+   {
+    "text": "CAMELS",
+    "start": 41.07,
+    "end": 41.621
+   },
+   {
+    "text": "CARRIED",
+    "start": 41.621,
+    "end": 42.241
+   },
+   {
+    "text": "THE",
+    "start": 42.241,
+    "end": 42.585
+   }
+  ]
+ },
+ {
+  "start": 42.585,
+  "end": 43.136,
+  "words": [
+   {
+    "text": "WATER.",
+    "start": 42.585,
+    "end": 43.136
+   }
+  ]
+ },
+ {
+  "start": 43.136,
+  "end": 44.169,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 43.136,
+    "end": 43.48
+   },
+   {
+    "text": "ARE",
+    "start": 43.48,
+    "end": 43.824
+   },
+   {
+    "text": "NOT",
+    "start": 43.824,
+    "end": 44.169
+   }
+  ]
+ },
+ {
+  "start": 44.169,
+  "end": 44.926,
+  "words": [
+   {
+    "text": "A",
+    "start": 44.169,
+    "end": 44.375
+   },
+   {
+    "text": "CAMEL.",
+    "start": 44.375,
+    "end": 44.926
+   }
+  ]
+ },
+ {
+  "start": 45.426,
+  "end": 46.862,
+  "words": [
+   {
+    "text": "MARCO",
+    "start": 45.426,
+    "end": 45.905
+   },
+   {
+    "text": "POLO'S",
+    "start": 45.905,
+    "end": 46.451
+   },
+   {
+    "text": "BOOK",
+    "start": 46.451,
+    "end": 46.862
+   }
+  ]
+ },
+ {
+  "start": 46.862,
+  "end": 48.297,
+  "words": [
+   {
+    "text": "SAYS",
+    "start": 46.862,
+    "end": 47.272
+   },
+   {
+    "text": "SPIRITS",
+    "start": 47.272,
+    "end": 47.887
+   },
+   {
+    "text": "CALL",
+    "start": 47.887,
+    "end": 48.297
+   }
+  ]
+ },
+ {
+  "start": 48.297,
+  "end": 49.186,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 48.297,
+    "end": 48.707
+   },
+   {
+    "text": "NAME.",
+    "start": 48.707,
+    "end": 49.186
+   }
+  ]
+ },
+ {
+  "start": 49.636,
+  "end": 50.393,
+  "words": [
+   {
+    "text": "DON'T",
+    "start": 49.636,
+    "end": 49.967
+   },
+   {
+    "text": "ANSWER.",
+    "start": 49.967,
+    "end": 50.393
+   }
+  ]
+ },
+ {
+  "start": 50.993,
+  "end": 51.727,
+  "words": [
+   {
+    "text": "WOULD",
+    "start": 50.993,
+    "end": 51.314
+   },
+   {
+    "text": "YOU",
+    "start": 51.314,
+    "end": 51.543
+   },
+   {
+    "text": "GO",
+    "start": 51.543,
+    "end": 51.727
+   }
+  ]
+ },
+ {
+  "start": 51.727,
+  "end": 52.427,
+  "words": [
+   {
+    "text": "IN?",
+    "start": 51.727,
+    "end": 51.956
+   }
+  ]
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "text": "Why don't we just throw all our trash into a volcano?",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Honestly? Sounds perfect. Lava is over a thousand degrees. It burns anything.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "But only a handful of volcanoes keep an open lava lake.",
+  "tag": "deadpan",
+  "pause": 0.5,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "And the smoke? Dioxins. Lead. Mercury. Nothing to catch any of it.",
+  "tag": "dry",
+  "pause": 0.6,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "Incinerators use filters. A volcano is just an incinerator... without one.",
+  "tag": "deadpan",
+  "pause": 0.8,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "So yeah. Just recycle.",
+  "tag": "deadpan",
+  "pause": 0.0,
+  "clip": "06.mp3"
+ }
+]

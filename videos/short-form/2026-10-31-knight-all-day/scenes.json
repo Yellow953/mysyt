@@ -1,0 +1,83 @@
+{
+  "slug": "2026-10-31-knight-all-day",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "music": "Medieval Astrology - Underbelly & Ty Mayer.mp3",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Think knights spent all day jousting, rescuing princesses, and slaying dragons? Yeah... not even close.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, raising a sword in one hand beside a friendly cartoon dragon and a princess with a crown like a movie hero, frozen mid-action with a faint freeze-frame border and speed lines stopped, confident grin turning to blank, plain pale castle-hill background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Most of the time, being a knight was mostly heavy armor and paperwork.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, sitting miserable at a big wooden desk in a stone hall wearing heavy plate armor, a huge pile of rolled scrolls and a quill in front of him, half-lidded bored face, a window with a castle courtyard behind, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 3,
+      "text": "They trained for years, getting whacked with sticks. Mess up? Congratulations. You're the stable boy.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, polishing a big armor breastplate with a rag while a gruff stick-figure knight whacks the helmet on his head with a wooden practice stick, hay and a small horse behind them, tired sarcastic face, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "pan_right",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "And the armor? Twenty-five kilos of steel. Bathroom breaks? Don't ask.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, in full plate armor with the visor open, sweat drops flying, stuck sideways in the doorway of a tiny wooden outhouse because the armor is too wide, unimpressed flat face, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "cover": true,
+      "moves": [
+        "zoom_in",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "But when war came? EVERYTHING changed. Lances down, horses charging, hoping the armor held.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, gripping a horse's neck and holding a long lance as a line of stick-figure knights on horses charge across a field with plain flags, his helmet visor has slammed shut and his lance points the wrong way, he looks alarmed, dust clouds, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "shake",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Win, and they got loot, land, and ransom. Lose, and it ended VERY badly.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, SPLIT: a thin vertical line divides the picture. LEFT half: stick-figure knights celebrating around a chest of gold and a small castle. RIGHT half: the main character staring terrified at a huge army of stick-figure knights, exactly two arms and two hands each. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_left",
+      "moves": [
+        "pan_left",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "So yeah, knight life was mostly training, hunting, and paperwork... with occasional battles.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, holding a hunting falcon on a leather glove with a bored deadpan face, a tall stack of scrolls beside him, and tiny distant battle smoke far away on a hill, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 8,
+      "text": "Still wanna be a knight?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small medieval knight helmet with the visor open on top of his round white head, his yellow scarf fully visible, shrugging with a thoughtful curious face and one raised eyebrow, plain pale castle background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

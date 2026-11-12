@@ -1,0 +1,1426 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.194,
+  "words": [
+   {
+    "text": "EVERY",
+    "start": 0.0,
+    "end": 0.464
+   },
+   {
+    "text": "LEVEL",
+    "start": 0.464,
+    "end": 0.929
+   },
+   {
+    "text": "IN",
+    "start": 0.929,
+    "end": 1.194
+   }
+  ]
+ },
+ {
+  "start": 1.194,
+  "end": 2.455,
+  "words": [
+   {
+    "text": "THE",
+    "start": 1.194,
+    "end": 1.526
+   },
+   {
+    "text": "ROYAL",
+    "start": 1.526,
+    "end": 1.991
+   },
+   {
+    "text": "NAVY.",
+    "start": 1.991,
+    "end": 2.455
+   }
+  ]
+ },
+ {
+  "start": 2.455,
+  "end": 3.981,
+  "words": [
+   {
+    "text": "FROM",
+    "start": 2.455,
+    "end": 2.853
+   },
+   {
+    "text": "GETTING",
+    "start": 2.853,
+    "end": 3.45
+   },
+   {
+    "text": "YELLED",
+    "start": 3.45,
+    "end": 3.981
+   }
+  ]
+ },
+ {
+  "start": 3.981,
+  "end": 4.777,
+  "words": [
+   {
+    "text": "AT",
+    "start": 3.981,
+    "end": 4.247
+   },
+   {
+    "text": "BY",
+    "start": 4.247,
+    "end": 4.512
+   },
+   {
+    "text": "AN",
+    "start": 4.512,
+    "end": 4.777
+   }
+  ]
+ },
+ {
+  "start": 4.777,
+  "end": 5.905,
+  "words": [
+   {
+    "text": "INSTRUCTOR\u2026",
+    "start": 4.777,
+    "end": 5.64
+   },
+   {
+    "text": "TO",
+    "start": 5.64,
+    "end": 5.905
+   }
+  ]
+ },
+ {
+  "start": 5.905,
+  "end": 7.498,
+  "words": [
+   {
+    "text": "COMMANDING",
+    "start": 5.905,
+    "end": 6.702
+   },
+   {
+    "text": "AN",
+    "start": 6.702,
+    "end": 6.967
+   },
+   {
+    "text": "ENTIRE",
+    "start": 6.967,
+    "end": 7.498
+   }
+  ]
+ },
+ {
+  "start": 7.498,
+  "end": 8.825,
+  "words": [
+   {
+    "text": "AIRCRAFT",
+    "start": 7.498,
+    "end": 8.161
+   },
+   {
+    "text": "CARRIER.",
+    "start": 8.161,
+    "end": 8.825
+   }
+  ]
+ },
+ {
+  "start": 9.325,
+  "end": 10.208,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 9.325,
+    "end": 9.801
+   },
+   {
+    "text": "ONE:",
+    "start": 9.801,
+    "end": 10.208
+   }
+  ]
+ },
+ {
+  "start": 10.208,
+  "end": 10.888,
+  "words": [
+   {
+    "text": "RECRUIT.",
+    "start": 10.208,
+    "end": 10.888
+   }
+  ]
+ },
+ {
+  "start": 10.888,
+  "end": 12.111,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 10.888,
+    "end": 11.227
+   },
+   {
+    "text": "CAN'T",
+    "start": 11.227,
+    "end": 11.703
+   },
+   {
+    "text": "EVEN",
+    "start": 11.703,
+    "end": 12.111
+   }
+  ]
+ },
+ {
+  "start": 12.111,
+  "end": 13.266,
+  "words": [
+   {
+    "text": "FOLD",
+    "start": 12.111,
+    "end": 12.518
+   },
+   {
+    "text": "YOUR",
+    "start": 12.518,
+    "end": 12.926
+   },
+   {
+    "text": "OWN",
+    "start": 12.926,
+    "end": 13.266
+   }
+  ]
+ },
+ {
+  "start": 13.266,
+  "end": 14.353,
+  "words": [
+   {
+    "text": "BED",
+    "start": 13.266,
+    "end": 13.605
+   },
+   {
+    "text": "PROPERLY.",
+    "start": 13.605,
+    "end": 14.353
+   }
+  ]
+ },
+ {
+  "start": 14.353,
+  "end": 15.304,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 14.353,
+    "end": 14.76
+   },
+   {
+    "text": "ENTIRE",
+    "start": 14.76,
+    "end": 15.304
+   }
+  ]
+ },
+ {
+  "start": 15.304,
+  "end": 16.798,
+  "words": [
+   {
+    "text": "PERSONALITY",
+    "start": 15.304,
+    "end": 16.187
+   },
+   {
+    "text": "IS",
+    "start": 16.187,
+    "end": 16.459
+   },
+   {
+    "text": "NOW",
+    "start": 16.459,
+    "end": 16.798
+   }
+  ]
+ },
+ {
+  "start": 16.798,
+  "end": 17.953,
+  "words": [
+   {
+    "text": "SHOUTING",
+    "start": 16.798,
+    "end": 17.478
+   },
+   {
+    "text": "'YES,",
+    "start": 17.478,
+    "end": 17.953
+   }
+  ]
+ },
+ {
+  "start": 17.953,
+  "end": 18.653,
+  "words": [
+   {
+    "text": "SIR!'",
+    "start": 17.953,
+    "end": 18.429
+   }
+  ]
+ },
+ {
+  "start": 18.829,
+  "end": 19.707,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 18.829,
+    "end": 19.302
+   },
+   {
+    "text": "TWO:",
+    "start": 19.302,
+    "end": 19.707
+   }
+  ]
+ },
+ {
+  "start": 19.707,
+  "end": 20.719,
+  "words": [
+   {
+    "text": "ABLE",
+    "start": 19.707,
+    "end": 20.112
+   },
+   {
+    "text": "SEAMAN.",
+    "start": 20.112,
+    "end": 20.719
+   }
+  ]
+ },
+ {
+  "start": 20.719,
+  "end": 22.069,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 20.719,
+    "end": 21.056
+   },
+   {
+    "text": "FINALLY",
+    "start": 21.056,
+    "end": 21.664
+   },
+   {
+    "text": "KNOW",
+    "start": 21.664,
+    "end": 22.069
+   }
+  ]
+ },
+ {
+  "start": 22.069,
+  "end": 23.081,
+  "words": [
+   {
+    "text": "HOW",
+    "start": 22.069,
+    "end": 22.406
+   },
+   {
+    "text": "TO",
+    "start": 22.406,
+    "end": 22.676
+   },
+   {
+    "text": "WORK",
+    "start": 22.676,
+    "end": 23.081
+   }
+  ]
+ },
+ {
+  "start": 23.081,
+  "end": 24.026,
+  "words": [
+   {
+    "text": "ON",
+    "start": 23.081,
+    "end": 23.351
+   },
+   {
+    "text": "A",
+    "start": 23.351,
+    "end": 23.554
+   },
+   {
+    "text": "SHIP.",
+    "start": 23.554,
+    "end": 24.026
+   }
+  ]
+ },
+ {
+  "start": 24.026,
+  "end": 25.106,
+  "words": [
+   {
+    "text": "UNFORTUNATELY,",
+    "start": 24.026,
+    "end": 25.106
+   }
+  ]
+ },
+ {
+  "start": 25.106,
+  "end": 26.456,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 25.106,
+    "end": 25.646
+   },
+   {
+    "text": "STILL",
+    "start": 25.646,
+    "end": 26.119
+   },
+   {
+    "text": "THE",
+    "start": 26.119,
+    "end": 26.456
+   }
+  ]
+ },
+ {
+  "start": 26.456,
+  "end": 27.604,
+  "words": [
+   {
+    "text": "GUY",
+    "start": 26.456,
+    "end": 26.794
+   },
+   {
+    "text": "DOING",
+    "start": 26.794,
+    "end": 27.266
+   },
+   {
+    "text": "THE",
+    "start": 27.266,
+    "end": 27.604
+   }
+  ]
+ },
+ {
+  "start": 27.604,
+  "end": 29.089,
+  "words": [
+   {
+    "text": "JOBS",
+    "start": 27.604,
+    "end": 28.009
+   },
+   {
+    "text": "NOBODY",
+    "start": 28.009,
+    "end": 28.549
+   },
+   {
+    "text": "WANTS.",
+    "start": 28.549,
+    "end": 29.089
+   }
+  ]
+ },
+ {
+  "start": 29.489,
+  "end": 30.444,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 29.489,
+    "end": 29.935
+   },
+   {
+    "text": "THREE:",
+    "start": 29.935,
+    "end": 30.444
+   }
+  ]
+ },
+ {
+  "start": 30.444,
+  "end": 31.526,
+  "words": [
+   {
+    "text": "PETTY",
+    "start": 30.444,
+    "end": 30.889
+   },
+   {
+    "text": "OFFICER.",
+    "start": 30.889,
+    "end": 31.526
+   }
+  ]
+ },
+ {
+  "start": 31.526,
+  "end": 32.672,
+  "words": [
+   {
+    "text": "CONGRATULATIONS!",
+    "start": 31.526,
+    "end": 32.672
+   }
+  ]
+ },
+ {
+  "start": 32.672,
+  "end": 33.627,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 32.672,
+    "end": 32.99
+   },
+   {
+    "text": "CAN",
+    "start": 32.99,
+    "end": 33.309
+   },
+   {
+    "text": "NOW",
+    "start": 33.309,
+    "end": 33.627
+   }
+  ]
+ },
+ {
+  "start": 33.627,
+  "end": 34.9,
+  "words": [
+   {
+    "text": "YELL",
+    "start": 33.627,
+    "end": 34.009
+   },
+   {
+    "text": "AT",
+    "start": 34.009,
+    "end": 34.263
+   },
+   {
+    "text": "RECRUITS",
+    "start": 34.263,
+    "end": 34.9
+   }
+  ]
+ },
+ {
+  "start": 34.9,
+  "end": 36.173,
+  "words": [
+   {
+    "text": "INSTEAD",
+    "start": 34.9,
+    "end": 35.473
+   },
+   {
+    "text": "OF",
+    "start": 35.473,
+    "end": 35.728
+   },
+   {
+    "text": "BEING",
+    "start": 35.728,
+    "end": 36.173
+   }
+  ]
+ },
+ {
+  "start": 36.173,
+  "end": 37.001,
+  "words": [
+   {
+    "text": "YELLED",
+    "start": 36.173,
+    "end": 36.682
+   },
+   {
+    "text": "AT.",
+    "start": 36.682,
+    "end": 37.001
+   }
+  ]
+ },
+ {
+  "start": 37.001,
+  "end": 38.274,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 37.001,
+    "end": 37.383
+   },
+   {
+    "text": "BACK",
+    "start": 37.383,
+    "end": 37.765
+   },
+   {
+    "text": "HURTS,",
+    "start": 37.765,
+    "end": 38.274
+   }
+  ]
+ },
+ {
+  "start": 38.274,
+  "end": 39.611,
+  "words": [
+   {
+    "text": "AND",
+    "start": 38.274,
+    "end": 38.592
+   },
+   {
+    "text": "YOUR",
+    "start": 38.592,
+    "end": 38.974
+   },
+   {
+    "text": "PATIENCE",
+    "start": 38.974,
+    "end": 39.611
+   }
+  ]
+ },
+ {
+  "start": 39.611,
+  "end": 40.311,
+  "words": [
+   {
+    "text": "IS",
+    "start": 39.611,
+    "end": 39.865
+   },
+   {
+    "text": "GONE.",
+    "start": 39.865,
+    "end": 40.311
+   }
+  ]
+ },
+ {
+  "start": 40.711,
+  "end": 41.621,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 40.711,
+    "end": 41.166
+   },
+   {
+    "text": "FOUR:",
+    "start": 41.166,
+    "end": 41.621
+   }
+  ]
+ },
+ {
+  "start": 41.621,
+  "end": 42.467,
+  "words": [
+   {
+    "text": "LIEUTENANT.",
+    "start": 41.621,
+    "end": 42.467
+   }
+  ]
+ },
+ {
+  "start": 42.467,
+  "end": 43.832,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 42.467,
+    "end": 42.987
+   },
+   {
+    "text": "AN",
+    "start": 42.987,
+    "end": 43.247
+   },
+   {
+    "text": "OFFICER",
+    "start": 43.247,
+    "end": 43.832
+   }
+  ]
+ },
+ {
+  "start": 43.832,
+  "end": 44.223,
+  "words": [
+   {
+    "text": "NOW.",
+    "start": 43.832,
+    "end": 44.223
+   }
+  ]
+ },
+ {
+  "start": 44.223,
+  "end": 45.458,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 44.223,
+    "end": 44.548
+   },
+   {
+    "text": "HAVE",
+    "start": 44.548,
+    "end": 44.938
+   },
+   {
+    "text": "ACTUAL",
+    "start": 44.938,
+    "end": 45.458
+   }
+  ]
+ },
+ {
+  "start": 45.458,
+  "end": 46.239,
+  "words": [
+   {
+    "text": "AUTHORITY,",
+    "start": 45.458,
+    "end": 46.239
+   }
+  ]
+ },
+ {
+  "start": 46.239,
+  "end": 47.734,
+  "words": [
+   {
+    "text": "IMPORTANT",
+    "start": 46.239,
+    "end": 46.954
+   },
+   {
+    "text": "DECISIONS,",
+    "start": 46.954,
+    "end": 47.734
+   }
+  ]
+ },
+ {
+  "start": 47.734,
+  "end": 49.035,
+  "words": [
+   {
+    "text": "AND",
+    "start": 47.734,
+    "end": 48.059
+   },
+   {
+    "text": "APPROXIMATELY",
+    "start": 48.059,
+    "end": 49.035
+   }
+  ]
+ },
+ {
+  "start": 49.035,
+  "end": 50.465,
+  "words": [
+   {
+    "text": "SEVENTEEN",
+    "start": 49.035,
+    "end": 49.75
+   },
+   {
+    "text": "NEW",
+    "start": 49.75,
+    "end": 50.075
+   },
+   {
+    "text": "WAYS",
+    "start": 50.075,
+    "end": 50.465
+   }
+  ]
+ },
+ {
+  "start": 50.465,
+  "end": 51.636,
+  "words": [
+   {
+    "text": "TO",
+    "start": 50.465,
+    "end": 50.726
+   },
+   {
+    "text": "GET",
+    "start": 50.726,
+    "end": 51.051
+   },
+   {
+    "text": "BLAMED.",
+    "start": 51.051,
+    "end": 51.636
+   }
+  ]
+ },
+ {
+  "start": 52.036,
+  "end": 52.879,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 52.036,
+    "end": 52.457
+   },
+   {
+    "text": "FIVE:",
+    "start": 52.457,
+    "end": 52.879
+   }
+  ]
+ },
+ {
+  "start": 52.879,
+  "end": 53.601,
+  "words": [
+   {
+    "text": "COMMANDER.",
+    "start": 52.879,
+    "end": 53.601
+   }
+  ]
+ },
+ {
+  "start": 53.601,
+  "end": 54.805,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 53.601,
+    "end": 54.083
+   },
+   {
+    "text": "RUNNING",
+    "start": 54.083,
+    "end": 54.624
+   },
+   {
+    "text": "A",
+    "start": 54.624,
+    "end": 54.805
+   }
+  ]
+ },
+ {
+  "start": 54.805,
+  "end": 55.587,
+  "words": [
+   {
+    "text": "SHIP",
+    "start": 54.805,
+    "end": 55.166
+   },
+   {
+    "text": "OR",
+    "start": 55.166,
+    "end": 55.407
+   },
+   {
+    "text": "A",
+    "start": 55.407,
+    "end": 55.587
+   }
+  ]
+ },
+ {
+  "start": 55.587,
+  "end": 56.791,
+  "words": [
+   {
+    "text": "MAJOR",
+    "start": 55.587,
+    "end": 56.009
+   },
+   {
+    "text": "DEPARTMENT.",
+    "start": 56.009,
+    "end": 56.791
+   }
+  ]
+ },
+ {
+  "start": 56.791,
+  "end": 58.176,
+  "words": [
+   {
+    "text": "WHEN",
+    "start": 56.791,
+    "end": 57.152
+   },
+   {
+    "text": "SOMETHING",
+    "start": 57.152,
+    "end": 57.815
+   },
+   {
+    "text": "GOES",
+    "start": 57.815,
+    "end": 58.176
+   }
+  ]
+ },
+ {
+  "start": 58.176,
+  "end": 58.657,
+  "words": [
+   {
+    "text": "WRONG,",
+    "start": 58.176,
+    "end": 58.657
+   }
+  ]
+ },
+ {
+  "start": 58.657,
+  "end": 59.861,
+  "words": [
+   {
+    "text": "EVERYONE",
+    "start": 58.657,
+    "end": 59.259
+   },
+   {
+    "text": "SUDDENLY",
+    "start": 59.259,
+    "end": 59.861
+   }
+  ]
+ },
+ {
+  "start": 59.861,
+  "end": 61.065,
+  "words": [
+   {
+    "text": "KNOWS",
+    "start": 59.861,
+    "end": 60.282
+   },
+   {
+    "text": "YOUR",
+    "start": 60.282,
+    "end": 60.644
+   },
+   {
+    "text": "NAME.",
+    "start": 60.644,
+    "end": 61.065
+   }
+  ]
+ },
+ {
+  "start": 61.465,
+  "end": 62.409,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 61.465,
+    "end": 61.974
+   },
+   {
+    "text": "SIX:",
+    "start": 61.974,
+    "end": 62.409
+   }
+  ]
+ },
+ {
+  "start": 62.409,
+  "end": 63.136,
+  "words": [
+   {
+    "text": "CAPTAIN.",
+    "start": 62.409,
+    "end": 63.136
+   }
+  ]
+ },
+ {
+  "start": 63.136,
+  "end": 64.443,
+  "words": [
+   {
+    "text": "YOU",
+    "start": 63.136,
+    "end": 63.499
+   },
+   {
+    "text": "COMMAND",
+    "start": 63.499,
+    "end": 64.153
+   },
+   {
+    "text": "AN",
+    "start": 64.153,
+    "end": 64.443
+   }
+  ]
+ },
+ {
+  "start": 64.443,
+  "end": 65.751,
+  "words": [
+   {
+    "text": "ENTIRE",
+    "start": 64.443,
+    "end": 65.025
+   },
+   {
+    "text": "WARSHIP.",
+    "start": 65.025,
+    "end": 65.751
+   }
+  ]
+ },
+ {
+  "start": 65.751,
+  "end": 67.422,
+  "words": [
+   {
+    "text": "HUNDREDS",
+    "start": 65.751,
+    "end": 66.477
+   },
+   {
+    "text": "OF",
+    "start": 66.477,
+    "end": 66.768
+   },
+   {
+    "text": "SAILORS",
+    "start": 66.768,
+    "end": 67.422
+   }
+  ]
+ },
+ {
+  "start": 67.422,
+  "end": 68.729,
+  "words": [
+   {
+    "text": "DEPEND",
+    "start": 67.422,
+    "end": 68.003
+   },
+   {
+    "text": "ON",
+    "start": 68.003,
+    "end": 68.294
+   },
+   {
+    "text": "YOUR",
+    "start": 68.294,
+    "end": 68.729
+   }
+  ]
+ },
+ {
+  "start": 68.729,
+  "end": 69.601,
+  "words": [
+   {
+    "text": "DECISIONS.",
+    "start": 68.729,
+    "end": 69.601
+   }
+  ]
+ },
+ {
+  "start": 69.601,
+  "end": 71.127,
+  "words": [
+   {
+    "text": "ONE",
+    "start": 69.601,
+    "end": 69.964
+   },
+   {
+    "text": "MISTAKE",
+    "start": 69.964,
+    "end": 70.618
+   },
+   {
+    "text": "COULD",
+    "start": 70.618,
+    "end": 71.127
+   }
+  ]
+ },
+ {
+  "start": 71.127,
+  "end": 72.216,
+  "words": [
+   {
+    "text": "TURN",
+    "start": 71.127,
+    "end": 71.562
+   },
+   {
+    "text": "A",
+    "start": 71.562,
+    "end": 71.78
+   },
+   {
+    "text": "VERY",
+    "start": 71.78,
+    "end": 72.216
+   }
+  ]
+ },
+ {
+  "start": 72.216,
+  "end": 73.379,
+  "words": [
+   {
+    "text": "BAD",
+    "start": 72.216,
+    "end": 72.579
+   },
+   {
+    "text": "DAY",
+    "start": 72.579,
+    "end": 72.943
+   },
+   {
+    "text": "INTO",
+    "start": 72.943,
+    "end": 73.379
+   }
+  ]
+ },
+ {
+  "start": 73.379,
+  "end": 75.122,
+  "words": [
+   {
+    "text": "A",
+    "start": 73.379,
+    "end": 73.596
+   },
+   {
+    "text": "NATIONAL",
+    "start": 73.596,
+    "end": 74.323
+   },
+   {
+    "text": "HEADLINE.",
+    "start": 74.323,
+    "end": 75.122
+   }
+  ]
+ },
+ {
+  "start": 75.522,
+  "end": 76.647,
+  "words": [
+   {
+    "text": "FINAL",
+    "start": 75.522,
+    "end": 76.047
+   },
+   {
+    "text": "LEVEL:",
+    "start": 76.047,
+    "end": 76.647
+   }
+  ]
+ },
+ {
+  "start": 76.647,
+  "end": 78.296,
+  "words": [
+   {
+    "text": "COMMANDING",
+    "start": 76.647,
+    "end": 77.546
+   },
+   {
+    "text": "A",
+    "start": 77.546,
+    "end": 77.771
+   },
+   {
+    "text": "ROYAL",
+    "start": 77.771,
+    "end": 78.296
+   }
+  ]
+ },
+ {
+  "start": 78.296,
+  "end": 80.246,
+  "words": [
+   {
+    "text": "NAVY",
+    "start": 78.296,
+    "end": 78.746
+   },
+   {
+    "text": "AIRCRAFT",
+    "start": 78.746,
+    "end": 79.496
+   },
+   {
+    "text": "CARRIER.",
+    "start": 79.496,
+    "end": 80.246
+   }
+  ]
+ },
+ {
+  "start": 80.246,
+  "end": 82.195,
+  "words": [
+   {
+    "text": "YOU'RE",
+    "start": 80.246,
+    "end": 80.846
+   },
+   {
+    "text": "RESPONSIBLE",
+    "start": 80.846,
+    "end": 81.82
+   },
+   {
+    "text": "FOR",
+    "start": 81.82,
+    "end": 82.195
+   }
+  ]
+ },
+ {
+  "start": 82.195,
+  "end": 83.695,
+  "words": [
+   {
+    "text": "A",
+    "start": 82.195,
+    "end": 82.42
+   },
+   {
+    "text": "FLOATING",
+    "start": 82.42,
+    "end": 83.17
+   },
+   {
+    "text": "CITY,",
+    "start": 83.17,
+    "end": 83.695
+   }
+  ]
+ },
+ {
+  "start": 83.695,
+  "end": 84.82,
+  "words": [
+   {
+    "text": "MORE",
+    "start": 83.695,
+    "end": 84.145
+   },
+   {
+    "text": "THAN",
+    "start": 84.145,
+    "end": 84.595
+   },
+   {
+    "text": "A",
+    "start": 84.595,
+    "end": 84.82
+   }
+  ]
+ },
+ {
+  "start": 84.82,
+  "end": 86.244,
+  "words": [
+   {
+    "text": "THOUSAND",
+    "start": 84.82,
+    "end": 85.569
+   },
+   {
+    "text": "PEOPLE,",
+    "start": 85.569,
+    "end": 86.244
+   }
+  ]
+ },
+ {
+  "start": 86.244,
+  "end": 87.894,
+  "words": [
+   {
+    "text": "AND",
+    "start": 86.244,
+    "end": 86.619
+   },
+   {
+    "text": "AIRCRAFT",
+    "start": 86.619,
+    "end": 87.369
+   },
+   {
+    "text": "WORTH",
+    "start": 87.369,
+    "end": 87.894
+   }
+  ]
+ },
+ {
+  "start": 87.894,
+  "end": 88.719,
+  "words": [
+   {
+    "text": "MILLIONS.",
+    "start": 87.894,
+    "end": 88.719
+   }
+  ]
+ },
+ {
+  "start": 88.719,
+  "end": 90.443,
+  "words": [
+   {
+    "text": "YOUR",
+    "start": 88.719,
+    "end": 89.169
+   },
+   {
+    "text": "PARKING",
+    "start": 89.169,
+    "end": 89.843
+   },
+   {
+    "text": "SPACE?",
+    "start": 89.843,
+    "end": 90.443
+   }
+  ]
+ },
+ {
+  "start": 90.443,
+  "end": 91.418,
+  "words": [
+   {
+    "text": "THE",
+    "start": 90.443,
+    "end": 90.818
+   },
+   {
+    "text": "OCEAN.",
+    "start": 90.818,
+    "end": 91.418
+   }
+  ]
+ },
+ {
+  "start": 91.918,
+  "end": 93.537,
+  "words": [
+   {
+    "text": "WOULD",
+    "start": 91.918,
+    "end": 92.458
+   },
+   {
+    "text": "YOU",
+    "start": 92.458,
+    "end": 92.843
+   },
+   {
+    "text": "SURVIVE",
+    "start": 92.843,
+    "end": 93.537
+   }
+  ]
+ },
+ {
+  "start": 93.537,
+  "end": 94.848,
+  "words": [
+   {
+    "text": "LEVEL",
+    "start": 93.537,
+    "end": 94.077
+   },
+   {
+    "text": "ONE\u2026",
+    "start": 94.077,
+    "end": 94.54
+   },
+   {
+    "text": "OR",
+    "start": 94.54,
+    "end": 94.848
+   }
+  ]
+ },
+ {
+  "start": 94.848,
+  "end": 96.853,
+  "words": [
+   {
+    "text": "QUIT",
+    "start": 94.848,
+    "end": 95.311
+   },
+   {
+    "text": "BEFORE",
+    "start": 95.311,
+    "end": 95.928
+   },
+   {
+    "text": "BREAKFAST?",
+    "start": 95.928,
+    "end": 96.853
+   }
+  ]
+ }
+]

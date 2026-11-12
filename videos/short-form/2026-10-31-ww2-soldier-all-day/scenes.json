@@ -1,0 +1,83 @@
+{
+  "slug": "2026-10-31-ww2-soldier-all-day",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "music": "Trudging Along - Godmode.mp3",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Think WW2 soldiers spent all day storming beaches and winning battles? Yeah... not even close.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, striding heroically on a sandy beach with a rifle raised in one hand and a flag in the other like a movie hero, frozen mid-action with a faint freeze-frame border, confident grin turning to blank, soft stylized smoke puffs in the distance, nothing graphic, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Most of the time, being a soldier was basically digging holes and waiting.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, kneeling in a muddy hole digging with a tiny shovel in the rain, a big pile of dirt beside him, miserable half-lidded face, grey overcast sky, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true
+    },
+    {
+      "id": 3,
+      "text": "They dug foxholes. Fall asleep on watch? Congratulations. You're everyone's least favorite soldier.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, hauling a heavy wooden supply crate while another stick-figure soldier beside a rifle cleaning kit leans fast asleep on his shovel at a watch post, tired sarcastic face, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "pan_right",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "And the food? Canned meat and biscuits. Dry socks? A luxury.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, opening a small cardboard ration box with disgust to find a dry biscuit, a small tin can and a single stick of gum, while a small stick-figure soldier beside him wrings a soaking wet sock, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "zoom_in",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "But when the shooting started? EVERYTHING changed. Helmets on, heads down, hoping the next shell missed.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, crouching low in a foxhole hugging his helmet as soft stylized smoke puffs burst on the horizon and small stick-figure soldiers duck beside him, alarmed face, nothing graphic, exactly two arms and two hands. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "moves": [
+        "shake",
+        "zoom_in"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Win, and you got rest, letters, and a hot meal. Lose, and it ended VERY badly.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, SPLIT: a thin vertical line divides the picture. LEFT half: stick-figure soldiers happily reading letters and eating from a steaming tin bowl. RIGHT half: the main character staring terrified at a smoky horizon, nothing graphic, exactly two arms and two hands each. Only the main character wears a scarf; every other person is a plain stick figure with no scarf. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_left",
+      "moves": [
+        "pan_left",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "So yeah, soldier life was mostly digging and waiting... with occasional chaos.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, digging another hole with a tiny shovel beside a huge pile of dirt, deadpan tired face, a small harmless puff of smoke far behind him, nothing graphic, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 8,
+      "text": "Still wanna be a soldier?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> wearing a small olive army helmet on top of his round white head and an olive field jacket below his scarf with the yellow scarf fully visible, shrugging with a thoughtful curious face and one raised eyebrow, plain pale background, exactly two arms and two hands. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits, logos or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

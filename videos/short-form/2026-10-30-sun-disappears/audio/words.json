@@ -1,0 +1,512 @@
+[
+ {
+  "word": "You",
+  "start": 0.0,
+  "end": 0.287
+ },
+ {
+  "word": "wake",
+  "start": 0.287,
+  "end": 0.632
+ },
+ {
+  "word": "up",
+  "start": 0.632,
+  "end": 0.862
+ },
+ {
+  "word": "and",
+  "start": 0.862,
+  "end": 1.149
+ },
+ {
+  "word": "the",
+  "start": 1.149,
+  "end": 1.436
+ },
+ {
+  "word": "Sun",
+  "start": 1.436,
+  "end": 1.723
+ },
+ {
+  "word": "is",
+  "start": 1.723,
+  "end": 1.953
+ },
+ {
+  "word": "gone.",
+  "start": 1.953,
+  "end": 2.355
+ },
+ {
+  "word": "Funny",
+  "start": 2.755,
+  "end": 3.272
+ },
+ {
+  "word": "thing.",
+  "start": 3.272,
+  "end": 3.862
+ },
+ {
+  "word": "It's",
+  "start": 3.862,
+  "end": 4.305
+ },
+ {
+  "word": "about",
+  "start": 4.305,
+  "end": 4.822
+ },
+ {
+  "word": "ninety-three",
+  "start": 4.822,
+  "end": 5.855
+ },
+ {
+  "word": "million",
+  "start": 5.855,
+  "end": 6.52
+ },
+ {
+  "word": "miles",
+  "start": 6.52,
+  "end": 7.036
+ },
+ {
+  "word": "away,",
+  "start": 7.036,
+  "end": 7.553
+ },
+ {
+  "word": "so",
+  "start": 7.553,
+  "end": 7.848
+ },
+ {
+  "word": "nobody",
+  "start": 7.848,
+  "end": 8.439
+ },
+ {
+  "word": "notices",
+  "start": 8.439,
+  "end": 9.103
+ },
+ {
+  "word": "for",
+  "start": 9.103,
+  "end": 9.472
+ },
+ {
+  "word": "eight",
+  "start": 9.472,
+  "end": 9.989
+ },
+ {
+  "word": "minutes.",
+  "start": 9.989,
+  "end": 10.727
+ },
+ {
+  "word": "That's",
+  "start": 11.227,
+  "end": 11.631
+ },
+ {
+  "word": "how",
+  "start": 11.631,
+  "end": 11.884
+ },
+ {
+  "word": "long",
+  "start": 11.884,
+  "end": 12.188
+ },
+ {
+  "word": "sunlight",
+  "start": 12.188,
+  "end": 12.693
+ },
+ {
+  "word": "takes",
+  "start": 12.693,
+  "end": 13.047
+ },
+ {
+  "word": "to",
+  "start": 13.047,
+  "end": 13.249
+ },
+ {
+  "word": "reach",
+  "start": 13.249,
+  "end": 13.603
+ },
+ {
+  "word": "us.",
+  "start": 13.603,
+  "end": 13.856
+ },
+ {
+  "word": "So",
+  "start": 14.256,
+  "end": 14.458
+ },
+ {
+  "word": "you",
+  "start": 14.458,
+  "end": 14.711
+ },
+ {
+  "word": "eat",
+  "start": 14.711,
+  "end": 14.964
+ },
+ {
+  "word": "breakfast",
+  "start": 14.964,
+  "end": 15.52
+ },
+ {
+  "word": "under",
+  "start": 15.52,
+  "end": 15.874
+ },
+ {
+  "word": "a",
+  "start": 15.874,
+  "end": 16.026
+ },
+ {
+  "word": "perfectly",
+  "start": 16.026,
+  "end": 16.582
+ },
+ {
+  "word": "bright",
+  "start": 16.582,
+  "end": 16.987
+ },
+ {
+  "word": "sky.",
+  "start": 16.987,
+  "end": 17.29
+ },
+ {
+  "word": "Gravity",
+  "start": 17.69,
+  "end": 18.38
+ },
+ {
+  "word": "is",
+  "start": 18.38,
+  "end": 18.687
+ },
+ {
+  "word": "just",
+  "start": 18.687,
+  "end": 19.146
+ },
+ {
+  "word": "as",
+  "start": 19.146,
+  "end": 19.453
+ },
+ {
+  "word": "slow.",
+  "start": 19.453,
+  "end": 19.99
+ },
+ {
+  "word": "So",
+  "start": 19.99,
+  "end": 20.296
+ },
+ {
+  "word": "Earth",
+  "start": 20.296,
+  "end": 20.833
+ },
+ {
+  "word": "keeps",
+  "start": 20.833,
+  "end": 21.369
+ },
+ {
+  "word": "circling",
+  "start": 21.369,
+  "end": 22.136
+ },
+ {
+  "word": "a",
+  "start": 22.136,
+  "end": 22.366
+ },
+ {
+  "word": "Sun",
+  "start": 22.366,
+  "end": 22.749
+ },
+ {
+  "word": "that",
+  "start": 22.749,
+  "end": 23.209
+ },
+ {
+  "word": "isn't",
+  "start": 23.209,
+  "end": 23.746
+ },
+ {
+  "word": "there,",
+  "start": 23.746,
+  "end": 24.359
+ },
+ {
+  "word": "like",
+  "start": 24.659,
+  "end": 24.962
+ },
+ {
+  "word": "a",
+  "start": 24.962,
+  "end": 25.114
+ },
+ {
+  "word": "dog",
+  "start": 25.114,
+  "end": 25.367
+ },
+ {
+  "word": "chasing",
+  "start": 25.367,
+  "end": 25.822
+ },
+ {
+  "word": "a",
+  "start": 25.822,
+  "end": 25.974
+ },
+ {
+  "word": "ball",
+  "start": 25.974,
+  "end": 26.277
+ },
+ {
+  "word": "you",
+  "start": 26.277,
+  "end": 26.53
+ },
+ {
+  "word": "only",
+  "start": 26.53,
+  "end": 26.833
+ },
+ {
+  "word": "pretended",
+  "start": 26.833,
+  "end": 27.389
+ },
+ {
+  "word": "to",
+  "start": 27.389,
+  "end": 27.592
+ },
+ {
+  "word": "throw.",
+  "start": 27.592,
+  "end": 27.996
+ },
+ {
+  "word": "Then,",
+  "start": 28.496,
+  "end": 29.014
+ },
+ {
+  "word": "at",
+  "start": 29.014,
+  "end": 29.31
+ },
+ {
+  "word": "the",
+  "start": 29.31,
+  "end": 29.679
+ },
+ {
+  "word": "exact",
+  "start": 29.679,
+  "end": 30.197
+ },
+ {
+  "word": "same",
+  "start": 30.197,
+  "end": 30.641
+ },
+ {
+  "word": "moment,",
+  "start": 30.641,
+  "end": 31.307
+ },
+ {
+  "word": "the",
+  "start": 31.307,
+  "end": 31.676
+ },
+ {
+  "word": "sky",
+  "start": 31.676,
+  "end": 32.046
+ },
+ {
+  "word": "goes",
+  "start": 32.046,
+  "end": 32.49
+ },
+ {
+  "word": "black",
+  "start": 32.49,
+  "end": 33.008
+ },
+ {
+  "word": "and",
+  "start": 33.008,
+  "end": 33.378
+ },
+ {
+  "word": "Earth",
+  "start": 33.378,
+  "end": 33.895
+ },
+ {
+  "word": "lets",
+  "start": 33.895,
+  "end": 34.339
+ },
+ {
+  "word": "go.",
+  "start": 34.339,
+  "end": 34.709
+ },
+ {
+  "word": "It",
+  "start": 35.209,
+  "end": 35.411
+ },
+ {
+  "word": "flies",
+  "start": 35.411,
+  "end": 35.764
+ },
+ {
+  "word": "off",
+  "start": 35.764,
+  "end": 36.017
+ },
+ {
+  "word": "in",
+  "start": 36.017,
+  "end": 36.219
+ },
+ {
+  "word": "a",
+  "start": 36.219,
+  "end": 36.37
+ },
+ {
+  "word": "straight",
+  "start": 36.37,
+  "end": 36.875
+ },
+ {
+  "word": "line.",
+  "start": 36.875,
+  "end": 37.228
+ },
+ {
+  "word": "Then",
+  "start": 37.728,
+  "end": 38.153
+ },
+ {
+  "word": "it",
+  "start": 38.153,
+  "end": 38.437
+ },
+ {
+  "word": "gets",
+  "start": 38.437,
+  "end": 38.862
+ },
+ {
+  "word": "cold.",
+  "start": 38.862,
+  "end": 39.358
+ },
+ {
+  "word": "Your",
+  "start": 39.358,
+  "end": 39.783
+ },
+ {
+  "word": "coffee",
+  "start": 39.783,
+  "end": 40.35
+ },
+ {
+  "word": "goes",
+  "start": 40.35,
+  "end": 40.775
+ },
+ {
+  "word": "first.",
+  "start": 40.775,
+  "end": 41.342
+ },
+ {
+  "word": "What",
+  "start": 41.842,
+  "end": 42.169
+ },
+ {
+  "word": "would",
+  "start": 42.169,
+  "end": 42.55
+ },
+ {
+  "word": "you",
+  "start": 42.55,
+  "end": 42.823
+ },
+ {
+  "word": "do",
+  "start": 42.823,
+  "end": 43.04
+ },
+ {
+  "word": "with",
+  "start": 43.04,
+  "end": 43.367
+ },
+ {
+  "word": "your",
+  "start": 43.367,
+  "end": 43.694
+ },
+ {
+  "word": "last",
+  "start": 43.694,
+  "end": 44.021
+ },
+ {
+  "word": "eight",
+  "start": 44.021,
+  "end": 44.402
+ },
+ {
+  "word": "minutes?",
+  "start": 44.402,
+  "end": 44.947
+ }
+]

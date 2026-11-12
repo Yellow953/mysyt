@@ -1,0 +1,99 @@
+{
+  "slug": "2026-10-27-taklamakan-survival",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "You're crossing the Taklamakan.",
+      "image_prompt": "split-screen image divided by a thin vertical line, big empty pale sky across the top third of the whole image and a clear bottom-right corner: on the left a small <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a sun hat with a tiny overstuffed backpack, one eyebrow raised in doubt and a flat unsure mouth (not smiling), standing at the foot of a golden dune, on the right a stylish confident local guide woman (the one other fully drawn person, a proper character, not a stick figure) with long wavy dark hair, long eyelashes, rosy cheeks, a wide-brimmed sun hat, a long sand-colored coat and trousers, calm smug half-smile sitting on a camel looking out at us, with open space left clear in the centre gap. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true
+    },
+    {
+      "id": 2,
+      "text": "Its name is often said to mean: go in, don't come out.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing small at the edge of a huge empty sea of sand dunes, back to us, wide-eyed look over his shoulder, a single line of footprints leading from him into the dunes and none coming back, pale sky. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 3,
+      "text": "Pack water. It won't be enough. One weather station in the middle gets about one inch of rain. A year.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding a tiny canteen in both hands and staring up with a flat worried face at a huge cloudless pale sky where one single tiny raindrop falls far away, dry cracked sand around his feet. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Dunes move. So does the trail.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding a blank map open with both hands, a deadpan face, behind him a big sand dune drifting forward like a slow wave and wiping out a trail of footprints, a tiny second dune walking away with a little sand trail. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 5,
+      "text": "A monk crossing next door wrote that bones marked the way. Reassuring.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> with a flat half-lidded deadpan face looking at a line of bleached animal rib bones and a camel skeleton half buried in sand beside a faint trail, the bones neatly lined up like trail markers, a tiny stick figure monk in a simple robe in the distance writing in a notebook, no flesh, cartoonish and clean. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_out",
+      "moves": [
+        "zoom_out",
+        "pan_left"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Summer can top a hundred degrees. Winter can fall below zero. Pack sunscreen. Also a parka.",
+      "image_prompt": "split-screen image divided by a thin diagonal line: on the left <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sweating with a drooping face under a blazing pale sun on yellow dunes holding a tiny sunscreen tube, on the right <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> shivering with a tiny icicle hanging from his nose in a dusting of snow on the dunes, wearing a puffy parka, yellow scarf with a few small frost crystals, both clearly the same character. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Smart traders hugged the edge, oasis to oasis.",
+      "image_prompt": "a line of camels and tiny stick-figure traders walking along the green edge of a huge empty desert with small green oasis patches with palm trees and little mud-brick houses at intervals, in front a stylish confident local guide woman (the one other fully drawn person, a proper character, not a stick figure) with long wavy dark hair, long eyelashes, rosy cheeks, a wide-brimmed sun hat, a long sand-colored coat and trousers, calm smug half-smile leading the first camel confidently, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> slumped dejectedly on the last camel. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 8,
+      "text": "Camels carried the water. You are not a camel.",
+      "image_prompt": "a big smug Bactrian camel with two humps and a bulging water skin strapped on its side looking down at <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> who holds an empty cup upside down with a parched drooping tongue and a sad flat face, sunny dunes. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 9,
+      "text": "Marco Polo's book says spirits call your name.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> pressing both hands over his ears with wide scared eyes at dusk on a dune, behind him a faint pale friendly-looking ghost-like wisp with a smiling dot-eyed face waving at him from the sand, soft indigo and sand sky. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic. Night scenes use soft deep blue and indigo washes with a soft warm orange glow, calm and uncluttered.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "shake"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Don't answer. Would you go in?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> with one foot toe-deep at the edge of the dunes looking straight at the viewer with a raised eyebrow, a stylish confident local guide woman (the one other fully drawn person, a proper character, not a stick figure) with long wavy dark hair, long eyelashes, rosy cheeks, a wide-brimmed sun hat, a long sand-colored coat and trousers, calm smug half-smile behind him pointing forward encouragingly, a faint small pale wisp hovering far behind them above a dune. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, no gore, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+[
+ {
+  "word": "Every",
+  "start": 0.0,
+  "end": 0.464
+ },
+ {
+  "word": "level",
+  "start": 0.464,
+  "end": 0.929
+ },
+ {
+  "word": "in",
+  "start": 0.929,
+  "end": 1.194
+ },
+ {
+  "word": "the",
+  "start": 1.194,
+  "end": 1.526
+ },
+ {
+  "word": "Royal",
+  "start": 1.526,
+  "end": 1.991
+ },
+ {
+  "word": "Navy.",
+  "start": 1.991,
+  "end": 2.455
+ },
+ {
+  "word": "From",
+  "start": 2.455,
+  "end": 2.853
+ },
+ {
+  "word": "getting",
+  "start": 2.853,
+  "end": 3.45
+ },
+ {
+  "word": "yelled",
+  "start": 3.45,
+  "end": 3.981
+ },
+ {
+  "word": "at",
+  "start": 3.981,
+  "end": 4.247
+ },
+ {
+  "word": "by",
+  "start": 4.247,
+  "end": 4.512
+ },
+ {
+  "word": "an",
+  "start": 4.512,
+  "end": 4.777
+ },
+ {
+  "word": "instructor\u2026",
+  "start": 4.777,
+  "end": 5.64
+ },
+ {
+  "word": "to",
+  "start": 5.64,
+  "end": 5.905
+ },
+ {
+  "word": "commanding",
+  "start": 5.905,
+  "end": 6.702
+ },
+ {
+  "word": "an",
+  "start": 6.702,
+  "end": 6.967
+ },
+ {
+  "word": "entire",
+  "start": 6.967,
+  "end": 7.498
+ },
+ {
+  "word": "aircraft",
+  "start": 7.498,
+  "end": 8.161
+ },
+ {
+  "word": "carrier.",
+  "start": 8.161,
+  "end": 8.825
+ },
+ {
+  "word": "Level",
+  "start": 9.325,
+  "end": 9.801
+ },
+ {
+  "word": "one:",
+  "start": 9.801,
+  "end": 10.208
+ },
+ {
+  "word": "Recruit.",
+  "start": 10.208,
+  "end": 10.888
+ },
+ {
+  "word": "You",
+  "start": 10.888,
+  "end": 11.227
+ },
+ {
+  "word": "can't",
+  "start": 11.227,
+  "end": 11.703
+ },
+ {
+  "word": "even",
+  "start": 11.703,
+  "end": 12.111
+ },
+ {
+  "word": "fold",
+  "start": 12.111,
+  "end": 12.518
+ },
+ {
+  "word": "your",
+  "start": 12.518,
+  "end": 12.926
+ },
+ {
+  "word": "own",
+  "start": 12.926,
+  "end": 13.266
+ },
+ {
+  "word": "bed",
+  "start": 13.266,
+  "end": 13.605
+ },
+ {
+  "word": "properly.",
+  "start": 13.605,
+  "end": 14.353
+ },
+ {
+  "word": "Your",
+  "start": 14.353,
+  "end": 14.76
+ },
+ {
+  "word": "entire",
+  "start": 14.76,
+  "end": 15.304
+ },
+ {
+  "word": "personality",
+  "start": 15.304,
+  "end": 16.187
+ },
+ {
+  "word": "is",
+  "start": 16.187,
+  "end": 16.459
+ },
+ {
+  "word": "now",
+  "start": 16.459,
+  "end": 16.798
+ },
+ {
+  "word": "shouting",
+  "start": 16.798,
+  "end": 17.478
+ },
+ {
+  "word": "'YES,",
+  "start": 17.478,
+  "end": 17.953
+ },
+ {
+  "word": "SIR!'",
+  "start": 17.953,
+  "end": 18.429
+ },
+ {
+  "word": "Level",
+  "start": 18.829,
+  "end": 19.302
+ },
+ {
+  "word": "two:",
+  "start": 19.302,
+  "end": 19.707
+ },
+ {
+  "word": "Able",
+  "start": 19.707,
+  "end": 20.112
+ },
+ {
+  "word": "Seaman.",
+  "start": 20.112,
+  "end": 20.719
+ },
+ {
+  "word": "You",
+  "start": 20.719,
+  "end": 21.056
+ },
+ {
+  "word": "finally",
+  "start": 21.056,
+  "end": 21.664
+ },
+ {
+  "word": "know",
+  "start": 21.664,
+  "end": 22.069
+ },
+ {
+  "word": "how",
+  "start": 22.069,
+  "end": 22.406
+ },
+ {
+  "word": "to",
+  "start": 22.406,
+  "end": 22.676
+ },
+ {
+  "word": "work",
+  "start": 22.676,
+  "end": 23.081
+ },
+ {
+  "word": "on",
+  "start": 23.081,
+  "end": 23.351
+ },
+ {
+  "word": "a",
+  "start": 23.351,
+  "end": 23.554
+ },
+ {
+  "word": "ship.",
+  "start": 23.554,
+  "end": 24.026
+ },
+ {
+  "word": "Unfortunately,",
+  "start": 24.026,
+  "end": 25.106
+ },
+ {
+  "word": "you're",
+  "start": 25.106,
+  "end": 25.646
+ },
+ {
+  "word": "still",
+  "start": 25.646,
+  "end": 26.119
+ },
+ {
+  "word": "the",
+  "start": 26.119,
+  "end": 26.456
+ },
+ {
+  "word": "guy",
+  "start": 26.456,
+  "end": 26.794
+ },
+ {
+  "word": "doing",
+  "start": 26.794,
+  "end": 27.266
+ },
+ {
+  "word": "the",
+  "start": 27.266,
+  "end": 27.604
+ },
+ {
+  "word": "jobs",
+  "start": 27.604,
+  "end": 28.009
+ },
+ {
+  "word": "nobody",
+  "start": 28.009,
+  "end": 28.549
+ },
+ {
+  "word": "wants.",
+  "start": 28.549,
+  "end": 29.089
+ },
+ {
+  "word": "Level",
+  "start": 29.489,
+  "end": 29.935
+ },
+ {
+  "word": "three:",
+  "start": 29.935,
+  "end": 30.444
+ },
+ {
+  "word": "Petty",
+  "start": 30.444,
+  "end": 30.889
+ },
+ {
+  "word": "Officer.",
+  "start": 30.889,
+  "end": 31.526
+ },
+ {
+  "word": "Congratulations!",
+  "start": 31.526,
+  "end": 32.672
+ },
+ {
+  "word": "You",
+  "start": 32.672,
+  "end": 32.99
+ },
+ {
+  "word": "can",
+  "start": 32.99,
+  "end": 33.309
+ },
+ {
+  "word": "now",
+  "start": 33.309,
+  "end": 33.627
+ },
+ {
+  "word": "yell",
+  "start": 33.627,
+  "end": 34.009
+ },
+ {
+  "word": "at",
+  "start": 34.009,
+  "end": 34.263
+ },
+ {
+  "word": "recruits",
+  "start": 34.263,
+  "end": 34.9
+ },
+ {
+  "word": "instead",
+  "start": 34.9,
+  "end": 35.473
+ },
+ {
+  "word": "of",
+  "start": 35.473,
+  "end": 35.728
+ },
+ {
+  "word": "being",
+  "start": 35.728,
+  "end": 36.173
+ },
+ {
+  "word": "yelled",
+  "start": 36.173,
+  "end": 36.682
+ },
+ {
+  "word": "at.",
+  "start": 36.682,
+  "end": 37.001
+ },
+ {
+  "word": "Your",
+  "start": 37.001,
+  "end": 37.383
+ },
+ {
+  "word": "back",
+  "start": 37.383,
+  "end": 37.765
+ },
+ {
+  "word": "hurts,",
+  "start": 37.765,
+  "end": 38.274
+ },
+ {
+  "word": "and",
+  "start": 38.274,
+  "end": 38.592
+ },
+ {
+  "word": "your",
+  "start": 38.592,
+  "end": 38.974
+ },
+ {
+  "word": "patience",
+  "start": 38.974,
+  "end": 39.611
+ },
+ {
+  "word": "is",
+  "start": 39.611,
+  "end": 39.865
+ },
+ {
+  "word": "gone.",
+  "start": 39.865,
+  "end": 40.311
+ },
+ {
+  "word": "Level",
+  "start": 40.711,
+  "end": 41.166
+ },
+ {
+  "word": "four:",
+  "start": 41.166,
+  "end": 41.621
+ },
+ {
+  "word": "Lieutenant.",
+  "start": 41.621,
+  "end": 42.467
+ },
+ {
+  "word": "You're",
+  "start": 42.467,
+  "end": 42.987
+ },
+ {
+  "word": "an",
+  "start": 42.987,
+  "end": 43.247
+ },
+ {
+  "word": "officer",
+  "start": 43.247,
+  "end": 43.832
+ },
+ {
+  "word": "now.",
+  "start": 43.832,
+  "end": 44.223
+ },
+ {
+  "word": "You",
+  "start": 44.223,
+  "end": 44.548
+ },
+ {
+  "word": "have",
+  "start": 44.548,
+  "end": 44.938
+ },
+ {
+  "word": "actual",
+  "start": 44.938,
+  "end": 45.458
+ },
+ {
+  "word": "authority,",
+  "start": 45.458,
+  "end": 46.239
+ },
+ {
+  "word": "important",
+  "start": 46.239,
+  "end": 46.954
+ },
+ {
+  "word": "decisions,",
+  "start": 46.954,
+  "end": 47.734
+ },
+ {
+  "word": "and",
+  "start": 47.734,
+  "end": 48.059
+ },
+ {
+  "word": "approximately",
+  "start": 48.059,
+  "end": 49.035
+ },
+ {
+  "word": "seventeen",
+  "start": 49.035,
+  "end": 49.75
+ },
+ {
+  "word": "new",
+  "start": 49.75,
+  "end": 50.075
+ },
+ {
+  "word": "ways",
+  "start": 50.075,
+  "end": 50.465
+ },
+ {
+  "word": "to",
+  "start": 50.465,
+  "end": 50.726
+ },
+ {
+  "word": "get",
+  "start": 50.726,
+  "end": 51.051
+ },
+ {
+  "word": "blamed.",
+  "start": 51.051,
+  "end": 51.636
+ },
+ {
+  "word": "Level",
+  "start": 52.036,
+  "end": 52.457
+ },
+ {
+  "word": "five:",
+  "start": 52.457,
+  "end": 52.879
+ },
+ {
+  "word": "Commander.",
+  "start": 52.879,
+  "end": 53.601
+ },
+ {
+  "word": "You're",
+  "start": 53.601,
+  "end": 54.083
+ },
+ {
+  "word": "running",
+  "start": 54.083,
+  "end": 54.624
+ },
+ {
+  "word": "a",
+  "start": 54.624,
+  "end": 54.805
+ },
+ {
+  "word": "ship",
+  "start": 54.805,
+  "end": 55.166
+ },
+ {
+  "word": "or",
+  "start": 55.166,
+  "end": 55.407
+ },
+ {
+  "word": "a",
+  "start": 55.407,
+  "end": 55.587
+ },
+ {
+  "word": "major",
+  "start": 55.587,
+  "end": 56.009
+ },
+ {
+  "word": "department.",
+  "start": 56.009,
+  "end": 56.791
+ },
+ {
+  "word": "When",
+  "start": 56.791,
+  "end": 57.152
+ },
+ {
+  "word": "something",
+  "start": 57.152,
+  "end": 57.815
+ },
+ {
+  "word": "goes",
+  "start": 57.815,
+  "end": 58.176
+ },
+ {
+  "word": "wrong,",
+  "start": 58.176,
+  "end": 58.657
+ },
+ {
+  "word": "everyone",
+  "start": 58.657,
+  "end": 59.259
+ },
+ {
+  "word": "suddenly",
+  "start": 59.259,
+  "end": 59.861
+ },
+ {
+  "word": "knows",
+  "start": 59.861,
+  "end": 60.282
+ },
+ {
+  "word": "your",
+  "start": 60.282,
+  "end": 60.644
+ },
+ {
+  "word": "name.",
+  "start": 60.644,
+  "end": 61.065
+ },
+ {
+  "word": "Level",
+  "start": 61.465,
+  "end": 61.974
+ },
+ {
+  "word": "six:",
+  "start": 61.974,
+  "end": 62.409
+ },
+ {
+  "word": "Captain.",
+  "start": 62.409,
+  "end": 63.136
+ },
+ {
+  "word": "You",
+  "start": 63.136,
+  "end": 63.499
+ },
+ {
+  "word": "command",
+  "start": 63.499,
+  "end": 64.153
+ },
+ {
+  "word": "an",
+  "start": 64.153,
+  "end": 64.443
+ },
+ {
+  "word": "entire",
+  "start": 64.443,
+  "end": 65.025
+ },
+ {
+  "word": "warship.",
+  "start": 65.025,
+  "end": 65.751
+ },
+ {
+  "word": "Hundreds",
+  "start": 65.751,
+  "end": 66.477
+ },
+ {
+  "word": "of",
+  "start": 66.477,
+  "end": 66.768
+ },
+ {
+  "word": "sailors",
+  "start": 66.768,
+  "end": 67.422
+ },
+ {
+  "word": "depend",
+  "start": 67.422,
+  "end": 68.003
+ },
+ {
+  "word": "on",
+  "start": 68.003,
+  "end": 68.294
+ },
+ {
+  "word": "your",
+  "start": 68.294,
+  "end": 68.729
+ },
+ {
+  "word": "decisions.",
+  "start": 68.729,
+  "end": 69.601
+ },
+ {
+  "word": "One",
+  "start": 69.601,
+  "end": 69.964
+ },
+ {
+  "word": "mistake",
+  "start": 69.964,
+  "end": 70.618
+ },
+ {
+  "word": "could",
+  "start": 70.618,
+  "end": 71.127
+ },
+ {
+  "word": "turn",
+  "start": 71.127,
+  "end": 71.562
+ },
+ {
+  "word": "a",
+  "start": 71.562,
+  "end": 71.78
+ },
+ {
+  "word": "very",
+  "start": 71.78,
+  "end": 72.216
+ },
+ {
+  "word": "bad",
+  "start": 72.216,
+  "end": 72.579
+ },
+ {
+  "word": "day",
+  "start": 72.579,
+  "end": 72.943
+ },
+ {
+  "word": "into",
+  "start": 72.943,
+  "end": 73.379
+ },
+ {
+  "word": "a",
+  "start": 73.379,
+  "end": 73.596
+ },
+ {
+  "word": "national",
+  "start": 73.596,
+  "end": 74.323
+ },
+ {
+  "word": "headline.",
+  "start": 74.323,
+  "end": 75.122
+ },
+ {
+  "word": "Final",
+  "start": 75.522,
+  "end": 76.047
+ },
+ {
+  "word": "level:",
+  "start": 76.047,
+  "end": 76.647
+ },
+ {
+  "word": "Commanding",
+  "start": 76.647,
+  "end": 77.546
+ },
+ {
+  "word": "a",
+  "start": 77.546,
+  "end": 77.771
+ },
+ {
+  "word": "Royal",
+  "start": 77.771,
+  "end": 78.296
+ },
+ {
+  "word": "Navy",
+  "start": 78.296,
+  "end": 78.746
+ },
+ {
+  "word": "aircraft",
+  "start": 78.746,
+  "end": 79.496
+ },
+ {
+  "word": "carrier.",
+  "start": 79.496,
+  "end": 80.246
+ },
+ {
+  "word": "You're",
+  "start": 80.246,
+  "end": 80.846
+ },
+ {
+  "word": "responsible",
+  "start": 80.846,
+  "end": 81.82
+ },
+ {
+  "word": "for",
+  "start": 81.82,
+  "end": 82.195
+ },
+ {
+  "word": "a",
+  "start": 82.195,
+  "end": 82.42
+ },
+ {
+  "word": "floating",
+  "start": 82.42,
+  "end": 83.17
+ },
+ {
+  "word": "city,",
+  "start": 83.17,
+  "end": 83.695
+ },
+ {
+  "word": "more",
+  "start": 83.695,
+  "end": 84.145
+ },
+ {
+  "word": "than",
+  "start": 84.145,
+  "end": 84.595
+ },
+ {
+  "word": "a",
+  "start": 84.595,
+  "end": 84.82
+ },
+ {
+  "word": "thousand",
+  "start": 84.82,
+  "end": 85.569
+ },
+ {
+  "word": "people,",
+  "start": 85.569,
+  "end": 86.244
+ },
+ {
+  "word": "and",
+  "start": 86.244,
+  "end": 86.619
+ },
+ {
+  "word": "aircraft",
+  "start": 86.619,
+  "end": 87.369
+ },
+ {
+  "word": "worth",
+  "start": 87.369,
+  "end": 87.894
+ },
+ {
+  "word": "millions.",
+  "start": 87.894,
+  "end": 88.719
+ },
+ {
+  "word": "Your",
+  "start": 88.719,
+  "end": 89.169
+ },
+ {
+  "word": "parking",
+  "start": 89.169,
+  "end": 89.843
+ },
+ {
+  "word": "space?",
+  "start": 89.843,
+  "end": 90.443
+ },
+ {
+  "word": "The",
+  "start": 90.443,
+  "end": 90.818
+ },
+ {
+  "word": "ocean.",
+  "start": 90.818,
+  "end": 91.418
+ },
+ {
+  "word": "Would",
+  "start": 91.918,
+  "end": 92.458
+ },
+ {
+  "word": "you",
+  "start": 92.458,
+  "end": 92.843
+ },
+ {
+  "word": "survive",
+  "start": 92.843,
+  "end": 93.537
+ },
+ {
+  "word": "level",
+  "start": 93.537,
+  "end": 94.077
+ },
+ {
+  "word": "one\u2026",
+  "start": 94.077,
+  "end": 94.54
+ },
+ {
+  "word": "or",
+  "start": 94.54,
+  "end": 94.848
+ },
+ {
+  "word": "quit",
+  "start": 94.848,
+  "end": 95.311
+ },
+ {
+  "word": "before",
+  "start": 95.311,
+  "end": 95.928
+ },
+ {
+  "word": "breakfast?",
+  "start": 95.928,
+  "end": 96.853
+ }
+]

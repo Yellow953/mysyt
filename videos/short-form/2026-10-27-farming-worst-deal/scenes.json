@@ -1,0 +1,104 @@
+{
+  "slug": "2026-10-27-farming-worst-deal",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "am_puck",
+    "mode": "director (audio/performance.json)",
+    "note": "per-phrase speed + pauses"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Farming: worst deal in history? Some of your ancestors spent fifteen hours a week finding food.",
+      "image_prompt": "split-screen image divided by a thin diagonal line: on the left <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lying back relaxed on a big grey rock in a wide open golden savanna with his hands behind his head and a contented smile, pale sun; on the right the same <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> buried up to his neck under towering sacks of wheat looking worn out and defeated, a dusty farm field behind, a red question mark floating above the dividing line. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 2,
+      "text": "Free food that stays put!",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> happily hugging a big golden wheat plant with sparkles around it and a naive smile, a freshly planted brown field with a wooden digging stick stuck in the ground, a tiny sun, soft light. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 3,
+      "text": "Finally, a job that doesn't require walking. What could go wrong?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting on the ground in a field leaning back against a stack of wheat with a lazy half-lidded smile and his feet stretched out, a small dark cloud far away on the horizon, calm open field. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 4,
+      "text": "Everything. Greek skeletons suggest men shrank from about five-nine to five-three.",
+      "image_prompt": "a simple height chart on a pale sandy background: a tall stick figure with the words 5 ft 9 written under it and next to it a shorter hunched stick figure with the words 5 ft 3 written under it, a thin red downward arrow between them, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> tiny at the edge holding a measuring stick and looking surprised. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 5,
+      "text": "Crops fail. Crowds spread disease.",
+      "image_prompt": "split-screen image divided by a thin horizontal line: on the top a withered brown wheat field with a big red X drawn over it and <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding an empty basket looking at a cloudless sky with a sad face; on the bottom a crowded little village of many small stick figures sneezing small white puffs of air while <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> squeezed at the front holds his nose with a miserable face. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 6,
+      "text": "Grain needs guarding. Meet your first boss.",
+      "image_prompt": "a big round grain storehouse with a stick-figure guard holding a spear in front of it, in the foreground a stick-figure chief with an oversized simple crown and a big pointing arm aiming a finger straight at <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>>, who carries a grain sack and looks back flat and deadpan with half-closed eyes, open pale sky. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 7,
+      "text": "Congratulations on the promotion. Of him.",
+      "image_prompt": "a stick-figure chief with an oversized crown proudly wearing a big paper medal on his chest, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> beside him with a heavy grain sack on his back and a flat deadpan face, plain pale sky background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "pan_left"
+    },
+    {
+      "id": 8,
+      "text": "Fair point: add cooking and tool-making,",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting at a small campfire chipping a stone tool with one hand while stirring a pot with the other and a sweat drop on his head, open grassland, soft light. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 9,
+      "text": "and foragers worked about forty hours too.",
+      "image_prompt": "a simple weekly schedule board on a wooden stand showing tiny icons of a spear, a pot and a stone tool and the big number 40 written on it, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> standing beside it shrugging with both palms up, open grassland. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 10,
+      "text": "But usually no boss. No Monday.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lying back on the grass with his hands behind his head and a peaceful smile, a torn calendar page floating beside him with the word MON crossed out by a big red X, open savanna and a pale sun. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 11,
+      "text": "One famous scientist called farming the worst mistake in history.",
+      "image_prompt": "a stick-figure scientist with round glasses and a lab coat at a chalkboard where a wheat plant is drawn and crossed out with a big red X, <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> sitting on the floor next to him looking up with interest. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 12,
+      "text": "You still work forty. Same hours. Worse deal.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> at a small grey office desk with a laptop and a wall clock, deadpan with one eyebrow raised looking straight at the viewer, a tiny potted wheat plant on the desk, a stick-figure boss standing behind him with folded arms. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 13,
+      "text": "Would you take the fifteen-hour week? Tell me below.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> lying back on the grass with his hands behind his head and a peaceful smile, a torn calendar page floating beside him with the word MON crossed out by a big red X, open savanna and a pale sun. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels or calligraphy anywhere in the image, except any words explicitly requested above. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture.",
+      "uses_character": true,
+      "motion": "zoom_out",
+      "note": "reuses scene 10 image (relaxed, no Monday) as the CTA backdrop"
+    }
+  ]
+}

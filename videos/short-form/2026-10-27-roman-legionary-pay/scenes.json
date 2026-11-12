@@ -1,0 +1,93 @@
+{
+  "slug": "2026-10-27-roman-legionary-pay",
+  "format": "short",
+  "aspect": "9:16",
+  "voice": {
+    "voice": "Grady",
+    "engine": "higgsfield text2speech_v2 elevenlabs",
+    "mode": "phrase clips (audio/performance.json)"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "text": "You join Rome's army.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> as a Roman legionary in a simple crested helmet and plain terracotta tunic standing at attention with a stiff proud salute and a nervous smile, a dusty Roman army camp with a few tiny tents far behind. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "note": "hold ~2.5 s"
+    },
+    {
+      "id": 2,
+      "text": "Two hundred twenty-five silver coins a year.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman helmet and tunic proudly hugging a fat overflowing sack of silver coins with a huge delighted grin and sparkles, plain sandy background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 3,
+      "text": "Payday. In one record, food alone took a third.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman helmet and tunic at the bottom-left, shocked wide-eyed face with one eyebrow raised, staring at a round pile of silver coins on a table with one clear third slice being slid away by a tall stylish confident stick-figure woman at mid-right with long wavy hair, eyelashes, rosy cheeks and a chic long cream Roman gown, smugly holding a ladle, big empty pale sky across the top third of the image, the bottom right corner empty sand. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "cover": true,
+      "note": "cover; holds only the Payday line, check crop at 270 px; fallback split scenes 2+3 with red ? and arrow"
+    },
+    {
+      "id": 4,
+      "text": "Boots. Tunic. Hay, maybe for the squad's mule. A shared mule. An unshared bill.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman helmet and tunic holding a pair of sandal boots, a patient mule beside him calmly eating a bundle of hay, flat tired face, simple sandy background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_left",
+      "moves": [
+        "zoom_in",
+        "pan_left"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Soldiers griped they even paid for the tent. Honestly, I'd just sleep outside.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman tunic with a big rolled leather tent on his shoulder, looking up with a lazy half-lidded face at a calm clear evening sky, open field. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 6,
+      "text": "Domitian later raised it to three hundred. Still broke.",
+      "image_prompt": "a stick-figure Roman emperor with a laurel wreath on his head handing a slightly bigger coin pouch to <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman tunic, who takes it with a flat unimpressed deadpan face, plain pale background. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_out"
+    },
+    {
+      "id": 7,
+      "text": "Serve twenty-five years. Don't die. Then retire.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> as an old tired retired legionary leaning on a wooden hoe at the edge of a small green farm field with a little cottage, warm sunset sky, a gentle half smile. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "pan_right"
+    },
+    {
+      "id": 8,
+      "text": "One payment. Three thousand coins, or farmland. About thirteen years of starting pay.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> amazed with huge wide eyes looking up at a tall stack of many small coin pouches piled beside him, golden warm light. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in",
+      "moves": [
+        "zoom_in",
+        "pan_right"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Congratulations. Now buy your own mule.",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> holding a coin sack and a rope, deadpan half-lidded face, next to a stubborn mule standing in a simple market square who looks away unimpressed. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    },
+    {
+      "id": 10,
+      "text": "Would you sign up? Yes or no?",
+      "image_prompt": "<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>> in a Roman helmet and tunic looking straight at the viewer with a half smile and one raised eyebrow, a calm army tent camp behind him. Style: loose hand-drawn ink illustration, thin wobbly black pen outlines with slight sketchy line variation, soft muted watercolor-like fills with gentle gradients in pale sky blue, sage green, sand and dusty terracotta, soft natural light, simple uncluttered background with lots of open space and only a few small details, no dense ornament or patterns, any extra people drawn as small simple stick figures with dot eyes, 9:16 vertical. No text, signs, lettering, labels, digits or calligraphy anywhere in the image. The main character keeps his plain white round head, black dot eyes, thin black stick limbs and his bright yellow scarf, which is the only strongly saturated color in the picture. Anatomy check: every human figure has exactly two arms and two hands, each hand clearly visible, no extra arms or hands. Family-friendly: everyone fully clothed, nothing graphic.",
+      "uses_character": true,
+      "motion": "zoom_in"
+    }
+  ]
+}

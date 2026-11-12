@@ -1,0 +1,86 @@
+[
+ {
+  "text": "You join Rome's army.",
+  "tag": "dry",
+  "pause": 0.35,
+  "clip": "01.mp3"
+ },
+ {
+  "text": "Two hundred twenty-five silver coins a year.",
+  "tag": "excited",
+  "pause": 0.4,
+  "clip": "02.mp3"
+ },
+ {
+  "text": "Payday. In one record, food alone took a third.",
+  "tag": "deadpan",
+  "pause": 0.55,
+  "clip": "03.mp3"
+ },
+ {
+  "text": "Boots. Tunic. Hay, maybe for the squad's mule.",
+  "tag": "flat",
+  "pause": 0.4,
+  "clip": "04.mp3"
+ },
+ {
+  "text": "A shared mule. An unshared bill.",
+  "tag": "dry",
+  "pause": 0.5,
+  "clip": "05.mp3"
+ },
+ {
+  "text": "Soldiers griped they even paid for the tent.",
+  "tag": "matter-of-fact",
+  "pause": 0.5,
+  "clip": "06.mp3"
+ },
+ {
+  "text": "Honestly, I'd just sleep outside.",
+  "tag": "lazy",
+  "pause": 0.55,
+  "clip": "07.mp3"
+ },
+ {
+  "text": "Domitian later raised it to three hundred.",
+  "tag": "matter-of-fact",
+  "pause": 0.35,
+  "clip": "08.mp3"
+ },
+ {
+  "text": "Still broke.",
+  "tag": "deadpan",
+  "pause": 0.7,
+  "clip": "09.mp3"
+ },
+ {
+  "text": "Serve twenty-five years. Don't die. Then retire.",
+  "tag": "curious",
+  "pause": 0.5,
+  "clip": "10.mp3"
+ },
+ {
+  "text": "One payment. Three thousand coins, or farmland.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "11.mp3"
+ },
+ {
+  "text": "About thirteen years of starting pay.",
+  "tag": "excited",
+  "pause": 0.6,
+  "clip": "12.mp3"
+ },
+ {
+  "text": "Congratulations. Now buy your own mule.",
+  "tag": "dry",
+  "pause": 0.55,
+  "clip": "13.mp3"
+ },
+ {
+  "text": "Would you sign up? Yes or no?",
+  "tag": "curious",
+  "pause": 0,
+  "clip": "14.mp3"
+ }
+]
