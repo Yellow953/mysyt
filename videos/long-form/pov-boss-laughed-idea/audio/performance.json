@@ -1,0 +1,370 @@
+[
+ {
+  "text": "POV: You've just spent three weeks working on an idea that could change your entire company.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "01.mp3",
+  "row": 1,
+  "img": "a1"
+ },
+ {
+  "text": "You've stayed late. Skipped lunch. Even worked on weekends.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "02.mp3",
+  "row": 2,
+  "img": "a1"
+ },
+ {
+  "text": "And today, you're finally presenting it to your boss. You finish your presentation. Silence.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "03.mp3",
+  "row": 3,
+  "img": "a3"
+ },
+ {
+  "text": "Your boss looks at the screen. Then looks at you. And starts laughing.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "04.mp3",
+  "row": 4,
+  "img": "a4"
+ },
+ {
+  "text": "\"That's your idea?\" The entire room starts smiling.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "05.mp3",
+  "row": 5,
+  "img": "a3"
+ },
+ {
+  "text": "He leans back in his chair. \"Listen, I appreciate the enthusiasm. But maybe leave the big decisions to people who actually understand business.\"",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "06.mp3",
+  "row": 6,
+  "img": "a4"
+ },
+ {
+  "text": "Everyone laughs. You force a smile. But inside... Something just changed.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "07.mp3",
+  "row": 7,
+  "img": "a7"
+ },
+ {
+  "text": "Because six months from now, this same man will be begging you to come back into his office. And this time... He won't be laughing.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "08.mp3",
+  "row": 8,
+  "img": "a8"
+ },
+ {
+  "text": "You've worked at this company for three years. Three years of doing everything right.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "09.mp3",
+  "row": 9,
+  "img": "b1"
+ },
+ {
+  "text": "You arrive early. Finish your tasks. Help your coworkers.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "10.mp3",
+  "row": 10,
+  "img": "b1"
+ },
+ {
+  "text": "Whenever something breaks, you're the person they call.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "11.mp3",
+  "row": 11,
+  "img": "b3"
+ },
+ {
+  "text": "But somehow, whenever there's a promotion, someone else gets it. Your boss barely knows your name.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "12.mp3",
+  "row": 12,
+  "img": "b4"
+ },
+ {
+  "text": "And when he does notice you, it's usually because something went wrong.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "13.mp3",
+  "row": 13,
+  "img": "b5"
+ },
+ {
+  "text": "That's why you came up with the idea. You noticed the company was wasting thousands of dollars every month on a problem nobody seemed interested in fixing.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "14.mp3",
+  "row": 14,
+  "img": "b6"
+ },
+ {
+  "text": "You found a solution. You calculated the costs. You even built a working prototype.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "15.mp3",
+  "row": 15,
+  "img": "b7"
+ },
+ {
+  "text": "You weren't asking for a promotion. You just wanted someone to listen. But instead, you became the office joke. And the worst part? Your boss wasn't finished.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "16.mp3",
+  "row": 16,
+  "img": "b8"
+ },
+ {
+  "text": "The next morning, you arrive at work. Your idea is already being discussed. Not because anyone wants to use it. But because your boss turned your presentation into a joke.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "17.mp3",
+  "row": 17,
+  "img": "c1"
+ },
+ {
+  "text": "Your coworkers start calling it \"the million-dollar genius plan.\" You laugh along. What else can you do?",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "18.mp3",
+  "row": 18,
+  "img": "c2"
+ },
+ {
+  "text": "Then, two weeks later, something interesting happens. You notice a competitor announcing a new system.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "19.mp3",
+  "row": 19,
+  "img": "c3"
+ },
+ {
+  "text": "You open their website. And suddenly, your stomach drops. It's almost exactly the same solution you proposed.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "20.mp3",
+  "row": 20,
+  "img": "c4"
+ },
+ {
+  "text": "They've already launched it. And according to the announcement, it's saving them a fortune.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "21.mp3",
+  "row": 21,
+  "img": "c3"
+ },
+ {
+  "text": "You sit there staring at the screen. Your idea wasn't stupid. Your company just refused to listen. But now, the situation is about to get much worse.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "22.mp3",
+  "row": 22,
+  "img": "c4"
+ },
+ {
+  "text": "Over the next few months, things begin changing. Your competitor becomes faster. Their costs drop. Customers start leaving.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "23.mp3",
+  "row": 23,
+  "img": "d1"
+ },
+ {
+  "text": "Your company tries to respond, but it's already behind.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "24.mp3",
+  "row": 24,
+  "img": "d1"
+ },
+ {
+  "text": "Suddenly, the same managers who laughed at your idea are sitting in emergency meetings. Your boss is furious. He demands solutions.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "25.mp3",
+  "row": 25,
+  "img": "d3"
+ },
+ {
+  "text": "The engineering team works overtime. Marketing launches new campaigns. But nothing seems to work.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "26.mp3",
+  "row": 26,
+  "img": "d3"
+ },
+ {
+  "text": "And then, during one meeting, someone brings up an old presentation. Your presentation.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "27.mp3",
+  "row": 27,
+  "img": "d5"
+ },
+ {
+  "text": "One of the managers asks: \"Didn't someone suggest something similar months ago?\" Everyone goes quiet. Your boss looks uncomfortable. Because he remembers. And so does everyone else.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "28.mp3",
+  "row": 28,
+  "img": "d6"
+ },
+ {
+  "text": "It's Tuesday morning. You're working at your desk when your phone rings. Your boss.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "29.mp3",
+  "row": 29,
+  "img": "e1"
+ },
+ {
+  "text": "\"Can you come to my office?\" Your stomach tightens.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "30.mp3",
+  "row": 30,
+  "img": "e1"
+ },
+ {
+  "text": "You walk down the hallway. Open the door.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "31.mp3",
+  "row": 31,
+  "img": "e3"
+ },
+ {
+  "text": "And there he is. Same expensive suit. Same desk. Same man who laughed at you in front of everyone. But something is different. He isn't smiling.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "32.mp3",
+  "row": 32,
+  "img": "e4"
+ },
+ {
+  "text": "He asks you to sit down. Then he says: \"I've been looking at your old proposal.\" You say nothing.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "33.mp3",
+  "row": 33,
+  "img": "e5"
+ },
+ {
+  "text": "He continues. \"Turns out... you were onto something.\" He pauses. \"We want to revisit your idea. We need you to lead the project.\"",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "34.mp3",
+  "row": 34,
+  "img": "e4"
+ },
+ {
+  "text": "For a moment, you don't know what to say. Three months ago, he called your idea ridiculous. Now he wants you to save the company with it. But this is where you have a decision to make.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "35.mp3",
+  "row": 35,
+  "img": "e7"
+ },
+ {
+  "text": "You could say yes. Take the promotion. Get the recognition you wanted. And spend the next year fixing a problem you tried to prevent.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "36.mp3",
+  "row": 36,
+  "img": "f1"
+ },
+ {
+  "text": "Or you could do something else. You look at your boss. And calmly say:",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "37.mp3",
+  "row": 37,
+  "img": "f2"
+ },
+ {
+  "text": "\"I appreciate the offer. But I suggested this months ago. And you made it very clear what you thought of it.\" Silence.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "38.mp3",
+  "row": 38,
+  "img": "f3"
+ },
+ {
+  "text": "You explain that you're willing to discuss the project. But this time, you want proper authority, resources, and compensation.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "39.mp3",
+  "row": 39,
+  "img": "f4"
+ },
+ {
+  "text": "Your boss looks surprised. He expected you to accept immediately. But you're not the same employee who walked into that conference room six months ago.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "40.mp3",
+  "row": 40,
+  "img": "f5"
+ },
+ {
+  "text": "You've learned something. Being good at your job doesn't mean you should accept being treated badly.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "41.mp3",
+  "row": 41,
+  "img": "f6"
+ },
+ {
+  "text": "And sometimes, the biggest mistake isn't having a bad idea. It's staying somewhere that refuses to recognize a good one.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "42.mp3",
+  "row": 42,
+  "img": "f6"
+ },
+ {
+  "text": "So what happens next? Maybe your boss accepts your terms. Maybe you leave and find a company that actually values your work.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "43.mp3",
+  "row": 43,
+  "img": "g1"
+ },
+ {
+  "text": "But one thing is certain. You no longer need that man's approval to know what you're capable of.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "44.mp3",
+  "row": 44,
+  "img": "g2"
+ },
+ {
+  "text": "Because the person who laughed at your idea... Was never the person who decided whether it was valuable.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "45.mp3",
+  "row": 45,
+  "img": "g3"
+ },
+ {
+  "text": "What would you have done? Taken the promotion... Or walked away?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "46.mp3",
+  "row": 46,
+  "img": "g4"
+ }
+]

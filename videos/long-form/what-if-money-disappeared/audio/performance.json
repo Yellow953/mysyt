@@ -1,0 +1,338 @@
+[
+ {
+  "text": "Imagine waking up tomorrow... And discovering that every dollar in the world has disappeared.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "01.mp3",
+  "row": 1
+ },
+ {
+  "text": "Your bank account? Zero. Your wallet? Useless. Your savings? Gone.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "02.mp3",
+  "row": 2
+ },
+ {
+  "text": "Every millionaire, billionaire, and government on Earth... suddenly has absolutely nothing.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "03.mp3",
+  "row": 3
+ },
+ {
+  "text": "But here's the strange part. The food is still there. The houses are still there. The cars, factories, hospitals, and electricity still exist.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "04.mp3",
+  "row": 4
+ },
+ {
+  "text": "So why would the world collapse? And more importantly... Would this finally make everyone equal? Let's find out.",
+  "tag": "dry",
+  "pause": 0.8,
+  "clip": "05.mp3",
+  "row": 5
+ },
+ {
+  "text": "It's seven a.m. You wake up, check your phone, and see a balance of zero. At first, you think it's a banking glitch.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "06.mp3",
+  "row": 6
+ },
+ {
+  "text": "Then you check the news. Every bank on Earth is reporting the same thing. Money has vanished.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "07.mp3",
+  "row": 7
+ },
+ {
+  "text": "You rush to the supermarket. But when you reach the checkout, something strange happens. The cashier refuses to sell you anything.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "08.mp3",
+  "row": 8
+ },
+ {
+  "text": "Not because the store is empty. Because nobody knows what to charge.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "09.mp3",
+  "row": 9
+ },
+ {
+  "text": "The cashier doesn't want your phone, your watch, or your car. They want something they can actually use.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "10.mp3",
+  "row": 10
+ },
+ {
+  "text": "And suddenly, something becomes obvious. Money was never the food, the water, or the electricity.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "11.mp3",
+  "row": 11
+ },
+ {
+  "text": "It was simply the system that allowed strangers to exchange those things.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "12.mp3",
+  "row": 12
+ },
+ {
+  "text": "And now that system is gone. But the real disaster hasn't even started.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "13.mp3",
+  "row": 13
+ },
+ {
+  "text": "Without money, people would have to trade directly. This is called bartering. Sounds simple, right?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "14.mp3",
+  "row": 14
+ },
+ {
+  "text": "Well, imagine you're a farmer. You have a hundred kilograms of potatoes, and you need medicine. You find a doctor willing to trade.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "15.mp3",
+  "row": 15
+ },
+ {
+  "text": "But there's a problem. The doctor doesn't want potatoes. He wants a new pair of shoes.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "16.mp3",
+  "row": 16
+ },
+ {
+  "text": "So now you need to find a shoemaker who wants potatoes, get the shoes, and then return to the doctor.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "17.mp3",
+  "row": 17
+ },
+ {
+  "text": "And imagine doing this for everything. Fuel. Electricity. Clothes. Food.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "18.mp3",
+  "row": 18
+ },
+ {
+  "text": "This is one reason money became so important in human civilization. It made trade dramatically easier.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "19.mp3",
+  "row": 19
+ },
+ {
+  "text": "But there's an even bigger problem. What happens to the people who don't own anything valuable to trade?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "20.mp3",
+  "row": 20
+ },
+ {
+  "text": "And what happens to entire industries that depend on millions of transactions every single day?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "21.mp3",
+  "row": 21
+ },
+ {
+  "text": "Within days, the consequences spread. Factories struggle to operate. Why?",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "22.mp3",
+  "row": 22
+ },
+ {
+  "text": "Because a factory doesn't just need workers. It needs raw materials, electricity, transportation, spare parts, and thousands of agreements between different companies.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "23.mp3",
+  "row": 23
+ },
+ {
+  "text": "And all of those systems depend heavily on money.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "24.mp3",
+  "row": 24
+ },
+ {
+  "text": "A truck driver won't necessarily transport food for a factory that can't offer anything useful in return.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "25.mp3",
+  "row": 25
+ },
+ {
+  "text": "A power company still needs workers to maintain the grid. A hospital needs medicine, equipment, and supplies.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "26.mp3",
+  "row": 26
+ },
+ {
+  "text": "And suddenly, the biggest problem isn't that people have no money. It's that the systems connecting everything together are falling apart.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "27.mp3",
+  "row": 27
+ },
+ {
+  "text": "Even if the world has enough food to feed everyone, getting that food to the right people becomes incredibly difficult.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "28.mp3",
+  "row": 28
+ },
+ {
+  "text": "But something unexpected starts happening. Some communities begin to survive better than others. And the reason isn't wealth. It's something much simpler.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "29.mp3",
+  "row": 29
+ },
+ {
+  "text": "In a world without money, your value would depend much more on what you can actually provide.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "30.mp3",
+  "row": 30
+ },
+ {
+  "text": "Farmers become incredibly important. Doctors become essential. Engineers, mechanics, electricians, and builders suddenly become some of the most valuable people in society.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "31.mp3",
+  "row": 31
+ },
+ {
+  "text": "And someone with billions of dollars? Those billions wouldn't automatically give them food, water, or protection.",
+  "tag": "deadpan",
+  "pause": 0.45,
+  "clip": "32.mp3",
+  "row": 32
+ },
+ {
+  "text": "Meanwhile, a farmer with a small garden might be doing just fine.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "33.mp3",
+  "row": 33
+ },
+ {
+  "text": "But don't celebrate just yet. Because removing money doesn't automatically remove greed, power, or inequality.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "34.mp3",
+  "row": 34
+ },
+ {
+  "text": "People could still compete for land, food, resources, and influence. In fact, whoever controls the most important resources might become the new powerful elite.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "35.mp3",
+  "row": 35
+ },
+ {
+  "text": "Money would disappear. But the struggle for power wouldn't.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "36.mp3",
+  "row": 36
+ },
+ {
+  "text": "Eventually, humanity would have to invent a new way to organize society.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "37.mp3",
+  "row": 37
+ },
+ {
+  "text": "Some communities might distribute resources based on need. Others might use barter, favors, or local systems of exchange.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "38.mp3",
+  "row": 38
+ },
+ {
+  "text": "Governments could introduce rationing to make sure essential supplies reach everyone.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "39.mp3",
+  "row": 39
+ },
+ {
+  "text": "And perhaps, over time, something new would emerge. A system of digital credits. Trading tokens. Or another universal way to measure value.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "40.mp3",
+  "row": 40
+ },
+ {
+  "text": "Because here's the truth. Money isn't just paper or numbers on a screen.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "41.mp3",
+  "row": 41
+ },
+ {
+  "text": "It's a tool that helps billions of strangers cooperate without having to know each other.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "42.mp3",
+  "row": 42
+ },
+ {
+  "text": "Remove that tool, and humanity would need to build another one. And that brings us to the biggest question.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "43.mp3",
+  "row": 43
+ },
+ {
+  "text": "So, would the world become a better place without money? Maybe in some ways. But probably not in the way you imagine.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "44.mp3",
+  "row": 44
+ },
+ {
+  "text": "We wouldn't suddenly become equal. We wouldn't stop competing. And we certainly wouldn't stop needing things.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "45.mp3",
+  "row": 45
+ },
+ {
+  "text": "Because money was never the thing that made the world valuable. It was the system we created to exchange what was already valuable.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "46.mp3",
+  "row": 46
+ },
+ {
+  "text": "And if money disappeared tomorrow... The most valuable thing in the world might simply be the person who knows how to keep everyone alive.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "47.mp3",
+  "row": 47
+ },
+ {
+  "text": "What would you do in a world without money?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "48.mp3",
+  "row": 48
+ }
+]

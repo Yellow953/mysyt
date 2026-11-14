@@ -1,274 +1,364 @@
 {
-  "_readme": "Source of truth for the long-form track. Read this first when Joe says 'continue the long-form project'. Update on every stage change. Approvals are recorded ONLY from Joe's chat messages, with date and the exact thing approved.",
-  "updated": "2026-11-08",
-  "track": {
-    "status": "built-awaiting-first-research",
-    "decided": [
-      {
-        "date": "2026-11-03",
-        "decision": "Long-form runs as a parallel track; Shorts phases unchanged"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Target length about 5 minutes (story may run a little over/under)"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Long-form thumbnails get dedicated generated art (about 2-5 credits per concept); ask before spending"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "7 agents (scout merges competitor+idea research)"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Shared-file edits approved: CLAUDE.md pointer + strategy.md long-form note"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Six pillars adopted (POV, origins, what-if, unbelievable real stories, business/money/power, romance/sexuality/scandal/behavior); premise-first; see pillars.md"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Video length stays ~5 minutes for every pillar (Joe: keep videos 5 mins)"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Approved: lf-story-hunter + lf-pillar-scout agents, critic-only scoring rubric, character-and-attraction-policy tiers 0-2, pillar field in state"
-      },
-      {
-        "date": "2026-11-03",
-        "decision": "Shorts untouched; old v1/v2 idea files kept intact"
-      }
-    ],
-    "credit_rule": "Ask Joe before any run over 20 credits (a 5-min video is about 20-30). Ask before every thumbnail art spend.",
-    "verified": [
-      "Chrome read-only works from subagents (2026-11-03)",
-      "lf-* agents register as Agent types",
-      "Shorts baseline checksums: only CLAUDE.md and strategy.md (both approved by Joe) and .claude/settings.local.json (Chrome tabs_create_mcp permission auto-added at 22:30 when the Chrome smoke test ran; not edited by us) differ"
-    ]
-  },
-  "gates": {
-    "1_discovery": "STOP after top-3 recommendation",
-    "2_story": "STOP after outline",
-    "3_packaging": "STOP after titles/thumbnail concepts",
-    "4_script": "STOP after script + critic review",
-    "5_production": "STOP before any paid generation/upload/shared-file edit",
-    "6_publish_learn": "memory updates only after Joe approves"
-  },
-  "ideas": [
-    {
-      "slug": "fordlandia-ford-amazon-town",
-      "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
-      "date": "2026-11-03",
-      "pillar": 5
-    },
-    {
-      "slug": "onoda-29-years",
-      "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "bone-wars-two-rich-rivals",
-      "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "lustig-sold-eiffel-tower-twice",
-      "status": "candidate-reserve",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "paperclip-to-house",
-      "status": "candidate-reserve",
-      "date": "2026-11-03",
-      "pillar": 5
-    },
-    {
-      "slug": "nauru-bird-poop-island",
-      "status": "candidate-reserve",
-      "date": "2026-11-03",
-      "pillar": 5
-    },
-    {
-      "slug": "molasses-flood-boston",
-      "status": "parked",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "tanganyika-laughter-epidemic",
-      "status": "parked",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "koepcke-fell-from-sky",
-      "status": "parked",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "shackleton-what-they-did-all-day",
-      "status": "rejected (critic: Ink Story format with subject swapped)",
-      "date": "2026-11-03",
-      "pillar": 1
-    },
-    {
-      "slug": "v2-kopenick",
-      "status": "v2 finalist, critic PASS (conditional), awaiting Joe",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "v2-kiska",
-      "status": "v2 finalist, critic REVISE (close), awaiting Joe",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "v2-alves-dos-reis",
-      "status": "bench (critic REVISE)",
-      "date": "2026-11-03",
-      "pillar": 5
-    },
-    {
-      "slug": "v2-humbert-safe",
-      "status": "reserve (critic REJECT as lead)",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "v2-bunton-goya",
-      "status": "verified, no sell sheet; possible third",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "v2-groundnut",
-      "status": "dropped (twist unconfirmed; same genre as rejected Fordlandia)",
-      "date": "2026-11-03",
-      "pillar": 4
-    },
-    {
-      "slug": "seawater-desalination",
-      "status": "UPLOADED private 2026-11-09: https://youtu.be/joaca0kJEZg (thumbnail set). Joe to check thumbnail in Studio and publish/schedule.",
-      "date": "2026-11-08",
-      "pillar": "3/1 hybrid (explainer-with-mascot)",
-      "next_action": "Joe publishes/schedules; lf-analyst stats ~48h after live.",
-      "youtube_url": "https://youtu.be/joaca0kJEZg"
-    }
+ "_readme": "Source of truth for the long-form track. Read this first when Joe says 'continue the long-form project'. Update on every stage change. Approvals are recorded ONLY from Joe's chat messages, with date and the exact thing approved.",
+ "updated": "2026-11-14",
+ "track": {
+  "status": "built-awaiting-first-research",
+  "decided": [
+   {
+    "date": "2026-11-03",
+    "decision": "Long-form runs as a parallel track; Shorts phases unchanged"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Target length about 5 minutes (story may run a little over/under)"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Long-form thumbnails get dedicated generated art (about 2-5 credits per concept); ask before spending"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "7 agents (scout merges competitor+idea research)"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Shared-file edits approved: CLAUDE.md pointer + strategy.md long-form note"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Six pillars adopted (POV, origins, what-if, unbelievable real stories, business/money/power, romance/sexuality/scandal/behavior); premise-first; see pillars.md"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Video length stays ~5 minutes for every pillar (Joe: keep videos 5 mins)"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Approved: lf-story-hunter + lf-pillar-scout agents, critic-only scoring rubric, character-and-attraction-policy tiers 0-2, pillar field in state"
+   },
+   {
+    "date": "2026-11-03",
+    "decision": "Shorts untouched; old v1/v2 idea files kept intact"
+   }
   ],
-  "projects": [
+  "credit_rule": "Ask Joe before any run over 20 credits (a 5-min video is about 20-30). Ask before every thumbnail art spend.",
+  "verified": [
+   "Chrome read-only works from subagents (2026-11-03)",
+   "lf-* agents register as Agent types",
+   "Shorts baseline checksums: only CLAUDE.md and strategy.md (both approved by Joe) and .claude/settings.local.json (Chrome tabs_create_mcp permission auto-added at 22:30 when the Chrome smoke test ran; not edited by us) differ"
+  ]
+ },
+ "gates": {
+  "1_discovery": "STOP after top-3 recommendation",
+  "2_story": "STOP after outline",
+  "3_packaging": "STOP after titles/thumbnail concepts",
+  "4_script": "STOP after script + critic review",
+  "5_production": "STOP before any paid generation/upload/shared-file edit",
+  "6_publish_learn": "memory updates only after Joe approves"
+ },
+ "ideas": [
+  {
+   "slug": "fordlandia-ford-amazon-town",
+   "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
+   "date": "2026-11-03",
+   "pillar": 5
+  },
+  {
+   "slug": "onoda-29-years",
+   "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "bone-wars-two-rich-rivals",
+   "status": "candidate (NOT approved; Joe unsatisfied with batch v1, 2026-11-03)",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "lustig-sold-eiffel-tower-twice",
+   "status": "candidate-reserve",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "paperclip-to-house",
+   "status": "candidate-reserve",
+   "date": "2026-11-03",
+   "pillar": 5
+  },
+  {
+   "slug": "nauru-bird-poop-island",
+   "status": "candidate-reserve",
+   "date": "2026-11-03",
+   "pillar": 5
+  },
+  {
+   "slug": "molasses-flood-boston",
+   "status": "parked",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "tanganyika-laughter-epidemic",
+   "status": "parked",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "koepcke-fell-from-sky",
+   "status": "parked",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "shackleton-what-they-did-all-day",
+   "status": "rejected (critic: Ink Story format with subject swapped)",
+   "date": "2026-11-03",
+   "pillar": 1
+  },
+  {
+   "slug": "v2-kopenick",
+   "status": "v2 finalist, critic PASS (conditional), awaiting Joe",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "v2-kiska",
+   "status": "v2 finalist, critic REVISE (close), awaiting Joe",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "v2-alves-dos-reis",
+   "status": "bench (critic REVISE)",
+   "date": "2026-11-03",
+   "pillar": 5
+  },
+  {
+   "slug": "v2-humbert-safe",
+   "status": "reserve (critic REJECT as lead)",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "v2-bunton-goya",
+   "status": "verified, no sell sheet; possible third",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "v2-groundnut",
+   "status": "dropped (twist unconfirmed; same genre as rejected Fordlandia)",
+   "date": "2026-11-03",
+   "pillar": 4
+  },
+  {
+   "slug": "seawater-desalination",
+   "status": "UPLOADED private 2026-11-09: https://youtu.be/joaca0kJEZg (thumbnail set). Joe to check thumbnail in Studio and publish/schedule.",
+   "date": "2026-11-08",
+   "pillar": "3/1 hybrid (explainer-with-mascot)",
+   "next_action": "Joe publishes/schedules; lf-analyst stats ~48h after live.",
+   "youtube_url": "https://youtu.be/joaca0kJEZg"
+  },
+  {
+   "slug": "pov-sold-apple-800",
+   "status": "rejected 2026-11-12 (Joe: doesn't like 'worst deal in history' stuff)",
+   "date": "2026-11-12",
+   "pillar": "1/5",
+   "file": "research/long-form/2026-11-12-ideas.md"
+  },
+  {
+   "slug": "what-if-money-disappeared",
+   "status": "approved idea 2026-11-12 -> project",
+   "date": "2026-11-12",
+   "pillar": "3/5",
+   "file": "research/long-form/2026-11-12-ideas.md"
+  },
+  {
+   "slug": "pov-boss-laughed-idea",
+   "status": "approved idea 2026-11-12 -> project",
+   "date": "2026-11-12",
+   "pillar": 1,
+   "file": "research/long-form/2026-11-12-ideas.md"
+  },
+  {
+   "slug": "harrison-longitude-clock",
+   "status": "reserve",
+   "date": "2026-11-12",
+   "pillar": 4,
+   "file": "research/long-form/2026-11-12-ideas.md"
+  },
+  {
+   "slug": "pov-laughed-netflix-out",
+   "status": "reserve, deprioritised 2026-11-12 (worst-deal framing; Joe rejected that genre)",
+   "date": "2026-11-12",
+   "pillar": "1/5",
+   "file": "research/long-form/2026-11-12-ideas.md"
+  },
+  {
+   "slug": "ancient-flirting",
+   "status": "parked until medieval-privacy has data",
+   "date": "2026-11-12",
+   "pillar": 6,
+   "file": "research/long-form/2026-11-12-ideas.md"
+  }
+ ],
+ "projects": [
+  {
+   "slug": "mcdonalds-landlord",
+   "pillar": 5,
+   "idea": "McDonald's as a landlord (Sonneborn/Kroc real-estate model)",
+   "stage": "6_uploaded_private (awaiting Joe to schedule in Studio)",
+   "gate_status": "Uploaded PRIVATE 2026-11-04 (Joe approved the upload). Joe schedules/publishes in Studio; suggested slot Thu 2026-11-05 22:00 Lebanon (15:00 ET), backup Sat 11-07 17:00. Confirm thumbnail in Studio. Performance review at 48h/7d/28d (lf-analyst).",
+   "approvals": [
     {
-      "slug": "mcdonalds-landlord",
-      "pillar": 5,
-      "idea": "McDonald's as a landlord (Sonneborn/Kroc real-estate model)",
-      "stage": "6_uploaded_private (awaiting Joe to schedule in Studio)",
-      "gate_status": "Uploaded PRIVATE 2026-11-04 (Joe approved the upload). Joe schedules/publishes in Studio; suggested slot Thu 2026-11-05 22:00 Lebanon (15:00 ET), backup Sat 11-07 17:00. Confirm thumbnail in Studio. Performance review at 48h/7d/28d (lf-analyst).",
-      "approvals": [
-        {
-          "date": "2026-11-03",
-          "what": "Joe asked for full 5 min script and thumbnail prompt for McDonald's idea only (chat). No production/credit/upload approval."
-        },
-        {
-          "date": "2026-11-04",
-          "what": "Production approved for McDonald's using proposed v4 (title 1, LOOK DOWN); cheaper models + creativity-first process required"
-        }
-      ],
-      "files": "videos/long-form/mcdonalds-landlord/",
-      "video_url": "https://youtu.be/0nhg2B2Wk4A",
-      "studio_url": "https://studio.youtube.com/video/0nhg2B2Wk4A/edit",
-      "title": "McDonald's Doesn't Sell Burgers. It Rents Land."
+     "date": "2026-11-03",
+     "what": "Joe asked for full 5 min script and thumbnail prompt for McDonald's idea only (chat). No production/credit/upload approval."
     },
     {
-      "slug": "emu-war",
-      "pillar": 4,
-      "idea": "The Great Emu War (1932). Joe's own pick, 2026-11-06; scout had earlier listed it as saturated, Joe overrode by asking for it.",
-      "stage": "6_uploaded_private (awaiting Joe to schedule in Studio)",
-      "gate_status": "Uploaded PRIVATE 2026-11-07 (Joe approved the upload). Joe schedules/publishes in Studio. Funnel Short uploaded private too.",
-      "approvals": [
-        {
-          "date": "2026-11-06",
-          "what": "Joe asked for a long-form video on the Emu War (idea choice only). No outline/script/credit approval yet."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe: cover the bounty ledger in the video (ending A included as the closing payoff). Hook and title wording still open; outline not yet fully approved."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe: bounty should be the second half of the video, not just the ending. Outline v2 (50/50 army/bounty) written; hook and title wording still open."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe: use 'emus' not 'ostriches' in title/narration; 'yes go ahead' on outline v2 (gate 2 passed). Hook not explicitly picked; proceeding with recommended hook 1 (the jam) unless he changes it."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe approved title 1 'The Time Australia Went to War With Emus' + thumbnail concept 1 (Deadpan gunner, FARMERS PAID). Production directives: use 'new remotion method / animating characters' (undefined in repo, asked Joe), scene change every >=5 s, NEW music from YouTube Audio Library (not already in assets/music)."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe approved script v4 and said produce it. Credits: approved up to 40 total (sprites+voice+thumbnail art) via chat question."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe feedback on cut 1: thumbnail boring, graphics too faded, wants mix of colorful illustrations + animation, hook (first 5s) better. Applied: new hook (new line + 2 illustrated images), vivid palettes, 10 illustrated scenes, new thumbnail (smug medal emu). Credits ~34 of 40."
-        },
-        {
-          "date": "2026-11-06",
-          "what": "Joe: add machine gun SFX (esp. hook) and space out crammed emus. Applied; cut 3 rendered."
-        },
-        {
-          "date": "2026-11-07",
-          "what": "Joe approved uploading both emu-war videos (private). Scheduling not requested yet."
-        }
-      ],
-      "files": "videos/long-form/emu-war/",
-      "title": "The Time Australia Went to War With Emus",
-      "video_file": "videos/long-form/emu-war/output/emu-war.mp4",
-      "video_url": "https://youtu.be/GDpXMv-qSHA",
-      "studio_url": "https://studio.youtube.com/video/GDpXMv-qSHA/edit"
-    },
-    {
-      "slug": "medieval-privacy",
-      "pillar": 6,
-      "idea": "How Did Medieval Couples Get Any Privacy? (intimate niche test, tier 1; funnel Short planned)",
-      "stage": "6_uploaded_private_awaiting_schedule",
-      "gate_status": "2026-11-08 Joe: confirmed thumbnails (e1 flustered/flirty), title 1; uploaded PRIVATE long-form https://youtu.be/12aSAlFu1MQ and Short v2 https://youtu.be/WJmx8Qby1qw. Joe schedules in Studio.",
-      "approvals": [
-        {
-          "date": "2026-11-07",
-          "what": "Joe picked idea #1 (medieval privacy, long + funnel Short) in chat"
-        },
-        {
-          "date": "2026-11-07",
-          "what": "Joe: 'lets go and make the videos' = production OK; style v3 mid color; new sexy relaxing track; wife attractive/sexy (tier 2)"
-        },
-        {
-          "date": "2026-11-08",
-          "what": "Joe: go with title 1 + thumbnail C1; make thumbnail; start Short + its thumbnail"
-        }
-      ],
-      "files": "videos/long-form/medieval-privacy/",
-      "next_action": "Joe schedules (long-form first, Short 1-2 days later, link long-form in Short); pin comment after publish; then lf-analyst at 48h/7d."
+     "date": "2026-11-04",
+     "what": "Production approved for McDonald's using proposed v4 (title 1, LOOK DOWN); cheaper models + creativity-first process required"
     }
-  ],
-  "next_action": "Joe watches medieval-privacy; then thumbnail concepts (ask credits), title/description, funnel Short (music Mediterranean View), upload private.",
-  "gate_status": {
-    "1_discovery": "v2 presented: 2 stories qualified (Kopenick, Kiska); awaiting Joe. No Stage 2 started."
+   ],
+   "files": "videos/long-form/mcdonalds-landlord/",
+   "video_url": "https://youtu.be/0nhg2B2Wk4A",
+   "studio_url": "https://studio.youtube.com/video/0nhg2B2Wk4A/edit",
+   "title": "McDonald's Doesn't Sell Burgers. It Rents Land."
   },
-  "pillars": {
-    "1": "POV",
-    "2": "Origins",
-    "3": "What if",
-    "4": "Unbelievable real stories",
-    "5": "Business/money/power",
-    "6": "Romance/sexuality/scandal/behavior"
+  {
+   "slug": "emu-war",
+   "pillar": 4,
+   "idea": "The Great Emu War (1932). Joe's own pick, 2026-11-06; scout had earlier listed it as saturated, Joe overrode by asking for it.",
+   "stage": "6_uploaded_private (awaiting Joe to schedule in Studio)",
+   "gate_status": "Uploaded PRIVATE 2026-11-07 (Joe approved the upload). Joe schedules/publishes in Studio. Funnel Short uploaded private too.",
+   "approvals": [
+    {
+     "date": "2026-11-06",
+     "what": "Joe asked for a long-form video on the Emu War (idea choice only). No outline/script/credit approval yet."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe: cover the bounty ledger in the video (ending A included as the closing payoff). Hook and title wording still open; outline not yet fully approved."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe: bounty should be the second half of the video, not just the ending. Outline v2 (50/50 army/bounty) written; hook and title wording still open."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe: use 'emus' not 'ostriches' in title/narration; 'yes go ahead' on outline v2 (gate 2 passed). Hook not explicitly picked; proceeding with recommended hook 1 (the jam) unless he changes it."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe approved title 1 'The Time Australia Went to War With Emus' + thumbnail concept 1 (Deadpan gunner, FARMERS PAID). Production directives: use 'new remotion method / animating characters' (undefined in repo, asked Joe), scene change every >=5 s, NEW music from YouTube Audio Library (not already in assets/music)."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe approved script v4 and said produce it. Credits: approved up to 40 total (sprites+voice+thumbnail art) via chat question."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe feedback on cut 1: thumbnail boring, graphics too faded, wants mix of colorful illustrations + animation, hook (first 5s) better. Applied: new hook (new line + 2 illustrated images), vivid palettes, 10 illustrated scenes, new thumbnail (smug medal emu). Credits ~34 of 40."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "Joe: add machine gun SFX (esp. hook) and space out crammed emus. Applied; cut 3 rendered."
+    },
+    {
+     "date": "2026-11-07",
+     "what": "Joe approved uploading both emu-war videos (private). Scheduling not requested yet."
+    }
+   ],
+   "files": "videos/long-form/emu-war/",
+   "title": "The Time Australia Went to War With Emus",
+   "video_file": "videos/long-form/emu-war/output/emu-war.mp4",
+   "video_url": "https://youtu.be/GDpXMv-qSHA",
+   "studio_url": "https://studio.youtube.com/video/GDpXMv-qSHA/edit"
   },
-  "_pillar_note": "Pillar tags on existing ideas are the orchestrator's classification (2026-11-03), not Joe's."
+  {
+   "slug": "medieval-privacy",
+   "pillar": 6,
+   "idea": "How Did Medieval Couples Get Any Privacy? (intimate niche test, tier 1; funnel Short planned)",
+   "stage": "6_uploaded_private_awaiting_schedule",
+   "gate_status": "2026-11-08 Joe: confirmed thumbnails (e1 flustered/flirty), title 1; uploaded PRIVATE long-form https://youtu.be/12aSAlFu1MQ and Short v2 https://youtu.be/WJmx8Qby1qw. Joe schedules in Studio.",
+   "approvals": [
+    {
+     "date": "2026-11-07",
+     "what": "Joe picked idea #1 (medieval privacy, long + funnel Short) in chat"
+    },
+    {
+     "date": "2026-11-07",
+     "what": "Joe: 'lets go and make the videos' = production OK; style v3 mid color; new sexy relaxing track; wife attractive/sexy (tier 2)"
+    },
+    {
+     "date": "2026-11-08",
+     "what": "Joe: go with title 1 + thumbnail C1; make thumbnail; start Short + its thumbnail"
+    }
+   ],
+   "files": "videos/long-form/medieval-privacy/",
+   "next_action": "Joe schedules (long-form first, Short 1-2 days later, link long-form in Short); pin comment after publish; then lf-analyst at 48h/7d."
+  },
+  {
+   "slug": "what-if-money-disappeared",
+   "pillar": "3/5",
+   "idea": "What If Money Disappeared Tomorrow? (OminiAM clock-ladder what-if)",
+   "stage": "5_production DONE (v4 rendered by Joe 2026-11-14, bright images + no-flash fix); thumbnail A \"MONEY GONE?!\" chosen by Joe (Flow); upload pack in upload.md; Joe asked to upload 2026-11-14 -> publisher flow (Joe uploads in Studio)",
+   "gate_status": "Script v3 (from Joe's ChatGPT script) approved by Joe 2026-11-14 ('yes go'); ~27 credits spent; stills QC'd; awaiting final render: bash scripts/long-form/render_pending.sh money2. No upload without Joe.",
+   "approvals": [
+    {
+     "date": "2026-11-12",
+     "what": "Joe in chat: 'lets do 2 and 3' (idea choice only; no outline/script/credit approval)"
+    },
+    {
+     "date": "2026-11-12",
+     "what": "Joe in chat: 'proceed with 2 videos until u give me the final video dont ask me anything u pick what u think is the best' = full autonomy through final render (outline, script, packaging, production incl. Higgsfield credits for these 2 videos). Upload/publish NOT included."
+    },
+    {
+     "date": "2026-11-14",
+     "what": "Joe: both videos need a redo (story unclear, images glitchy); rewrite scripts for his approval, then reproduce. Earlier blanket autonomy is superseded: script approval needed again."
+    },
+    {
+     "date": "2026-11-14",
+     "what": "Joe: use the ChatGPT-based script v3; 'yes go' (approved ~28 credits, cap 30) for the redo."
+    }
+   ],
+   "files": "videos/long-form/what-if-money-disappeared/"
+  },
+  {
+   "slug": "pov-boss-laughed-idea",
+   "pillar": 1,
+   "idea": "POV: your boss laughed at your idea, 5 years later he needs it (Nate's/POV Simple Finance wronged-you format, fiction)",
+   "stage": "5_production render-ready (v3, 2026-11-14): Joe's ChatGPT script verbatim, 46 voice clips, 35 bright images, composition Boss260, mix -14 LUFS (Mirror Mirror). Joe renders: bash scripts/long-form/render_pending.sh boss2. Then thumbnails via Flow (thumbnail/flow-prompts.md). No upload without Joe.",
+   "gate_status": "Joe 2026-11-13/14: v1 videos rejected (story unclear, image glitches). Scripts rewritten as script.md (v2); v1 kept as script_v1.md. STOP until Joe approves, then re-produce in flat ink style, no agents, one render at a time (scripts/long-form/render_pending.sh).",
+   "approvals": [
+    {
+     "date": "2026-11-12",
+     "what": "Joe in chat: 'lets do 2 and 3' (idea choice only; no outline/script/credit approval)"
+    },
+    {
+     "date": "2026-11-12",
+     "what": "Joe in chat: 'proceed with 2 videos until u give me the final video dont ask me anything u pick what u think is the best' = full autonomy through final render (outline, script, packaging, production incl. Higgsfield credits for these 2 videos). Upload/publish NOT included."
+    },
+    {
+     "date": "2026-11-14",
+     "what": "Joe: both videos need a redo (story unclear, images glitchy); rewrite scripts for his approval, then reproduce. Earlier blanket autonomy is superseded: script approval needed again."
+    }
+   ],
+   "files": "videos/long-form/pov-boss-laughed-idea/"
+  }
+ ],
+ "next_action": "Joe renders boss2 (render_pending.sh boss2), reviews, picks a Flow thumbnail; uploads money video (thumb A) and later boss video. Then performance check on both.",
+ "gate_status": {
+  "1_discovery": "2026-11-12: Joe picked #2 (money what-if) and #3 (boss POV); rejected #1 (no 'worst deal in history' stuff)."
+ },
+ "pillars": {
+  "1": "POV",
+  "2": "Origins",
+  "3": "What if",
+  "4": "Unbelievable real stories",
+  "5": "Business/money/power",
+  "6": "Romance/sexuality/scandal/behavior"
+ },
+ "_pillar_note": "Pillar tags on existing ideas are the orchestrator's classification (2026-11-03), not Joe's."
 }

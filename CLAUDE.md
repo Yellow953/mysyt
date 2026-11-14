@@ -41,7 +41,7 @@ Idea → script workflow (changed 2026-10-31, staged): ideas come only from prov
 - **Bright yellow scarf** ALWAYS around his neck (it's the brand).
 - Thick black outlines, flat colors, no shading, hand-drawn digital-paint feel.
 - Voice: **Grady** (Higgsfield `text2speech_v2`, variant `elevenlabs`, preset voice_id `e2a2d2e6-9ed2-59cd-82af-feaa27f8a678`), chosen by Joe 2026-10-27 for emotion/tone (replaces Kokoro `am_puck`, which sounded flat and rushed). Record phrase by phrase (one clip per phrase, pause after each), exact phrase times drive the captions. Never change it; consistency is the brand. Kokoro stays as a free offline fallback only for timing/pacing tests.
-- Personality: a slightly lazy, sarcastic everyman who always gets the worst deal in history, with big, honest reactions.
+- Personality: a slightly lazy, sarcastic everyman with big, honest reactions. (Joe 2026-11-12: no "worst deal in history" framing or premises: no sold-too-early / passed-on-a-fortune / history's-worst-deal stories, in Shorts or long-form.)
 - Costumes go on top per topic; the head and scarf never change.
 - Higgsfield reference element ID: `aa6661ee-d997-489c-9e1b-9b9adbed8c94` (name `Mr-Yellow-Scarf`, ref image `assets/character/mr-yellow-scarf-reference.png`). Use `<<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>>` in every prompt featuring him.
 - 100% original. Never copy characters, art or layouts from other channels.

@@ -1,5 +1,5 @@
 # Channel Strategy: Live State
-_Last updated: 2026-11-12 by Claude (Higgsfield learnings applied, thumbnails moved to Google Flow)_
+_Last updated: 2026-11-12 by Claude (performance review: why so few views)_
 
 ## Current phase
 **Phase 0: Setup**
@@ -266,3 +266,7 @@ gum https://youtu.be/6ySSBvKzGHA , nails https://youtu.be/8UNeBUskdOU , blinking
 
 ## 2026-11-09 (later): H9 batch UPLOADED (private)
 Crush https://youtu.be/r6U7i-C1aZA , Boss https://youtu.be/6JGnv01Lh9E , Wave https://youtu.be/aDF24oJnB80 (API, thumbnails set after processing; Joe liked all three, uploaded as-is without the small fixes). Joe confirms thumbnails in Studio and schedules/publishes (stagger). Performance-review 48 h after each goes live: swipe rate vs volcano (34.5 percent) for H9.
+
+## 2026-11-12: performance review (Joe: "why so few views?")
+Studio Advanced mode (28 d to 11-11): 6,269 views, 50.7% stayed, 59.9% avg viewed, +6 subs. Daily views fell from 695 (Nov 7) to 13 (Nov 11); stayed fell from 47-70% to 33-43% after Nov 8. Median Short ~12 views; 6/26 got 580-1,285. Diagnosis in research/short-form/2026-11-12-why-so-few-views.md: (1) the feed stops testing a Short after a weak seed, most flops were shown to almost no one; (2) even our hits are only average (best 65.6% stayed), so they stall at ~1K; (3) a hit format does not carry the next one (3 formats); (4) slow openings 21-40% stayed; (5) format changes every batch + 2-3 posts/day (H16). Video log filled with views/stayed/avg viewed.
+Next: Joe checks the Starbucks Short (0 views in 6 d) for restrictions; re-pull Nov 9-12 Shorts on Nov 15; next batch = one format, 1/day, first line written to target ≥ 65% stayed.

@@ -80,3 +80,26 @@ Music rule (Joe, 2026-11-07): pick a NEW track whose mood matches the video (med
 
 
 Female lead look (Joe, 2026-11-07, medieval-privacy): attractive and sexy within tier 2: long wavy hair, eyelashes, rosy cheeks, confident half-smile, sultry playful eyes, flirty posture, fitted but fully covering period dress; sexy through styling, expression and chemistry, never body emphasis, no cleavage or bare skin beyond face/hands.
+
+## Joe preference (2026-11-12)
+- No "worst deal in history" premises (channel-wide, see CLAUDE.md) (rejected the Ronald Wayne $800 Apple idea and that genre: sold-too-early, passed-on-a-fortune stories). Pitch premises where the viewer/character has something to win, survive or figure out instead.
+
+## Joe feedback on the first Money and Boss videos (2026-11-14) -> standing long-form rules
+1. A script must be understandable on one watch: ONE straight line in time order, no rewinds or "go back five years" devices, every step answers "why does this happen next?", one idea per row, few numbers (only those the story needs). If the title already promises the ending, say so in row 1 and show how we get there. Test: could a 12-year-old retell it after one watch?
+2. Visuals: use the flat hand-drawn ink style of the medieval-privacy and seawater videos, NOT a busy glossy painted look (the Money/Boss images had scribbled screens, smudged faces and tube-bodied mascots). At most 3 characters and 1-2 props per image; no screens, papers or signs with content (icons only); the mascot stays a stick figure.
+3. No blanket autonomy over scripts: Joe approves the script before production (his earlier "don't ask me anything" run produced two videos he rejected).
+4. Never run two Remotion renders at once, and don't run subagents to babysit renders (it crashed Chrome and burned Joe's token budget). Use scripts/long-form/render_pending.sh.
+
+## What Joe's ChatGPT script taught us (2026-11-14, what-if money video)
+Open on a paradox, not an intro ("everything still exists, so why would the world collapse?"); keep 2-3 named open loops and answer each later; make each chapter the CONSEQUENCE of the previous one and escalate the scale (person, shop, factory, hospital, society); use a concrete example anyone can follow (farmer-doctor-shoemaker) and one surprise reversal (billionaire with an empty fridge); end by reframing the premise. Our adaptation: short rows, the mascot lives it, humour in his voice. Joe liked this structure: prefer it over gag-chains for what-if videos.
+
+## Joe feedback (2026-11-14, money v4 render): no dark or faded visuals
+- Standing rule: every long-form image is BRIGHT daylight, saturated, blue sky with soft clouds (the seawater look). No night scenes, no dusk/storm purple, no dark overlays, no brightness-dimming or grayscale fades on backgrounds. If a story beat needs "darkening" (night, storm), use a bright scene with a few grey clouds, never a dark image.
+- Prompts must say "bright cheerful daylight, no dark or night colors". Check brightness (mean luma >= ~90) of every background and illustration before building.
+- Money v4 fix: regenerated img_01, img_42, img_22, bg_night, bg_storm, bg_yard as bright daytime (3 credits); removed the dark overlays in MnyLF.tsx; old dark render kept in output/chunks_old_dark/.
+- Joe 2026-11-14 (money v4): a pale-blue "glitch" at every in-scene shot change (e.g. 1:53, 1:54) was our own white flash overlay (50% white, fading over 0.18 s) washing out the blue sky. Rule: NO white/colour flash overlays on cuts; use a clean cut or a slide only. Checked by scanning frames for blue-channel jumps.
+
+## Joe feedback (2026-11-14, boss v3): use ChatGPT scripts verbatim; consistent cartoon boss
+- When Joe pastes a ChatGPT script and says "use it exactly as is", the narration is verbatim (only grouped into voice clips); no paraphrase. Both money v4 and boss v3 were built that way.
+- The recurring side character (the boss) must stay a simple cartoon stick figure (round tan head, slicked dark hair, red tie, navy suit, big orange-brown watch). Gpt_image_2 drifts to a realistic human in meeting/office-desk scenes: add "Simple flat cartoon stick-figure characters with round tan ball heads, dot eyes, thin black stick arms and legs, minimalist hand-drawn" at the START of the prompt, and QC every image of the recurring character on a contact sheet.
+- Cheap pipeline that worked (no sprites): one bright whole illustration per script row (35 images for 46 rows, rows reuse images), several camera crops per row in Remotion (wide push / left crop / right crop / pull-out, 0.14 s crossfade), word-highlight captions, soft whoosh only on picture changes. Total about 35 credits, built without agents.

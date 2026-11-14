@@ -16,7 +16,8 @@ The fundamentals (idea, hook, story, beats, emotion, visuals, payoff, packaging)
 
 ### Brand, topics, originality
 - High energy: stakes, power, danger, money or a ticking clock. No toilet/bodily-fluid grossness as the main hook (disgust only as seasoning). Test every idea: "would Joe watch this himself?"
-- Brand: Mr. Yellow Scarf, lazy sarcastic everyman, "worst deal in history" (flip it sometimes), second person ("you").
+- Brand: Mr. Yellow Scarf, lazy sarcastic everyman, second person ("you").
+- No "worst deal in history" framing or premises (Joe 2026-11-12, rejected the $800-Apple-stake idea): no sold-too-early, passed-on-a-fortune or "history's worst deal" stories, in Shorts or long-form. Replaces the old "worst deal in history (flip it sometimes)" brand line.
 - Originality: never condense another channel's video or copy its script, signature devices (e.g. clapperboard red X) or art. Same QUESTION and the generic myth → proof → reframe → modern question formula are fine, with our own sources, jokes and structure. Describe styles in words; never feed another channel's art to the generator.
 - Joe (2026-10-29): keep SHORTS only and the same ink visuals; test topics 3 Shorts at a time per format. Pre-approved producing the batch without re-asking (~25 credits) once he OKs hooks.
 - **Thought experiments (Joe, 2026-10-29):** hypotheticals do not exist, so the outcome is imagined, and that is why they are fun. Narration commits to the imagined consequences (vivid, escalating, funny); keep the real facts real (numbers, sources) and put "this is a thought experiment / physics says X" caveats in the DESCRIPTION, not as a fun-killing line in the narration. Chosen set: Sun disappears, pencil from scratch (forest and a mine), internet dies: what can you still do.
@@ -86,6 +87,8 @@ The fundamentals (idea, hook, story, beats, emotion, visuals, payoff, packaging)
 ---
 
 ## B. Validated by our data
+- **ACTIVE (2026-11-12): a hit format does not carry the next Short; choose every Short on its premise + first second, never because the format worked before.** Evidence (Studio 28 d to 11-11): WW2 all-day 1,250 vs knight 44 / pirates 12; Navy LEVELS 937 vs Egypt 24 / business 14; volcano cut-out 1,065 vs Sun 28 / hurricane 3 / dig 2. Also differed: topic, post date (Nov 9-10 Shorts only 1-3 d old), title. Source: research/short-form/2026-11-12-why-so-few-views.md.
+- **ACTIVE (2026-11-12): slow or abstract opening lines get swiped.** Stayed-to-watch where samples exist: medieval privacy 20.9%, Netflix 25.0%, 1929 crash 32.1%, Kodak 39.7% vs volcano 65.6% (premise visible at frame 0, character moving), Navy 61.4%. Target ≥ 65% stayed; < 30 views is not a quality signal.
 _None yet (one data point is not a rule). First stats 2026-11-01: 6 of 7 public Shorts got 0-8 views; Blockbuster got 505 with 80.2% swiped away, avg ~43% viewed, 100% Shorts-feed traffic (research/short-form/2026-11-01-thumbnails-and-own-stats.md). `performance-review` adds rules here only from ≥ 2 videos (or one ≥ 5x outlier marked TENTATIVE), naming what else differed._
 
 ---
@@ -107,6 +110,7 @@ _None yet (one data point is not a rule). First stats 2026-11-01: 6 of 7 public 
 | H13 | Changing the picture every ~1-1.5 s (a new framing + up to 2 small edits of it: hand moves, head turns, object enters) beats our 2.5-6 s slideshow shots on swipe % and avg % viewed. | Higgsfield's stills mode calls long holds "the slideshow we are killing" (their internal QA, no view data). Ours: the volcano cut-out (moving) got 34.5% swiped vs 50-80% for slideshow Shorts (confounded). | One batch of 3 slideshow Shorts with ~45 frames/min (edit = previous image as the only reference, "change ONLY ..."), vs our last slideshow batch. Cost ~22 cr/Short (vs ~8-9): needs Joe's OK; test whether Google Flow can make the frames for free. | open (proposed 2026-11-12) |
 | H14 | Music generated per video (Higgsfield `elevenlabs_music_v2_5`, instrumental, exact video length, mood arc in the prompt) is as good as Audio Library tracks and removes the repeat/download problem. | Catalog checked 2026-11-12: 3-600 s, force_instrumental, up to 4 variations. Price not quoted. | Quote the price, then generate a bed for one video and let Joe compare by ear. | open (proposed 2026-11-12) |
 | H15 | Higgsfield `virality_predictor` ranks our videos in the same order as real stats. | Untested; price unknown. | Run it on the volcano Short (34.5% swiped) and one flop; trust it before uploads only if it ranks them correctly. | open (proposed 2026-11-12) |
+| H16 | One consistent format + max 1 Short/day lets the feed find a stable seed audience and raises our floor above ~12 views (median). | 11-12: we changed format every batch and posted 2-3 a day on several days; median Short 12 views, 20/26 under 200. No controlled test. | Next 6 Shorts: one format, one per day, same time; compare median views and stayed % with the last 26. | open (proposed 2026-11-12) |
 | H5 | The attraction / taboo-but-tasteful theme widens reach (Joe's observation). | research/short-form/2026-10-31-attraction-angle.md (selected examples, no counter-sample). | Publish the attraction batch and compare with the median. | open |
 
 ---
