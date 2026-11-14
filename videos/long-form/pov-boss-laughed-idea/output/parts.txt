@@ -1,0 +1,6 @@
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b0.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b1.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b2.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b3.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b4.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-boss-laughed-idea/output/chunks/b5.mp4'

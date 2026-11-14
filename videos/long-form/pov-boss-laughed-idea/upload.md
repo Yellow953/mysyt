@@ -3,7 +3,7 @@
 **Title:** POV: Your Boss Laughed at Your Idea... Big Mistake.
 **Hashtags:** #POV #Boss #Workplace #Storytime #MrYellowScarf
 **Video:** output/pov-boss-laughed-idea.mp4 (after `bash scripts/long-form/render_pending.sh boss2`)
-**Thumbnail:** thumbnail/thumb_A.png (Flow prompts in thumbnail/flow-prompts.md; Joe picks)
+**Thumbnail:** thumbnail/thumbnail.png (Flow option B "THEY LAUGHED", chosen by Joe 2026-11-14)
 
 ## Description
 POV: you spent three weeks on an idea that could change your whole company. You present it. Your boss laughs, the room laughs with him, and something inside you changes. Six months later, he is begging you to come back into his office. This is a fictional workplace story told as a second-person POV with a cartoon character: the humiliation, the competitor who launches your idea first, the company that starts losing, and the one decision that decides what happens next.

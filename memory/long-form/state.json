@@ -348,7 +348,7 @@
    "files": "videos/long-form/pov-boss-laughed-idea/"
   }
  ],
- "next_action": "Joe renders boss2 (render_pending.sh boss2), reviews, picks a Flow thumbnail; uploads money video (thumb A) and later boss video. Then performance check on both.",
+ "next_action": "Boss video: Joe picks music (audio/optA/B/C.wav -> copy to mix.wav) then renders boss2. Next long-form: plan 50/50 ILL/CUT (animation) from the start. Joe uploads money video (thumb A) and boss video (thumb B).",
  "gate_status": {
   "1_discovery": "2026-11-12: Joe picked #2 (money what-if) and #3 (boss POV); rejected #1 (no 'worst deal in history' stuff)."
  },

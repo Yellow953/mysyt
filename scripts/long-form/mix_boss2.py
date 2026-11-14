@@ -53,7 +53,9 @@ def looped(x, length, xf=int(1.5 * SR)):
         seg[-xf:] *= ramp[::-1]
         out[pos:pos + len(seg)] += seg; pos += len(seg) - xf
     return out[:length]
-track = load(P + "assets/music/Mirror Mirror - Anno Domini Beats.mp3")
+TRACK = sys.argv[1] if len(sys.argv) > 1 else "Mirror Mirror - Anno Domini Beats.mp3"
+OUT = sys.argv[2] if len(sys.argv) > 2 else "mix"
+track = load(P + "assets/music/" + TRACK)
 music = looped(track, n)
 music /= (np.sqrt(np.mean(music ** 2)) + 1e-9) / 0.12
 tt = np.arange(n) / SR
@@ -69,9 +71,9 @@ for t0, nm, v in ev:
     i = max(0, int(t0 * SR)); seg = x[:max(0, n - i)]
     sfx[i:i + len(seg)] += seg * v * 0.5
 mix = np.clip(vm + bed + sfx, -1, 1)
-sf.write(V + "audio/mix_raw.wav", mix, SR)
-m = subprocess.run(["ffmpeg", "-hide_banner", "-i", V + "audio/mix_raw.wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json", "-f", "null", "-"], capture_output=True, text=True).stderr
+sf.write(V + f"audio/{OUT}_raw.wav", mix, SR)
+m = subprocess.run(["ffmpeg", "-hide_banner", "-i", V + f"audio/{OUT}_raw.wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json", "-f", "null", "-"], capture_output=True, text=True).stderr
 j = json.loads(m[m.rindex("{"):m.rindex("}") + 1])
 af = f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={j['input_i']}:measured_TP={j['input_tp']}:measured_LRA={j['input_lra']}:measured_thresh={j['input_thresh']}:offset={j['target_offset']}:linear=true,volume=0.55dB"
-subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", V + "audio/mix_raw.wav", "-af", af, "-ar", "48000", "-ac", "2", V + "audio/mix.wav"], check=True)
+subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", V + f"audio/{OUT}_raw.wav", "-af", af, "-ar", "48000", "-ac", "2", V + f"audio/{OUT}.wav"], check=True)
 print("events", len(ev), "total", TOTAL)
