@@ -164,3 +164,5 @@ _None yet (one data point is not a rule). First stats 2026-11-01: 6 of 7 public 
 
 ## Idea preference (Joe, 2026-11-09)
 Rejected a list of "Why don't we...?" global-science ideas (icebergs, cloud seeding, tunnel); asked for "what if" ideas on a NICHE topic (small, specific body/behavior questions) and picked gum, nails, blinking. Rule: for new idea lists default to what-if, narrow-topic, myth/record-backed questions; keep "Why don't we" only if asked. Evidence: Joe's picks 2026-11-09. Also: parent QC caught a counter label overlapping the mascot's head (blink Short); label-on-face rule stands.
+
+- (2026-11-15, funnel Short) A funnel Short can be built from its long-form's existing art + sprites for ~5 cr (voice only): vertical crop = pan across the 16:9 illustration (focus x moves, zoom 1.0-1.2), plus 2 cut-out shots; Grady runs slow, so speed the whole voice 1.15x (58 s -> 50.5 s). Script: scripts/short-form/island_short_data.py, mix_island_short.py, remotion IslandShort.tsx.

@@ -79,7 +79,7 @@ Joe: "too colorful like the previous version, not barely any color either: the m
 Music rule (Joe, 2026-11-07): pick a NEW track whose mood matches the video (medieval-privacy = sexy, relaxing, smooth); never reuse a used.json track.
 
 
-Female lead look (Joe, 2026-11-07, medieval-privacy): attractive and sexy within tier 2: long wavy hair, eyelashes, rosy cheeks, confident half-smile, sultry playful eyes, flirty posture, fitted but fully covering period dress; sexy through styling, expression and chemistry, never body emphasis, no cleavage or bare skin beyond face/hands.
+Female lead look (Joe, 2026-11-07, medieval-privacy; SUPERSEDED for later videos by the 2026-11-08 approved glamorous look below): attractive and sexy within tier 2: long wavy hair, eyelashes, rosy cheeks, confident half-smile, sultry playful eyes, flirty posture, fitted but fully covering period dress.
 
 ## Joe preference (2026-11-12)
 - No "worst deal in history" premises (channel-wide, see CLAUDE.md) (rejected the Ronald Wayne $800 Apple idea and that genre: sold-too-early, passed-on-a-fortune stories). Pitch premises where the viewer/character has something to win, survive or figure out instead.
@@ -110,3 +110,9 @@ Open on a paradox, not an intro ("everything still exists, so why would the worl
 - Cheap-pipeline note above (all-ILL, 35 images) is only the fallback; it is NOT the 50/50 look.
 - Joe chose thumbnail B "THEY LAUGHED" for the boss video (Flow, 2026-11-14); thumbnail A "MONEY GONE?!" for the money video. Both won on a clear big face + 2 words.
 - Music: Joe disliked "Mirror Mirror" under the boss video. Audition 3 candidates (voice + music mixes) before picking; he listens, then we render.
+
+## Joe feedback (2026-11-15, island POV): women use the approved glamorous look
+- Joe: "make sure the visuals of the women is the one we agreed upon with a bit of sexualisation." Standing rule for every long-form with women in focus = the female-character rule in .claude/skills/script-writer/SKILL.md (Joe 2026-11-08, glamorous Egyptian queen sample): hourglass figure, short/slit period outfit with plunging neckline, bare shoulders and legs, flirty half-closed eyes, rosy blush, braided/wavy hair; orange-gold jewelry so the scarf stays the only yellow; adults, no nudity. Mascot stays a stick figure.
+- Flag age-restriction/limited-ads risk to Joe at upload (tier 2). Works as ILL images AND as magenta-sheet sprites (gpt_image_2 keeps the look; sheets split with scripts/long-form/split_sheet_island.py; check for merged blobs and mislabeled poses).
+- Pipeline facts: Higgsfield plus plan = max 8 concurrent image jobs and text2speech rate limits at ~8 per batch (resubmit failures with the next batch); the island data/mix/timeline scripts (island_data.py, timeline_island.py, mix_island.py) are the cleanest template for the next long-form with a pasted script.
+- Music: every library track is already used; with credits capped, the least-used track was picked (Mediterranean View) and 3 audition mixes made (optA/optB/optC). Joe picks, then copy to audio/mix.wav.

@@ -1,6 +1,6 @@
 {
  "_readme": "Source of truth for the long-form track. Read this first when Joe says 'continue the long-form project'. Update on every stage change. Approvals are recorded ONLY from Joe's chat messages, with date and the exact thing approved.",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "track": {
   "status": "built-awaiting-first-research",
   "decided": [
@@ -346,9 +346,31 @@
     }
    ],
    "files": "videos/long-form/pov-boss-laughed-idea/"
+  },
+  {
+   "slug": "pov-island-only-women",
+   "pillar": "1/6 (POV; tier 1, adult warrior women, non-sexualized)",
+   "idea": "POV: You wake up on an island where only women live (Amazons). Joe's own script, pasted 2026-11-15.",
+   "stage": "5_production render-ready (2026-11-15): voice 54 clips, 22 ILL + 6 bg + sprites, Island60 composition, mix.wav -14 LUFS. Joe renders: bash scripts/long-form/render_pending.sh island. Then thumbnails via Flow (thumbnail/flow-prompts.md). No upload without Joe.",
+   "gate_status": "Joe approved production 2026-11-15 ('okay go ahead', ~35 cr, cap 38). Spent ~35.9 cr. Policy flag: tier 2, possible age-restriction; see upload.md.",
+   "approvals": [
+    {
+     "date": "2026-11-15",
+     "what": "Joe pasted a full script for a new video (script supplied; no production/credit approval yet)"
+    },
+    {
+     "date": "2026-11-15",
+     "what": "Joe: women must use the agreed look (approved glamorous female style) with a bit of sexualisation = tier 2; see visual-brief.md"
+    },
+    {
+     "date": "2026-11-15",
+     "what": "Joe: 'okay go ahead' = produce at ~35 credits (cap 38). Upload not included."
+    }
+   ],
+   "files": "videos/long-form/pov-island-only-women/"
   }
  ],
- "next_action": "Boss video: Joe picks music (audio/optA/B/C.wav -> copy to mix.wav) then renders boss2. Next long-form: plan 50/50 ILL/CUT (animation) from the start. Joe uploads money video (thumb A) and boss video (thumb B).",
+ "next_action": "Island video: Joe runs render_pending.sh island, makes the thumbnail in Flow, then asks for upload. Boss/money videos as before.",
  "gate_status": {
   "1_discovery": "2026-11-12: Joe picked #2 (money what-if) and #3 (boss POV); rejected #1 (no 'worst deal in history' stuff)."
  },

@@ -1,0 +1,6 @@
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s0.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s1.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s2.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s3.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s4.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-island-only-women/output/chunks/s5.mp4'

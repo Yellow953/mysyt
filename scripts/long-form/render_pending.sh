@@ -61,5 +61,23 @@ case "${1:-}" in
     done
     finish $D pov-boss-laughed-idea "${P[@]}"
     ;;
-  *) echo "usage: $0 money2|boss2"; exit 1;;
+  island)
+    # island POV video (Joe's script verbatim): composition Island60, 24551 frames at 60 fps in 6 chunks of 4092
+    D=$ROOT/videos/long-form/pov-island-only-women; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=6; for i in 0 1 2 3 4 5; do
+      CUR=$((i+1)); a=$((i*4092)); b=$(((i+1)*4092-1)); [ $i -eq 5 ] && b=24550
+      render_chunk Island60 src/islandIndex.ts $O/s$i.mp4 $a $b || exit 1
+      P+=("$O/s$i.mp4")
+    done
+    finish $D pov-island-only-women "${P[@]}"
+    ;;
+  islandshort)
+    # funnel Short (9:16) for the island video: composition IslandShort60, 3054 frames at 60 fps, one chunk
+    D=$ROOT/videos/short-form/island-funnel-short; O=$D/output/chunks; mkdir -p $O
+    TOTAL=1; CUR=1
+    render_chunk IslandShort60 src/islandShortIndex.ts $O/s0.mp4 0 3053 || exit 1
+    finish $D island-funnel-short "$O/s0.mp4"
+    ;;
+  *) echo "usage: $0 money2|boss2|island|islandshort"; exit 1;;
 esac
