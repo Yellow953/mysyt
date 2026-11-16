@@ -116,3 +116,9 @@ Open on a paradox, not an intro ("everything still exists, so why would the worl
 - Flag age-restriction/limited-ads risk to Joe at upload (tier 2). Works as ILL images AND as magenta-sheet sprites (gpt_image_2 keeps the look; sheets split with scripts/long-form/split_sheet_island.py; check for merged blobs and mislabeled poses).
 - Pipeline facts: Higgsfield plus plan = max 8 concurrent image jobs and text2speech rate limits at ~8 per batch (resubmit failures with the next batch); the island data/mix/timeline scripts (island_data.py, timeline_island.py, mix_island.py) are the cleanest template for the next long-form with a pasted script.
 - Music: every library track is already used; with credits capped, the least-used track was picked (Mediterranean View) and 3 audition mixes made (optA/optB/optC). Joe picks, then copy to audio/mix.wav.
+
+## Pipeline facts (2026-11-15, cattle rancher video; no new Joe corrections this session)
+- Cheapest build so far: 54 voice clips + 3 sprite sheets + 6 backgrounds + 27 illustrations (37 images) = 27.25 cr total (about 0.27 cr per image, 0.32 per voice clip). Template for a pasted script: scripts/long-form/cattle_data.py, timeline_cattle.py, mix_cattle.py, remotion/src/CattleLF.tsx (row -> ILL/CUT tables), render_pending.sh case `cattle`.
+- text2speech_v2 rate-limits about 1 of every 8 clips per batch (429): resubmit the failures in the next batch; keep a jobs.txt (row -> job id) and rebuild download URLs from jobs_wait result_url (the URL has a timestamp, it cannot be guessed).
+- Downloads: always `curl --max-time 40 --retry 2` and PIL-verify; a hung curl truncated one image. zsh does not word-split `$VAR`: pass frame lists literally to node scripts.
+- gpt_image_2_6 sometimes darkens corners of "worried/uncertain" scenes (i47): say "no grey or dark clouds, no dark corners, no vignette" and QC the contact sheet.

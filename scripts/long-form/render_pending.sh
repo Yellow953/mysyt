@@ -79,5 +79,16 @@ case "${1:-}" in
     render_chunk IslandShort60 src/islandShortIndex.ts $O/s0.mp4 0 3053 || exit 1
     finish $D island-funnel-short "$O/s0.mp4"
     ;;
-  *) echo "usage: $0 money2|boss2|island|islandshort"; exit 1;;
+  cattle)
+    # cattle rancher levels (Joe's script verbatim): composition Cattle60, 20531 frames at 60 fps in 6 chunks of 3422
+    D=$ROOT/videos/long-form/cattle-rancher-levels; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=6; for i in 0 1 2 3 4 5; do
+      CUR=$((i+1)); a=$((i*3422)); b=$(((i+1)*3422-1)); [ $i -eq 5 ] && b=20530
+      render_chunk Cattle60 src/cattleIndex.ts $O/c$i.mp4 $a $b || exit 1
+      P+=("$O/c$i.mp4")
+    done
+    finish $D cattle-rancher-levels "${P[@]}"
+    ;;
+  *) echo "usage: $0 money2|boss2|island|islandshort|cattle"; exit 1;;
 esac

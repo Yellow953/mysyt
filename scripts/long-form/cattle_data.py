@@ -1,0 +1,67 @@
+#!/usr/bin/env python3
+"""Cattle rancher levels (Joe's script VERBATIM, grouped into voice clips). Writes audio/performance.json + audio/prompts.json.
+Run: .venv/bin/python scripts/long-form/cattle_data.py"""
+import json, os
+P = "/Users/yellow/Projects/MrYellowScarf/videos/long-form/cattle-rancher-levels/"
+ROWS = [
+("curious","Imagine waking up one morning and discovering you've inherited a cattle ranch."),
+("warm","Twenty cows. A few horses. An old farmhouse. And thousands of acres of land. Sounds like a dream, right?"),
+("low","But there's one problem. Your bank account has just $800 in it."),
+("dry","And those twenty cows need food, water, shelter, and protection."),
+("wry","Welcome to your new life as a cattle rancher."),
+("low","Your first morning starts at 5 AM."),
+("dry","You put on your boots, grab your hat, and head outside. Your first job? Feeding the cattle."),
+("low","Then you discover three sections of fencing have collapsed. One cow is missing. Another looks sick."),
+("dry","And somehow, you've already spent half your savings on supplies."),
+("dry","You quickly learn that owning a ranch isn't just riding horses into the sunset."),
+("dry","It's repairing fences, cleaning barns, checking animals, and working in all kinds of weather."),
+("wry","And the worst part? You haven't made a single dollar yet."),
+("curious","A year passes. You've learned how to handle cattle, recognize sick animals, and manage the land."),
+("warm","You finally sell your first batch of calves."),
+("warm","It's not a fortune, but it's enough to repair the barn and buy better equipment."),
+("dry","You purchase a second-hand truck. Now, instead of walking across the entire property, you can reach distant pastures in minutes."),
+("curious","You also buy a few more cattle. But ranch life has a new challenge. Winter arrives."),
+("low","The grass disappears, the water freezes, and your cattle need hay every single day."),
+("low","One mistake could cost you thousands."),
+("warm","You survive the winter. And for the first time, your ranch actually starts making money."),
+("curious","Five years later, things are looking very different. You now own 200 cattle."),
+("dry","You've hired two workers, purchased better trucks, and expanded your property."),
+("dry","You no longer do every job yourself. Instead, you manage the operation."),
+("dry","You organize breeding seasons, monitor the health of your herd, and decide when to sell."),
+("warm","Your cattle are now worth serious money. You even build a bigger house and buy a new pickup truck."),
+("curious","But success brings new problems. Feed prices are rising. A nearby ranch is expanding."),
+("dry","And your workers are starting to ask for higher wages."),
+("low","Still, you're doing better than you ever imagined. Until the drought hits."),
+("curious","Ten years have passed. Your ranch has become one of the biggest in the region."),
+("dry","You now manage thousands of cattle across multiple properties."),
+("dry","You have dozens of employees, professional veterinarians, heavy machinery, and contracts with major meat suppliers."),
+("wry","You don't just raise cattle anymore. You run a serious agricultural business."),
+("curious","Your phone rings constantly. Buyers want your cattle. Banks want to finance your expansion. Other ranchers want to partner with you."),
+("dry","You even purchase land from your old competitors."),
+("low","But there's something you haven't forgotten. Cattle still need grass. And without rain, even the biggest ranch in the world can struggle."),
+("low","The drought is getting worse. Your pastures are drying up."),
+("low","And you're spending a fortune bringing in feed just to keep the herd alive."),
+("curious","Eventually, you become one of the most powerful cattle ranchers in the country."),
+("dry","Your operation stretches across several states."),
+("dry","You own thousands of acres, operate your own feed facilities, and supply major buyers."),
+("dry","You have managers running different parts of the business. You barely visit the original ranch anymore."),
+("low","But then disaster strikes. A disease outbreak threatens part of your herd."),
+("low","You must isolate affected animals, bring in veterinarians, and follow strict health regulations."),
+("low","At the same time, cattle prices begin falling. Your expenses keep rising, but your income is shrinking."),
+("curious","You have two choices. Sell a large part of your herd and protect the business..."),
+("low","Or borrow more money and hope the market recovers."),
+("low","For the first time in decades, you're not sure if your empire will survive."),
+("curious","You spend months making difficult decisions. You sell some land, reduce expenses, and rebuild the herd carefully."),
+("dry","It isn't glamorous. But slowly, the ranch recovers."),
+("warm","Years later, you return to the old farmhouse. The same place where you started with twenty cows and just $800."),
+("warm","Now, your family runs an enormous ranching operation. You look out across the fields."),
+("low","And realize something. You didn't just build a cattle ranch. You built a legacy."),
+("wry","But be honest... Would you survive your first year as a cattle rancher? Or would you sell the ranch before winter even arrives?"),
+("curious","Let me know in the comments. And subscribe to MrYellowScarf for more crazy POV adventures."),
+]
+if __name__ == "__main__":
+    os.makedirs(P + "audio/clips", exist_ok=True)
+    perf = [{"text": t, "tag": g, "pause": 0.45, "clip": f"{i:02d}.mp3", "row": i} for i, (g, t) in enumerate(ROWS, 1)]
+    json.dump(perf, open(P + "audio/performance.json", "w"), indent=1)
+    json.dump({str(i): f"[{g}] {t}" for i, (g, t) in enumerate(ROWS, 1)}, open(P + "audio/prompts.json", "w"), indent=1)
+    print(len(ROWS), "rows", sum(len(t.split()) for _, t in ROWS), "words")

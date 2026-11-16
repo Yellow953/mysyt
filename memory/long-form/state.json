@@ -368,9 +368,27 @@
     }
    ],
    "files": "videos/long-form/pov-island-only-women/"
+  },
+  {
+   "slug": "cattle-rancher-levels",
+   "pillar": "1/5 (POV + business; levels-ladder)",
+   "idea": "Every Level of Being a Cattle Rancher (Joe's pasted script, 2026-11-15)",
+   "stage": "6_upload_ready: rendered by Joe (519 MB, 5:42, audio checked vs script), thumbnail A '$800 -> EMPIRE' chosen (Flow, flat cartoon v2), upload.md ready, dry-run OK. Joe asked for the upload command 2026-11-15; Joe runs it (private upload).",
+   "gate_status": "Production approved 2026-11-15 (cap 38). Spent 27.25 cr. Stills QC'd. Upload not approved.",
+   "approvals": [
+    {
+     "date": "2026-11-15",
+     "what": "Joe pasted full script for a new long-form (script supplied; no production/credit approval yet)"
+    },
+    {
+     "date": "2026-11-15",
+     "what": "Joe: 'okay go ahead lets create it' = produce at ~35 credits (cap 38). Upload not included."
+    }
+   ],
+   "files": "videos/long-form/cattle-rancher-levels/"
   }
  ],
- "next_action": "Island video: Joe runs render_pending.sh island, makes the thumbnail in Flow, then asks for upload. Boss/money videos as before.",
+ "next_action": "Cattle video: Joe runs upload_lf.py (private), then schedules in Studio. Island/boss/money as before.",
  "gate_status": {
   "1_discovery": "2026-11-12: Joe picked #2 (money what-if) and #3 (boss POV); rejected #1 (no 'worst deal in history' stuff)."
  },
