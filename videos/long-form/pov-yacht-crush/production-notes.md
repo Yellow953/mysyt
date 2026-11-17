@@ -1,0 +1,11 @@
+# Production notes: pov-yacht-crush (2026-11-16)
+- Script: Joe's pasted script, VERBATIM (37 clips, 378 words, voice 167.6 s, total 169.8 s = 2:50; the script's "5:00" header is aspirational, the text is only 378 words). Data: scripts/long-form/yacht_data.py.
+- Voice: audio/clips/NN.mp3 (check_clips 0 suspicious) -> build_voice.py -> scripts/long-form/timeline_yacht.py -> remotion/src/yachtTimeline.json. (captions.py is not used: it needs scenes.json; timeline_yacht.py supplies the word times and captions are drawn in YachtLF.tsx like cattle.)
+- Visual plan (50/50): 13 ILL scenes (whole illustrations with crops) and 17 CUT scenes (painted bg + moving sprites). Plan = SCENES in remotion/src/YachtLF.tsx (a scene can span 2 rows when rows are under ~2.5 s).
+- Sprites: mascot m_* (6 reused from mnylf + 8 new from sheet M), woman w_* (8, sheet W2), props p_* (8, sheet P2); meta remotion/src/yachtMeta.json; public assets remotion/public/yacht/.
+- Crush: adult, stylish, auburn hair, coral swimsuit + turquoise sarong, tier 1-2 (visual-brief.md).
+- Audio: scripts/long-form/mix_yacht.py -> audio/mix.wav (-13.9 LUFS), Santa Clarita looped and ducked, soft whooshes at ILL/CUT changes, a few beat SFX. Recorded in assets/music/used.json.
+- Render (Joe): `bash scripts/long-form/render_pending.sh yacht` (6 chunks, resumable) -> output/pov-yacht-crush.mp4
+- Stills: node remotion/yacht_stills.mjs <outdir> <frames at 30 fps...> (run from remotion/)
+- Problems hit: first W/P sheets had a dark gradient background instead of magenta (redone); zsh does not word-split loop variables (downloads); parallel curl downloads truncated PNGs (verify with PIL).
+- Weak spots: video is 2:50 not 5:00; i31/i36 lean-in poses are the most flirty images (swap if ads limited); woman sprites are plainly proportioned vs the stick mascot (style mix as in island); sprites are fairly small against detailed backgrounds.

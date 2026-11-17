@@ -1,0 +1,11 @@
+# Production notes: pov-zombie-supermarket (2026-11-17)
+- Script: Joe's pasted script, VERBATIM (51 voice clips, 533 words, voice 225.5 s, total 227.7 s = ~3:48). Data: scripts/long-form/zombie_data.py. Quote marks dropped from the two spoken lines; headings not voiced.
+- Voice: Grady via text2speech_v2 (elevenlabs). 8 rate-limit (429) failures resubmitted next batch. check_clips: 0 suspicious. Then build_voice.py -> scripts/long-form/timeline_zombie.py -> remotion/src/zombieTimeline.json. (captions.py is not used; captions come from the timeline.)
+- Plan (50/50): 27 ILL rows (whole illustrations i01..i51, 1-4 crops/row; row 50 reuses i49) and 24 CUT rows (bright bg + sprites + icons). Table = ILLROWS/CUT in remotion/src/ZombieLF.tsx.
+- Art: 4 sheets (sheets B/C/D came back already transparent; split_sheet_zombie.py handles both), 7 backgrounds, 26 illustrations, all mean luma >= 129. Sprites in images/sprites_all and remotion/public/zombie, meta remotion/src/zombieMeta.json. Mascot poses m_cheer/m_deadpan/m_point/m_shrug/m_walk/m_worry reused free from mnylf.
+- Monetization: goofy green cartoon zombies, no blood/gore/biting; "eating someone" = zombie hunched behind overturned cart (i05). Crush = adult woman, tier 1.
+- Audio: scripts/long-form/mix_zombie.py [track] [out] -> audio/mix.wav, -14 LUFS, Trudging Along - Godmode (least-used alternative: Keep It Movin' - Jahdean), ducked music + 70 SFX events from remotion/public/mnylf/*.wav.
+- Network was throttled (~5 KB/s per connection): download with images/dl3.sh (parallel, resumable).
+- Render (Joe): `bash scripts/long-form/render_pending.sh zombie` (6 chunks of 2277 frames, resumable) -> output/pov-zombie-supermarket.mp4. Draft: Zombie30 at --scale=0.5 -> output/draft.mp4. Stills: node remotion/zombie_stills.mjs <outdir> <frames at 30fps>.
+- Bug fixed: helper named H clashed with the H=1080 constant (renamed HH).
+- Weak spots: CUT scenes on bgAisle/bgDim show small characters (perspective bg); video is 3:48, not 5:00; music not auditioned by ear.

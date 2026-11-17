@@ -90,5 +90,27 @@ case "${1:-}" in
     done
     finish $D cattle-rancher-levels "${P[@]}"
     ;;
-  *) echo "usage: $0 money2|boss2|island|islandshort|cattle"; exit 1;;
+  yacht)
+    # POV yacht crush (Joe's script verbatim): composition Yacht60, 10187 frames at 60 fps in 6 chunks of 1698
+    D=$ROOT/videos/long-form/pov-yacht-crush; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=6; for i in 0 1 2 3 4 5; do
+      CUR=$((i+1)); a=$((i*1698)); b=$(((i+1)*1698-1)); [ $i -eq 5 ] && b=10186
+      render_chunk Yacht60 src/yachtIndex.ts $O/c$i.mp4 $a $b || exit 1
+      P+=("$O/c$i.mp4")
+    done
+    finish $D pov-yacht-crush "${P[@]}"
+    ;;
+  zombie)
+    # zombie supermarket POV (Joe's script verbatim): composition Zombie60, 13661 frames at 60 fps in 6 chunks of 2277
+    D=$ROOT/videos/long-form/pov-zombie-supermarket; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=6; for i in 0 1 2 3 4 5; do
+      CUR=$((i+1)); a=$((i*2277)); b=$(((i+1)*2277-1)); [ $i -eq 5 ] && b=13660
+      render_chunk Zombie60 src/zombieIndex.ts $O/z$i.mp4 $a $b || exit 1
+      P+=("$O/z$i.mp4")
+    done
+    finish $D pov-zombie-supermarket "${P[@]}"
+    ;;
+  *) echo "usage: $0 money2|boss2|island|islandshort|cattle|yacht"; exit 1;;
 esac

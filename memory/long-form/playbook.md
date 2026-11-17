@@ -122,3 +122,9 @@ Open on a paradox, not an intro ("everything still exists, so why would the worl
 - text2speech_v2 rate-limits about 1 of every 8 clips per batch (429): resubmit the failures in the next batch; keep a jobs.txt (row -> job id) and rebuild download URLs from jobs_wait result_url (the URL has a timestamp, it cannot be guessed).
 - Downloads: always `curl --max-time 40 --retry 2` and PIL-verify; a hung curl truncated one image. zsh does not word-split `$VAR`: pass frame lists literally to node scripts.
 - gpt_image_2_6 sometimes darkens corners of "worried/uncertain" scenes (i47): say "no grey or dark clouds, no dark corners, no vignette" and QC the contact sheet.
+
+## Pasted-script builds, 2026-11-16 (yacht, zombie)
+- Joe's pasted ChatGPT scripts are shorter than their timestamps: Grady reads them in ~75% of the stated time (yacht 378 words = 2:50, zombie ~3:48 vs "5:00"). Verbatim rule kept, no padding; warn Joe up front that the video will run short, or ask for a longer script.
+- Image cost ran ~1 cr each for yacht (36 cr total) vs ~0.27 for cattle/zombie; sprite sheets must be requested on flat magenta (two came back on dark gradients, redone).
+- Parallel builds work with prefixed files (yacht_*, zombie_*); render_pending.sh gets an additive case each. Subagents hand back mid-render: finish QC from the main session.
+- Flow thumbnail prompts (2026-11-17): the yacht style (glossy digital painting, ONE giant close-up face, simple background, 'no text', add text after) beat the zombie v1 (flat 2D thick outlines, small faces, text baked in). Use the yacht recipe by default for thumbnails.

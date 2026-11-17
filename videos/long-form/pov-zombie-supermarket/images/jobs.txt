@@ -1,0 +1,8 @@
+sheetA 53b69b8f
+sheetB 4fc5e795
+sheetC 8d0164ee
+sheetD 038bf0b6
+bgAisle 43d37a30
+bgEntrance 54ff0fdb
+bgStorage f212cafd
+bgDim 9b6c7748

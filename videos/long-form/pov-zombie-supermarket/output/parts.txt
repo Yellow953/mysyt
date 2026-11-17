@@ -1,0 +1,6 @@
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z0.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z1.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z2.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z3.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z4.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/pov-zombie-supermarket/output/chunks/z5.mp4'

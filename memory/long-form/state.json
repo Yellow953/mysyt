@@ -1,6 +1,6 @@
 {
  "_readme": "Source of truth for the long-form track. Read this first when Joe says 'continue the long-form project'. Update on every stage change. Approvals are recorded ONLY from Joe's chat messages, with date and the exact thing approved.",
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "track": {
   "status": "built-awaiting-first-research",
   "decided": [
@@ -386,9 +386,45 @@
     }
    ],
    "files": "videos/long-form/cattle-rancher-levels/"
+  },
+  {
+   "slug": "pov-yacht-crush",
+   "pillar": 1,
+   "idea": "POV: stuck alone on a yacht with your crush (Joe's pasted script)",
+   "stage": "5_draft_rendered_awaiting_joe",
+   "gate_status": "Draft 2:50 done, 36.35 cr spent (cap 38). Joe runs: bash scripts/long-form/render_pending.sh yacht, picks Flow thumbnail. No upload.",
+   "approvals": [
+    {
+     "date": "2026-11-16",
+     "what": "Joe pasted the script for a new long-form video (no production/credit approval yet)."
+    },
+    {
+     "date": "2026-11-16",
+     "what": "Joe: 'okay go ahead' (38 credit cap, library music, verbatim)"
+    }
+   ],
+   "files": "videos/long-form/pov-yacht-crush/"
+  },
+  {
+   "slug": "pov-zombie-supermarket",
+   "pillar": 1,
+   "idea": "POV: trapped in a supermarket with your crush during a zombie apocalypse (Joe's pasted script)",
+   "stage": "5_draft_rendered_awaiting_joe",
+   "gate_status": "Draft QC done (3:48, ~24 cr, cap 38). Joe runs: bash scripts/long-form/render_pending.sh zombie; picks Flow thumbnail. No upload.",
+   "approvals": [
+    {
+     "date": "2026-11-16",
+     "what": "Joe asked for a 2nd video in parallel (zombie supermarket). No credit cap approved yet."
+    },
+    {
+     "date": "2026-11-16",
+     "what": "Joe: 'okay go ahead' with 38-credit cap and separate music track"
+    }
+   ],
+   "files": "videos/long-form/pov-zombie-supermarket/"
   }
  ],
- "next_action": "Cattle video: Joe runs upload_lf.py (private), then schedules in Studio. Island/boss/money as before.",
+ "next_action": "Yacht + zombie: Joe runs render_pending.sh yacht / zombie, picks Flow thumbnails, then upload approval. Cattle upload as before.",
  "gate_status": {
   "1_discovery": "2026-11-12: Joe picked #2 (money what-if) and #3 (boss POV); rejected #1 (no 'worst deal in history' stuff)."
  },

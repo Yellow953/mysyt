@@ -1,0 +1,8 @@
+# Google Flow thumbnail prompts (manual; no credits spent). Aspect 16:9, upload the mascot reference (assets/character/mr-yellow-scarf-reference.png) with each.
+Both show only what is in the video: the mascot, the woman (coral-red swimsuit, turquoise sarong, long wavy auburn hair) and a bright yacht deck. Clear at phone size, max 2-3 words if you add text later (suggest "ALONE?!" or "STUCK WITH HER").
+
+## A - Shocked close-up
+Expressive modern cartoon illustration, glossy digital painting, vivid saturated colors. Giant close-up of Mr. Yellow Scarf (plain white round head, black dot eyes, thin black stick arms, bright yellow scarf, the only yellow in the picture) on the left, eyes huge and frozen, deep red blush, one sweat drop, mouth open. On the right, a clearly adult, stylish, confident cartoon woman with long wavy auburn hair, a coral-red swimsuit and a turquoise sarong, leaning in with a playful smile, tasteful and cheerful. Behind them a bright white luxury yacht deck, sparkling turquoise ocean to the horizon, vivid blue sky with soft clouds, small pink hearts floating. Bright daylight, no dark areas, thin dark outlines, 16:9, no text, no letters.
+
+## B - Alone on the deck
+Same style. Wide thumbnail: a huge luxury white yacht in the middle of an endless bright turquoise ocean (no land anywhere), blue sky. On the sun deck, Mr. Yellow Scarf (white round head, dot eyes, stick limbs, yellow scarf only yellow) blushing and frozen stiff with a sweat drop, while the same stylish adult woman (auburn wavy hair, coral swimsuit, turquoise sarong) waves at him with a big warm smile; a pink heart above them. Bold, simple composition, high contrast, bright daylight, 16:9, no text, no letters.

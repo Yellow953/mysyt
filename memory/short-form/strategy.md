@@ -274,3 +274,6 @@ Next: Joe checks the Starbucks Short (0 views in 6 d) for restrictions; re-pull 
 
 ## 2026-11-15 update
 Funnel Short for the island long-form built (videos/short-form/island-funnel-short, 50.9 s, 9:16, zero image credits: reused long-form art). Joe renders: `bash scripts/long-form/render_pending.sh islandshort`. Post 1-2 days after the long-form is live.
+
+## 2026-11-16: Studio check, long-form switch proposed (Joe)
+Joe: Shorts max ~1K views; proposes publishing the 4 private long-forms (cattle, island, money, boss) and switching to long-form. Studio content list: the 4 already-public long-forms have 4-8 views each after 6-11 days (McDonald's 6, Emu 7, Medieval privacy 8, Seawater 4), i.e. no better than Shorts floor. The 4 private ones are the POV/levels/what-if formats the competitors win with, so publishing them is a free test. Recommendation given: publish staggered 1 per 2 days (island last: tier-2 age-restriction risk), keep a thin Shorts lane (1/day max, funnel), judge after ~7 days on impressions, CTR, avg view duration. Decision pending Joe. Not yet pulled: per-video impressions/CTR of long-forms.

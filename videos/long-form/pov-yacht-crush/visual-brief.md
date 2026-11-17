@@ -1,0 +1,7 @@
+# Visual brief: pov-yacht-crush (tier 1-2, romantic POV, adult, non-explicit)
+- Style v4 bright expressive cartoon (SKILL.md style block). Everything bright daylight, saturated; "night" = bright pastel pink/orange/lilac twilight with stars, "storm" = bright lounge with light-grey cloudy window (no-dark / no-flash rules). Captions are the only on-screen text; no readable text in art.
+- Mascot ("you") = stick figure with the yellow scarf, tag <<<aa6661ee-d997-489c-9e1b-9b9adbed8c94>>>. Scarf is the only yellow.
+- The crush (Joe 2026-11-16 brief): clearly adult, stylish confident cartoon woman, long wavy auburn hair, big friendly eyes, rosy cheeks, coral-red one-piece swimsuit + turquoise sarong at the hips, orange-gold bracelet. Tier 1-2: romantic, cheeky at most; no emphasis on anatomy, no revealing poses, no lying/bed poses (bedroom shown only through a doorway). This is milder than the island women's glamorous look on purpose.
+- 50/50: 13 ILL scenes (whole illustrations with camera crops) and 17 CUT scenes (painted bg + moving sprites). Table = SCENES in remotion/src/YachtLF.tsx.
+- Art: sheets M (mascot extra poses), W (woman poses), P (props); bgDeck, bgPool, bgBridge, bgLounge, bgStar; ILL i01 i02 i07 i13 i20 i21 i22 i25 i31 i33 i35 i36 i37. Mascot base poses reused from mnylf (m_cheer, m_deadpan, m_point, m_shrug, m_walk, m_worry).
+- Thumbnail: only what is in the video (mascot + her + bright yacht deck). Flow prompts in thumbnail/flow-prompts.md.

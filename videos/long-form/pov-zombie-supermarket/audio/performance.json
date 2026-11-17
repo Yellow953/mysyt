@@ -1,0 +1,359 @@
+[
+ {
+  "text": "You're shopping at a supermarket with your crush.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "01.mp3",
+  "row": 1
+ },
+ {
+  "text": "Everything seems normal until people suddenly start screaming.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "02.mp3",
+  "row": 2
+ },
+ {
+  "text": "A man crashes into the entrance, covered in blood.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "03.mp3",
+  "row": 3
+ },
+ {
+  "text": "Then you see it. He's not injured.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "04.mp3",
+  "row": 4
+ },
+ {
+  "text": "He's eating someone.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "05.mp3",
+  "row": 5
+ },
+ {
+  "text": "Within seconds, people start running in every direction.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "06.mp3",
+  "row": 6
+ },
+ {
+  "text": "You grab your crush's hand and run.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "07.mp3",
+  "row": 7
+ },
+ {
+  "text": "The supermarket doors lock behind you.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "08.mp3",
+  "row": 8
+ },
+ {
+  "text": "And suddenly, you're trapped inside with hundreds of zombies outside.",
+  "tag": "wry",
+  "pause": 0.4,
+  "clip": "09.mp3",
+  "row": 9
+ },
+ {
+  "text": "You rush toward the storage area.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "10.mp3",
+  "row": 10
+ },
+ {
+  "text": "You grab bottled water, canned food, batteries, and anything that could help you survive.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "11.mp3",
+  "row": 11
+ },
+ {
+  "text": "Your crush is terrified. You try to reassure her, even though you're just as scared.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "12.mp3",
+  "row": 12
+ },
+ {
+  "text": "You push shopping carts against the doors and block the windows with shelves.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "13.mp3",
+  "row": 13
+ },
+ {
+  "text": "For now, you're safe.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "14.mp3",
+  "row": 14
+ },
+ {
+  "text": "But the supermarket lights suddenly go out.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "15.mp3",
+  "row": 15
+ },
+ {
+  "text": "A few hours pass. You realize the supermarket is actually the perfect survival base.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "16.mp3",
+  "row": 16
+ },
+ {
+  "text": "There's enough food for weeks, a pharmacy, clothes, and even a small storage room where you can sleep.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "17.mp3",
+  "row": 17
+ },
+ {
+  "text": "You build barricades, collect supplies, and create a sleeping area.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "18.mp3",
+  "row": 18
+ },
+ {
+  "text": "Your crush starts feeling more comfortable around you. You even manage to make her laugh during the apocalypse.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "19.mp3",
+  "row": 19
+ },
+ {
+  "text": "For a moment, it almost feels like you're on a strange camping trip.",
+  "tag": "wry",
+  "pause": 0.4,
+  "clip": "20.mp3",
+  "row": 20
+ },
+ {
+  "text": "Then you hear glass breaking. One zombie has found its way inside.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "21.mp3",
+  "row": 21
+ },
+ {
+  "text": "You grab a metal baseball bat from the sporting goods section.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "22.mp3",
+  "row": 22
+ },
+ {
+  "text": "Your crush hides behind a shelf. You slowly move through the aisles.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "23.mp3",
+  "row": 23
+ },
+ {
+  "text": "Then another zombie appears. And another.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "24.mp3",
+  "row": 24
+ },
+ {
+  "text": "Suddenly, they're everywhere.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "25.mp3",
+  "row": 25
+ },
+ {
+  "text": "You run toward the storage room, but your crush trips.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "26.mp3",
+  "row": 26
+ },
+ {
+  "text": "You turn around, grab her hand, and pull her to safety just before the zombies reach you.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "27.mp3",
+  "row": 27
+ },
+ {
+  "text": "You slam the door shut.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "28.mp3",
+  "row": 28
+ },
+ {
+  "text": "But there's a problem. Your barricade won't hold forever.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "29.mp3",
+  "row": 29
+ },
+ {
+  "text": "Three days have passed. Food isn't the problem. Water and electricity are.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "30.mp3",
+  "row": 30
+ },
+ {
+  "text": "The supermarket's emergency generator is running low on fuel.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "31.mp3",
+  "row": 31
+ },
+ {
+  "text": "You discover a maintenance room with a map showing an emergency exit behind the loading area.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "32.mp3",
+  "row": 32
+ },
+ {
+  "text": "But reaching it means crossing the entire supermarket.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "33.mp3",
+  "row": 33
+ },
+ {
+  "text": "You prepare backpacks with food, water, medicine, and flashlights.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "34.mp3",
+  "row": 34
+ },
+ {
+  "text": "Your crush looks at you and says: Promise me we're getting out of here together.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "35.mp3",
+  "row": 35
+ },
+ {
+  "text": "You promise. Even though you have no idea if you can keep it.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "36.mp3",
+  "row": 36
+ },
+ {
+  "text": "You finally make your move. You sneak through the aisles.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "37.mp3",
+  "row": 37
+ },
+ {
+  "text": "Every sound makes you freeze.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "38.mp3",
+  "row": 38
+ },
+ {
+  "text": "You reach the loading area. But the emergency exit is blocked.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "39.mp3",
+  "row": 39
+ },
+ {
+  "text": "Then you hear growling behind you. A massive group of zombies is approaching.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "40.mp3",
+  "row": 40
+ },
+ {
+  "text": "You push a shopping cart into their path and create enough time to escape through a side door.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "41.mp3",
+  "row": 41
+ },
+ {
+  "text": "You and your crush sprint into the parking lot.",
+  "tag": "urgent",
+  "pause": 0.4,
+  "clip": "42.mp3",
+  "row": 42
+ },
+ {
+  "text": "You find an abandoned delivery van. You climb inside, start the engine, and drive away.",
+  "tag": "dry",
+  "pause": 0.4,
+  "clip": "43.mp3",
+  "row": 43
+ },
+ {
+  "text": "For the first time in days, you're outside. But the city is completely destroyed.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "44.mp3",
+  "row": 44
+ },
+ {
+  "text": "You drive toward the countryside. Your crush looks at you and starts laughing.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "45.mp3",
+  "row": 45
+ },
+ {
+  "text": "You ask what's so funny. She says: Of all the people I could've been trapped with during the zombie apocalypse... I'm actually glad it was you.",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "46.mp3",
+  "row": 46
+ },
+ {
+  "text": "You smile. Then you look at the road ahead.",
+  "tag": "warm",
+  "pause": 0.4,
+  "clip": "47.mp3",
+  "row": 47
+ },
+ {
+  "text": "A hundred zombies are standing in the middle of it.",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "48.mp3",
+  "row": 48
+ },
+ {
+  "text": "You slowly stop the van. And realize...",
+  "tag": "low",
+  "pause": 0.4,
+  "clip": "49.mp3",
+  "row": 49
+ },
+ {
+  "text": "This was only the beginning.",
+  "tag": "wry",
+  "pause": 0.4,
+  "clip": "50.mp3",
+  "row": 50
+ },
+ {
+  "text": "TO BE CONTINUED?",
+  "tag": "curious",
+  "pause": 0.4,
+  "clip": "51.mp3",
+  "row": 51
+ }
+]
