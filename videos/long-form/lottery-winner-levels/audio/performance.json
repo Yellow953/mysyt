@@ -1,0 +1,380 @@
+[
+ {
+  "text": "You are holding a piece of paper.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "01.mp3",
+  "row": 1
+ },
+ {
+  "text": "Say it's worth four hundred million dollars.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "02.mp3",
+  "row": 2
+ },
+ {
+  "text": "You checked the numbers three times. You checked them again in the bathroom, with the door locked.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "03.mp3",
+  "row": 3
+ },
+ {
+  "text": "The odds of this, by most accounts, are about one in three hundred million.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "04.mp3",
+  "row": 4
+ },
+ {
+  "text": "So congratulations. You have just beaten the universe.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "05.mp3",
+  "row": 5
+ },
+ {
+  "text": "Now comes the hard part. Because the paper is the easy part.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "06.mp3",
+  "row": 6
+ },
+ {
+  "text": "The first rule of your new life is simple. Do not lose the ticket.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "07.mp3",
+  "row": 7
+ },
+ {
+  "text": "You put it in a book. Then you worry about the book. So you move it to the freezer. Then you remember freezers have fires.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "08.mp3",
+  "row": 8
+ },
+ {
+  "text": "You sign the back, in your best handwriting, with a pen that you test twice.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "09.mp3",
+  "row": 9
+ },
+ {
+  "text": "You have not told anyone. Your face has told everyone.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "10.mp3",
+  "row": 10
+ },
+ {
+  "text": "Your dog looks at you strangely. Even he knows something is different.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "11.mp3",
+  "row": 11
+ },
+ {
+  "text": "And you still have to go to work tomorrow, because you can't quit a job with a piece of paper.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "12.mp3",
+  "row": 12
+ },
+ {
+  "text": "Next, the lottery office.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "13.mp3",
+  "row": 13
+ },
+ {
+  "text": "They tell you the headline number isn't what you get. If you take the lump sum, it's roughly half of the advertised jackpot. Then taxes take a big bite out of that.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "14.mp3",
+  "row": 14
+ },
+ {
+  "text": "Say you walk out with a bit over a hundred million.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "15.mp3",
+  "row": 15
+ },
+ {
+  "text": "You stand on the sidewalk, unsure whether to cry or do the math again.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "16.mp3",
+  "row": 16
+ },
+ {
+  "text": "Then you remember that in some places, winners can't stay anonymous. Your name will be public.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "17.mp3",
+  "row": 17
+ },
+ {
+  "text": "Which is the moment the phone starts to ring.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "18.mp3",
+  "row": 18
+ },
+ {
+  "text": "It's your cousin. The one you haven't spoken to in nine years.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "19.mp3",
+  "row": 19
+ },
+ {
+  "text": "He has a business idea. A food truck. Shaped like a boat.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "20.mp3",
+  "row": 20
+ },
+ {
+  "text": "Then it's a friend from school. Then someone who says they went to school with you, and you've never seen them in your life.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "21.mp3",
+  "row": 21
+ },
+ {
+  "text": "By the end of the week, you have a hundred and forty voicemails, and eleven of them are crying.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "22.mp3",
+  "row": 22
+ },
+ {
+  "text": "You say yes to the first one, because you feel guilty.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "23.mp3",
+  "row": 23
+ },
+ {
+  "text": "You say no to the next ten, because you feel guilty.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "24.mp3",
+  "row": 24
+ },
+ {
+  "text": "You are rich, and somehow, you have never felt so poor in friends.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "25.mp3",
+  "row": 25
+ },
+ {
+  "text": "Okay. Time to have a little fun.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "26.mp3",
+  "row": 26
+ },
+ {
+  "text": "You buy a house. A bigger house. A house with a room that's just for coats.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "27.mp3",
+  "row": 27
+ },
+ {
+  "text": "You buy a car that has a name. You buy a watch that costs more than your old car.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "28.mp3",
+  "row": 28
+ },
+ {
+  "text": "Then you buy everyone dinner. Everyone. At a restaurant that has no prices on the menu.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "29.mp3",
+  "row": 29
+ },
+ {
+  "text": "It is the best month of your life.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "30.mp3",
+  "row": 30
+ },
+ {
+  "text": "But quietly, somewhere in your head, a small voice asks one question. What does this cost per year to keep?",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "31.mp3",
+  "row": 31
+ },
+ {
+  "text": "You tell the voice to be quiet. It is not quiet.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "32.mp3",
+  "row": 32
+ },
+ {
+  "text": "Here is something researchers found. A study of lottery winners in Florida looked at who went bankrupt, and when.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "33.mp3",
+  "row": 33
+ },
+ {
+  "text": "Mid-sized winners were actually less likely to go bankrupt right after winning. But three to five years later, they were about fifty percent more likely than the smallest winners to file.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "34.mp3",
+  "row": 34
+ },
+ {
+  "text": "And within five years, even the big winners were just as likely to file as people who won almost nothing.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "35.mp3",
+  "row": 35
+ },
+ {
+  "text": "The money didn't prevent the problem. It postponed it.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "36.mp3",
+  "row": 36
+ },
+ {
+  "text": "You are on year three. You own four houses. You are paying for two of them in ways you don't fully understand.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "37.mp3",
+  "row": 37
+ },
+ {
+  "text": "Someone you trusted has been taking a very generous fee.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "38.mp3",
+  "row": 38
+ },
+ {
+  "text": "And your cousin's boat-shaped food truck has sunk. Twice.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "39.mp3",
+  "row": 39
+ },
+ {
+  "text": "So you do something unusual.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "40.mp3",
+  "row": 40
+ },
+ {
+  "text": "You sit down at the kitchen table, with a real financial planner, and you ask the only question that matters.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "41.mp3",
+  "row": 41
+ },
+ {
+  "text": "What would happen if I did nothing?",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "42.mp3",
+  "row": 42
+ },
+ {
+  "text": "The planner nods slowly. The way people nod when they've been waiting years for someone to ask.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "43.mp3",
+  "row": 43
+ },
+ {
+  "text": "You sell two of the houses. You say sorry to a few people. You stop saying yes to everyone.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "44.mp3",
+  "row": 44
+ },
+ {
+  "text": "You put the rest into boring things. The kind of boring that doesn't come with a food truck.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "45.mp3",
+  "row": 45
+ },
+ {
+  "text": "It feels like losing. It feels like losing, and it's the best decision you've made since you signed the back of the ticket.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "46.mp3",
+  "row": 46
+ },
+ {
+  "text": "Ten years later, you wake up on an ordinary Tuesday.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "47.mp3",
+  "row": 47
+ },
+ {
+  "text": "You live in one house. You drive one car, an old one that you refuse to replace.",
+  "tag": "dry",
+  "pause": 0.45,
+  "clip": "48.mp3",
+  "row": 48
+ },
+ {
+  "text": "Your life is almost completely normal. The only thing that changed is that you stopped worrying about Tuesday.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "49.mp3",
+  "row": 49
+ },
+ {
+  "text": "On the wall in your kitchen, there's a frame. And inside it, a piece of paper. The ticket.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "50.mp3",
+  "row": 50
+ },
+ {
+  "text": "It is worth nothing now. It was never the point.",
+  "tag": "low",
+  "pause": 0.45,
+  "clip": "51.mp3",
+  "row": 51
+ },
+ {
+  "text": "The point was the thing it let you stop doing, which is wondering how you'll pay for everything.",
+  "tag": "warm",
+  "pause": 0.45,
+  "clip": "52.mp3",
+  "row": 52
+ },
+ {
+  "text": "The study didn't ask who was happiest. But the ones who didn't crash seem to have done one thing right. They kept their Tuesday.",
+  "tag": "curious",
+  "pause": 0.45,
+  "clip": "53.mp3",
+  "row": 53
+ },
+ {
+  "text": "Would you take the money, or keep your Tuesday? Tell us in the comments. And subscribe, because we've got more lives to try on.",
+  "tag": "wry",
+  "pause": 0.45,
+  "clip": "54.mp3",
+  "row": 54
+ }
+]

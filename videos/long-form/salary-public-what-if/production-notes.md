@@ -1,0 +1,11 @@
+# Production notes: salary-public-what-if (2026-11-18)
+- Script: Joe's pasted script VERBATIM (44 voice clips, 1140 words as read, money amounts written as spoken words in the clip text so Grady says them naturally; check_clips: only numeral-spelling diffs). Voice 573.7 s, timeline total 575.9 s (9:36, longer than the 7.5-8 min estimate; not trimmed, as approved). Data: scripts/long-form/sal_data.py
+- Number display (no digits anywhere): salary = floating stack of orange-gold coins above each head (taller = higher pay, single coin = low, empty dotted circle = zero) with a small orange down arrow. In CUT scenes the stacks are drawn in Remotion SVG (and can change count mid-scene, e.g. managers cutting their pay); in ILL images they are in the art.
+- Plan: 18 whole illustrations (ILL rows 1,3,5,7,8,10,13,15,18,19,23,25,27,29,31,33,37,39; crops every ~3.6 s) + 26 CUT rows (painted background + moving sprites; rows over ~6 s are split into extra camera shots). Tables in remotion/src/SalLF.tsx.
+- Sprites: 24 from 3 magenta sheets (mascot poses / workplace people / family+other people), meta remotion/src/salMeta.json, assets remotion/public/sal/. Backgrounds: street, office, home, restaurant, park.
+- Yellow rule: 5 illustrations were redone because of blond hair / sun (i19, i25, i27, i29, i31) and i23 (yellow hair).
+- Audio: scripts/long-form/mix_sal.py <track> <out> -> audio/<out>.wav (-14 LUFS, voice-ducked). Music: library only (generated music quoted 5.8 cr for 90 s, 37 cr for full length, over the 4 cr cap). optA Santa Clarita (default, copied to mix.wav, -13.9 LUFS), optB Keep It Movin', optC Bright Side. Switch: cp audio/optB.wav audio/mix.wav
+- Timeline: scripts/long-form/timeline_sal.py -> remotion/src/salTimeline.json
+- Render (Joe): `bash scripts/long-form/render_pending.sh sal` (9 chunks of 3840 frames at 60 fps, resumable) -> output/salary-public-what-if.mp4. NOT rendered yet.
+- Stills check: `cd remotion && node sal_stills.mjs <outdir> <frames at 30fps...>` (checked 20+ frames).
+- Weak spots: video runs 9:36; image downloads from the CDN were very slow; row 17 sprites walk off right edge on purpose; coin stacks in ILL images vary in count from the narration amounts (visual cue only).

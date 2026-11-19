@@ -1,0 +1,13 @@
+# Production notes: lottery-winner-levels (2026-11-18)
+- Script: script.md VERBATIM (54 clips, 814 words, voice 342.9 s, total 345.1 s = 5:45). Data: scripts/long-form/lot_data.py
+- Voice: Grady, text2speech_v2/elevenlabs, 54 clips in audio/clips (check_clips: 1 flag = "$400 million" spelled as digits, fine) -> build_voice.py -> scripts/long-form/timeline_lot.py -> remotion/src/lotTimeline.json
+- Visual plan (about 50/50): 26 CUT rows (painted bg + moving sprites, long rows split into 2-3 shots) and 28 ILL rows (31 whole illustrations, 3-4 crops per row). Plan = ILL / CUT tables in remotion/src/LotLF.tsx.
+- Through-line object = THE TICKET: paper in hand (i01, i03) -> freezer bag (i08) -> signed (i09) -> sprite ticket in CUT rows 6, 7, 12, 46 -> framed on the wall (i50, rows 51, 54).
+- Sprites: 24 from 3 magenta sheets (mascot 8 poses / people+dog 8 / props 8), meta remotion/src/lotMeta.json, public/lot/. Backgrounds: bgKitchen, bgStreet, bgOffice, bgLawn, bgRest, bgHouse.
+- Image model gpt_image_2_6 (0.25 cr each, cheaper than gpt_image_2 at 0.5).
+- Rule checks: all images bright (mean luma >= 137), no overlays, no on-screen text except captions, scarf the only yellow (money green, coins/watch silver, ticket pale blue), no numbers on ticket (dots + star). ILL crops limited to zoom 1.0-1.2 (not the 1.4 of older videos).
+- Audio: scripts/long-form/mix_lot.py <track> <out> -> audio/<out>.wav (-14.2 LUFS), ducked music + soft whooshes + 20 beat SFX. mix.wav = optA (Santa Clarita, least-used library track, 1 prior use). optB = Sunshine Cantina (copy audio/optB.wav to audio/mix.wav to switch). No music credits (library tracks reused; logged in assets/music/used.json).
+- Render (Joe, NOT run by me): `bash scripts/long-form/render_pending.sh lot` (6 chunks of 3451 frames, 60 fps, resumable) -> videos/long-form/lottery-winner-levels/output/lottery-winner-levels.mp4
+- Stills check: `cd remotion && node lot_stills.mjs <outdir> <frames at 30fps>`
+- Problems: Higgsfield rate limits (429, retried once each); one image submit timed out (possible duplicate charge, <=1 cr); downloads were very slow (shared network), re-fetched with curl resume.
+- Weak spots: row 33 (scientists) and rows 14/17 side characters are not the mascot (intended: study/clerk/crowd). Sun glare in some illustrations is pale yellow-white.

@@ -112,5 +112,27 @@ case "${1:-}" in
     done
     finish $D pov-zombie-supermarket "${P[@]}"
     ;;
-  *) echo "usage: $0 money2|boss2|island|islandshort|cattle|yacht"; exit 1;;
+  sal)
+    # salary public what-if (Joe's script verbatim): composition Sal60, 34555 frames at 60 fps in 9 chunks of 3840
+    D=$ROOT/videos/long-form/salary-public-what-if; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=9; for i in 0 1 2 3 4 5 6 7 8; do
+      CUR=$((i+1)); a=$((i*3840)); b=$(((i+1)*3840-1)); [ $i -eq 8 ] && b=34554
+      render_chunk Sal60 src/salIndex.ts $O/s$i.mp4 $a $b || exit 1
+      P+=("$O/s$i.mp4")
+    done
+    finish $D salary-public-what-if "${P[@]}"
+    ;;
+  lot)
+    # lottery winner levels (script verbatim): composition Lot60, 20706 frames at 60 fps in 6 chunks of 3451
+    D=$ROOT/videos/long-form/lottery-winner-levels; O=$D/output/chunks; mkdir -p $O
+    P=()
+    TOTAL=6; for i in 0 1 2 3 4 5; do
+      CUR=$((i+1)); a=$((i*3451)); b=$(((i+1)*3451-1)); [ $i -eq 5 ] && b=20705
+      render_chunk Lot60 src/lotIndex.ts $O/l$i.mp4 $a $b || exit 1
+      P+=("$O/l$i.mp4")
+    done
+    finish $D lottery-winner-levels "${P[@]}"
+    ;;
+  *) echo "usage: $0 money2|boss2|island|islandshort|cattle|yacht|zombie|sal"; exit 1;;
 esac

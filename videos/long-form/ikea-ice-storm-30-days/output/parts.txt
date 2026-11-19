@@ -1,0 +1,6 @@
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c0.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c1.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c2.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c3.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c4.mp4'
+file '/Users/yellow/Projects/MrYellowScarf/videos/long-form/ikea-ice-storm-30-days/output/chunks/c5.mp4'

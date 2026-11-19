@@ -25,6 +25,7 @@ Never end a session with memory out of date.
 |---|---|
 | `setup` | First run, or a tool is missing |
 | `viral-research` | Stage A Discover: refreshing `memory/shared/competitors.md` (competitor channels, proven videos, why they worked) |
+| `demand-research` | Off-YouTube trend lane (added 2026-11-18): live web/Reddit/Trends research for what's in demand now, paired with proven title frameworks. Extra Stage D candidates only; never replaces `viral-research`. |
 | `script-writer` | Stages B-H: ideas from proven concepts → Joe picks → research → outline → Joe OKs → script + self-review → Joe OKs → scenes.json |
 | `video-producer` | Images (Higgsfield), local voice, local edit into a final video |
 | `thumbnail-maker` | Thumbnails and A/B variants |

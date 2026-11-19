@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+"""Salary public what-if (Joe's script VERBATIM, grouped into voice clips; money amounts written as spoken words). Writes audio/performance.json + prompts.json.
+Run: .venv/bin/python scripts/long-form/sal_data.py"""
+import json, os
+P = "/Users/yellow/Projects/MrYellowScarf/videos/long-form/salary-public-what-if/"
+ROWS = [
+("curious","Imagine waking up tomorrow and seeing a number floating above every person's head."),
+("dry","Your neighbor walks past you. Three thousand two hundred dollars per month. The delivery driver? One thousand eight hundred dollars."),
+("curious","The guy driving a Ferrari? Forty-five thousand dollars. And your boss? Twenty-two thousand dollars."),
+("low","Nobody can hide it. Nobody can turn it off. And everyone can see everyone else's salary."),
+("warm","At first, people think it's amazing. Finally, everyone knows who's being underpaid."),
+("low","But within hours, the entire world starts acting differently. Because when you can see exactly how much everyone earns... People start treating each other very differently."),
+("dry","The first morning is absolute chaos. People walk through the streets staring at the numbers above everyone's heads."),
+("curious","A construction worker earning two thousand five hundred dollars sees a businessman earning eighteen thousand. A waiter discovers that the customer complaining about a five dollar tip makes thirty thousand dollars a month."),
+("wry","And a millionaire walks into a supermarket, only to discover that the cashier makes more than his personal assistant."),
+("dry","Everyone starts comparing. At a family gathering, one uncle discovers that his nephew earns twice as much as him. Suddenly, the nephew is everyone's favorite person."),
+("low","Meanwhile, a woman discovers that her husband has been earning twelve thousand dollars a month while telling her they couldn't afford a vacation. Dinner is about to get very uncomfortable."),
+("curious","And then people start noticing something even stranger. The numbers don't always match what they expected. Some people dressed in expensive suits earn very little. Some people wearing ordinary clothes make hundreds of thousands. For the first time, appearances become almost meaningless."),
+("dry","By the next morning, workplaces are completely different. Employees walk into offices and immediately look at the numbers above their coworkers."),
+("curious","A junior employee discovers that he earns three thousand dollars while the new employee sitting beside him earns four thousand five hundred."),
+("dry","A cleaner discovers that the CEO makes forty thousand dollars a month. And a warehouse worker realizes that his manager earns almost four times his salary."),
+("low","People start demanding answers. Some companies try explaining that salaries depend on experience, responsibilities, and performance. But employees aren't convinced."),
+("dry","Workers organize protests. Entire departments threaten to quit. In some companies, managers voluntarily reduce their own salaries to increase employee wages."),
+("low","In others, business owners refuse to change anything. And their best employees start leaving."),
+("warm","But there's another side to this. A talented employee who was being underpaid finally discovers their worth."),
+("dry","They walk into their boss's office and demand a raise. For once, the boss can't pretend the difference doesn't exist."),
+("curious","Outside the workplace, relationships start changing too. Imagine going on a first date. You sit down, look across the table, and see nine hundred dollars floating above your date's head. You make five thousand dollars."),
+("wry","Suddenly, you wonder whether they like you... Or your lifestyle."),
+("warm","Some couples become closer because they finally understand each other's financial situation. Others start fighting."),
+("dry","A husband discovers that his wife earns twice as much as him. A girlfriend realizes her boyfriend has been lying about his income."),
+("warm","Parents discover that their children earn more than they ever did. And some families become surprisingly supportive. But others become jealous."),
+("dry","At school, children start comparing their parents' salaries. A student whose father earns one hundred thousand dollars a month becomes popular. Another child whose parents struggle financially gets mocked."),
+("wry","Even friendships become uncomfortable. Because suddenly, every invitation comes with an unspoken question: \"If you earn that much, why aren't you paying?\""),
+("curious","A few weeks pass. The rich discover that their lives are no longer as private as they used to be. A billionaire walks into a restaurant. Everyone sees the enormous number above his head."),
+("dry","Some people admire him. Others ask him for money. And some become angry simply because he earns more in a month than they will earn in their entire lives."),
+("warm","Meanwhile, low-income workers begin receiving more respect in certain places. People realize that the delivery driver working twelve hours a day earns less than the person sitting comfortably in an office."),
+("dry","Some customers start tipping more. Others feel embarrassed when they realize they earn less than the people serving them."),
+("low","But not everyone becomes kinder. Some wealthy people avoid public places. Some people start targeting high earners. And others become obsessed with finding out how their neighbors make so much money."),
+("wry","The world becomes more transparent. But not necessarily more fair."),
+("curious","Eventually, society adapts. Restaurants introduce VIP areas for people earning above a certain amount."),
+("dry","Luxury apartment buildings start advertising the average salaries of their residents. Some schools become obsessed with the income of students' parents. And dating becomes even more competitive."),
+("dry","People begin choosing careers based on the numbers they want floating above their heads. A young artist abandons painting to become an investment banker."),
+("low","A teacher quits because she can't stand earning less than her former students. And a teenager becomes obsessed with making more money than his parents."),
+("curious","But something unexpected happens. Some people begin deliberately taking lower-paying jobs. A wealthy businessman quits his stressful job to open a small bakery. A lawyer becomes a teacher. A millionaire decides to work with animals."),
+("warm","They know they'll earn less. But they no longer care. Because they've discovered that the biggest salary doesn't necessarily mean the best life."),
+("curious","Five years later, the world has completely changed. Companies are forced to rethink how they pay employees."),
+("dry","Some industries increase wages because workers finally have the information to negotiate. But some businesses automate jobs to reduce salary expenses. The demand for highly paid skills increases. And people become more aware of income inequality."),
+("low","Yet a strange new problem appears. People begin judging human value by a number above someone's head."),
+("dry","A surgeon earning fifteen thousand dollars is treated like a celebrity. A teacher earning two thousand five hundred dollars is treated like an ordinary person."),
+("low","A mother staying home to raise her children has no salary displayed at all. And a retired grandfather who spent his entire life building a business? His number reads zero."),
+("warm","People start forgetting that some of the most important work in the world doesn't come with a paycheck. And that becomes the biggest lesson of this new world."),
+("curious","So, would making everyone's salary visible actually make the world better? Maybe workers would finally receive fair pay. Maybe companies would become more honest."),
+("low","But maybe friendships would become competitions, families would become jealous, and strangers would judge each other before even saying hello."),
+("curious","Because imagine walking down the street and seeing everyone's salary... Would you respect people more? Would you treat them differently?"),
+("warm","Or would you finally realize that a person's salary tells you almost nothing about who they really are?"),
+("curious","Let me know what you think in the comments. And subscribe to MrYellowScarf for more crazy what-if scenarios."),
+]
+MERGE = [(4,5),(18,19),(22,23),(33,34),(35,36),(40,41)]
+_m = {a: b for a, b in MERGE}; _skip = {b for _, b in MERGE}
+_new = []
+for _i, (_g, _t) in enumerate(ROWS, 1):
+    if _i in _skip: continue
+    if _i in _m: _t = _t + " " + ROWS[_m[_i] - 1][1]
+    _new.append((_g, _t))
+ROWS = _new
+if __name__ == "__main__":
+    os.makedirs(P + "audio/clips", exist_ok=True)
+    perf = [{"text": t, "tag": g, "pause": 0.45, "clip": f"{i:02d}.mp3", "row": i} for i, (g, t) in enumerate(ROWS, 1)]
+    json.dump(perf, open(P + "audio/performance.json", "w"), indent=1)
+    json.dump({str(i): f"[{g}] {t}" for i, (g, t) in enumerate(ROWS, 1)}, open(P + "audio/prompts.json", "w"), indent=1)
+    print(len(ROWS), "rows", sum(len(t.split()) for _, t in ROWS), "words", sum(len(t) for _, t in ROWS), "chars")

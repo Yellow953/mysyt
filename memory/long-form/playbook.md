@@ -128,3 +128,8 @@ Open on a paradox, not an intro ("everything still exists, so why would the worl
 - Image cost ran ~1 cr each for yacht (36 cr total) vs ~0.27 for cattle/zombie; sprite sheets must be requested on flat magenta (two came back on dark gradients, redone).
 - Parallel builds work with prefixed files (yacht_*, zombie_*); render_pending.sh gets an additive case each. Subagents hand back mid-render: finish QC from the main session.
 - Flow thumbnail prompts (2026-11-17): the yacht style (glossy digital painting, ONE giant close-up face, simple background, 'no text', add text after) beat the zombie v1 (flat 2D thick outlines, small faces, text baked in). Use the yacht recipe by default for thumbnails.
+
+## Render glitch repair (2026-11-18, salary video)
+- Remotion renders with `--gl=angle` can emit lone corrupted frames (the picture tiled in a 3x3 grid, random, not reproducible: the same frame renders clean as a still). The salary video had 43 of them (35 in the first 53 s). Joe caught them at 0:23-0:24.
+- After every final render, run `.venv/bin/python scripts/long-form/fix_glitches.py videos/long-form/<slug> <final-name>` (scan ~5 min, drops bad frames and repeats the previous one, re-encodes to `<final-name>_fixed.mp4`; the original is untouched). Check the _fixed file, not the original, before upload.
+- Status: evidence from ONE video (hypothesis for the cause: GPU raster under load); check IKEA and lottery renders too.
